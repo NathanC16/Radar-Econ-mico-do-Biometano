@@ -1,4 +1,4 @@
-# Proveniência e qualidade dos dados — Fase 2
+# Proveniência e qualidade dos dados — dados abertos da ANP
 
 Acesso em **02/10/2026**.
 

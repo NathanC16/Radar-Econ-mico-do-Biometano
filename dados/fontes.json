@@ -36,7 +36,7 @@
   "ibge": {
     "nome": "IBGE — Pesquisa da Pecuária Municipal (PPM 2025), tabelas 3939 e 94 do SIDRA",
     "curto": "IBGE — rebanhos (PPM)",
-    "url": "https://sidra.ibge.gov.br/pesquisa/ppm/tabelas",
+    "url": "https://sidra.ibge.gov.br/tabela/3939",
     "arquivos": [
       "potencial_pecuaria_uf_ibge.csv"
     ]

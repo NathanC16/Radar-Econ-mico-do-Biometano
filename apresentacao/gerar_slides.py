@@ -242,8 +242,10 @@ tabela(s, [
     ["Utilização da capacidade (%)", "Usinas ociosas = demanda por O&M e otimização"],
     ["Contratos e transações anunciadas", "Prova de demanda para EVTE e investidores"],
     ["CBio: preço e intensidade de carbono", "Segunda receita por m³ na tese de viabilidade"],
+    ["Potencial da pecuária por estado (IBGE)", "Goiás frente ao país: onde estão os dejetos"],
+    ["Diesel × GNV por estado (ANP, R$/m³ eq.)", "Quanto o cliente economiza ao trocar de combustível"],
     ["Potencial de biogás em Goiás (fonte × município)", "Priorização da prospecção no estado-sede"],
-], top=1.7, larguras=[6.0, 6.0], size=15)
+], top=1.7, larguras=[6.0, 6.0], size=14)
 
 # ---------------------------------------------------------------- mercado
 s = novo("O mercado: produção em expansão acelerada",
@@ -314,7 +316,7 @@ body(s, [
 # ---------------------------------------------------------------- funcionamento
 s = novo("Funcionamento do painel", "7 abas · tema claro/escuro · filtros na barra lateral e em cada aba · dados para download")
 imagem(s, "painel_visao_geral.png")
-s = novo("Funcionamento: aba Oportunidades (Goiás em detalhe)",
+s = novo("Funcionamento: Goiás em detalhe",
          "filtros por fonte de resíduo e quantidade de municípios; hover com valores")
 imagem(s, "painel_goias.png")
 
@@ -323,16 +325,17 @@ s = novo("Escolhas de visualização")
 tabela(s, [
     ["Pergunta", "Gráfico", "Por quê"],
     ["Como evolui a produção?", "Linha + referência 2025", "Tendência temporal; eixo a partir de zero"],
-    ["Onde está a produção?", "Mapa coroplético", "Leitura territorial; sem dado ≠ valor baixo (cinza)"],
+    ["Onde está a produção?", "Mapa coroplético", "Leitura territorial; sem dado ≠ valor baixo (bege)"],
     ["Qual a composição?", "Rosca (3 fatias)", "Partes de um todo com poucas categorias"],
     ["Quem produz mais?", "Barras horizontais ordenadas", "Rótulos longos; variação % no rótulo"],
     ["Onde está o potencial em GO?", "Barras empilhadas", "Ranking + composição por fonte"],
+    ["Quanto vale o biometano?", "Linhas diesel × GNV", "Mesma base de comparação (R$/m³ eq.)"],
 ], top=1.7, larguras=[3.6, 3.6, 4.8], size=14)
 body(s, [
     ("Paleta da marca 4WaTT com significado fixo: verde = sucroenergético/série principal, roxo = resíduo "
      "urbano, dourado = pecuária/outros · números no padrão brasileiro · "
      "títulos que afirmam o achado · blocos \"Insight para a 4WaTT\" em cada aba", {"size": 15, "color": GRAY}),
-], top=4.6)
+], top=5.2)
 
 # ---------------------------------------------------------------- narrativa
 s = novo("Narrativa (data storytelling)", "contexto → tensão → leitura → ação")
@@ -352,7 +355,7 @@ body(s, [
     ("2. Oferecer O&M e otimização: o parque opera a 38,7% da capacidade autorizada", {}),
     ("3. Usar os KPIs em EVTEs e com investidores: crescimento + CBio = tese de viabilidade robusta", {}),
     ("4. Monitorar mensalmente o boletim IEPUC — o pipeline ANP é o termômetro da demanda por EPC/O&M", {}),
-    ("Evoluções: pipeline comercial interno, preços de substituição e atualização automática", {"size": 15, "color": GRAY}),
+    ("Evoluções: pipeline comercial interno, preços de GLP/gás industrial/energia e atualização automática", {"size": 15, "color": GRAY}),
 ], size=18, gap=10)
 
 # ---------------------------------------------------------------- extensão
@@ -378,8 +381,8 @@ run = p.add_run(); run.text = "Obrigado."
 run.font.size = Pt(44); run.font.bold = True; run.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
 p2 = tb.text_frame.add_paragraph()
 run2 = p2.add_run()
-run2.text = ("Painel: app/app.py · Relatório: relatorio/ · Dados: IEPUC-PUC-Rio (ago/2026) e "
-             "Governo de Goiás (2026)")
+run2.text = ("Código: github.com/NathanC16/Radar-Econ-mico-do-Biometano · Dados públicos: IEPUC-PUC-Rio, "
+             "ANP, IBGE, Governo de Goiás e site da 4WaTT")
 run2.font.size = Pt(15); run2.font.color.rgb = RGBColor(0xC9, 0xB8, 0xC6)
 
 # metadados do arquivo (o modelo padrão da biblioteca traz valores genéricos)

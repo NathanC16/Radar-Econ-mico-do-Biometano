@@ -54,6 +54,7 @@ MINUSCULAS = {"DE", "DA", "DO", "DOS", "DAS", "E"}
 
 def nome_proprio(txt: str) -> str:
     """'GNR FORTALEZA VALORIZAÇÃO DE BIOGÁS LTDA.' → 'GNR Fortaleza Valorização de Biogás Ltda.'"""
+    txt = txt.replace("GESTÃODE", "GESTÃO DE")   # erro de digitação no cadastro da ANP
     out = []
     for i, w in enumerate(txt.split()):
         if w in SIGLAS and w not in ("LTDA", "LTDA."):

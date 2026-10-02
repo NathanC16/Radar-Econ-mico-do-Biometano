@@ -67,7 +67,8 @@ consolide dados públicos de mercado do biometano e posicione os projetos públi
 nessa leitura**, servindo como insumo recorrente para decisões comerciais e técnicas.
 
 > Nota de transparência: nesta versão o projeto utiliza exclusivamente **dados públicos**
-> (boletim IEPUC/ANP/MME/B3 e site oficial da empresa), conforme permitido pela proposta
+> (boletim IEPUC com dados ANP/MME/B3, dados abertos e preços da ANP, IBGE, estudo do Governo
+> de Goiás e site oficial da empresa), conforme permitido pela proposta
 > ("a base poderá ser obtida a partir de fontes públicas, desde que os dados possuam relação
 > direta com o problema identificado junto à organização"). A evolução natural do painel —
 > incluir o pipeline comercial interno em planilhas — está descrita nas recomendações.
@@ -138,9 +139,10 @@ das fontes (boletim IEPUC e estudo do Governo de Goiás).
 
 **Validação cruzada com os dados abertos da ANP:** a série nacional reconstruída a partir dos
 dados abertos da ANP (soma das UFs) coincide com o boletim IEPUC nos 8 meses de 2026, com
-diferença de no máximo 0,4 Mm³/d — o boletim é construído sobre essa mesma base. Os CSVs da ANP
-rotulam como "m³" e "m³/d" colunas que na verdade estão em *mil m³/mês* e *mil m³/d*; as regras
-de leitura e a conferência estão em `dados/brutos/anp_abertos/PROVENIENCIA.md`. A comparação
+diferença de no máximo 0,4 Mm³/d — o boletim é construído sobre essa mesma base. No CSV de produção da ANP,
+a coluna "Produção (m³)" traz o volume do **mês** em m³: para chegar a mil m³/d, divide-se pelos dias
+reais do mês (29 em fevereiro de ano bissexto) e por 1.000, somando biometano e biometano comprimido.
+As regras de leitura e a conferência estão em `dados/brutos/anp_abertos/PROVENIENCIA.md`. A comparação
 entre edições do boletim (jul/26, Ed. 1 × ago/26, Ed. 2) mostrou revisões (jun/26: 530 → 532).
 **Para 2025, as fontes divergem:** os níveis implícitos no crescimento anual publicado pelo IEPUC
 ficam até 11% abaixo da série atual da ANP (ago/25: 344 × 386 Mm³/d). O painel usa a série real
@@ -188,7 +190,7 @@ estudo de Goiás usa m³/ano.
 | Produção por usina / líder de mercado | Estrutura competitiva | Contexto para posicionamento: em que ponto da cadeia (EPC, O&M) há espaço para um player regional crescer |
 | Contratos vigentes e transações anunciadas | Demanda comercial efetiva | Evidencia que o mercado está contratando/comprando — insumo direto para a narrativa de viabilidade (EVTE/investidores) |
 | CBio: emissões, usinas certificadas, preço médio | Valor do componente carbono | Segundo fluxo de receita por m³ vendido; argumento recorrente em business plans e na captação de financiamento |
-| Taxa de utilização da capacidade autorizada (%) | Produção efetiva ÷ capacidade autorizada (ANP) | Usinas operando bem abaixo da capacidade (38,7% em média) indicam demanda por O&M e otimização — serviço recorrente da 4WaTT |
+| Taxa de utilização da capacidade autorizada (%) | Produção efetiva ÷ capacidade autorizada (ANP) | Usinas operando bem abaixo da capacidade (38,7% no conjunto do parque em ago/26) indicam demanda por O&M e otimização — serviço recorrente da 4WaTT |
 | Potencial de biogás da pecuária por estado (IBGE) | Rebanhos × coeficientes por animal | Compara Goiás com o resto do país e mostra onde estão os dejetos que a 4WaTT trata |
 | Valor de 1 m³ de biometano frente ao diesel e ao GNV, por estado | Preço de revenda (ANP) em R$ por m³ equivalente | Base da narrativa de viabilidade: quanto o cliente economiza ao substituir o combustível atual |
 | Potencial teórico de biogás em Goiás (por fonte e município) | Estimativa do estudo estadual (m³/ano) | Localiza a oportunidade no estado-sede: quais substratos e municípios priorizar na prospecção |
@@ -202,7 +204,7 @@ ligado a uma decisão concreta da organização (seção 2), e não pela disponi
 |---|---|---|
 | KPIs de topo (cada aba) | Cartões de indicador com variação | Leitura em 5 segundos; seta e cor apenas para variações reais (intensidade de carbono com cor invertida, pois aumento é piora) |
 | Evolução da produção mensal (2026 × 2025) | Linha com marcadores e rótulos + linha de referência pontilhada | Tendência temporal é o KPI central; eixo a partir de zero para não exagerar o crescimento; comparação com o ano anterior opcional (filtro) |
-| Produção por estado | Mapa coroplético (GeoJSON das UFs), escala sequencial de um só matiz | Leitura territorial da concentração; estados sem dado em cinza claro, distintos de "valor baixo"; filtro alterna produção × nº de usinas |
+| Produção por estado | Mapa coroplético (GeoJSON das UFs), escala sequencial de um só matiz | Leitura territorial da concentração; estados sem dado em bege, distintos de "valor baixo"; filtro alterna produção, capacidade autorizada e nº de usinas |
 | Produção por matéria-prima | Rosca (3 categorias) com percentuais publicados | Composição que fecha 100% com poucas fatias — caso em que a rosca é adequada |
 | Utilização da capacidade | Barras horizontais com rótulo | Compara recortes (Brasil, plantas maduras, cada matéria-prima) numa mesma escala percentual |
 | Produção por usina | Barras horizontais ordenadas, rótulo "produção · variação %" | Rótulos longos favorecem barras horizontais; a variação vai no rótulo (texto colorido) para que a barra mantenha cor sólida e legível — a versão anterior, colorida só pela variação, deixava a usina líder quase invisível |
@@ -212,13 +214,16 @@ ligado a uma decisão concreta da organização (seção 2), e não pela disponi
 | Produção por região (2020–2026) | Área empilhada | Mostra a composição regional ao longo do tempo; filtro de regiões |
 | Capacidade × produção por região | Barras agrupadas | Evidencia capacidade ociosa e regiões sem nenhuma usina (valor zero explícito) |
 | Usinas autorizadas | Tabela com barra de progresso | Lista as 21 usinas com município e uso da capacidade; filtrável por região |
+| Potencial de biogás da pecuária por estado (IBGE) | Mapa coroplético + ranking dos 10 maiores em barras, com Goiás em destaque | O mapa mostra a distribuição no país e o ranking dá a posição exata; filtro por rebanho (total, suínos, aves, vacas ordenhadas) |
+| Diesel × GNV por estado (ANP) | Linhas por estado e combustível, em R$ por m³ de biometano equivalente | Coloca os dois combustíveis na mesma base de comparação; séries esparsas (como o GNV de Goiás) aparecem como pontos, sem linhas ligando meses distantes; escolha de até 4 estados |
 | Portfolio da 4WaTT | Mapa de pontos numerados + tabela | Marcadores numerados (projetos na mesma cidade agrupados) evitam rótulos sobrepostos; a tabela traz os atributos qualitativos |
 
 **Mecanismos de interação (filtros).** Barra lateral com período da série mensal, comparação
 com 2025, matérias-primas, inclusão dos agregados "Outros" e **fontes de dados** (cada aba
 indica de quais fontes depende; desmarcar uma fonte oculta os gráficos dela e a retira do
 pacote de download; novas fontes entram pelo cadastro `dados/fontes.json`); nas abas, métrica do mapa,
-ordenação e quantidade de usinas, fonte e quantidade de municípios de Goiás e estágio dos
+regiões, ano inicial da série histórica, ordenação e quantidade de usinas, rebanho do mapa do
+IBGE, estados da comparação de preços, fonte e quantidade de municípios de Goiás e estágio dos
 projetos da 4WaTT. Todos os gráficos têm *hover* com os valores e as bases podem ser baixadas
 em CSV na aba de Metodologia.
 
@@ -397,7 +402,7 @@ sem depender de dados proprietários na fase inicial. Recomenda-se:
   Acesso em: 2 out. 2026.
 - INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). *Pesquisa da Pecuária Municipal 2025*:
   tabelas 3939 (efetivo dos rebanhos) e 94 (vacas ordenhadas). Rio de Janeiro: IBGE, 2026.
-  Disponível em: https://sidra.ibge.gov.br/pesquisa/ppm/tabelas. Acesso em: 2 out. 2026.
+  Disponível em: https://sidra.ibge.gov.br/tabela/3939 e https://sidra.ibge.gov.br/tabela/94. Acesso em: 2 out. 2026.
 - AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Biometano — dados
   abertos* (produção por UF e capacidade por usina, jan/2020–ago/2026). Brasília, 2026.
   Disponível em: https://www.gov.br/anp/pt-br/assuntos/producao-e-fornecimento-de-biocombustiveis/biometano/biometano-dados-abertos.zip.
@@ -409,6 +414,10 @@ sem depender de dados proprietários na fase inicial. Recomenda-se:
 - TEIXEIRA, Cássio Adriano Nunes. *A hora do biometano no Brasil*. Rio de Janeiro: BNDES, 2024
   (Textos para Discussão, n. 159). Disponível em:
   https://web.bndes.gov.br/bib/jspui/bitstream/1408/24146/1/PRFol_216049_TD%20n.%20159_A%20hora%20do%20biometano%20no%20Brasi.pdf.
+  Acesso em: 2 out. 2026.
+- AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Anuário Estatístico
+  Brasileiro do Petróleo, Gás Natural e Biocombustíveis 2025*. Rio de Janeiro: ANP, 2025.
+  Disponível em: https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/anuario-estatistico/anuario-estatistico-brasileiro-do-petroleo-gas-natural-e-biocombustiveis-2025.
   Acesso em: 2 out. 2026.
 - AGÊNCIA BRASIL. Usina vai transformar em gás natural lixo produzido por oito municípios do Rio.
   Rio de Janeiro, ago. 2014. Disponível em:

@@ -10,7 +10,10 @@ Fontes:
 - Governo de Goiás (SGG) / CBIE Advisory, "Panorama do Biometano em Goiás"
   (2026), estudo técnico do Plano Estadual de Energia de Goiás 2030;
 - ANP — Dados Abertos de Biometano (produção por UF, jan/2020–ago/2026);
+- ANP — Levantamento de Preços de Combustíveis (diesel S10 e GNV por estado);
+- IBGE — Pesquisa da Pecuária Municipal (rebanhos por estado);
 - site oficial da 4WaTT (4watt.tech).
+O cadastro completo (links e arquivos de cada fonte) está em dados/fontes.json.
 
 Unidade do boletim: Mm³/d = MIL metros cúbicos por dia (notação ANP/MME;
 o próprio boletim cita o "consumidor industrial de 20 Mm³/d" = 20 mil m³/dia).
@@ -65,6 +68,7 @@ if ESCURO:
     SEM_DADO, BORDA = "#3A3140", "#1A1320"
     SEQ = [[0, "#0F5C50"], [0.5, VERDE], [1, ROXO]]   # mais claro = mais produção
     REGIAO_PORTF = "#1F4D45"
+    COR_SEM_DADO = "cinza-escuro"
 else:
     VERDE_TXT, VERDE_CLARO = "#057A64", "#9ED9CC"
     ROXO, ROXO_SUAVE = "#3A0940", "#6E2466"
@@ -75,6 +79,7 @@ else:
     SEM_DADO, BORDA = "#D9D1C4", "#FFFFFF"
     SEQ = [[0, "#BFE6DC"], [0.5, VERDE], [1, ROXO]]   # mais escuro = mais produção
     REGIAO_PORTF = "#BFE6DC"
+    COR_SEM_DADO = "bege"
 TEXTO_SOBRE_OURO = "#1E1822"
 COR_REGIAO = {"Sudeste": VERDE, "Sul": ROXO_SUAVE, "Nordeste": OURO,
               "Centro-Oeste": VERDE_CLARO, "Norte": CINZA}
@@ -213,9 +218,8 @@ with st.sidebar:
              "O download das bases (aba Metodologia) também segue este filtro.",
     )
     st.divider()
-    st.caption(CAP)
-    st.caption("Fonte: ANP — Dados Abertos de Biometano (série 2020–2026)")
-    st.caption(CAP_GO)
+    st.caption("Fontes: " + " · ".join(FONTES[c]["curto"] for c in fontes_sel) if fontes_sel
+               else "Nenhuma fonte selecionada.")
 
 i0, i1 = periodos.index(ini), periodos.index(fim)
 
@@ -236,8 +240,8 @@ def fontes_da_aba(*chaves: str) -> None:
 pm_f = pm.iloc[i0:i1 + 1]
 
 aba1, aba_reg, aba2, aba3, aba4, aba5, aba6 = st.tabs([
-    "📊 Visão Geral", "🗺️ Regiões & Usinas", "🏭 Produção", "💰 Mercado & Comercialização",
-    "📍 Oportunidades", "⚡ Portfolio 4WaTT", "📚 Metodologia & Fontes",
+    "📊 Visão Geral", "🗺️ Regiões & Usinas", "🏭 Produção", "💰 Mercado",
+    "📍 Oportunidades", "⚡ Portfolio 4WaTT", "📚 Metodologia",
 ])
 
 # ======================================================================= 1
@@ -264,7 +268,6 @@ with aba1:
                     br(d_ren["Preço médio do CBio em ago/2026 (R$/tCO2eq)"], 2),
                     f"{pct(d_ren['Variação do preço do CBio vs mês anterior (%)'])} vs mês anterior")
 
-        # período completo → média acumulada publicada pelo IEPUC; recorte → média simples
         # período completo → média acumulada publicada pelo IEPUC; recorte → média simples
         media_f = (pm_f["media_acumulada_2026_mm3d"].iloc[-1] if i0 == 0
                    else pm_f["producao_mm3d"].mean())
@@ -329,12 +332,16 @@ with aba1:
         mapa = mapa[mapa[col_z] > (0.05 if col_z == "prod" else 0)]
         todas = [f["id"] for f in GEOJSON_OBJ["features"]]
         sem_dado = [u for u in todas if u not in mapa.index]
+        nome_uf = {f["id"]: f["properties"]["name"] for f in GEOJSON_OBJ["features"]}
+        motivo = {u: (f"{int(cap_uf.loc[u, 'n'])} usina(s) autorizada(s), sem produção no mês"
+                      if u in cap_uf.index else "sem usina de biometano autorizada") for u in sem_dado}
         fig = go.Figure()
         fig.add_trace(go.Choropleth(
             locations=sem_dado, locationmode="geojson-id", geojson=GEOJSON_OBJ,
             z=[0] * len(sem_dado), colorscale=[[0, SEM_DADO], [1, SEM_DADO]], showscale=False,
             marker_line_color=BORDA, marker_line_width=1,
-            hovertemplate="%{location}: sem usina de biometano autorizada<extra></extra>",
+            customdata=[[nome_uf.get(u, u), motivo[u]] for u in sem_dado],
+            hovertemplate="<b>%{customdata[0]}</b><br>%{customdata[1]}<extra></extra>",
         ))
         tot_prod = float(prod_uf.sum())
         fig.add_trace(go.Choropleth(
@@ -356,22 +363,27 @@ with aba1:
                         projection_type="mercator")
         mostrar(fig)
         n_prod = int((prod_uf > 0.05).sum())
+        parados = sorted(set(cap_uf.index) - set(prod_uf[prod_uf > 0.05].index))
         st.caption(
             f"{n_prod} estados produziram biometano em {rotulo_periodo(per_mapa)} e {usinas['uf'].nunique()} "
-            "têm usina autorizada; os demais (em bege) não têm nenhuma. Detalhe por região e usina na "
-            "aba *Regiões & Usinas*. Fonte: ANP — Dados Abertos de Biometano."
+            "têm usina autorizada"
+            + (f" ({', '.join(parados)} têm usina, mas não produziram no mês)" if col_z == "prod" and parados
+               else "")
+            + f"; os demais estados em {COR_SEM_DADO} não têm usina. Detalhe por região e usina na aba "
+            "*Regiões & Usinas*. Fonte: ANP — Dados Abertos de Biometano."
         )
 
-    with st.container(border=True, key="insight_1"):
-        st.markdown(
-            """**🎯 Insight para a 4WaTT.** A produção nacional é extremamente concentrada:
+    if "iepuc" in fontes_sel:
+        with st.container(border=True, key="insight_1"):
+            st.markdown(
+                """**🎯 Insight para a 4WaTT.** A produção nacional é extremamente concentrada:
 em ago/26, SP (33,6%) + RJ (26,3%) ≈ **60%** do total, e os 5 maiores estados respondem por **~99%**.
 **Goiás, estado-sede da 4WaTT, não produz biometano** — mas tem ~122 plantas de biogás e potencial
 teórico estimado em 2,7 bi m³/ano (aba *📍 Oportunidades*). Se todos os pedidos em análise na ANP
 saírem do papel, a capacidade chega a 3.391 mil m³/d até dez/2028 — 2,5× a autorizada hoje. Os
 substratos fora de aterro (~20% da produção) e as regiões sem usinas são o espaço de crescimento
 natural para uma empresa com engenharia própria de EPC + O&M."""
-        )
+            )
 
 # ======================================================================= regiões
 with aba_reg:
@@ -440,12 +452,12 @@ with aba_reg:
                 "Região": us_f["regiao"],
                 "Capacidade": us_f["capacidade_autorizada_mm3d"],
                 "Uso": us_f["uso_capacidade_biogas_pct"],
-            }),
+            }).style.format({"Capacidade": lambda v: br(v, 1)}),   # vírgula decimal; ordena pelo número
             hide_index=True, width="stretch",
             column_config={
                 "Usina": st.column_config.TextColumn(width="large"),
                 "Capacidade": st.column_config.NumberColumn(
-                    format="%.1f", width="small", help=f"Capacidade autorizada de biometano ({UN})"),
+                    width="small", help=f"Capacidade autorizada de biometano ({UN})"),
                 "Uso": st.column_config.ProgressColumn(
                     format="%d%%", min_value=0, max_value=100, width="small",
                     help="Biogás processado ÷ capacidade de processamento de biogás (ago/26)"),
@@ -508,7 +520,7 @@ with aba2:
                                 line=dict(color=FUNDO, width=2)),
                     # percentual publicado no boletim (não o recalculado pelo plotly)
                     customdata=[br(v, 1) for v in mp_f["participacao_pct"]],
-                    texttemplate="%{label}<br>%{customdata}%", textposition="outside",
+                    texttemplate="%{label}<br>%{customdata}%", textposition="outside", automargin=True,
                     hovertemplate="%{label}: %{value:,.0f} " + UN + " (%{customdata}% do total)<extra></extra>",
                 ))
                 estilo(fig, 360)
@@ -644,7 +656,8 @@ with aba3:
             fig.update_layout(barmode="stack")
             fig.update_yaxes(title=UN, gridcolor=GRADE, tickformat=",.0f")
             mostrar(fig)
-            st.caption("Total de ago/26 (3.391 mil m³/d) = projeção do IEPUC para dez/2028. " + CAP)
+            st.caption("Total de ago/26 (3.391 mil m³/d) = capacidade estimada pelo IEPUC para dez/2028, caso "
+                       "todos os pedidos em tramitação entrem em operação no prazo. " + CAP)
 
         st.markdown("#### RenovaBio & CBios (linha de receita de carbono)")
         st.dataframe(pd.DataFrame({
@@ -744,7 +757,8 @@ fica em {outros}. São dejetos que a matriz de resíduos da 4WaTT atende.""")
             k[1].metric("1 m³ de biometano substitui (R\\$)", br(d.preco_m3_biometano_eq, 2),
                         help="Diesel evitado: 1 m³ de biometano ≈ 0,87 l de diesel (CIBiogás).")
         k[2].metric("GNV médio nos estados com GNV (R\\$/m³)", br(gnv_ult["preco_revenda"].mean(), 2))
-        k[2].caption(f"{gnv_ult.uf.nunique()} estados têm GNV pesquisado em {rotulo_periodo(ult_p)}; Goiás não")
+        k[2].caption(f"{gnv_ult.uf.nunique()} estados têm GNV pesquisado em {rotulo_periodo(ult_p)}"
+                     + ("; Goiás não" if "GO" not in set(gnv_ult.uf) else ""))
         fig = go.Figure()
         traco = ["solid", "dash", "dot", "dashdot"]
         meses_p = sorted(precos["periodo"].unique())
@@ -800,7 +814,7 @@ argumento de viabilidade é a troca de diesel, com o biometano levado por caminh
         k[0].metric("Biogás (bi m³/ano)", br(pot_total / 1e9, 2),
                     help="Potencial teórico estimado pelo estudo; não é produção viável.")
         k[0].caption("potencial teórico; ≈ 1,7 bi m³/ano de biometano (estimativa do estudo)")
-        k[1].metric(f"Biometano ({UN})", br(1.7e9 / 365 / 1000))
+        k[1].metric(f"Potencial de biometano ({UN})", br(1.7e9 / 365 / 1000))
         k[1].caption(f"≈ {br(1.7e9 / 365 / 1000 / total_nac, 1)}× a produção nacional de {ult['rotulo']}")
         k[2].metric("Plantas de biogás em Goiás", "~122")
         k[2].caption("112 agropecuárias · 7 industriais · 3 RSU/esgoto (CIBiogás 2025, citado no estudo)")

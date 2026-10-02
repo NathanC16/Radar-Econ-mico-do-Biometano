@@ -24,7 +24,7 @@ Outros comandos (a partir da raiz do projeto):
 .venv/bin/python dados/preparar_anp.py            # (re)gera as bases da ANP a partir dos CSVs brutos
 .venv/bin/python dados/preparar_precos_anp.py     # preços de combustíveis por estado (ANP)
 .venv/bin/python dados/preparar_ibge.py 2025      # rebanhos por estado (IBGE) e potencial da pecuária
-.venv/bin/python notebook/validar_dados.py        # 83 verificações dos dados contra as fontes
+.venv/bin/python notebook/validar_dados.py        # 83 verificações dos dados contra as fontes (7 exigem o PDF do estudo de Goiás, que fica fora do Git)
 .venv/bin/python apresentacao/gerar_slides.py     # regera apresentacao/apresentacao_oral.pptx
 .venv/bin/python -m ipykernel install --user --name pi5a   # kernel para abrir o notebook de EDA
 ```
@@ -66,7 +66,7 @@ Outros comandos (a partir da raiz do projeto):
 - **ANP — Levantamento de Preços de Combustíveis** (série mensal por estado; diesel S10 e GNV):
   https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos
 - **IBGE — Pesquisa da Pecuária Municipal** (rebanhos por estado, via API SIDRA, tabelas 3939 e 94):
-  https://sidra.ibge.gov.br/pesquisa/ppm/tabelas
+  https://sidra.ibge.gov.br/tabela/3939 e https://sidra.ibge.gov.br/tabela/94
 - **Governo de Goiás (SGG) / CBIE Advisory**, *Panorama do Biometano em Goiás* (2026), estudo do
   Plano Estadual de Energia de Goiás 2030:
   https://goias.gov.br/governo/wp-content/uploads/sites/11/2026/02/Panorama-do-Biometano-em-Goias.pdf
