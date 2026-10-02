@@ -365,12 +365,12 @@ with aba1:
     with st.container(border=True, key="insight_1"):
         st.markdown(
             """**🎯 Insight para a 4WaTT.** A produção nacional é extremamente concentrada:
-SP (33,6%) + RJ (26,3%) ≈ **60%** do total, e o top 5 de estados responde por **~99%**.
-**Goiás, estado-sede da 4WaTT, não figura entre os produtores de biometano** — mas tem ~122
-plantas de biogás e potencial teórico estimado em 2,7 bi m³/ano (aba *Goiás & Oportunidades*).
-Em um mercado com capacidade projetada de 3.391 mil m³/d até dez/2028, os substratos fora de
-aterro (~20% da produção hoje) e as novas regiões são o espaço de crescimento natural para uma
-empresa com engenharia própria de EPC + O&M."""
+em ago/26, SP (33,6%) + RJ (26,3%) ≈ **60%** do total, e os 5 maiores estados respondem por **~99%**.
+**Goiás, estado-sede da 4WaTT, não produz biometano** — mas tem ~122 plantas de biogás e potencial
+teórico estimado em 2,7 bi m³/ano (aba *📍 Oportunidades*). Se todos os pedidos em análise na ANP
+saírem do papel, a capacidade chega a 3.391 mil m³/d até dez/2028 — 2,5× a autorizada hoje. Os
+substratos fora de aterro (~20% da produção) e as regiões sem usinas são o espaço de crescimento
+natural para uma empresa com engenharia própria de EPC + O&M."""
         )
 
 # ======================================================================= regiões
@@ -536,7 +536,7 @@ with aba2:
             estilo(fig, 360)
             fig.update_xaxes(range=[0, 72], ticksuffix="%", gridcolor=GRADE)
             mostrar(fig)
-            st.caption("Taxa média de utilização em ago/26. A planta média opera a **38,7%** da "
+            st.caption("Taxa de utilização em ago/26. O parque de usinas, somado, opera a **38,7%** da "
                        "capacidade autorizada — demanda latente por O&M e otimização. " + CAP)
 
         st.markdown(f"#### Produção por usina ({ult['rotulo']})")
@@ -576,10 +576,10 @@ with aba2:
         with st.container(border=True, key="insight_2"):
             st.markdown(
                 """**🎯 Insight para a 4WaTT.** ~80% da produção nacional vem de **aterros
-sanitários**; o setor sucroenergético responde por ~19%. A matriz de resíduos que a 4WaTT
-atende (suínos, bovinos, aves, frigoríficos, usinas de etanol) está nos ~20% fora de aterro — e
-a parte não sucroenergética ("Outros resíduos") soma só ~1% e oscila muito mês a mês (-91% em
-ago/26). A baixa utilização média da capacidade (**38,7%**; sucroenergético **27,2%**) reforça
+sanitários**; o setor sucroenergético responde por ~19%. Quase toda a matriz de resíduos
+que a 4WaTT atende (suínos, bovinos, aves, frigoríficos, usinas de etanol) está nos ~20% fora de
+aterro — e a parte agropecuária e industrial ("Outros resíduos") soma só ~1% e oscila muito mês a
+mês (-91% em ago/26). A baixa utilização da capacidade do parque (**38,7%**; sucroenergético **27,2%**) reforça
 que o gargalo não é só construir usinas, mas **operá-las bem** — o espaço do O&M."""
             )
 
@@ -657,11 +657,12 @@ with aba3:
             st.markdown(
                 """**Negociações em destaque no mês (boletim ago/26):** Unilever ampliou parceria com a
 comercializadora Edge — biometano do aterro de Paulínia/SP abastecerá fábrica em Aguaí/SP
-(1.125 m³/dia); Regenera Rio (Aegea) inaugurou frota de 60 carretas movidas a GNV no aterro
-de Seropédica/RJ. **🎯 Insight para a 4WaTT:** o setor industrial concentra 30 das 55 transações
+(1.125 m³/dia); Regenera Rio (Aegea) inaugurou frota de 60 carretas movidas a GNV, abastecidas
+com biometano da Gás Verde no aterro de Seropédica/RJ. **🎯 Insight para a 4WaTT:** o setor industrial concentra 30 das 55 transações
 anunciadas — frigoríficos, curtumes e indústrias de alimentos são simultaneamente compradores
 potenciais e geradores de substrato, perfil exato do portfolio EPC/O&M da 4WaTT. O CBio
-(R\\$ 24,53 por crédito = 1 tCO₂eq evitada) agrega uma segunda receita por m³ vendido."""
+(R\\$ 24,53 em ago/26; 1 crédito = 1 tCO₂eq evitada) agrega uma segunda receita para a usina
+certificada no RenovaBio."""
             )
 
 # ======================================================================= 4
@@ -718,13 +719,14 @@ with aba4:
                   for nome, c in (("vacas ordenhadas", "biogas_vacas_m3_ano"),
                                   ("suínos", "biogas_suinos_m3_ano"), ("aves", "biogas_aves_m3_ano"))}
         lideres = ", ".join(pec["uf"].head(3))
+        outros = " e ".join(f"{p}º em {n}" for n, p in sorted(
+            ((n, p) for n, p in pos_go.items() if n != "vacas ordenhadas"), key=lambda x: x[1]))
         with st.container(border=True, key="insight_pec"):
             st.markdown(
                 f"""**🎯 Insight para a 4WaTT.** Em potencial de biogás da pecuária ({rebanho.lower()}),
 os líderes são {lideres}; **Goiás é o {go_pos}º do Brasil** e não tem nenhuma usina de biometano
-autorizada. O destaque goiano são as **vacas ordenhadas ({pos_go['vacas ordenhadas']}º do país)**,
-seguidas de aves ({pos_go['aves']}º) e suínos ({pos_go['suínos']}º) — dejetos que a matriz de
-resíduos da 4WaTT atende.""")
+autorizada. O destaque goiano são as **vacas ordenhadas ({pos_go['vacas ordenhadas']}º do país)**; o estado
+fica em {outros}. São dejetos que a matriz de resíduos da 4WaTT atende.""")
 
     # ---------------------------------------------------------- preço dos concorrentes (ANP)
     st.markdown("#### Quanto vale 1 m³ de biometano: diesel × GNV")
@@ -769,14 +771,20 @@ resíduos da 4WaTT atende.""")
         st.caption("Diesel convertido para R\\$ por m³ de biometano equivalente (× 0,87 l/m³); GNV já em R\\$/m³. "
                    "Estados sem linha de GNV não têm o combustível na pesquisa da ANP. Preço médio de "
                    "revenda. Fonte: ANP — Levantamento de Preços de Combustíveis.")
-        with st.container(border=True, key="insight_preco"):
-            st.markdown(
-                """**🎯 Insight para a 4WaTT.** Goiás **praticamente não tem GNV**: na pesquisa de preços da
-ANP foram só 4 registros esporádicos, de um único posto, desde 2020 — e nenhum no último mês. Não há
-mercado de gás veicular para o biometano disputar. Lá, ele concorre com o **diesel**: cada m³ substitui
-cerca de 0,87 l de diesel — mais do que o preço do GNV em qualquer estado que tem o combustível. Para frotas, agroindústria
-e transportadoras goianas, o argumento de viabilidade é a troca de diesel (com biometano levado por
-caminhão, o GNC), não a injeção em gasoduto.""")
+        gnv_go = precos[(precos.uf == "GO") & (precos.produto == "GNV")]
+        if len(diesel_go) and len(gnv_ult) and "GO" not in set(gnv_ult.uf):
+            g_max = gnv_ult.loc[gnv_ult["preco_revenda"].idxmax()]
+            comp = ("acima" if d.preco_m3_biometano_eq > g_max.preco_revenda
+                    else "abaixo")
+            with st.container(border=True, key="insight_preco"):
+                st.markdown(
+                    f"""**🎯 Insight para a 4WaTT.** Goiás **praticamente não tem GNV**: desde 2020, a pesquisa
+de preços da ANP registrou o combustível no estado só {len(gnv_go)} vezes, em meses esparsos — e
+nenhuma em {rotulo_periodo(ult_p)}. Não há mercado de gás veicular para o biometano disputar. Lá, ele
+concorre com o **diesel**: cada m³ substitui cerca de 0,87 l, o que vale **R\\$ {br(d.preco_m3_biometano_eq, 2)}**
+ao preço goiano de {rotulo_periodo(ult_p)} — {comp} do GNV mais caro do país no mês
+({g_max.uf}, R\\$ {br(g_max.preco_revenda, 2)}/m³). Para frotas, agroindústria e transportadoras goianas, o
+argumento de viabilidade é a troca de diesel, com o biometano levado por caminhão (GNC).""")
 
     # ---------------------------------------------------------- Goiás (estudo estadual)
     st.markdown("#### Goiás em detalhe (estudo estadual)")
@@ -850,10 +858,11 @@ caminhão, o GNC), não a injeção em gasoduto.""")
                 """**🎯 Insight para a 4WaTT.** (1) **Goiânia — sede da empresa e local do CEASA — é o
 município com maior potencial de biogás de RSU do estado** (124 milhões m³/ano, 34% do RSU
 goiano): a operação do CEASA é vitrine para replicar o modelo em resíduos urbanos.
-(2) O potencial **pecuário** (402 milhões m³/ano) é **disperso** — os 30 maiores municípios somam
+(2) O potencial **pecuário** (402 milhões m³/ano no estudo, com rebanhos de 2023) é **disperso** — os 30 maiores municípios somam
 só 32% —, o que favorece plantas descentralizadas de médio porte, exatamente o formato EPC + O&M.
 (3) O **sucroenergético** (vinhaça, torta de filtro) concentra 72% do potencial: parcerias com
-usinas de etanol do sul goiano (Goiatuba, Edéia, Mineiros, Itumbiara) são a frente de maior escala."""
+usinas de etanol do sul e sudoeste goianos (Goiatuba, Edéia, Mineiros, Caçu — os 4 maiores
+potenciais) são a frente de maior escala."""
             )
 
 # ======================================================================= 5
@@ -924,10 +933,10 @@ with aba5:
             st.markdown(
                 """**🎯 Leitura estratégica.** O portfolio cobre as três frentes do funil que o mercado
 nacional está atravessando: **(1)** operação — O&M com indicadores em tempo real no CEASA Goiás;
-**(2)** construção — UTB Franca (curtume→biometano) em obra avançada com licença emitida;
-**(3)** escala — Frigorífico Franca operando 2.800 Nm³/dia de biogás. Enquanto o mercado nacional
-se concentra em aterros (SP/RJ), a 4WaTT constrói reputação em substratos industriais e agrícolas —
-segmento minoritário no mercado (~20% da produção fora de aterros) e de maior aderência ao modelo
+**(2)** construção — UTB Franca (curtume→biometano) com obras em estágio avançado e licença ambiental emitida;
+**(3)** projeto industrial — Frigorífico Franca, em operação com 2.800 Nm³/dia de biogás. Enquanto o
+mercado nacional se concentra em aterros (SP/RJ), a 4WaTT constrói reputação em resíduos orgânicos,
+industriais e agroindustriais — segmento minoritário no mercado (~20% da produção fora de aterros) e de maior aderência ao modelo
 EPC + O&M + receita recorrente."""
             )
 

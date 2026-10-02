@@ -27,7 +27,7 @@ efluentes de frigoríficos e vinhaça/torta de filtro de usinas sucroenergética
 públicos divulgados pela empresa incluem o O&M da usina do CEASA Goiás (Goiânia/GO), o
 projeto executivo de biodigestão do Frigorífico Franca (Franca/SP, 2.800 Nm³/dia de biogás,
 em operação), a UTB Franca —
-biometano a partir de resíduo de curtume, em obra avançada com licença ambiental emitida —
+biometano a partir de resíduo de curtume, com obras em estágio avançado e licença ambiental emitida —
 e a Organo Buritis (Palmeiras de Goiás/GO).
 
 A atuação no estágio curricular na 4WaTT constituiu o vínculo formal que viabilizou este
@@ -267,16 +267,17 @@ em cor sólida.
    (série dos dados abertos da ANP). Em agosto/26 isolado, a alta foi de +37% sobre ago/25 pela
    ANP; o IEPUC publica +53,7%, calculado sobre níveis de 2025 que divergem da série atual da
    ANP (seção 5). Desde jan/2020 (70 Mm³/d) a produção mensal cresceu cerca de 7,6 vezes. Pico de 561 Mm³/d em jul/26 e correção de -5,6% em ago/26 — crescimento
-   forte com volatilidade mensal típica de setor em escala.
+   forte, mas com oscilações mensais relevantes.
 2. **Pipeline de capacidade:** 21 usinas autorizadas (1.368 Mm³/d) + 49 pedidos em
-   tramitação (2.023 Mm³/d). A IEPUC projeta 3.391 Mm³/d até dez/2028 — ou seja, o setor
-   pode **mais que dobrar** a oferta nos próximos dois anos, com demanda equivalente por
+   tramitação (2.023 Mm³/d). Se todos os pedidos entrarem em operação no cronograma previsto,
+   o IEPUC estima 3.391 Mm³/d até dez/2028 — ou seja, a capacidade instalada
+   pode **mais que dobrar** (2,5×) em pouco mais de dois anos, com demanda equivalente por
    engenharia de projeto, construção e operação.
 3. **Concentração geográfica:** SP (33,6%) + RJ (26,3%) ≈ 60% da produção; top 5 UFs ≈ 99%
-   (só o agregado "Outros estados" fica fora). Goiás, estado-sede da 4WaTT, não integra o
-   grupo de líderes — o boletim não detalha as UFs do agregado "Outros" (5 usinas, 5 Mm³/d),
-   mas a produção de biometano no estado é, no máximo, marginal, o que indica espaço de
-   captação ainda pouco ocupado.
+   (só o agregado "Outros estados" fica fora). Goiás, estado-sede da 4WaTT, **não produz
+   biometano**: o boletim não detalha as UFs do agregado "Outros" (5 usinas, 5 Mm³/d), mas os
+   dados abertos da ANP mostram que ele corresponde a Santa Catarina (item 7) — espaço de
+   captação ainda desocupado.
 4. **Concentração de substrato:** aterros sanitários = ~80% da produção; resíduos
    sucroenergéticos ~19%. Substratos industriais e agrícolas diversificados (curtumes,
    frigoríficos, dejetos de confinamento — o core do portfolio 4WaTT) estão no agregado
@@ -288,8 +289,8 @@ em cor sólida.
    jul/26); 55 transações anunciadas mapeadas pelo IEPUC, com o setor industrial concentrando
    ~55% — e GNC como modal dominante (39 de 55). O CBio adiciona receita de carbono:
    preço médio de R$ 24,53/tCO₂eq em ago/26, com 10 usinas certificadas no RenovaBio.
-6. **Utilização da capacidade:** a planta média operou a **38,7%** da capacidade autorizada em
-   ago/26 (51,5% entre as plantas com mais de um ano; aterros 47,4%; sucroenergético 27,2%,
+6. **Utilização da capacidade:** o parque de usinas como um todo operou a **38,7%** da capacidade
+   autorizada em ago/26 (51,5% entre as plantas com mais de um ano; aterros 47,4%; sucroenergético 27,2%,
    pela sazonalidade da safra). Construir não basta: operar bem é um gargalo — e um mercado
    para O&M.
 7. **Cobertura regional (dados abertos da ANP):** só 9 estados têm usina de biometano
@@ -303,16 +304,16 @@ em cor sólida.
    que 1% —, **Goiás é o 5º estado em potencial de biogás da pecuária e o 2º em vacas ordenhadas**,
    atrás de PR, SC, MG e RS. Nos preços, **Goiás praticamente não tem GNV** — só 4 registros
    esporádicos de um único posto desde 2020 e nenhum no último mês (como outros 9 estados): lá o biometano substitui o diesel, e cada m³ vale cerca de R$ 6,12 em diesel evitado
-   (set/26) — mais do que o preço do GNV em qualquer estado que tem o combustível.
+   (set/26) — mais do que o GNV mais caro do país no mês (Ceará, R$ 5,55/m³).
 9. **Goiás — potencial sem produção:** o estado não aparece entre os produtores de biometano
    do boletim, mas tem ~122 plantas de biogás (CIBiogás, citado no estudo estadual) e potencial
    teórico estimado em **2,7 bilhões de m³/ano de biogás** (≈ 1,7 bi m³/ano de biometano). O
-   sucroenergético responde por 72% desse potencial; a pecuária (402 milhões m³/ano) é dispersa
-   pelo território; e **Goiânia é o município com maior potencial de RSU** (124 milhões m³/ano,
+   sucroenergético responde por 72% desse potencial; a pecuária (402 milhões m³/ano no estudo, com
+   rebanhos de 2023; 370 milhões com os rebanhos do IBGE de 2025) é dispersa pelo território; e **Goiânia é o município com maior potencial de RSU** (124 milhões m³/ano,
    34% do estado) — justamente onde a 4WaTT já opera o CEASA.
 10. **Posicionamento da 4WaTT:** o portfolio público cobre os três estágios do ciclo
-   (operação — CEASA/Organo; construção — UTB Franca; escala operacional — Frigorífico
-   Franca), com substratos concentrados exatamente no segmento sub-representado do mercado.
+   (operação — CEASA/Organo; construção — UTB Franca; projeto industrial em operação —
+   Frigorífico Franca), com substratos concentrados exatamente no segmento sub-representado do mercado.
 
 ## 9. Narrativa construída (Data Storytelling)
 
@@ -322,7 +323,7 @@ O painel segue a estrutura **contexto → tensão → leitura → ação**:
    produção, capacidade e contratos mostram um mercado em expansão acelerada;
 2. **Tensão** (abas Produção/Mercado): apesar do crescimento, o mercado é *concentrado* —
    5 estados dominam, aterros dominam o mix, e as usinas operam bem abaixo da capacidade;
-3. **Leitura** (abas Goiás & Oportunidades e Portfolio 4WaTT): o estado-sede tem grande
+3. **Leitura** (abas Oportunidades e Portfolio 4WaTT): o estado-sede tem grande
    potencial e quase nenhuma produção; cruzando isso com o portfolio, o espaço de crescimento
    fica evidente — **Goiás e regiões fora do top 5 × substratos agrícolas, pecuários e urbanos**,
    perfil exato da capacidade EPC+O&M da 4WaTT;
@@ -336,7 +337,7 @@ o padrão de comunicação esperado pela organização para decisores internos e
 ## 10. Principais resultados obtidos
 
 - Dashboard interativo com 7 abas, filtros (inclusive por fonte de dados) e tema claro/escuro (Streamlit + Plotly + Pandas, 100% open source),
-  rodável com um único comando (`streamlit run app/app.py`);
+  rodável com um único comando (`streamlit run streamlit_app.py`) e publicável no Streamlit Community Cloud;
 - 16 bases estruturadas em CSV com fonte documentada e cópia das fontes brutas; notebook de
   EDA reproduzível; validação automatizada com 83 verificações, incluindo validação cruzada
   com os dados abertos da ANP;
@@ -347,7 +348,7 @@ o padrão de comunicação esperado pela organização para decisores internos e
 
 ![Aba Visão Geral do painel, com filtros na barra lateral.](../apresentacao/img/painel_visao_geral.png){width=100%}
 
-![Aba Goiás & Oportunidades: potencial de biogás por fonte e por município, com filtros.](../apresentacao/img/painel_goias.png){width=100%}
+![Aba Oportunidades — Goiás em detalhe: potencial de biogás por fonte e por município, com filtros.](../apresentacao/img/painel_goias.png){width=100%}
 
 ## 11. Contribuições da solução para a organização parceira
 
@@ -369,7 +370,7 @@ sem depender de dados proprietários na fase inicial. Recomenda-se:
 1. **Evoluir o painel** para incluir o pipeline comercial interno da 4WaTT (planilhas de
    oportunidades por substrato/estado/estágio), transformando-o em ferramenta ativa de
    priorização de prospecção — começando pelos municípios goianos de maior potencial
-   (Goiânia em RSU; Goiatuba, Edéia, Mineiros e Itumbiara no sucroenergético; Rio Verde e Jataí
+   (Goiânia em RSU; Goiatuba, Edéia, Mineiros e Caçu no sucroenergético; Rio Verde e Jataí
    na pecuária);
 2. **Automatizar a atualização**: script que baixe os novos boletins IEPUC e extraia as
    tabelas automaticamente, atualizando o painel sem transcrição manual;

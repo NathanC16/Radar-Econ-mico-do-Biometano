@@ -281,9 +281,9 @@ card(s, 10.0, 2.2, 2.7, 1.6, "Goiânia — RSU (mi m³/ano)", "124", "34% do RSU
 body(s, [
     ("•  Goiânia (sede e CEASA) é o maior potencial de RSU do estado → vitrine para replicar o modelo", {}),
     ("•  Pecuária dispersa → plantas descentralizadas de médio porte: formato EPC + O&M", {}),
-    ("•  Sucroenergético (Goiatuba, Edéia, Mineiros, Itumbiara) → frente de maior escala, via parcerias", {}),
+    ("•  Sucroenergético (Goiatuba, Edéia, Mineiros, Caçu) → frente de maior escala, via parcerias", {}),
     ("•  Brasil (IBGE): GO é o 5º estado em potencial pecuário e o 2º em vacas ordenhadas", {}),
-    ("•  Sem mercado de GNV em GO: 1 m³ de biometano substitui ≈ R$ 6,12 em diesel — acima do GNV de qualquer estado", {}),
+    ("•  Sem mercado de GNV em GO: 1 m³ de biometano substitui ≈ R$ 6,12 em diesel — acima do GNV de qualquer estado (set/26)", {}),
 ], top=4.2, size=17)
 
 # ---------------------------------------------------------------- comercialização
@@ -294,7 +294,7 @@ card(s, 6.9, 2.3, 2.9, 1.6, "Preço médio CBio ago/26 (R$)", "24,53", "1 CBio =
 card(s, 10.0, 2.3, 2.7, 1.6, "Usinas certificadas RenovaBio", "10", "19,5 mil CBios emitidos em ago/26")
 body(s, [
     ("GNC (caminhão) viabiliza usinas longe de gasodutos — como no interior de Goiás. "
-     "Argumento de EVTE: cada m³ vendido carrega dois fluxos — energia + carbono.",
+     "Argumento de EVTE: cada m³ vendido por usina certificada carrega dois fluxos — energia + carbono.",
      {"color": TEAL, "bold": True}),
 ], top=4.3)
 
@@ -303,18 +303,18 @@ s = novo("O portfolio da 4WaTT no mapa")
 body(s, [
     ("•  CEASA Goiás (Goiânia/GO): O&M de 600 t/mês de resíduos; R$ 1,6 mi investidos em novos projetos", {}),
     ("•  Frigorífico Franca (SP): projeto executivo de biodigestão — 2.800 Nm³/dia de biogás, em operação", {}),
-    ("•  UTB Franca (SP): biometano a partir de resíduo de curtume — licença emitida, obra avançada", {}),
+    ("•  UTB Franca (SP): biometano a partir de resíduo de curtume — obras em estágio avançado, licença ambiental emitida", {}),
     ("•  Organo Buritis (Palmeiras de Goiás/GO): resíduo orgânico em biofertilizante e energia", {}),
 ], size=18)
 body(s, [
-    ("Cobre os três estágios do ciclo (operação → construção → escala) e o mix de substratos "
+    ("Cobre os três estágios do ciclo (operação → construção → projeto industrial em operação) e o mix de substratos "
      "minoritário no mercado nacional (~20% da produção fora de aterros).", {"color": TEAL, "bold": True}),
 ], top=4.9)
 
 # ---------------------------------------------------------------- funcionamento
 s = novo("Funcionamento do painel", "7 abas · tema claro/escuro · filtros na barra lateral e em cada aba · dados para download")
 imagem(s, "painel_visao_geral.png")
-s = novo("Funcionamento: aba Goiás & Oportunidades",
+s = novo("Funcionamento: aba Oportunidades (Goiás em detalhe)",
          "filtros por fonte de resíduo e quantidade de municípios; hover com valores")
 imagem(s, "painel_goias.png")
 
@@ -348,8 +348,8 @@ body(s, [
 s = novo("Insights e recomendações", "o que o painel diz para a 4WaTT fazer", cor=AMBER)
 body(s, [
     ("1. Priorizar Goiás: RSU em Goiânia (vitrine CEASA), pecuária dispersa (Rio Verde, Jataí) e "
-     "parcerias sucroenergéticas no sul goiano", {"bold": True}),
-    ("2. Oferecer O&M e otimização: a usina média opera a 38,7% da capacidade autorizada", {}),
+     "parcerias sucroenergéticas no sul e sudoeste goianos", {"bold": True}),
+    ("2. Oferecer O&M e otimização: o parque opera a 38,7% da capacidade autorizada", {}),
     ("3. Usar os KPIs em EVTEs e com investidores: crescimento + CBio = tese de viabilidade robusta", {}),
     ("4. Monitorar mensalmente o boletim IEPUC — o pipeline ANP é o termômetro da demanda por EPC/O&M", {}),
     ("Evoluções: pipeline comercial interno, preços de substituição e atualização automática", {"size": 15, "color": GRAY}),
