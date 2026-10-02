@@ -1,0 +1,61 @@
+{
+  "_como_usar": "Cadastro das fontes de dados do painel. Para incluir uma fonte nova: (1) adicione uma entrada aqui com nome, link e os CSVs de dados/limpos que ela gera; (2) no app, envolva os gráficos dela em `if fonte_ativa(\"chave\"):`. O filtro 'Fontes de dados' da barra lateral e o download das bases passam a considerá-la automaticamente. notebook/validar_dados.py confere que todo CSV de dados/limpos está cadastrado aqui.",
+  "iepuc": {
+    "nome": "IEPUC/PUC-Rio — Boletim de Biometano (dados ANP, MME e B3)",
+    "curto": "Boletim IEPUC",
+    "url": "https://www.iepuc.puc-rio.br/arquivos/boletim-biometano/08_Boletim_Biometano_IEPUC_ago_2026.pdf",
+    "arquivos": [
+      "producao_mensal_2026.csv",
+      "producao_por_estado_2026_08.csv",
+      "producao_por_materia_prima_2026_08.csv",
+      "producao_por_usina_2026_08.csv",
+      "utilizacao_capacidade_2026_08.csv",
+      "capacidade_anp.csv",
+      "comercializacao.csv",
+      "renovabio.csv"
+    ]
+  },
+  "anp": {
+    "nome": "ANP — Dados Abertos de Biometano (produção por UF e capacidade por usina)",
+    "curto": "Dados abertos ANP",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/producao-e-fornecimento-de-biocombustiveis/biometano/biometano-dados-abertos.zip",
+    "arquivos": [
+      "producao_por_uf_anp_mensal.csv",
+      "producao_nacional_anp_historico.csv",
+      "usinas_anp_2026_08.csv"
+    ]
+  },
+  "anp_precos": {
+    "nome": "ANP — Levantamento de Preços de Combustíveis (série mensal por estado)",
+    "curto": "ANP — preços de combustíveis",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+    "arquivos": [
+      "precos_combustiveis_uf_mensal.csv"
+    ]
+  },
+  "ibge": {
+    "nome": "IBGE — Pesquisa da Pecuária Municipal (PPM 2025), tabelas 3939 e 94 do SIDRA",
+    "curto": "IBGE — rebanhos (PPM)",
+    "url": "https://sidra.ibge.gov.br/pesquisa/ppm/tabelas",
+    "arquivos": [
+      "potencial_pecuaria_uf_ibge.csv"
+    ]
+  },
+  "goias": {
+    "nome": "Governo de Goiás (SGG) / CBIE Advisory — Panorama do Biometano em Goiás (2026)",
+    "curto": "Panorama de Goiás",
+    "url": "https://goias.gov.br/governo/wp-content/uploads/sites/11/2026/02/Panorama-do-Biometano-em-Goias.pdf",
+    "arquivos": [
+      "potencial_biogas_goias.csv",
+      "potencial_biogas_goias_municipios.csv"
+    ]
+  },
+  "4watt": {
+    "nome": "4WaTT Bio Engenharia — site oficial (cases públicos)",
+    "curto": "Site da 4WaTT",
+    "url": "https://www.4watt.tech/",
+    "arquivos": [
+      "cases_4watt.csv"
+    ]
+  }
+}

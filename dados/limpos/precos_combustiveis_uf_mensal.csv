@@ -1,0 +1,3557 @@
+periodo,uf,regiao,produto,unidade,preco_revenda,postos_pesquisados,preco_m3_biometano_eq
+2020-01,AC,Norte,Diesel S10,R$/l,4.609,170,4.01
+2020-01,AL,Nordeste,Diesel S10,R$/l,3.968,217,3.452
+2020-01,AL,Nordeste,GNV,R$/m3,3.592,30,3.592
+2020-01,AM,Norte,Diesel S10,R$/l,3.927,201,3.416
+2020-01,AM,Norte,GNV,R$/m3,3.24,4,3.24
+2020-01,AP,Norte,Diesel S10,R$/l,4.634,53,4.032
+2020-01,BA,Nordeste,Diesel S10,R$/l,3.854,1269,3.353
+2020-01,BA,Nordeste,GNV,R$/m3,3.136,83,3.136
+2020-01,CE,Nordeste,Diesel S10,R$/l,3.919,935,3.41
+2020-01,CE,Nordeste,GNV,R$/m3,3.672,90,3.672
+2020-01,DF,Centro-Oeste,Diesel S10,R$/l,3.998,173,3.478
+2020-01,ES,Sudeste,Diesel S10,R$/l,3.857,462,3.356
+2020-01,ES,Sudeste,GNV,R$/m3,3.296,53,3.296
+2020-01,GO,Centro-Oeste,Diesel S10,R$/l,3.944,843,3.431
+2020-01,MA,Nordeste,Diesel S10,R$/l,3.855,505,3.354
+2020-01,MA,Nordeste,GNV,R$/m3,4.779,1,4.779
+2020-01,MG,Sudeste,Diesel S10,R$/l,3.946,2032,3.433
+2020-01,MG,Sudeste,GNV,R$/m3,3.317,39,3.317
+2020-01,MS,Centro-Oeste,Diesel S10,R$/l,3.98,298,3.463
+2020-01,MS,Centro-Oeste,GNV,R$/m3,3.173,9,3.173
+2020-01,MT,Centro-Oeste,Diesel S10,R$/l,4.13,629,3.593
+2020-01,MT,Centro-Oeste,GNV,R$/m3,2.679,5,2.679
+2020-01,PA,Norte,Diesel S10,R$/l,4.079,506,3.549
+2020-01,PA,Norte,GNV,R$/m3,4.599,1,4.599
+2020-01,PB,Nordeste,Diesel S10,R$/l,3.745,248,3.258
+2020-01,PB,Nordeste,GNV,R$/m3,3.742,51,3.742
+2020-01,PE,Nordeste,Diesel S10,R$/l,3.668,737,3.191
+2020-01,PE,Nordeste,GNV,R$/m3,2.799,59,2.799
+2020-01,PI,Nordeste,Diesel S10,R$/l,3.931,313,3.42
+2020-01,PR,Sul,Diesel S10,R$/l,3.663,1396,3.187
+2020-01,PR,Sul,GNV,R$/m3,3.092,25,3.092
+2020-01,RJ,Sudeste,Diesel S10,R$/l,3.9,1476,3.393
+2020-01,RJ,Sudeste,GNV,R$/m3,3.15,523,3.15
+2020-01,RN,Nordeste,Diesel S10,R$/l,3.994,219,3.475
+2020-01,RN,Nordeste,GNV,R$/m3,3.55,30,3.55
+2020-01,RO,Norte,Diesel S10,R$/l,4.076,288,3.546
+2020-01,RR,Norte,Diesel S10,R$/l,3.964,51,3.449
+2020-01,RS,Sul,Diesel S10,R$/l,3.795,1528,3.302
+2020-01,RS,Sul,GNV,R$/m3,3.612,105,3.612
+2020-01,SC,Sul,Diesel S10,R$/l,3.745,1052,3.258
+2020-01,SC,Sul,GNV,R$/m3,2.986,85,2.986
+2020-01,SE,Nordeste,Diesel S10,R$/l,3.933,179,3.422
+2020-01,SE,Nordeste,GNV,R$/m3,3.705,12,3.705
+2020-01,SP,Sudeste,Diesel S10,R$/l,3.812,5703,3.316
+2020-01,SP,Sudeste,GNV,R$/m3,3.07,211,3.07
+2020-01,TO,Norte,Diesel S10,R$/l,3.822,216,3.325
+2020-01,TO,Norte,GNV,R$/m3,3.0,2,3.0
+2020-02,AC,Norte,Diesel S10,R$/l,4.579,147,3.984
+2020-02,AL,Nordeste,Diesel S10,R$/l,3.918,194,3.409
+2020-02,AL,Nordeste,GNV,R$/m3,3.581,31,3.581
+2020-02,AM,Norte,Diesel S10,R$/l,3.897,195,3.39
+2020-02,AM,Norte,GNV,R$/m3,3.29,2,3.29
+2020-02,AP,Norte,Diesel S10,R$/l,4.415,45,3.841
+2020-02,BA,Nordeste,Diesel S10,R$/l,3.76,1150,3.271
+2020-02,BA,Nordeste,GNV,R$/m3,3.097,72,3.097
+2020-02,CE,Nordeste,Diesel S10,R$/l,3.89,843,3.384
+2020-02,CE,Nordeste,GNV,R$/m3,3.682,80,3.682
+2020-02,DF,Centro-Oeste,Diesel S10,R$/l,3.961,150,3.446
+2020-02,DF,Centro-Oeste,GNV,R$/m3,3.798,1,3.798
+2020-02,ES,Sudeste,Diesel S10,R$/l,3.753,391,3.265
+2020-02,ES,Sudeste,GNV,R$/m3,3.274,52,3.274
+2020-02,GO,Centro-Oeste,Diesel S10,R$/l,3.889,709,3.383
+2020-02,MA,Nordeste,Diesel S10,R$/l,3.768,436,3.278
+2020-02,MG,Sudeste,Diesel S10,R$/l,3.883,1860,3.378
+2020-02,MG,Sudeste,GNV,R$/m3,3.296,42,3.296
+2020-02,MS,Centro-Oeste,Diesel S10,R$/l,3.922,284,3.412
+2020-02,MS,Centro-Oeste,GNV,R$/m3,3.187,7,3.187
+2020-02,MT,Centro-Oeste,Diesel S10,R$/l,4.087,553,3.556
+2020-02,MT,Centro-Oeste,GNV,R$/m3,2.799,3,2.799
+2020-02,PA,Norte,Diesel S10,R$/l,4.036,423,3.511
+2020-02,PB,Nordeste,Diesel S10,R$/l,3.712,226,3.229
+2020-02,PB,Nordeste,GNV,R$/m3,3.644,40,3.644
+2020-02,PE,Nordeste,Diesel S10,R$/l,3.65,714,3.176
+2020-02,PE,Nordeste,GNV,R$/m3,2.795,65,2.795
+2020-02,PI,Nordeste,Diesel S10,R$/l,3.87,246,3.367
+2020-02,PR,Sul,Diesel S10,R$/l,3.574,1213,3.109
+2020-02,PR,Sul,GNV,R$/m3,3.142,28,3.142
+2020-02,RJ,Sudeste,Diesel S10,R$/l,3.837,1312,3.338
+2020-02,RJ,Sudeste,GNV,R$/m3,3.143,440,3.143
+2020-02,RN,Nordeste,Diesel S10,R$/l,3.969,218,3.453
+2020-02,RN,Nordeste,GNV,R$/m3,3.523,37,3.523
+2020-02,RO,Norte,Diesel S10,R$/l,3.999,260,3.479
+2020-02,RR,Norte,Diesel S10,R$/l,3.877,51,3.373
+2020-02,RS,Sul,Diesel S10,R$/l,3.736,1224,3.25
+2020-02,RS,Sul,GNV,R$/m3,3.604,81,3.604
+2020-02,SC,Sul,Diesel S10,R$/l,3.723,876,3.239
+2020-02,SC,Sul,GNV,R$/m3,3.045,99,3.045
+2020-02,SE,Nordeste,Diesel S10,R$/l,3.895,169,3.389
+2020-02,SE,Nordeste,GNV,R$/m3,3.637,30,3.637
+2020-02,SP,Sudeste,Diesel S10,R$/l,3.744,5281,3.257
+2020-02,SP,Sudeste,GNV,R$/m3,3.068,188,3.068
+2020-02,TO,Norte,Diesel S10,R$/l,3.764,182,3.275
+2020-03,AC,Norte,Diesel S10,R$/l,4.468,184,3.887
+2020-03,AL,Nordeste,Diesel S10,R$/l,3.849,239,3.349
+2020-03,AL,Nordeste,GNV,R$/m3,3.578,38,3.578
+2020-03,AM,Norte,Diesel S10,R$/l,3.814,226,3.318
+2020-03,AM,Norte,GNV,R$/m3,3.29,4,3.29
+2020-03,AP,Norte,Diesel S10,R$/l,3.949,56,3.436
+2020-03,BA,Nordeste,Diesel S10,R$/l,3.633,1372,3.161
+2020-03,BA,Nordeste,GNV,R$/m3,3.092,90,3.092
+2020-03,CE,Nordeste,Diesel S10,R$/l,3.774,947,3.283
+2020-03,CE,Nordeste,GNV,R$/m3,3.673,91,3.673
+2020-03,DF,Centro-Oeste,Diesel S10,R$/l,3.816,148,3.32
+2020-03,ES,Sudeste,Diesel S10,R$/l,3.592,419,3.125
+2020-03,ES,Sudeste,GNV,R$/m3,3.266,43,3.266
+2020-03,GO,Centro-Oeste,Diesel S10,R$/l,3.74,815,3.254
+2020-03,MA,Nordeste,Diesel S10,R$/l,3.654,477,3.179
+2020-03,MG,Sudeste,Diesel S10,R$/l,3.734,2039,3.249
+2020-03,MG,Sudeste,GNV,R$/m3,3.253,42,3.253
+2020-03,MS,Centro-Oeste,Diesel S10,R$/l,3.791,353,3.298
+2020-03,MS,Centro-Oeste,GNV,R$/m3,3.235,10,3.235
+2020-03,MT,Centro-Oeste,Diesel S10,R$/l,3.923,682,3.413
+2020-03,MT,Centro-Oeste,GNV,R$/m3,2.799,5,2.799
+2020-03,PA,Norte,Diesel S10,R$/l,3.918,475,3.409
+2020-03,PA,Norte,GNV,R$/m3,4.429,1,4.429
+2020-03,PB,Nordeste,Diesel S10,R$/l,3.611,244,3.142
+2020-03,PB,Nordeste,GNV,R$/m3,3.745,54,3.745
+2020-03,PE,Nordeste,Diesel S10,R$/l,3.538,822,3.078
+2020-03,PE,Nordeste,GNV,R$/m3,2.799,54,2.799
+2020-03,PI,Nordeste,Diesel S10,R$/l,3.711,289,3.229
+2020-03,PR,Sul,Diesel S10,R$/l,3.415,1363,2.971
+2020-03,PR,Sul,GNV,R$/m3,3.346,21,3.346
+2020-03,RJ,Sudeste,Diesel S10,R$/l,3.727,1434,3.242
+2020-03,RJ,Sudeste,GNV,R$/m3,3.126,481,3.126
+2020-03,RN,Nordeste,Diesel S10,R$/l,3.795,259,3.302
+2020-03,RN,Nordeste,GNV,R$/m3,3.514,34,3.514
+2020-03,RO,Norte,Diesel S10,R$/l,3.857,289,3.356
+2020-03,RR,Norte,Diesel S10,R$/l,3.751,65,3.263
+2020-03,RS,Sul,Diesel S10,R$/l,3.647,1306,3.173
+2020-03,RS,Sul,GNV,R$/m3,3.62,86,3.62
+2020-03,SC,Sul,Diesel S10,R$/l,3.67,901,3.193
+2020-03,SC,Sul,GNV,R$/m3,3.038,83,3.038
+2020-03,SE,Nordeste,Diesel S10,R$/l,3.669,188,3.192
+2020-03,SE,Nordeste,GNV,R$/m3,3.35,37,3.35
+2020-03,SP,Sudeste,Diesel S10,R$/l,3.611,5884,3.142
+2020-03,SP,Sudeste,GNV,R$/m3,3.039,230,3.039
+2020-03,TO,Norte,Diesel S10,R$/l,3.603,202,3.135
+2020-04,AC,Norte,Diesel S10,R$/l,4.227,144,3.677
+2020-04,AL,Nordeste,Diesel S10,R$/l,3.637,199,3.164
+2020-04,AL,Nordeste,GNV,R$/m3,3.55,33,3.55
+2020-04,AM,Norte,Diesel S10,R$/l,3.628,204,3.156
+2020-04,AM,Norte,GNV,R$/m3,3.29,4,3.29
+2020-04,AP,Norte,Diesel S10,R$/l,3.555,48,3.093
+2020-04,BA,Nordeste,Diesel S10,R$/l,3.352,1235,2.916
+2020-04,BA,Nordeste,GNV,R$/m3,3.068,76,3.068
+2020-04,CE,Nordeste,Diesel S10,R$/l,3.501,862,3.046
+2020-04,CE,Nordeste,GNV,R$/m3,3.671,85,3.671
+2020-04,DF,Centro-Oeste,Diesel S10,R$/l,3.48,158,3.028
+2020-04,ES,Sudeste,Diesel S10,R$/l,3.303,436,2.874
+2020-04,ES,Sudeste,GNV,R$/m3,3.252,49,3.252
+2020-04,GO,Centro-Oeste,Diesel S10,R$/l,3.466,828,3.015
+2020-04,MA,Nordeste,Diesel S10,R$/l,3.38,497,2.941
+2020-04,MG,Sudeste,Diesel S10,R$/l,3.457,2093,3.008
+2020-04,MG,Sudeste,GNV,R$/m3,3.17,44,3.17
+2020-04,MS,Centro-Oeste,Diesel S10,R$/l,3.52,303,3.062
+2020-04,MS,Centro-Oeste,GNV,R$/m3,3.35,5,3.35
+2020-04,MT,Centro-Oeste,Diesel S10,R$/l,3.583,556,3.117
+2020-04,MT,Centro-Oeste,GNV,R$/m3,2.849,4,2.849
+2020-04,PA,Norte,Diesel S10,R$/l,3.646,420,3.172
+2020-04,PB,Nordeste,Diesel S10,R$/l,3.34,246,2.906
+2020-04,PB,Nordeste,GNV,R$/m3,3.641,47,3.641
+2020-04,PE,Nordeste,Diesel S10,R$/l,3.268,763,2.843
+2020-04,PE,Nordeste,GNV,R$/m3,2.799,50,2.799
+2020-04,PI,Nordeste,Diesel S10,R$/l,3.38,266,2.941
+2020-04,PR,Sul,Diesel S10,R$/l,3.109,1370,2.705
+2020-04,PR,Sul,GNV,R$/m3,3.283,20,3.283
+2020-04,RJ,Sudeste,Diesel S10,R$/l,3.488,1442,3.035
+2020-04,RJ,Sudeste,GNV,R$/m3,3.122,440,3.122
+2020-04,RN,Nordeste,Diesel S10,R$/l,3.536,227,3.076
+2020-04,RN,Nordeste,GNV,R$/m3,3.419,43,3.419
+2020-04,RO,Norte,Diesel S10,R$/l,3.589,303,3.122
+2020-04,RR,Norte,Diesel S10,R$/l,3.529,50,3.07
+2020-04,RS,Sul,Diesel S10,R$/l,3.346,1446,2.911
+2020-04,RS,Sul,GNV,R$/m3,3.61,94,3.61
+2020-04,SC,Sul,Diesel S10,R$/l,3.374,1116,2.935
+2020-04,SC,Sul,GNV,R$/m3,3.06,97,3.06
+2020-04,SE,Nordeste,Diesel S10,R$/l,3.383,186,2.943
+2020-04,SE,Nordeste,GNV,R$/m3,3.31,34,3.31
+2020-04,SP,Sudeste,Diesel S10,R$/l,3.369,6016,2.931
+2020-04,SP,Sudeste,GNV,R$/m3,3.06,191,3.06
+2020-04,TO,Norte,Diesel S10,R$/l,3.305,201,2.875
+2020-05,AC,Norte,Diesel S10,R$/l,3.942,144,3.43
+2020-05,AL,Nordeste,Diesel S10,R$/l,3.329,200,2.896
+2020-05,AL,Nordeste,GNV,R$/m3,3.511,34,3.511
+2020-05,AM,Norte,Diesel S10,R$/l,3.45,203,3.002
+2020-05,AM,Norte,GNV,R$/m3,3.29,3,3.29
+2020-05,AP,Norte,Diesel S10,R$/l,3.18,39,2.767
+2020-05,BA,Nordeste,Diesel S10,R$/l,3.079,1146,2.679
+2020-05,BA,Nordeste,GNV,R$/m3,2.996,77,2.996
+2020-05,CE,Nordeste,Diesel S10,R$/l,3.229,765,2.809
+2020-05,CE,Nordeste,GNV,R$/m3,3.573,76,3.573
+2020-05,DF,Centro-Oeste,Diesel S10,R$/l,3.219,131,2.801
+2020-05,ES,Sudeste,Diesel S10,R$/l,3.093,385,2.691
+2020-05,ES,Sudeste,GNV,R$/m3,3.224,39,3.224
+2020-05,GO,Centro-Oeste,Diesel S10,R$/l,3.136,694,2.728
+2020-05,MA,Nordeste,Diesel S10,R$/l,3.18,421,2.767
+2020-05,MG,Sudeste,Diesel S10,R$/l,3.189,1843,2.774
+2020-05,MG,Sudeste,GNV,R$/m3,2.943,30,2.943
+2020-05,MS,Centro-Oeste,Diesel S10,R$/l,3.216,301,2.798
+2020-05,MS,Centro-Oeste,GNV,R$/m3,3.338,7,3.338
+2020-05,MT,Centro-Oeste,Diesel S10,R$/l,3.315,558,2.884
+2020-05,MT,Centro-Oeste,GNV,R$/m3,2.732,3,2.732
+2020-05,PA,Norte,Diesel S10,R$/l,3.414,384,2.97
+2020-05,PA,Norte,GNV,R$/m3,3.999,1,3.999
+2020-05,PB,Nordeste,Diesel S10,R$/l,3.074,212,2.674
+2020-05,PB,Nordeste,GNV,R$/m3,3.292,32,3.292
+2020-05,PE,Nordeste,Diesel S10,R$/l,3.055,716,2.658
+2020-05,PE,Nordeste,GNV,R$/m3,2.699,47,2.699
+2020-05,PI,Nordeste,Diesel S10,R$/l,3.185,248,2.771
+2020-05,PR,Sul,Diesel S10,R$/l,2.851,1221,2.48
+2020-05,PR,Sul,GNV,R$/m3,3.328,18,3.328
+2020-05,RJ,Sudeste,Diesel S10,R$/l,3.246,1318,2.824
+2020-05,RJ,Sudeste,GNV,R$/m3,3.043,426,3.043
+2020-05,RN,Nordeste,Diesel S10,R$/l,3.234,218,2.814
+2020-05,RN,Nordeste,GNV,R$/m3,3.404,42,3.404
+2020-05,RO,Norte,Diesel S10,R$/l,3.31,264,2.88
+2020-05,RR,Norte,Diesel S10,R$/l,3.292,52,2.864
+2020-05,RS,Sul,Diesel S10,R$/l,3.068,1258,2.669
+2020-05,RS,Sul,GNV,R$/m3,3.613,76,3.613
+2020-05,SC,Sul,Diesel S10,R$/l,3.08,901,2.68
+2020-05,SC,Sul,GNV,R$/m3,3.04,89,3.04
+2020-05,SE,Nordeste,Diesel S10,R$/l,3.117,164,2.712
+2020-05,SE,Nordeste,GNV,R$/m3,3.177,36,3.177
+2020-05,SP,Sudeste,Diesel S10,R$/l,3.15,5319,2.74
+2020-05,SP,Sudeste,GNV,R$/m3,3.002,168,3.002
+2020-05,TO,Norte,Diesel S10,R$/l,3.049,178,2.653
+2020-06,AC,Norte,Diesel S10,R$/l,3.925,180,3.415
+2020-06,AL,Nordeste,Diesel S10,R$/l,3.28,227,2.854
+2020-06,AL,Nordeste,GNV,R$/m3,3.493,33,3.493
+2020-06,AM,Norte,Diesel S10,R$/l,3.342,234,2.908
+2020-06,AM,Norte,GNV,R$/m3,3.29,5,3.29
+2020-06,AP,Norte,Diesel S10,R$/l,3.243,40,2.821
+2020-06,BA,Nordeste,Diesel S10,R$/l,3.145,1272,2.736
+2020-06,BA,Nordeste,GNV,R$/m3,2.918,89,2.918
+2020-06,CE,Nordeste,Diesel S10,R$/l,3.224,905,2.805
+2020-06,CE,Nordeste,GNV,R$/m3,3.508,88,3.508
+2020-06,DF,Centro-Oeste,Diesel S10,R$/l,3.18,132,2.767
+2020-06,ES,Sudeste,Diesel S10,R$/l,3.086,436,2.685
+2020-06,ES,Sudeste,GNV,R$/m3,3.197,48,3.197
+2020-06,GO,Centro-Oeste,Diesel S10,R$/l,3.138,830,2.73
+2020-06,GO,Centro-Oeste,GNV,R$/m3,3.29,1,3.29
+2020-06,MA,Nordeste,Diesel S10,R$/l,3.129,457,2.722
+2020-06,MG,Sudeste,Diesel S10,R$/l,3.197,2080,2.781
+2020-06,MG,Sudeste,GNV,R$/m3,2.928,39,2.928
+2020-06,MS,Centro-Oeste,Diesel S10,R$/l,3.252,373,2.829
+2020-06,MS,Centro-Oeste,GNV,R$/m3,3.343,7,3.343
+2020-06,MT,Centro-Oeste,Diesel S10,R$/l,3.354,691,2.918
+2020-06,MT,Centro-Oeste,GNV,R$/m3,2.899,5,2.899
+2020-06,PA,Norte,Diesel S10,R$/l,3.383,451,2.943
+2020-06,PB,Nordeste,Diesel S10,R$/l,3.072,256,2.673
+2020-06,PB,Nordeste,GNV,R$/m3,3.244,50,3.244
+2020-06,PE,Nordeste,Diesel S10,R$/l,3.037,867,2.642
+2020-06,PE,Nordeste,GNV,R$/m3,2.662,66,2.662
+2020-06,PI,Nordeste,Diesel S10,R$/l,3.189,270,2.774
+2020-06,PR,Sul,Diesel S10,R$/l,2.896,1374,2.52
+2020-06,PR,Sul,GNV,R$/m3,3.263,22,3.263
+2020-06,RJ,Sudeste,Diesel S10,R$/l,3.262,1402,2.838
+2020-06,RJ,Sudeste,GNV,R$/m3,3.05,473,3.05
+2020-06,RN,Nordeste,Diesel S10,R$/l,3.212,269,2.794
+2020-06,RN,Nordeste,GNV,R$/m3,3.378,59,3.378
+2020-06,RO,Norte,Diesel S10,R$/l,3.337,312,2.903
+2020-06,RR,Norte,Diesel S10,R$/l,3.24,63,2.819
+2020-06,RS,Sul,Diesel S10,R$/l,3.095,1348,2.693
+2020-06,RS,Sul,GNV,R$/m3,3.648,85,3.648
+2020-06,SC,Sul,Diesel S10,R$/l,3.08,931,2.68
+2020-06,SC,Sul,GNV,R$/m3,3.005,93,3.005
+2020-06,SE,Nordeste,Diesel S10,R$/l,3.176,182,2.763
+2020-06,SE,Nordeste,GNV,R$/m3,3.181,38,3.181
+2020-06,SP,Sudeste,Diesel S10,R$/l,3.169,6118,2.757
+2020-06,SP,Sudeste,GNV,R$/m3,2.927,208,2.927
+2020-06,TO,Norte,Diesel S10,R$/l,3.044,189,2.648
+2020-07,AC,Norte,Diesel S10,R$/l,4.171,145,3.629
+2020-07,AL,Nordeste,Diesel S10,R$/l,3.455,228,3.006
+2020-07,AL,Nordeste,GNV,R$/m3,3.427,33,3.427
+2020-07,AM,Norte,Diesel S10,R$/l,3.437,209,2.99
+2020-07,AM,Norte,GNV,R$/m3,3.29,5,3.29
+2020-07,AP,Norte,Diesel S10,R$/l,3.522,27,3.064
+2020-07,BA,Nordeste,Diesel S10,R$/l,3.383,1305,2.943
+2020-07,BA,Nordeste,GNV,R$/m3,2.885,86,2.885
+2020-07,CE,Nordeste,Diesel S10,R$/l,3.411,852,2.968
+2020-07,CE,Nordeste,GNV,R$/m3,3.506,71,3.506
+2020-07,DF,Centro-Oeste,Diesel S10,R$/l,3.366,179,2.928
+2020-07,ES,Sudeste,Diesel S10,R$/l,3.255,447,2.832
+2020-07,ES,Sudeste,GNV,R$/m3,3.196,42,3.196
+2020-07,GO,Centro-Oeste,Diesel S10,R$/l,3.348,747,2.913
+2020-07,GO,Centro-Oeste,GNV,R$/m3,2.0,1,2.0
+2020-07,MA,Nordeste,Diesel S10,R$/l,3.31,475,2.88
+2020-07,MG,Sudeste,Diesel S10,R$/l,3.374,2108,2.935
+2020-07,MG,Sudeste,GNV,R$/m3,2.976,36,2.976
+2020-07,MS,Centro-Oeste,Diesel S10,R$/l,3.424,307,2.979
+2020-07,MS,Centro-Oeste,GNV,R$/m3,3.333,9,3.333
+2020-07,MT,Centro-Oeste,Diesel S10,R$/l,3.554,580,3.092
+2020-07,MT,Centro-Oeste,GNV,R$/m3,2.899,4,2.899
+2020-07,PA,Norte,Diesel S10,R$/l,3.538,406,3.078
+2020-07,PB,Nordeste,Diesel S10,R$/l,3.236,215,2.815
+2020-07,PB,Nordeste,GNV,R$/m3,3.248,45,3.248
+2020-07,PE,Nordeste,Diesel S10,R$/l,3.224,738,2.805
+2020-07,PE,Nordeste,GNV,R$/m3,2.666,67,2.666
+2020-07,PI,Nordeste,Diesel S10,R$/l,3.363,296,2.926
+2020-07,PR,Sul,Diesel S10,R$/l,3.1,1412,2.697
+2020-07,PR,Sul,GNV,R$/m3,3.233,21,3.233
+2020-07,RJ,Sudeste,Diesel S10,R$/l,3.383,1480,2.943
+2020-07,RJ,Sudeste,GNV,R$/m3,3.022,516,3.022
+2020-07,RN,Nordeste,Diesel S10,R$/l,3.456,219,3.007
+2020-07,RN,Nordeste,GNV,R$/m3,3.448,44,3.448
+2020-07,RO,Norte,Diesel S10,R$/l,3.504,275,3.048
+2020-07,RR,Norte,Diesel S10,R$/l,3.397,53,2.955
+2020-07,RS,Sul,Diesel S10,R$/l,3.253,1466,2.83
+2020-07,RS,Sul,GNV,R$/m3,3.648,80,3.648
+2020-07,SC,Sul,Diesel S10,R$/l,3.286,1063,2.859
+2020-07,SC,Sul,GNV,R$/m3,2.997,119,2.997
+2020-07,SE,Nordeste,Diesel S10,R$/l,3.363,185,2.926
+2020-07,SE,Nordeste,GNV,R$/m3,3.173,30,3.173
+2020-07,SP,Sudeste,Diesel S10,R$/l,3.302,5857,2.873
+2020-07,SP,Sudeste,GNV,R$/m3,2.846,201,2.846
+2020-07,TO,Norte,Diesel S10,R$/l,3.23,212,2.81
+2020-08,AC,Norte,Diesel S10,R$/l,4.294,107,3.736
+2020-08,AL,Nordeste,Diesel S10,R$/l,3.556,149,3.094
+2020-08,AL,Nordeste,GNV,R$/m³,3.254,19,3.254
+2020-08,AM,Norte,Diesel S10,R$/l,3.45,148,3.002
+2020-08,AM,Norte,GNV,R$/m³,3.39,1,3.39
+2020-08,AP,Norte,Diesel S10,R$/l,3.643,21,3.169
+2020-08,BA,Nordeste,Diesel S10,R$/l,3.472,876,3.021
+2020-08,BA,Nordeste,GNV,R$/m³,2.841,62,2.841
+2020-08,CE,Nordeste,Diesel S10,R$/l,3.495,584,3.041
+2020-08,CE,Nordeste,GNV,R$/m³,3.488,57,3.488
+2020-08,DF,Centro-Oeste,Diesel S10,R$/l,3.507,84,3.051
+2020-08,ES,Sudeste,Diesel S10,R$/l,3.36,295,2.923
+2020-08,ES,Sudeste,GNV,R$/m³,3.166,34,3.166
+2020-08,GO,Centro-Oeste,Diesel S10,R$/l,3.49,545,3.036
+2020-08,GO,Centro-Oeste,GNV,R$/m³,2.0,1,2.0
+2020-08,MA,Nordeste,Diesel S10,R$/l,3.415,307,2.971
+2020-08,MG,Sudeste,Diesel S10,R$/l,3.485,1346,3.032
+2020-08,MG,Sudeste,GNV,R$/m³,2.965,17,2.965
+2020-08,MS,Centro-Oeste,Diesel S10,R$/l,3.531,225,3.072
+2020-08,MS,Centro-Oeste,GNV,R$/m³,3.342,5,3.342
+2020-08,MT,Centro-Oeste,Diesel S10,R$/l,3.696,427,3.216
+2020-08,MT,Centro-Oeste,GNV,R$/m³,2.899,3,2.899
+2020-08,PA,Norte,Diesel S10,R$/l,3.669,291,3.192
+2020-08,PB,Nordeste,Diesel S10,R$/l,3.334,157,2.901
+2020-08,PB,Nordeste,GNV,R$/m³,3.128,34,3.128
+2020-08,PE,Nordeste,Diesel S10,R$/l,3.334,533,2.901
+2020-08,PE,Nordeste,GNV,R$/m³,2.54,43,2.54
+2020-08,PI,Nordeste,Diesel S10,R$/l,3.492,190,3.038
+2020-08,PR,Sul,Diesel S10,R$/l,3.206,924,2.789
+2020-08,PR,Sul,GNV,R$/m³,3.21,12,3.21
+2020-08,RJ,Sudeste,Diesel S10,R$/l,3.488,973,3.035
+2020-08,RJ,Sudeste,GNV,R$/m³,2.993,333,2.993
+2020-08,RN,Nordeste,Diesel S10,R$/l,3.537,157,3.077
+2020-08,RN,Nordeste,GNV,R$/m³,3.424,35,3.424
+2020-08,RO,Norte,Diesel S10,R$/l,3.625,196,3.154
+2020-08,RR,Norte,Diesel S10,R$/l,3.47,38,3.019
+2020-08,RS,Sul,Diesel S10,R$/l,3.365,946,2.928
+2020-08,RS,Sul,GNV,R$/m³,3.648,54,3.648
+2020-08,SC,Sul,Diesel S10,R$/l,3.369,693,2.931
+2020-08,SC,Sul,GNV,R$/m³,2.939,76,2.939
+2020-08,SE,Nordeste,Diesel S10,R$/l,3.531,120,3.072
+2020-08,SE,Nordeste,GNV,R$/m³,2.852,16,2.852
+2020-08,SP,Sudeste,Diesel S10,R$/l,3.38,3931,2.941
+2020-08,SP,Sudeste,GNV,R$/m³,2.825,155,2.825
+2020-08,TO,Norte,Diesel S10,R$/l,3.426,135,2.981
+2020-10,AC,Norte,Diesel S10,R$/l,4.451,54,3.872
+2020-10,AL,Nordeste,Diesel S10,R$/l,3.732,41,3.247
+2020-10,AL,Nordeste,GNV,R$/m³,2.984,9,2.984
+2020-10,AM,Norte,Diesel S10,R$/l,3.557,59,3.095
+2020-10,AM,Norte,GNV,R$/m³,3.39,2,3.39
+2020-10,AP,Norte,Diesel S10,R$/l,3.814,11,3.318
+2020-10,BA,Nordeste,Diesel S10,R$/l,3.485,82,3.032
+2020-10,BA,Nordeste,GNV,R$/m³,2.645,19,2.645
+2020-10,CE,Nordeste,Diesel S10,R$/l,3.62,156,3.149
+2020-10,CE,Nordeste,GNV,R$/m³,3.337,33,3.337
+2020-10,DF,Centro-Oeste,Diesel S10,R$/l,3.647,74,3.173
+2020-10,ES,Sudeste,Diesel S10,R$/l,3.489,37,3.035
+2020-10,ES,Sudeste,GNV,R$/m³,2.997,5,2.997
+2020-10,GO,Centro-Oeste,Diesel S10,R$/l,3.629,88,3.157
+2020-10,MA,Nordeste,Diesel S10,R$/l,3.453,90,3.004
+2020-10,MG,Sudeste,Diesel S10,R$/l,3.679,31,3.201
+2020-10,MG,Sudeste,GNV,R$/m³,2.814,5,2.814
+2020-10,MS,Centro-Oeste,Diesel S10,R$/l,3.557,65,3.095
+2020-10,MS,Centro-Oeste,GNV,R$/m³,3.359,6,3.359
+2020-10,MT,Centro-Oeste,Diesel S10,R$/l,3.805,127,3.31
+2020-10,MT,Centro-Oeste,GNV,R$/m³,3.156,3,3.156
+2020-10,PA,Norte,Diesel S10,R$/l,3.95,42,3.436
+2020-10,PB,Nordeste,Diesel S10,R$/l,3.51,44,3.054
+2020-10,PB,Nordeste,GNV,R$/m³,3.097,10,3.097
+2020-10,PE,Nordeste,Diesel S10,R$/l,3.452,53,3.003
+2020-10,PE,Nordeste,GNV,R$/m³,2.499,10,2.499
+2020-10,PI,Nordeste,Diesel S10,R$/l,3.582,43,3.116
+2020-10,PR,Sul,Diesel S10,R$/l,3.317,72,2.886
+2020-10,PR,Sul,GNV,R$/m³,2.856,7,2.856
+2020-10,RJ,Sudeste,Diesel S10,R$/l,3.618,110,3.148
+2020-10,RJ,Sudeste,GNV,R$/m³,2.81,85,2.81
+2020-10,RN,Nordeste,Diesel S10,R$/l,3.799,43,3.305
+2020-10,RN,Nordeste,GNV,R$/m³,3.201,13,3.201
+2020-10,RO,Norte,Diesel S10,R$/l,3.762,43,3.273
+2020-10,RR,Norte,Diesel S10,R$/l,3.664,26,3.188
+2020-10,RS,Sul,Diesel S10,R$/l,3.501,43,3.046
+2020-10,RS,Sul,GNV,R$/m³,3.619,10,3.619
+2020-10,SC,Sul,Diesel S10,R$/l,3.641,48,3.168
+2020-10,SC,Sul,GNV,R$/m³,2.898,7,2.898
+2020-10,SE,Nordeste,Diesel S10,R$/l,3.833,13,3.335
+2020-10,SE,Nordeste,GNV,R$/m³,2.771,5,2.771
+2020-10,SP,Sudeste,Diesel S10,R$/l,3.559,301,3.096
+2020-10,SP,Sudeste,GNV,R$/m³,2.723,23,2.723
+2020-10,TO,Norte,Diesel S10,R$/l,3.588,19,3.122
+2020-11,AC,Norte,Diesel S10,R$/l,4.443,103,3.865
+2020-11,AL,Nordeste,Diesel S10,R$/l,3.77,100,3.28
+2020-11,AL,Nordeste,GNV,R$/m³,2.943,26,2.943
+2020-11,AM,Norte,Diesel S10,R$/l,3.594,182,3.127
+2020-11,AM,Norte,GNV,R$/m³,3.39,3,3.39
+2020-11,AP,Norte,Diesel S10,R$/l,4.003,18,3.483
+2020-11,BA,Nordeste,Diesel S10,R$/l,3.534,328,3.075
+2020-11,BA,Nordeste,GNV,R$/m³,2.875,61,2.875
+2020-11,CE,Nordeste,Diesel S10,R$/l,3.677,377,3.199
+2020-11,CE,Nordeste,GNV,R$/m³,3.363,72,3.363
+2020-11,DF,Centro-Oeste,Diesel S10,R$/l,3.7,150,3.219
+2020-11,ES,Sudeste,Diesel S10,R$/l,3.492,159,3.038
+2020-11,ES,Sudeste,GNV,R$/m³,3.229,19,3.229
+2020-11,GO,Centro-Oeste,Diesel S10,R$/l,3.614,189,3.144
+2020-11,MA,Nordeste,Diesel S10,R$/l,3.535,207,3.075
+2020-11,MG,Sudeste,Diesel S10,R$/l,3.713,217,3.23
+2020-11,MG,Sudeste,GNV,R$/m³,3.102,20,3.102
+2020-11,MS,Centro-Oeste,Diesel S10,R$/l,3.598,154,3.13
+2020-11,MS,Centro-Oeste,GNV,R$/m³,3.389,15,3.389
+2020-11,MT,Centro-Oeste,Diesel S10,R$/l,3.894,311,3.388
+2020-11,MT,Centro-Oeste,GNV,R$/m³,2.813,7,2.813
+2020-11,PA,Norte,Diesel S10,R$/l,3.958,84,3.443
+2020-11,PB,Nordeste,Diesel S10,R$/l,3.531,119,3.072
+2020-11,PB,Nordeste,GNV,R$/m³,3.267,21,3.267
+2020-11,PE,Nordeste,Diesel S10,R$/l,3.487,143,3.034
+2020-11,PE,Nordeste,GNV,R$/m³,2.939,20,2.939
+2020-11,PI,Nordeste,Diesel S10,R$/l,3.627,86,3.155
+2020-11,PI,Nordeste,GNV,R$/m³,3.439,1,3.439
+2020-11,PR,Sul,Diesel S10,R$/l,3.374,255,2.935
+2020-11,PR,Sul,GNV,R$/m³,2.916,8,2.916
+2020-11,RJ,Sudeste,Diesel S10,R$/l,3.618,564,3.148
+2020-11,RJ,Sudeste,GNV,R$/m³,2.812,297,2.812
+2020-11,RN,Nordeste,Diesel S10,R$/l,3.846,97,3.346
+2020-11,RN,Nordeste,GNV,R$/m³,3.454,19,3.454
+2020-11,RO,Norte,Diesel S10,R$/l,3.774,87,3.283
+2020-11,RR,Norte,Diesel S10,R$/l,3.676,51,3.198
+2020-11,RS,Sul,Diesel S10,R$/l,3.649,173,3.175
+2020-11,RS,Sul,GNV,R$/m³,3.566,16,3.566
+2020-11,SC,Sul,Diesel S10,R$/l,3.502,269,3.047
+2020-11,SC,Sul,GNV,R$/m³,2.857,64,2.857
+2020-11,SE,Nordeste,Diesel S10,R$/l,3.807,98,3.312
+2020-11,SE,Nordeste,GNV,R$/m³,3.129,8,3.129
+2020-11,SP,Sudeste,Diesel S10,R$/l,3.551,1770,3.089
+2020-11,SP,Sudeste,GNV,R$/m³,2.728,126,2.728
+2020-11,TO,Norte,Diesel S10,R$/l,3.61,40,3.141
+2020-12,AC,Norte,Diesel S10,R$/l,4.566,104,3.972
+2020-12,AL,Nordeste,Diesel S10,R$/l,3.881,123,3.376
+2020-12,AL,Nordeste,GNV,R$/m³,3.307,21,3.307
+2020-12,AM,Norte,Diesel S10,R$/l,3.706,181,3.224
+2020-12,AM,Norte,GNV,R$/m³,3.39,2,3.39
+2020-12,AP,Norte,Diesel S10,R$/l,4.159,30,3.618
+2020-12,BA,Nordeste,Diesel S10,R$/l,3.645,400,3.171
+2020-12,BA,Nordeste,GNV,R$/m³,2.978,64,2.978
+2020-12,CE,Nordeste,Diesel S10,R$/l,3.798,519,3.304
+2020-12,CE,Nordeste,GNV,R$/m³,3.419,81,3.419
+2020-12,DF,Centro-Oeste,Diesel S10,R$/l,3.812,173,3.316
+2020-12,ES,Sudeste,Diesel S10,R$/l,3.583,209,3.117
+2020-12,ES,Sudeste,GNV,R$/m³,3.013,39,3.013
+2020-12,GO,Centro-Oeste,Diesel S10,R$/l,3.72,214,3.236
+2020-12,MA,Nordeste,Diesel S10,R$/l,3.683,270,3.204
+2020-12,MG,Sudeste,Diesel S10,R$/l,3.736,377,3.25
+2020-12,MG,Sudeste,GNV,R$/m³,3.198,16,3.198
+2020-12,MS,Centro-Oeste,Diesel S10,R$/l,3.711,138,3.229
+2020-12,MS,Centro-Oeste,GNV,R$/m³,3.51,9,3.51
+2020-12,MT,Centro-Oeste,Diesel S10,R$/l,3.94,268,3.428
+2020-12,MT,Centro-Oeste,GNV,R$/m³,2.785,7,2.785
+2020-12,PA,Norte,Diesel S10,R$/l,4.03,98,3.506
+2020-12,PB,Nordeste,Diesel S10,R$/l,3.653,153,3.178
+2020-12,PB,Nordeste,GNV,R$/m³,3.323,27,3.323
+2020-12,PE,Nordeste,Diesel S10,R$/l,3.607,247,3.138
+2020-12,PE,Nordeste,GNV,R$/m³,2.939,36,2.939
+2020-12,PI,Nordeste,Diesel S10,R$/l,3.809,169,3.314
+2020-12,PR,Sul,Diesel S10,R$/l,3.444,479,2.996
+2020-12,PR,Sul,GNV,R$/m³,2.906,25,2.906
+2020-12,RJ,Sudeste,Diesel S10,R$/l,3.767,686,3.277
+2020-12,RJ,Sudeste,GNV,R$/m³,3.037,345,3.037
+2020-12,RN,Nordeste,Diesel S10,R$/l,3.952,166,3.438
+2020-12,RN,Nordeste,GNV,R$/m³,3.567,38,3.567
+2020-12,RO,Norte,Diesel S10,R$/l,3.892,106,3.386
+2020-12,RR,Norte,Diesel S10,R$/l,3.85,62,3.35
+2020-12,RS,Sul,Diesel S10,R$/l,3.64,471,3.167
+2020-12,RS,Sul,GNV,R$/m³,3.502,57,3.502
+2020-12,SC,Sul,Diesel S10,R$/l,3.536,307,3.076
+2020-12,SC,Sul,GNV,R$/m³,2.866,77,2.866
+2020-12,SE,Nordeste,Diesel S10,R$/l,3.853,85,3.352
+2020-12,SP,Sudeste,Diesel S10,R$/l,3.63,2533,3.158
+2020-12,SP,Sudeste,GNV,R$/m³,2.909,174,2.909
+2020-12,TO,Norte,Diesel S10,R$/l,3.669,48,3.192
+2021-01,AC,Norte,Diesel S10,R$/l,4.687,105,4.078
+2021-01,AL,Nordeste,Diesel S10,R$/l,3.97,130,3.454
+2021-01,AL,Nordeste,GNV,R$/m³,3.267,23,3.267
+2021-01,AM,Norte,Diesel S10,R$/l,3.8,196,3.306
+2021-01,AM,Norte,GNV,R$/m³,3.49,6,3.49
+2021-01,AP,Norte,Diesel S10,R$/l,4.278,35,3.722
+2021-01,BA,Nordeste,Diesel S10,R$/l,3.726,453,3.242
+2021-01,BA,Nordeste,GNV,R$/m³,2.97,72,2.97
+2021-01,CE,Nordeste,Diesel S10,R$/l,3.849,530,3.349
+2021-01,CE,Nordeste,GNV,R$/m³,3.393,71,3.393
+2021-01,DF,Centro-Oeste,Diesel S10,R$/l,3.875,137,3.371
+2021-01,ES,Sudeste,Diesel S10,R$/l,3.72,168,3.236
+2021-01,ES,Sudeste,GNV,R$/m³,2.937,30,2.937
+2021-01,GO,Centro-Oeste,Diesel S10,R$/l,3.843,191,3.343
+2021-01,MA,Nordeste,Diesel S10,R$/l,3.824,218,3.327
+2021-01,MG,Sudeste,Diesel S10,R$/l,3.82,460,3.323
+2021-01,MG,Sudeste,GNV,R$/m³,3.265,26,3.265
+2021-01,MS,Centro-Oeste,Diesel S10,R$/l,3.775,147,3.284
+2021-01,MS,Centro-Oeste,GNV,R$/m³,3.516,9,3.516
+2021-01,MT,Centro-Oeste,Diesel S10,R$/l,3.977,282,3.46
+2021-01,MT,Centro-Oeste,GNV,R$/m³,2.785,7,2.785
+2021-01,PA,Norte,Diesel S10,R$/l,4.178,101,3.635
+2021-01,PB,Nordeste,Diesel S10,R$/l,3.832,145,3.334
+2021-01,PB,Nordeste,GNV,R$/m³,3.303,28,3.303
+2021-01,PE,Nordeste,Diesel S10,R$/l,3.63,266,3.158
+2021-01,PE,Nordeste,GNV,R$/m³,2.934,55,2.934
+2021-01,PI,Nordeste,Diesel S10,R$/l,3.915,124,3.406
+2021-01,PR,Sul,Diesel S10,R$/l,3.576,466,3.111
+2021-01,PR,Sul,GNV,R$/m³,2.875,30,2.875
+2021-01,RJ,Sudeste,Diesel S10,R$/l,3.838,560,3.339
+2021-01,RJ,Sudeste,GNV,R$/m³,3.091,307,3.091
+2021-01,RN,Nordeste,Diesel S10,R$/l,4.049,94,3.523
+2021-01,RN,Nordeste,GNV,R$/m³,3.548,22,3.548
+2021-01,RO,Norte,Diesel S10,R$/l,3.955,89,3.441
+2021-01,RR,Norte,Diesel S10,R$/l,4.0,48,3.48
+2021-01,RS,Sul,Diesel S10,R$/l,3.7,596,3.219
+2021-01,RS,Sul,GNV,R$/m³,3.853,62,3.853
+2021-01,SC,Sul,Diesel S10,R$/l,3.656,332,3.181
+2021-01,SC,Sul,GNV,R$/m³,3.527,98,3.527
+2021-01,SE,Nordeste,Diesel S10,R$/l,3.934,118,3.423
+2021-01,SP,Sudeste,Diesel S10,R$/l,3.735,2569,3.249
+2021-01,SP,Sudeste,GNV,R$/m³,2.942,164,2.942
+2021-01,TO,Norte,Diesel S10,R$/l,3.772,37,3.282
+2021-02,AC,Norte,Diesel S10,R$/l,4.847,113,4.217
+2021-02,AL,Nordeste,Diesel S10,R$/l,4.163,111,3.622
+2021-02,AL,Nordeste,GNV,R$/m³,3.136,22,3.136
+2021-02,AM,Norte,Diesel S10,R$/l,4.131,160,3.594
+2021-02,AM,Norte,GNV,R$/m³,3.564,5,3.564
+2021-02,AP,Norte,Diesel S10,R$/l,4.405,22,3.832
+2021-02,BA,Nordeste,Diesel S10,R$/l,3.97,528,3.454
+2021-02,BA,Nordeste,GNV,R$/m³,2.975,75,2.975
+2021-02,CE,Nordeste,Diesel S10,R$/l,4.097,509,3.564
+2021-02,CE,Nordeste,GNV,R$/m³,3.712,71,3.712
+2021-02,DF,Centro-Oeste,Diesel S10,R$/l,4.126,135,3.59
+2021-02,ES,Sudeste,Diesel S10,R$/l,3.89,181,3.384
+2021-02,ES,Sudeste,GNV,R$/m³,3.128,29,3.128
+2021-02,GO,Centro-Oeste,Diesel S10,R$/l,4.053,193,3.526
+2021-02,MA,Nordeste,Diesel S10,R$/l,4.073,258,3.544
+2021-02,MG,Sudeste,Diesel S10,R$/l,4.087,470,3.556
+2021-02,MG,Sudeste,GNV,R$/m³,3.364,23,3.364
+2021-02,MS,Centro-Oeste,Diesel S10,R$/l,4.009,173,3.488
+2021-02,MS,Centro-Oeste,GNV,R$/m³,3.518,12,3.518
+2021-02,MT,Centro-Oeste,Diesel S10,R$/l,4.197,234,3.651
+2021-02,MT,Centro-Oeste,GNV,R$/m³,2.963,7,2.963
+2021-02,PA,Norte,Diesel S10,R$/l,4.297,170,3.738
+2021-02,PB,Nordeste,Diesel S10,R$/l,3.998,124,3.478
+2021-02,PB,Nordeste,GNV,R$/m³,3.35,23,3.35
+2021-02,PE,Nordeste,Diesel S10,R$/l,3.896,289,3.39
+2021-02,PE,Nordeste,GNV,R$/m³,2.964,55,2.964
+2021-02,PI,Nordeste,Diesel S10,R$/l,4.107,127,3.573
+2021-02,PR,Sul,Diesel S10,R$/l,3.816,521,3.32
+2021-02,PR,Sul,GNV,R$/m³,3.147,26,3.147
+2021-02,RJ,Sudeste,Diesel S10,R$/l,4.034,566,3.51
+2021-02,RJ,Sudeste,GNV,R$/m³,3.062,325,3.062
+2021-02,RN,Nordeste,Diesel S10,R$/l,4.382,110,3.812
+2021-02,RN,Nordeste,GNV,R$/m³,3.562,20,3.562
+2021-02,RO,Norte,Diesel S10,R$/l,4.132,84,3.595
+2021-02,RR,Norte,Diesel S10,R$/l,4.198,50,3.652
+2021-02,RS,Sul,Diesel S10,R$/l,3.905,563,3.397
+2021-02,RS,Sul,GNV,R$/m³,3.964,62,3.964
+2021-02,SC,Sul,Diesel S10,R$/l,3.876,382,3.372
+2021-02,SC,Sul,GNV,R$/m³,3.513,110,3.513
+2021-02,SE,Nordeste,Diesel S10,R$/l,4.129,95,3.592
+2021-02,SP,Sudeste,Diesel S10,R$/l,3.959,2725,3.444
+2021-02,SP,Sudeste,GNV,R$/m³,2.958,186,2.958
+2021-02,TO,Norte,Diesel S10,R$/l,4.082,66,3.551
+2021-03,AC,Norte,Diesel S10,R$/l,5.209,121,4.532
+2021-03,AL,Nordeste,Diesel S10,R$/l,4.542,148,3.952
+2021-03,AL,Nordeste,GNV,R$/m³,3.27,25,3.27
+2021-03,AM,Norte,Diesel S10,R$/l,4.445,183,3.867
+2021-03,AM,Norte,GNV,R$/m³,3.792,5,3.792
+2021-03,AP,Norte,Diesel S10,R$/l,4.754,21,4.136
+2021-03,BA,Nordeste,Diesel S10,R$/l,4.323,562,3.761
+2021-03,BA,Nordeste,GNV,R$/m³,3.018,57,3.018
+2021-03,CE,Nordeste,Diesel S10,R$/l,4.414,559,3.84
+2021-03,CE,Nordeste,GNV,R$/m³,3.757,85,3.757
+2021-03,DF,Centro-Oeste,Diesel S10,R$/l,4.458,178,3.878
+2021-03,ES,Sudeste,Diesel S10,R$/l,4.184,214,3.64
+2021-03,ES,Sudeste,GNV,R$/m³,3.295,34,3.295
+2021-03,GO,Centro-Oeste,Diesel S10,R$/l,4.476,279,3.894
+2021-03,MA,Nordeste,Diesel S10,R$/l,4.3,257,3.741
+2021-03,MA,Nordeste,GNV,R$/m³,4.31,3,4.31
+2021-03,MG,Sudeste,Diesel S10,R$/l,4.338,784,3.774
+2021-03,MG,Sudeste,GNV,R$/m³,3.387,31,3.387
+2021-03,MS,Centro-Oeste,Diesel S10,R$/l,4.326,168,3.764
+2021-03,MS,Centro-Oeste,GNV,R$/m³,3.553,10,3.553
+2021-03,MT,Centro-Oeste,Diesel S10,R$/l,4.575,446,3.98
+2021-03,MT,Centro-Oeste,GNV,R$/m³,2.805,8,2.805
+2021-03,PA,Norte,Diesel S10,R$/l,4.471,196,3.89
+2021-03,PB,Nordeste,Diesel S10,R$/l,4.251,142,3.698
+2021-03,PB,Nordeste,GNV,R$/m³,3.324,30,3.324
+2021-03,PE,Nordeste,Diesel S10,R$/l,4.173,467,3.631
+2021-03,PE,Nordeste,GNV,R$/m³,2.968,87,2.968
+2021-03,PI,Nordeste,Diesel S10,R$/l,4.566,168,3.972
+2021-03,PR,Sul,Diesel S10,R$/l,4.087,683,3.556
+2021-03,PR,Sul,GNV,R$/m³,3.375,38,3.375
+2021-03,RJ,Sudeste,Diesel S10,R$/l,4.375,1010,3.806
+2021-03,RJ,Sudeste,GNV,R$/m³,3.156,501,3.156
+2021-03,RN,Nordeste,Diesel S10,R$/l,4.72,170,4.106
+2021-03,RN,Nordeste,GNV,R$/m³,3.566,29,3.566
+2021-03,RO,Norte,Diesel S10,R$/l,4.535,140,3.945
+2021-03,RR,Norte,Diesel S10,R$/l,4.603,58,4.005
+2021-03,RS,Sul,Diesel S10,R$/l,4.174,623,3.631
+2021-03,RS,Sul,GNV,R$/m³,3.921,72,3.921
+2021-03,SC,Sul,Diesel S10,R$/l,4.191,554,3.646
+2021-03,SC,Sul,GNV,R$/m³,3.494,152,3.494
+2021-03,SE,Nordeste,Diesel S10,R$/l,4.546,171,3.955
+2021-03,SE,Nordeste,GNV,R$/m³,3.199,12,3.199
+2021-03,SP,Sudeste,Diesel S10,R$/l,4.279,3776,3.723
+2021-03,SP,Sudeste,GNV,R$/m³,3.057,238,3.057
+2021-03,TO,Norte,Diesel S10,R$/l,4.346,83,3.781
+2021-04,AC,Norte,Diesel S10,R$/l,5.21,135,4.533
+2021-04,AL,Nordeste,Diesel S10,R$/l,4.547,117,3.956
+2021-04,AL,Nordeste,GNV,R$/m³,3.223,22,3.223
+2021-04,AM,Norte,Diesel S10,R$/l,4.382,177,3.812
+2021-04,AM,Norte,GNV,R$/m³,3.66,3,3.66
+2021-04,AP,Norte,Diesel S10,R$/l,4.645,18,4.041
+2021-04,BA,Nordeste,Diesel S10,R$/l,4.203,415,3.657
+2021-04,BA,Nordeste,GNV,R$/m³,3.046,56,3.046
+2021-04,CE,Nordeste,Diesel S10,R$/l,4.388,563,3.818
+2021-04,CE,Nordeste,GNV,R$/m³,3.743,69,3.743
+2021-04,DF,Centro-Oeste,Diesel S10,R$/l,4.348,142,3.783
+2021-04,ES,Sudeste,Diesel S10,R$/l,4.096,267,3.564
+2021-04,ES,Sudeste,GNV,R$/m³,3.311,48,3.311
+2021-04,GO,Centro-Oeste,Diesel S10,R$/l,4.425,273,3.85
+2021-04,MA,Nordeste,Diesel S10,R$/l,4.106,200,3.572
+2021-04,MG,Sudeste,Diesel S10,R$/l,4.303,761,3.744
+2021-04,MG,Sudeste,GNV,R$/m³,3.542,28,3.542
+2021-04,MS,Centro-Oeste,Diesel S10,R$/l,4.239,155,3.688
+2021-04,MS,Centro-Oeste,GNV,R$/m³,3.533,11,3.533
+2021-04,MT,Centro-Oeste,Diesel S10,R$/l,4.588,424,3.992
+2021-04,MT,Centro-Oeste,GNV,R$/m³,2.832,9,2.832
+2021-04,PA,Norte,Diesel S10,R$/l,4.427,150,3.851
+2021-04,PB,Nordeste,Diesel S10,R$/l,4.268,137,3.713
+2021-04,PB,Nordeste,GNV,R$/m³,3.364,27,3.364
+2021-04,PE,Nordeste,Diesel S10,R$/l,4.169,346,3.627
+2021-04,PE,Nordeste,GNV,R$/m³,2.959,60,2.959
+2021-04,PI,Nordeste,Diesel S10,R$/l,4.401,133,3.829
+2021-04,PR,Sul,Diesel S10,R$/l,4.047,561,3.521
+2021-04,PR,Sul,GNV,R$/m³,3.362,25,3.362
+2021-04,RJ,Sudeste,Diesel S10,R$/l,4.287,765,3.73
+2021-04,RJ,Sudeste,GNV,R$/m³,3.142,389,3.142
+2021-04,RN,Nordeste,Diesel S10,R$/l,4.688,112,4.079
+2021-04,RN,Nordeste,GNV,R$/m³,3.548,17,3.548
+2021-04,RO,Norte,Diesel S10,R$/l,4.51,123,3.924
+2021-04,RO,Norte,GNV,R$/m³,4.59,1,4.59
+2021-04,RR,Norte,Diesel S10,R$/l,4.583,40,3.987
+2021-04,RS,Sul,Diesel S10,R$/l,4.157,625,3.617
+2021-04,RS,Sul,GNV,R$/m³,4.112,78,4.112
+2021-04,SC,Sul,Diesel S10,R$/l,4.145,429,3.606
+2021-04,SC,Sul,GNV,R$/m³,3.495,121,3.495
+2021-04,SE,Nordeste,Diesel S10,R$/l,4.485,137,3.902
+2021-04,SE,Nordeste,GNV,R$/m³,3.198,9,3.198
+2021-04,SP,Sudeste,Diesel S10,R$/l,4.237,3370,3.686
+2021-04,SP,Sudeste,GNV,R$/m³,3.096,194,3.096
+2021-04,TO,Norte,Diesel S10,R$/l,4.333,73,3.77
+2021-05,AC,Norte,Diesel S10,R$/l,5.501,148,4.786
+2021-05,AL,Nordeste,Diesel S10,R$/l,4.786,123,4.164
+2021-05,AL,Nordeste,GNV,R$/m³,3.942,24,3.942
+2021-05,AM,Norte,Diesel S10,R$/l,4.489,185,3.905
+2021-05,AM,Norte,GNV,R$/m³,3.724,5,3.724
+2021-05,AP,Norte,Diesel S10,R$/l,4.782,24,4.16
+2021-05,BA,Nordeste,Diesel S10,R$/l,4.482,578,3.899
+2021-05,BA,Nordeste,GNV,R$/m³,3.62,77,3.62
+2021-05,CE,Nordeste,Diesel S10,R$/l,4.654,660,4.049
+2021-05,CE,Nordeste,GNV,R$/m³,4.266,78,4.266
+2021-05,DF,Centro-Oeste,Diesel S10,R$/l,4.612,115,4.012
+2021-05,ES,Sudeste,Diesel S10,R$/l,4.348,289,3.783
+2021-05,ES,Sudeste,GNV,R$/m³,3.973,60,3.973
+2021-05,GO,Centro-Oeste,Diesel S10,R$/l,4.603,292,4.005
+2021-05,MA,Nordeste,Diesel S10,R$/l,4.444,195,3.866
+2021-05,MG,Sudeste,Diesel S10,R$/l,4.582,862,3.986
+2021-05,MG,Sudeste,GNV,R$/m³,3.624,33,3.624
+2021-05,MS,Centro-Oeste,Diesel S10,R$/l,4.545,181,3.954
+2021-05,MS,Centro-Oeste,GNV,R$/m³,4.115,15,4.115
+2021-05,MT,Centro-Oeste,Diesel S10,R$/l,4.863,485,4.231
+2021-05,MT,Centro-Oeste,GNV,R$/m³,2.816,9,2.816
+2021-05,PA,Norte,Diesel S10,R$/l,4.723,186,4.109
+2021-05,PB,Nordeste,Diesel S10,R$/l,4.464,146,3.884
+2021-05,PB,Nordeste,GNV,R$/m³,3.967,29,3.967
+2021-05,PE,Nordeste,Diesel S10,R$/l,4.431,435,3.855
+2021-05,PE,Nordeste,GNV,R$/m³,3.593,74,3.593
+2021-05,PI,Nordeste,Diesel S10,R$/l,4.69,161,4.08
+2021-05,PR,Sul,Diesel S10,R$/l,4.332,666,3.769
+2021-05,PR,Sul,GNV,R$/m³,3.708,22,3.708
+2021-05,RJ,Sudeste,Diesel S10,R$/l,4.534,708,3.945
+2021-05,RJ,Sudeste,GNV,R$/m³,3.962,341,3.962
+2021-05,RN,Nordeste,Diesel S10,R$/l,4.879,102,4.245
+2021-05,RN,Nordeste,GNV,R$/m³,4.128,25,4.128
+2021-05,RO,Norte,Diesel S10,R$/l,4.66,114,4.054
+2021-05,RR,Norte,Diesel S10,R$/l,4.799,50,4.175
+2021-05,RS,Sul,Diesel S10,R$/l,4.425,662,3.85
+2021-05,RS,Sul,GNV,R$/m³,4.358,62,4.358
+2021-05,SC,Sul,Diesel S10,R$/l,4.404,521,3.831
+2021-05,SC,Sul,GNV,R$/m³,3.459,131,3.459
+2021-05,SE,Nordeste,Diesel S10,R$/l,4.75,101,4.132
+2021-05,SE,Nordeste,GNV,R$/m³,3.725,27,3.725
+2021-05,SP,Sudeste,Diesel S10,R$/l,4.506,4023,3.92
+2021-05,SP,Sudeste,GNV,R$/m³,3.151,217,3.151
+2021-05,TO,Norte,Diesel S10,R$/l,4.476,84,3.894
+2021-06,AC,Norte,Diesel S10,R$/l,5.568,178,4.844
+2021-06,AL,Nordeste,Diesel S10,R$/l,4.837,150,4.208
+2021-06,AL,Nordeste,GNV,R$/m³,4.181,25,4.181
+2021-06,AM,Norte,Diesel S10,R$/l,4.579,191,3.984
+2021-06,AM,Norte,GNV,R$/m³,3.79,4,3.79
+2021-06,AP,Norte,Diesel S10,R$/l,4.712,16,4.099
+2021-06,BA,Nordeste,Diesel S10,R$/l,4.611,677,4.012
+2021-06,BA,Nordeste,GNV,R$/m³,3.621,79,3.621
+2021-06,CE,Nordeste,Diesel S10,R$/l,4.687,695,4.078
+2021-06,CE,Nordeste,GNV,R$/m³,4.303,68,4.303
+2021-06,DF,Centro-Oeste,Diesel S10,R$/l,4.651,183,4.046
+2021-06,ES,Sudeste,Diesel S10,R$/l,4.467,311,3.886
+2021-06,ES,Sudeste,GNV,R$/m³,3.997,53,3.997
+2021-06,GO,Centro-Oeste,Diesel S10,R$/l,4.66,437,4.054
+2021-06,MA,Nordeste,Diesel S10,R$/l,4.569,261,3.975
+2021-06,MG,Sudeste,Diesel S10,R$/l,4.623,990,4.022
+2021-06,MG,Sudeste,GNV,R$/m³,4.007,36,4.007
+2021-06,MS,Centro-Oeste,Diesel S10,R$/l,4.539,192,3.949
+2021-06,MS,Centro-Oeste,GNV,R$/m³,4.092,10,4.092
+2021-06,MT,Centro-Oeste,Diesel S10,R$/l,4.893,512,4.257
+2021-06,MT,Centro-Oeste,GNV,R$/m³,2.832,9,2.832
+2021-06,PA,Norte,Diesel S10,R$/l,4.76,230,4.141
+2021-06,PB,Nordeste,Diesel S10,R$/l,4.518,172,3.931
+2021-06,PB,Nordeste,GNV,R$/m³,4.187,28,4.187
+2021-06,PE,Nordeste,Diesel S10,R$/l,4.486,523,3.903
+2021-06,PE,Nordeste,GNV,R$/m³,3.598,70,3.598
+2021-06,PI,Nordeste,Diesel S10,R$/l,4.722,211,4.108
+2021-06,PR,Sul,Diesel S10,R$/l,4.33,748,3.767
+2021-06,PR,Sul,GNV,R$/m³,3.893,23,3.893
+2021-06,RJ,Sudeste,Diesel S10,R$/l,4.578,909,3.983
+2021-06,RJ,Sudeste,GNV,R$/m³,3.976,413,3.976
+2021-06,RN,Nordeste,Diesel S10,R$/l,4.886,208,4.251
+2021-06,RN,Nordeste,GNV,R$/m³,4.229,35,4.229
+2021-06,RO,Norte,Diesel S10,R$/l,4.809,173,4.184
+2021-06,RR,Norte,Diesel S10,R$/l,4.824,59,4.197
+2021-06,RS,Sul,Diesel S10,R$/l,4.442,927,3.865
+2021-06,RS,Sul,GNV,R$/m³,4.347,76,4.347
+2021-06,SC,Sul,Diesel S10,R$/l,4.435,731,3.858
+2021-06,SC,Sul,GNV,R$/m³,3.483,170,3.483
+2021-06,SE,Nordeste,Diesel S10,R$/l,4.788,132,4.166
+2021-06,SE,Nordeste,GNV,R$/m³,3.779,42,3.779
+2021-06,SP,Sudeste,Diesel S10,R$/l,4.532,5065,3.943
+2021-06,SP,Sudeste,GNV,R$/m³,3.296,229,3.296
+2021-06,TO,Norte,Diesel S10,R$/l,4.497,85,3.912
+2021-07,AC,Norte,Diesel S10,R$/l,5.59,146,4.863
+2021-07,AL,Nordeste,Diesel S10,R$/l,4.911,146,4.273
+2021-07,AL,Nordeste,GNV,R$/m³,4.197,21,4.197
+2021-07,AM,Norte,Diesel S10,R$/l,4.647,158,4.043
+2021-07,AM,Norte,GNV,R$/m³,3.79,3,3.79
+2021-07,AP,Norte,Diesel S10,R$/l,4.757,20,4.139
+2021-07,BA,Nordeste,Diesel S10,R$/l,4.719,735,4.106
+2021-07,BA,Nordeste,GNV,R$/m³,3.665,88,3.665
+2021-07,CE,Nordeste,Diesel S10,R$/l,4.789,758,4.166
+2021-07,CE,Nordeste,GNV,R$/m³,4.303,81,4.303
+2021-07,DF,Centro-Oeste,Diesel S10,R$/l,4.75,143,4.132
+2021-07,ES,Sudeste,Diesel S10,R$/l,4.544,236,3.953
+2021-07,ES,Sudeste,GNV,R$/m³,3.999,40,3.999
+2021-07,GO,Centro-Oeste,Diesel S10,R$/l,4.751,416,4.133
+2021-07,MA,Nordeste,Diesel S10,R$/l,4.607,200,4.008
+2021-07,MG,Sudeste,Diesel S10,R$/l,4.687,1085,4.078
+2021-07,MG,Sudeste,GNV,R$/m³,4.127,26,4.127
+2021-07,MS,Centro-Oeste,Diesel S10,R$/l,4.715,142,4.102
+2021-07,MS,Centro-Oeste,GNV,R$/m³,4.079,10,4.079
+2021-07,MT,Centro-Oeste,Diesel S10,R$/l,5.002,436,4.352
+2021-07,MT,Centro-Oeste,GNV,R$/m³,2.824,8,2.824
+2021-07,PA,Norte,Diesel S10,R$/l,4.924,271,4.284
+2021-07,PB,Nordeste,Diesel S10,R$/l,4.61,176,4.011
+2021-07,PB,Nordeste,GNV,R$/m³,4.138,32,4.138
+2021-07,PE,Nordeste,Diesel S10,R$/l,4.562,564,3.969
+2021-07,PE,Nordeste,GNV,R$/m³,3.597,75,3.597
+2021-07,PI,Nordeste,Diesel S10,R$/l,4.82,177,4.193
+2021-07,PR,Sul,Diesel S10,R$/l,4.376,842,3.807
+2021-07,PR,Sul,GNV,R$/m³,3.808,22,3.808
+2021-07,RJ,Sudeste,Diesel S10,R$/l,4.611,906,4.012
+2021-07,RJ,Sudeste,GNV,R$/m³,3.932,379,3.932
+2021-07,RN,Nordeste,Diesel S10,R$/l,4.915,198,4.276
+2021-07,RN,Nordeste,GNV,R$/m³,4.313,42,4.313
+2021-07,RO,Norte,Diesel S10,R$/l,4.943,212,4.3
+2021-07,RR,Norte,Diesel S10,R$/l,4.842,52,4.213
+2021-07,RS,Sul,Diesel S10,R$/l,4.527,1086,3.938
+2021-07,RS,Sul,GNV,R$/m³,4.357,75,4.357
+2021-07,SC,Sul,Diesel S10,R$/l,4.519,730,3.932
+2021-07,SC,Sul,GNV,R$/m³,4.425,151,4.425
+2021-07,SE,Nordeste,Diesel S10,R$/l,4.827,98,4.199
+2021-07,SE,Nordeste,GNV,R$/m³,3.867,32,3.867
+2021-07,SP,Sudeste,Diesel S10,R$/l,4.59,4639,3.993
+2021-07,SP,Sudeste,GNV,R$/m³,3.328,210,3.328
+2021-07,TO,Norte,Diesel S10,R$/l,4.586,119,3.99
+2021-08,AC,Norte,Diesel S10,R$/l,5.603,166,4.875
+2021-08,AL,Nordeste,Diesel S10,R$/l,4.956,178,4.312
+2021-08,AL,Nordeste,GNV,R$/m³,4.272,23,4.272
+2021-08,AM,Norte,Diesel S10,R$/l,4.697,203,4.086
+2021-08,AM,Norte,GNV,R$/m³,3.99,5,3.99
+2021-08,AP,Norte,Diesel S10,R$/l,4.754,19,4.136
+2021-08,BA,Nordeste,Diesel S10,R$/l,4.736,637,4.12
+2021-08,BA,Nordeste,GNV,R$/m³,3.746,53,3.746
+2021-08,CE,Nordeste,Diesel S10,R$/l,4.847,886,4.217
+2021-08,CE,Nordeste,GNV,R$/m³,4.426,79,4.426
+2021-08,DF,Centro-Oeste,Diesel S10,R$/l,4.776,58,4.155
+2021-08,ES,Sudeste,Diesel S10,R$/l,4.55,282,3.958
+2021-08,ES,Sudeste,GNV,R$/m³,4.267,56,4.267
+2021-08,GO,Centro-Oeste,Diesel S10,R$/l,4.741,490,4.125
+2021-08,MA,Nordeste,Diesel S10,R$/l,4.623,185,4.022
+2021-08,MG,Sudeste,Diesel S10,R$/l,4.718,1362,4.105
+2021-08,MG,Sudeste,GNV,R$/m³,4.214,36,4.214
+2021-08,MS,Centro-Oeste,Diesel S10,R$/l,4.671,230,4.064
+2021-08,MS,Centro-Oeste,GNV,R$/m³,4.304,10,4.304
+2021-08,MT,Centro-Oeste,Diesel S10,R$/l,5.031,528,4.377
+2021-08,MT,Centro-Oeste,GNV,R$/m³,2.862,11,2.862
+2021-08,PA,Norte,Diesel S10,R$/l,4.905,315,4.267
+2021-08,PB,Nordeste,Diesel S10,R$/l,4.665,236,4.059
+2021-08,PB,Nordeste,GNV,R$/m³,4.271,40,4.271
+2021-08,PE,Nordeste,Diesel S10,R$/l,4.573,649,3.979
+2021-08,PE,Nordeste,GNV,R$/m³,3.729,85,3.729
+2021-08,PI,Nordeste,Diesel S10,R$/l,4.875,200,4.241
+2021-08,PR,Sul,Diesel S10,R$/l,4.412,971,3.838
+2021-08,PR,Sul,GNV,R$/m³,4.421,21,4.421
+2021-08,RJ,Sudeste,Diesel S10,R$/l,4.628,1060,4.026
+2021-08,RJ,Sudeste,GNV,R$/m³,4.021,472,4.021
+2021-08,RN,Nordeste,Diesel S10,R$/l,4.932,216,4.291
+2021-08,RN,Nordeste,GNV,R$/m³,4.343,37,4.343
+2021-08,RO,Norte,Diesel S10,R$/l,4.991,213,4.342
+2021-08,RR,Norte,Diesel S10,R$/l,4.862,53,4.23
+2021-08,RS,Sul,Diesel S10,R$/l,4.534,1229,3.945
+2021-08,RS,Sul,GNV,R$/m³,4.553,82,4.553
+2021-08,SC,Sul,Diesel S10,R$/l,4.562,760,3.969
+2021-08,SC,Sul,GNV,R$/m³,4.418,151,4.418
+2021-08,SE,Nordeste,Diesel S10,R$/l,4.837,109,4.208
+2021-08,SE,Nordeste,GNV,R$/m³,3.932,28,3.932
+2021-08,SP,Sudeste,Diesel S10,R$/l,4.62,5196,4.019
+2021-08,SP,Sudeste,GNV,R$/m³,3.354,236,3.354
+2021-08,TO,Norte,Diesel S10,R$/l,4.628,136,4.026
+2021-09,AC,Norte,Diesel S10,R$/l,5.636,171,4.903
+2021-09,AL,Nordeste,Diesel S10,R$/l,5.024,157,4.371
+2021-09,AL,Nordeste,GNV,R$/m³,4.413,20,4.413
+2021-09,AM,Norte,Diesel S10,R$/l,4.783,170,4.161
+2021-09,AM,Norte,GNV,R$/m³,3.99,3,3.99
+2021-09,AP,Norte,Diesel S10,R$/l,4.787,23,4.165
+2021-09,BA,Nordeste,Diesel S10,R$/l,4.826,602,4.199
+2021-09,BA,Nordeste,GNV,R$/m³,3.833,48,3.833
+2021-09,CE,Nordeste,Diesel S10,R$/l,4.882,814,4.247
+2021-09,CE,Nordeste,GNV,R$/m³,4.499,55,4.499
+2021-09,DF,Centro-Oeste,Diesel S10,R$/l,4.845,107,4.215
+2021-09,DF,Centro-Oeste,GNV,R$/m³,4.849,1,4.849
+2021-09,ES,Sudeste,Diesel S10,R$/l,4.642,223,4.039
+2021-09,ES,Sudeste,GNV,R$/m³,4.297,42,4.297
+2021-09,GO,Centro-Oeste,Diesel S10,R$/l,4.861,467,4.229
+2021-09,MA,Nordeste,Diesel S10,R$/l,4.782,166,4.16
+2021-09,MG,Sudeste,Diesel S10,R$/l,4.824,1443,4.197
+2021-09,MG,Sudeste,GNV,R$/m³,4.287,33,4.287
+2021-09,MS,Centro-Oeste,Diesel S10,R$/l,4.763,204,4.144
+2021-09,MS,Centro-Oeste,GNV,R$/m³,4.358,11,4.358
+2021-09,MT,Centro-Oeste,Diesel S10,R$/l,5.161,617,4.49
+2021-09,MT,Centro-Oeste,GNV,R$/m³,2.887,13,2.887
+2021-09,PA,Norte,Diesel S10,R$/l,5.06,313,4.402
+2021-09,PB,Nordeste,Diesel S10,R$/l,4.765,231,4.146
+2021-09,PB,Nordeste,GNV,R$/m³,4.297,36,4.297
+2021-09,PE,Nordeste,Diesel S10,R$/l,4.676,660,4.068
+2021-09,PE,Nordeste,GNV,R$/m³,3.73,82,3.73
+2021-09,PI,Nordeste,Diesel S10,R$/l,4.975,211,4.328
+2021-09,PR,Sul,Diesel S10,R$/l,4.504,886,3.918
+2021-09,PR,Sul,GNV,R$/m³,4.552,22,4.552
+2021-09,RJ,Sudeste,Diesel S10,R$/l,4.733,1098,4.118
+2021-09,RJ,Sudeste,GNV,R$/m³,4.041,460,4.041
+2021-09,RN,Nordeste,Diesel S10,R$/l,5.058,234,4.4
+2021-09,RN,Nordeste,GNV,R$/m³,4.622,36,4.622
+2021-09,RO,Norte,Diesel S10,R$/l,5.109,203,4.445
+2021-09,RR,Norte,Diesel S10,R$/l,4.955,55,4.311
+2021-09,RS,Sul,Diesel S10,R$/l,4.637,1194,4.034
+2021-09,RS,Sul,GNV,R$/m³,4.839,103,4.839
+2021-09,SC,Sul,Diesel S10,R$/l,4.649,691,4.045
+2021-09,SC,Sul,GNV,R$/m³,4.429,129,4.429
+2021-09,SE,Nordeste,Diesel S10,R$/l,4.901,117,4.264
+2021-09,SE,Nordeste,GNV,R$/m³,4.298,30,4.298
+2021-09,SP,Sudeste,Diesel S10,R$/l,4.716,4675,4.103
+2021-09,SP,Sudeste,GNV,R$/m³,3.756,195,3.756
+2021-09,TO,Norte,Diesel S10,R$/l,4.793,106,4.17
+2021-10,AC,Norte,Diesel S10,R$/l,5.866,153,5.103
+2021-10,AL,Nordeste,Diesel S10,R$/l,5.276,146,4.59
+2021-10,AL,Nordeste,GNV,R$/m³,4.465,24,4.465
+2021-10,AM,Norte,Diesel S10,R$/l,5.058,167,4.4
+2021-10,AM,Norte,GNV,R$/m³,3.99,3,3.99
+2021-10,AP,Norte,Diesel S10,R$/l,5.14,20,4.472
+2021-10,BA,Nordeste,Diesel S10,R$/l,5.18,714,4.507
+2021-10,BA,Nordeste,GNV,R$/m³,3.858,79,3.858
+2021-10,CE,Nordeste,Diesel S10,R$/l,5.338,755,4.644
+2021-10,CE,Nordeste,GNV,R$/m³,4.495,68,4.495
+2021-10,DF,Centro-Oeste,Diesel S10,R$/l,5.224,115,4.545
+2021-10,ES,Sudeste,Diesel S10,R$/l,4.915,246,4.276
+2021-10,ES,Sudeste,GNV,R$/m³,4.297,53,4.297
+2021-10,GO,Centro-Oeste,Diesel S10,R$/l,5.2,530,4.524
+2021-10,MA,Nordeste,Diesel S10,R$/l,5.121,189,4.455
+2021-10,MG,Sudeste,Diesel S10,R$/l,5.139,1319,4.471
+2021-10,MG,Sudeste,GNV,R$/m³,4.473,35,4.473
+2021-10,MS,Centro-Oeste,Diesel S10,R$/l,5.063,196,4.405
+2021-10,MS,Centro-Oeste,GNV,R$/m³,4.358,10,4.358
+2021-10,MT,Centro-Oeste,Diesel S10,R$/l,5.479,557,4.767
+2021-10,MT,Centro-Oeste,GNV,R$/m³,2.887,12,2.887
+2021-10,PA,Norte,Diesel S10,R$/l,5.337,295,4.643
+2021-10,PB,Nordeste,Diesel S10,R$/l,5.045,212,4.389
+2021-10,PB,Nordeste,GNV,R$/m³,4.399,40,4.399
+2021-10,PE,Nordeste,Diesel S10,R$/l,5.012,652,4.36
+2021-10,PE,Nordeste,GNV,R$/m³,3.736,90,3.736
+2021-10,PI,Nordeste,Diesel S10,R$/l,5.407,179,4.704
+2021-10,PR,Sul,Diesel S10,R$/l,4.827,916,4.199
+2021-10,PR,Sul,GNV,R$/m³,4.511,23,4.511
+2021-10,RJ,Sudeste,Diesel S10,R$/l,5.058,1030,4.4
+2021-10,RJ,Sudeste,GNV,R$/m³,4.032,466,4.032
+2021-10,RN,Nordeste,Diesel S10,R$/l,5.485,192,4.772
+2021-10,RN,Nordeste,GNV,R$/m³,4.757,30,4.757
+2021-10,RO,Norte,Diesel S10,R$/l,5.409,163,4.706
+2021-10,RR,Norte,Diesel S10,R$/l,5.292,51,4.604
+2021-10,RS,Sul,Diesel S10,R$/l,4.931,1000,4.29
+2021-10,RS,Sul,GNV,R$/m³,4.821,80,4.821
+2021-10,SC,Sul,Diesel S10,R$/l,4.972,717,4.326
+2021-10,SC,Sul,GNV,R$/m³,4.441,125,4.441
+2021-10,SE,Nordeste,Diesel S10,R$/l,5.239,144,4.558
+2021-10,SE,Nordeste,GNV,R$/m³,4.298,33,4.298
+2021-10,SP,Sudeste,Diesel S10,R$/l,5.026,4459,4.373
+2021-10,SP,Sudeste,GNV,R$/m³,3.792,201,3.792
+2021-10,TO,Norte,Diesel S10,R$/l,5.124,119,4.458
+2021-11,AC,Norte,Diesel S10,R$/l,6.181,162,5.377
+2021-11,AL,Nordeste,Diesel S10,R$/l,5.611,180,4.882
+2021-11,AL,Nordeste,GNV,R$/m³,4.675,23,4.675
+2021-11,AM,Norte,Diesel S10,R$/l,5.39,205,4.689
+2021-11,AM,Norte,GNV,R$/m³,4.14,4,4.14
+2021-11,AP,Norte,Diesel S10,R$/l,5.573,20,4.849
+2021-11,BA,Nordeste,Diesel S10,R$/l,5.53,900,4.811
+2021-11,BA,Nordeste,GNV,R$/m³,3.973,100,3.973
+2021-11,CE,Nordeste,Diesel S10,R$/l,5.73,785,4.985
+2021-11,CE,Nordeste,GNV,R$/m³,4.736,66,4.736
+2021-11,DF,Centro-Oeste,Diesel S10,R$/l,5.678,138,4.94
+2021-11,ES,Sudeste,Diesel S10,R$/l,5.184,341,4.51
+2021-11,ES,Sudeste,GNV,R$/m³,4.472,80,4.472
+2021-11,GO,Centro-Oeste,Diesel S10,R$/l,5.652,599,4.917
+2021-11,MA,Nordeste,Diesel S10,R$/l,5.431,275,4.725
+2021-11,MG,Sudeste,Diesel S10,R$/l,5.428,1436,4.722
+2021-11,MG,Sudeste,GNV,R$/m³,4.415,32,4.415
+2021-11,MS,Centro-Oeste,Diesel S10,R$/l,5.393,233,4.692
+2021-11,MS,Centro-Oeste,GNV,R$/m³,4.506,9,4.506
+2021-11,MT,Centro-Oeste,Diesel S10,R$/l,5.811,623,5.056
+2021-11,MT,Centro-Oeste,GNV,R$/m³,3.103,15,3.103
+2021-11,PA,Norte,Diesel S10,R$/l,5.672,352,4.935
+2021-11,PB,Nordeste,Diesel S10,R$/l,5.524,243,4.806
+2021-11,PB,Nordeste,GNV,R$/m³,4.729,47,4.729
+2021-11,PE,Nordeste,Diesel S10,R$/l,5.392,714,4.691
+2021-11,PE,Nordeste,GNV,R$/m³,3.956,101,3.956
+2021-11,PI,Nordeste,Diesel S10,R$/l,5.595,210,4.868
+2021-11,PR,Sul,Diesel S10,R$/l,5.187,1106,4.513
+2021-11,PR,Sul,GNV,R$/m³,4.336,25,4.336
+2021-11,RJ,Sudeste,Diesel S10,R$/l,5.333,1189,4.64
+2021-11,RJ,Sudeste,GNV,R$/m³,4.266,548,4.266
+2021-11,RN,Nordeste,Diesel S10,R$/l,5.826,198,5.069
+2021-11,RN,Nordeste,GNV,R$/m³,4.832,33,4.832
+2021-11,RO,Norte,Diesel S10,R$/l,5.744,141,4.997
+2021-11,RR,Norte,Diesel S10,R$/l,5.674,54,4.936
+2021-11,RS,Sul,Diesel S10,R$/l,5.332,1184,4.639
+2021-11,RS,Sul,GNV,R$/m³,4.83,87,4.83
+2021-11,SC,Sul,Diesel S10,R$/l,5.308,742,4.618
+2021-11,SC,Sul,GNV,R$/m³,4.445,159,4.445
+2021-11,SE,Nordeste,Diesel S10,R$/l,5.678,173,4.94
+2021-11,SE,Nordeste,GNV,R$/m³,4.484,42,4.484
+2021-11,SP,Sudeste,Diesel S10,R$/l,5.385,5259,4.685
+2021-11,SP,Sudeste,GNV,R$/m³,3.824,235,3.824
+2021-11,TO,Norte,Diesel S10,R$/l,5.448,127,4.74
+2021-12,AC,Norte,Diesel S10,R$/l,6.182,176,5.378
+2021-12,AL,Nordeste,Diesel S10,R$/l,5.582,155,4.856
+2021-12,AL,Nordeste,GNV,R$/m³,4.662,23,4.662
+2021-12,AM,Norte,Diesel S10,R$/l,5.387,160,4.687
+2021-12,AM,Norte,GNV,R$/m³,4.19,4,4.19
+2021-12,AP,Norte,Diesel S10,R$/l,5.564,34,4.841
+2021-12,BA,Nordeste,Diesel S10,R$/l,5.528,870,4.809
+2021-12,BA,Nordeste,GNV,R$/m³,4.047,108,4.047
+2021-12,CE,Nordeste,Diesel S10,R$/l,5.707,822,4.965
+2021-12,CE,Nordeste,GNV,R$/m³,4.885,74,4.885
+2021-12,DF,Centro-Oeste,Diesel S10,R$/l,5.601,174,4.873
+2021-12,ES,Sudeste,Diesel S10,R$/l,5.215,313,4.537
+2021-12,ES,Sudeste,GNV,R$/m³,4.489,76,4.489
+2021-12,GO,Centro-Oeste,Diesel S10,R$/l,5.546,591,4.825
+2021-12,MA,Nordeste,Diesel S10,R$/l,5.414,192,4.71
+2021-12,MG,Sudeste,Diesel S10,R$/l,5.392,1452,4.691
+2021-12,MG,Sudeste,GNV,R$/m³,4.396,33,4.396
+2021-12,MS,Centro-Oeste,Diesel S10,R$/l,5.366,258,4.668
+2021-12,MS,Centro-Oeste,GNV,R$/m³,4.483,17,4.483
+2021-12,MT,Centro-Oeste,Diesel S10,R$/l,5.796,601,5.043
+2021-12,MT,Centro-Oeste,GNV,R$/m³,3.194,12,3.194
+2021-12,PA,Norte,Diesel S10,R$/l,5.73,344,4.985
+2021-12,PB,Nordeste,Diesel S10,R$/l,5.532,231,4.813
+2021-12,PB,Nordeste,GNV,R$/m³,4.695,35,4.695
+2021-12,PE,Nordeste,Diesel S10,R$/l,5.389,721,4.688
+2021-12,PE,Nordeste,GNV,R$/m³,3.959,94,3.959
+2021-12,PI,Nordeste,Diesel S10,R$/l,5.549,214,4.828
+2021-12,PR,Sul,Diesel S10,R$/l,5.178,955,4.505
+2021-12,PR,Sul,GNV,R$/m³,4.401,18,4.401
+2021-12,RJ,Sudeste,Diesel S10,R$/l,5.309,1114,4.619
+2021-12,RJ,Sudeste,GNV,R$/m³,4.261,501,4.261
+2021-12,RN,Nordeste,Diesel S10,R$/l,5.837,164,5.078
+2021-12,RN,Nordeste,GNV,R$/m³,4.841,31,4.841
+2021-12,RO,Norte,Diesel S10,R$/l,5.747,167,5.0
+2021-12,RR,Norte,Diesel S10,R$/l,5.667,59,4.93
+2021-12,RS,Sul,Diesel S10,R$/l,5.318,1202,4.627
+2021-12,RS,Sul,GNV,R$/m³,4.834,101,4.834
+2021-12,SC,Sul,Diesel S10,R$/l,5.292,820,4.604
+2021-12,SC,Sul,GNV,R$/m³,4.44,151,4.44
+2021-12,SE,Nordeste,Diesel S10,R$/l,5.598,147,4.87
+2021-12,SE,Nordeste,GNV,R$/m³,4.498,34,4.498
+2021-12,SP,Sudeste,Diesel S10,R$/l,5.362,5074,4.665
+2021-12,SP,Sudeste,GNV,R$/m³,4.233,214,4.233
+2021-12,TO,Norte,Diesel S10,R$/l,5.397,138,4.695
+2022-01,AC,Norte,Diesel S10,R$/l,6.279,156,5.463
+2022-01,AL,Nordeste,Diesel S10,R$/l,5.648,160,4.914
+2022-01,AL,Nordeste,GNV,R$/m³,4.669,23,4.669
+2022-01,AM,Norte,Diesel S10,R$/l,5.548,192,4.827
+2022-01,AM,Norte,GNV,R$/m³,4.31,5,4.31
+2022-01,AP,Norte,Diesel S10,R$/l,5.696,29,4.956
+2022-01,BA,Nordeste,Diesel S10,R$/l,5.728,832,4.983
+2022-01,BA,Nordeste,GNV,R$/m³,4.07,109,4.07
+2022-01,CE,Nordeste,Diesel S10,R$/l,5.715,682,4.972
+2022-01,CE,Nordeste,GNV,R$/m³,4.875,65,4.875
+2022-01,DF,Centro-Oeste,Diesel S10,R$/l,5.623,148,4.892
+2022-01,ES,Sudeste,Diesel S10,R$/l,5.408,346,4.705
+2022-01,ES,Sudeste,GNV,R$/m³,4.493,71,4.493
+2022-01,GO,Centro-Oeste,Diesel S10,R$/l,5.656,614,4.921
+2022-01,MA,Nordeste,Diesel S10,R$/l,5.543,207,4.822
+2022-01,MG,Sudeste,Diesel S10,R$/l,5.555,1468,4.833
+2022-01,MG,Sudeste,GNV,R$/m³,4.487,31,4.487
+2022-01,MS,Centro-Oeste,Diesel S10,R$/l,5.53,196,4.811
+2022-01,MS,Centro-Oeste,GNV,R$/m³,4.45,7,4.45
+2022-01,MT,Centro-Oeste,Diesel S10,R$/l,5.988,484,5.21
+2022-01,MT,Centro-Oeste,GNV,R$/m³,3.193,11,3.193
+2022-01,PA,Norte,Diesel S10,R$/l,5.836,449,5.077
+2022-01,PB,Nordeste,Diesel S10,R$/l,5.616,237,4.886
+2022-01,PB,Nordeste,GNV,R$/m³,4.814,42,4.814
+2022-01,PE,Nordeste,Diesel S10,R$/l,5.434,643,4.728
+2022-01,PE,Nordeste,GNV,R$/m³,3.959,92,3.959
+2022-01,PI,Nordeste,Diesel S10,R$/l,5.695,207,4.955
+2022-01,PR,Sul,Diesel S10,R$/l,5.306,997,4.616
+2022-01,PR,Sul,GNV,R$/m³,4.397,20,4.397
+2022-01,RJ,Sudeste,Diesel S10,R$/l,5.468,988,4.757
+2022-01,RJ,Sudeste,GNV,R$/m³,4.242,491,4.242
+2022-01,RN,Nordeste,Diesel S10,R$/l,5.986,227,5.208
+2022-01,RN,Nordeste,GNV,R$/m³,4.874,30,4.874
+2022-01,RO,Norte,Diesel S10,R$/l,5.909,167,5.141
+2022-01,RR,Norte,Diesel S10,R$/l,5.811,47,5.056
+2022-01,RS,Sul,Diesel S10,R$/l,5.442,1190,4.735
+2022-01,RS,Sul,GNV,R$/m³,5.342,99,5.342
+2022-01,SC,Sul,Diesel S10,R$/l,5.461,779,4.751
+2022-01,SC,Sul,GNV,R$/m³,5.173,148,5.173
+2022-01,SE,Nordeste,Diesel S10,R$/l,5.681,148,4.942
+2022-01,SE,Nordeste,GNV,R$/m³,4.498,42,4.498
+2022-01,SP,Sudeste,Diesel S10,R$/l,5.515,4792,4.798
+2022-01,SP,Sudeste,GNV,R$/m³,4.505,209,4.505
+2022-01,TO,Norte,Diesel S10,R$/l,5.506,128,4.79
+2022-02,AC,Norte,Diesel S10,R$/l,6.369,154,5.541
+2022-02,AL,Nordeste,Diesel S10,R$/l,5.782,194,5.03
+2022-02,AL,Nordeste,GNV,R$/m³,4.872,28,4.872
+2022-02,AM,Norte,Diesel S10,R$/l,5.665,193,4.929
+2022-02,AM,Norte,GNV,R$/m³,4.39,4,4.39
+2022-02,AP,Norte,Diesel S10,R$/l,5.806,33,5.051
+2022-02,BA,Nordeste,Diesel S10,R$/l,5.893,801,5.127
+2022-02,BA,Nordeste,GNV,R$/m³,4.047,125,4.047
+2022-02,CE,Nordeste,Diesel S10,R$/l,5.799,664,5.045
+2022-02,CE,Nordeste,GNV,R$/m³,4.888,71,4.888
+2022-02,DF,Centro-Oeste,Diesel S10,R$/l,5.695,146,4.955
+2022-02,DF,Centro-Oeste,GNV,R$/m³,6.821,3,6.821
+2022-02,ES,Sudeste,Diesel S10,R$/l,5.471,352,4.76
+2022-02,ES,Sudeste,GNV,R$/m³,4.751,63,4.751
+2022-02,GO,Centro-Oeste,Diesel S10,R$/l,5.742,625,4.996
+2022-02,MA,Nordeste,Diesel S10,R$/l,5.67,289,4.933
+2022-02,MG,Sudeste,Diesel S10,R$/l,5.644,1403,4.91
+2022-02,MG,Sudeste,GNV,R$/m³,4.819,27,4.819
+2022-02,MS,Centro-Oeste,Diesel S10,R$/l,5.612,188,4.882
+2022-02,MS,Centro-Oeste,GNV,R$/m³,4.489,7,4.489
+2022-02,MT,Centro-Oeste,Diesel S10,R$/l,5.995,528,5.216
+2022-02,MT,Centro-Oeste,GNV,R$/m³,3.193,14,3.193
+2022-02,PA,Norte,Diesel S10,R$/l,5.894,456,5.128
+2022-02,PB,Nordeste,Diesel S10,R$/l,5.723,227,4.979
+2022-02,PB,Nordeste,GNV,R$/m³,5.147,35,5.147
+2022-02,PE,Nordeste,Diesel S10,R$/l,5.461,619,4.751
+2022-02,PE,Nordeste,GNV,R$/m³,3.958,87,3.958
+2022-02,PI,Nordeste,Diesel S10,R$/l,5.76,204,5.011
+2022-02,PR,Sul,Diesel S10,R$/l,5.431,1070,4.725
+2022-02,PR,Sul,GNV,R$/m³,5.414,25,5.414
+2022-02,RJ,Sudeste,Diesel S10,R$/l,5.609,928,4.88
+2022-02,RJ,Sudeste,GNV,R$/m³,4.508,439,4.508
+2022-02,RN,Nordeste,Diesel S10,R$/l,6.043,211,5.257
+2022-02,RN,Nordeste,GNV,R$/m³,4.644,31,4.644
+2022-02,RO,Norte,Diesel S10,R$/l,6.003,182,5.223
+2022-02,RR,Norte,Diesel S10,R$/l,5.943,46,5.17
+2022-02,RS,Sul,Diesel S10,R$/l,5.528,1280,4.809
+2022-02,RS,Sul,GNV,R$/m³,5.787,105,5.787
+2022-02,SC,Sul,Diesel S10,R$/l,5.549,778,4.828
+2022-02,SC,Sul,GNV,R$/m³,5.245,133,5.245
+2022-02,SE,Nordeste,Diesel S10,R$/l,5.714,151,4.971
+2022-02,SE,Nordeste,GNV,R$/m³,4.823,35,4.823
+2022-02,SP,Sudeste,Diesel S10,R$/l,5.614,4812,4.884
+2022-02,SP,Sudeste,GNV,R$/m³,4.431,211,4.431
+2022-02,TO,Norte,Diesel S10,R$/l,5.583,123,4.857
+2022-03,AC,Norte,Diesel S10,R$/l,7.06,176,6.142
+2022-03,AL,Nordeste,Diesel S10,R$/l,6.606,179,5.747
+2022-03,AL,Nordeste,GNV,R$/m³,4.551,28,4.551
+2022-03,AM,Norte,Diesel S10,R$/l,6.34,186,5.516
+2022-03,AM,Norte,GNV,R$/m³,4.39,4,4.39
+2022-03,AP,Norte,Diesel S10,R$/l,6.278,33,5.462
+2022-03,BA,Nordeste,Diesel S10,R$/l,6.745,911,5.868
+2022-03,BA,Nordeste,GNV,R$/m³,4.04,126,4.04
+2022-03,CE,Nordeste,Diesel S10,R$/l,6.553,890,5.701
+2022-03,CE,Nordeste,GNV,R$/m³,4.895,82,4.895
+2022-03,DF,Centro-Oeste,Diesel S10,R$/l,6.436,183,5.599
+2022-03,DF,Centro-Oeste,GNV,R$/m³,6.821,4,6.821
+2022-03,ES,Sudeste,Diesel S10,R$/l,6.014,443,5.232
+2022-03,ES,Sudeste,GNV,R$/m³,4.904,86,4.904
+2022-03,GO,Centro-Oeste,Diesel S10,R$/l,6.536,736,5.686
+2022-03,MA,Nordeste,Diesel S10,R$/l,6.611,374,5.752
+2022-03,MG,Sudeste,Diesel S10,R$/l,6.326,1813,5.504
+2022-03,MG,Sudeste,GNV,R$/m³,4.996,39,4.996
+2022-03,MS,Centro-Oeste,Diesel S10,R$/l,6.277,316,5.461
+2022-03,MS,Centro-Oeste,GNV,R$/m³,4.652,11,4.652
+2022-03,MT,Centro-Oeste,Diesel S10,R$/l,6.64,545,5.777
+2022-03,MT,Centro-Oeste,GNV,R$/m³,3.195,13,3.195
+2022-03,PA,Norte,Diesel S10,R$/l,6.677,448,5.809
+2022-03,PB,Nordeste,Diesel S10,R$/l,6.455,250,5.616
+2022-03,PB,Nordeste,GNV,R$/m³,5.182,32,5.182
+2022-03,PE,Nordeste,Diesel S10,R$/l,6.208,741,5.401
+2022-03,PE,Nordeste,GNV,R$/m³,3.96,95,3.96
+2022-03,PI,Nordeste,Diesel S10,R$/l,6.635,283,5.772
+2022-03,PR,Sul,Diesel S10,R$/l,6.256,1190,5.443
+2022-03,PR,Sul,GNV,R$/m³,5.532,22,5.532
+2022-03,RJ,Sudeste,Diesel S10,R$/l,6.288,1190,5.471
+2022-03,RJ,Sudeste,GNV,R$/m³,4.631,548,4.631
+2022-03,RN,Nordeste,Diesel S10,R$/l,6.61,281,5.751
+2022-03,RN,Nordeste,GNV,R$/m³,4.622,38,4.622
+2022-03,RO,Norte,Diesel S10,R$/l,6.563,205,5.71
+2022-03,RR,Norte,Diesel S10,R$/l,6.475,64,5.633
+2022-03,RS,Sul,Diesel S10,R$/l,6.204,1262,5.397
+2022-03,RS,Sul,GNV,R$/m³,5.793,81,5.793
+2022-03,SC,Sul,Diesel S10,R$/l,6.172,779,5.37
+2022-03,SC,Sul,GNV,R$/m³,5.226,133,5.226
+2022-03,SE,Nordeste,Diesel S10,R$/l,6.469,198,5.628
+2022-03,SE,Nordeste,GNV,R$/m³,4.901,42,4.901
+2022-03,SP,Sudeste,Diesel S10,R$/l,6.292,5324,5.474
+2022-03,SP,Sudeste,GNV,R$/m³,4.927,231,4.927
+2022-03,TO,Norte,Diesel S10,R$/l,6.484,154,5.641
+2022-04,AC,Norte,Diesel S10,R$/l,7.473,151,6.502
+2022-04,AL,Nordeste,Diesel S10,R$/l,6.863,200,5.971
+2022-04,AL,Nordeste,GNV,R$/m³,4.537,38,4.537
+2022-04,AM,Norte,Diesel S10,R$/l,6.594,190,5.737
+2022-04,AM,Norte,GNV,R$/m³,4.39,3,4.39
+2022-04,AP,Norte,Diesel S10,R$/l,6.731,33,5.856
+2022-04,BA,Nordeste,Diesel S10,R$/l,6.966,977,6.06
+2022-04,BA,Nordeste,GNV,R$/m³,4.053,109,4.053
+2022-04,CE,Nordeste,Diesel S10,R$/l,6.958,782,6.053
+2022-04,CE,Nordeste,GNV,R$/m³,4.897,66,4.897
+2022-04,DF,Centro-Oeste,Diesel S10,R$/l,6.904,140,6.006
+2022-04,DF,Centro-Oeste,GNV,R$/m³,6.823,4,6.823
+2022-04,ES,Sudeste,Diesel S10,R$/l,6.501,341,5.656
+2022-04,ES,Sudeste,GNV,R$/m³,4.875,67,4.875
+2022-04,GO,Centro-Oeste,Diesel S10,R$/l,6.851,647,5.96
+2022-04,MA,Nordeste,Diesel S10,R$/l,6.906,448,6.008
+2022-04,MA,Nordeste,GNV,R$/m³,5.0,1,5.0
+2022-04,MG,Sudeste,Diesel S10,R$/l,6.742,1580,5.866
+2022-04,MG,Sudeste,GNV,R$/m³,4.978,34,4.978
+2022-04,MS,Centro-Oeste,Diesel S10,R$/l,6.697,287,5.826
+2022-04,MS,Centro-Oeste,GNV,R$/m³,4.645,10,4.645
+2022-04,MT,Centro-Oeste,Diesel S10,R$/l,7.06,451,6.142
+2022-04,MT,Centro-Oeste,GNV,R$/m³,3.194,12,3.194
+2022-04,PA,Norte,Diesel S10,R$/l,6.989,405,6.08
+2022-04,PB,Nordeste,Diesel S10,R$/l,6.792,236,5.909
+2022-04,PB,Nordeste,GNV,R$/m³,5.178,31,5.178
+2022-04,PE,Nordeste,Diesel S10,R$/l,6.532,672,5.683
+2022-04,PE,Nordeste,GNV,R$/m³,3.96,87,3.96
+2022-04,PI,Nordeste,Diesel S10,R$/l,7.115,246,6.19
+2022-04,PR,Sul,Diesel S10,R$/l,6.627,1100,5.765
+2022-04,PR,Sul,GNV,R$/m³,5.611,19,5.611
+2022-04,RJ,Sudeste,Diesel S10,R$/l,6.618,1016,5.758
+2022-04,RJ,Sudeste,GNV,R$/m³,4.646,482,4.646
+2022-04,RN,Nordeste,Diesel S10,R$/l,6.959,230,6.054
+2022-04,RN,Nordeste,GNV,R$/m³,4.619,31,4.619
+2022-04,RO,Norte,Diesel S10,R$/l,6.933,214,6.032
+2022-04,RR,Norte,Diesel S10,R$/l,6.931,52,6.03
+2022-04,RS,Sul,Diesel S10,R$/l,6.487,1213,5.644
+2022-04,RS,Sul,GNV,R$/m³,6.004,92,6.004
+2022-04,SC,Sul,Diesel S10,R$/l,6.573,709,5.719
+2022-04,SC,Sul,GNV,R$/m³,5.258,131,5.258
+2022-04,SE,Nordeste,Diesel S10,R$/l,6.81,170,5.925
+2022-04,SE,Nordeste,GNV,R$/m³,4.905,32,4.905
+2022-04,SP,Sudeste,Diesel S10,R$/l,6.647,4727,5.783
+2022-04,SP,Sudeste,GNV,R$/m³,5.091,210,5.091
+2022-04,TO,Norte,Diesel S10,R$/l,6.689,142,5.819
+2022-05,AC,Norte,Diesel S10,R$/l,7.65,149,6.656
+2022-05,AL,Nordeste,Diesel S10,R$/l,6.95,255,6.046
+2022-05,AL,Nordeste,GNV,R$/m³,4.67,42,4.67
+2022-05,AM,Norte,Diesel S10,R$/l,6.79,230,5.907
+2022-05,AM,Norte,GNV,R$/m³,4.39,7,4.39
+2022-05,AP,Norte,Diesel S10,R$/l,6.98,57,6.073
+2022-05,BA,Nordeste,Diesel S10,R$/l,7.42,1240,6.455
+2022-05,BA,Nordeste,GNV,R$/m³,4.62,118,4.62
+2022-05,CE,Nordeste,Diesel S10,R$/l,7.31,843,6.36
+2022-05,CE,Nordeste,GNV,R$/m³,5.7,58,5.7
+2022-05,DF,Centro-Oeste,Diesel S10,R$/l,7.02,156,6.107
+2022-05,DF,Centro-Oeste,GNV,R$/m³,7.02,4,7.02
+2022-05,ES,Sudeste,Diesel S10,R$/l,6.74,449,5.864
+2022-05,ES,Sudeste,GNV,R$/m³,5.47,73,5.47
+2022-05,GO,Centro-Oeste,Diesel S10,R$/l,7.06,753,6.142
+2022-05,MA,Nordeste,Diesel S10,R$/l,7.15,442,6.22
+2022-05,MG,Sudeste,Diesel S10,R$/l,6.94,1857,6.038
+2022-05,MG,Sudeste,GNV,R$/m³,5.52,31,5.52
+2022-05,MS,Centro-Oeste,Diesel S10,R$/l,6.94,320,6.038
+2022-05,MS,Centro-Oeste,GNV,R$/m³,5.31,17,5.31
+2022-05,MT,Centro-Oeste,Diesel S10,R$/l,7.27,562,6.325
+2022-05,MT,Centro-Oeste,GNV,R$/m³,3.19,15,3.19
+2022-05,PA,Norte,Diesel S10,R$/l,7.23,524,6.29
+2022-05,PB,Nordeste,Diesel S10,R$/l,7.01,275,6.099
+2022-05,PB,Nordeste,GNV,R$/m³,5.49,38,5.49
+2022-05,PE,Nordeste,Diesel S10,R$/l,6.8,815,5.916
+2022-05,PE,Nordeste,GNV,R$/m³,4.37,104,4.37
+2022-05,PI,Nordeste,Diesel S10,R$/l,7.37,270,6.412
+2022-05,PR,Sul,Diesel S10,R$/l,6.89,1221,5.994
+2022-05,PR,Sul,GNV,R$/m³,5.97,25,5.97
+2022-05,RJ,Sudeste,Diesel S10,R$/l,6.87,1360,5.977
+2022-05,RJ,Sudeste,GNV,R$/m³,5.35,647,5.35
+2022-05,RN,Nordeste,Diesel S10,R$/l,7.24,273,6.299
+2022-05,RN,Nordeste,GNV,R$/m³,4.62,38,4.62
+2022-05,RO,Norte,Diesel S10,R$/l,7.22,247,6.281
+2022-05,RR,Norte,Diesel S10,R$/l,7.19,59,6.255
+2022-05,RS,Sul,Diesel S10,R$/l,6.71,1382,5.838
+2022-05,RS,Sul,GNV,R$/m³,6.43,99,6.43
+2022-05,SC,Sul,Diesel S10,R$/l,6.79,800,5.907
+2022-05,SC,Sul,GNV,R$/m³,5.26,129,5.26
+2022-05,SE,Nordeste,Diesel S10,R$/l,6.98,205,6.073
+2022-05,SE,Nordeste,GNV,R$/m³,4.91,31,4.91
+2022-05,SP,Sudeste,Diesel S10,R$/l,6.85,5313,5.959
+2022-05,SP,Sudeste,GNV,R$/m³,5.15,264,5.15
+2022-05,TO,Norte,Diesel S10,R$/l,6.96,149,6.055
+2022-06,AC,Norte,Diesel S10,R$/l,8.06,185,7.012
+2022-06,AL,Nordeste,Diesel S10,R$/l,7.42,216,6.455
+2022-06,AL,Nordeste,GNV,R$/m³,4.7,44,4.7
+2022-06,AM,Norte,Diesel S10,R$/l,7.26,236,6.316
+2022-06,AM,Norte,GNV,R$/m³,4.39,8,4.39
+2022-06,AP,Norte,Diesel S10,R$/l,7.36,49,6.403
+2022-06,BA,Nordeste,Diesel S10,R$/l,7.79,1256,6.777
+2022-06,BA,Nordeste,GNV,R$/m³,4.76,117,4.76
+2022-06,CE,Nordeste,Diesel S10,R$/l,7.57,970,6.586
+2022-06,CE,Nordeste,GNV,R$/m³,5.78,75,5.78
+2022-06,DF,Centro-Oeste,Diesel S10,R$/l,7.32,180,6.368
+2022-06,DF,Centro-Oeste,GNV,R$/m³,7.09,5,7.09
+2022-06,ES,Sudeste,Diesel S10,R$/l,7.09,370,6.168
+2022-06,ES,Sudeste,GNV,R$/m³,5.46,76,5.46
+2022-06,GO,Centro-Oeste,Diesel S10,R$/l,7.34,717,6.386
+2022-06,MA,Nordeste,Diesel S10,R$/l,7.45,539,6.482
+2022-06,MG,Sudeste,Diesel S10,R$/l,7.3,1835,6.351
+2022-06,MG,Sudeste,GNV,R$/m³,5.56,36,5.56
+2022-06,MS,Centro-Oeste,Diesel S10,R$/l,7.2,304,6.264
+2022-06,MS,Centro-Oeste,GNV,R$/m³,5.2,17,5.2
+2022-06,MT,Centro-Oeste,Diesel S10,R$/l,7.59,615,6.603
+2022-06,MT,Centro-Oeste,GNV,R$/m³,3.19,12,3.19
+2022-06,PA,Norte,Diesel S10,R$/l,7.56,476,6.577
+2022-06,PB,Nordeste,Diesel S10,R$/l,7.39,262,6.429
+2022-06,PB,Nordeste,GNV,R$/m³,5.48,35,5.48
+2022-06,PE,Nordeste,Diesel S10,R$/l,7.17,738,6.238
+2022-06,PE,Nordeste,GNV,R$/m³,4.31,92,4.31
+2022-06,PI,Nordeste,Diesel S10,R$/l,7.53,266,6.551
+2022-06,PR,Sul,Diesel S10,R$/l,7.21,1280,6.273
+2022-06,PR,Sul,GNV,R$/m³,6.59,22,6.59
+2022-06,RJ,Sudeste,Diesel S10,R$/l,7.24,1363,6.299
+2022-06,RJ,Sudeste,GNV,R$/m³,5.34,660,5.34
+2022-06,RN,Nordeste,Diesel S10,R$/l,7.67,238,6.673
+2022-06,RN,Nordeste,GNV,R$/m³,4.61,37,4.61
+2022-06,RO,Norte,Diesel S10,R$/l,7.67,267,6.673
+2022-06,RR,Norte,Diesel S10,R$/l,7.58,57,6.595
+2022-06,RS,Sul,Diesel S10,R$/l,7.08,1404,6.16
+2022-06,RS,Sul,GNV,R$/m³,6.47,109,6.47
+2022-06,SC,Sul,Diesel S10,R$/l,7.18,873,6.247
+2022-06,SC,Sul,GNV,R$/m³,5.22,156,5.22
+2022-06,SE,Nordeste,Diesel S10,R$/l,7.15,186,6.22
+2022-06,SE,Nordeste,GNV,R$/m³,5.4,38,5.4
+2022-06,SP,Sudeste,Diesel S10,R$/l,7.2,5172,6.264
+2022-06,SP,Sudeste,GNV,R$/m³,5.68,224,5.68
+2022-06,TO,Norte,Diesel S10,R$/l,7.19,155,6.255
+2022-07,AC,Norte,Diesel S10,R$/l,8.21,148,7.143
+2022-07,AL,Nordeste,Diesel S10,R$/l,7.56,204,6.577
+2022-07,AL,Nordeste,GNV,R$/m³,4.42,32,4.42
+2022-07,AM,Norte,Diesel S10,R$/l,7.54,226,6.56
+2022-07,AM,Norte,GNV,R$/m³,4.23,10,4.23
+2022-07,AP,Norte,Diesel S10,R$/l,7.72,39,6.716
+2022-07,BA,Nordeste,Diesel S10,R$/l,7.57,1164,6.586
+2022-07,BA,Nordeste,GNV,R$/m³,4.52,106,4.52
+2022-07,CE,Nordeste,Diesel S10,R$/l,7.79,779,6.777
+2022-07,CE,Nordeste,GNV,R$/m³,5.6,60,5.6
+2022-07,DF,Centro-Oeste,Diesel S10,R$/l,7.6,155,6.612
+2022-07,DF,Centro-Oeste,GNV,R$/m³,6.37,4,6.37
+2022-07,ES,Sudeste,Diesel S10,R$/l,7.45,321,6.482
+2022-07,ES,Sudeste,GNV,R$/m³,4.97,58,4.97
+2022-07,GO,Centro-Oeste,Diesel S10,R$/l,7.63,716,6.638
+2022-07,MA,Nordeste,Diesel S10,R$/l,7.73,448,6.725
+2022-07,MG,Sudeste,Diesel S10,R$/l,7.6,1685,6.612
+2022-07,MG,Sudeste,GNV,R$/m³,5.23,29,5.23
+2022-07,MS,Centro-Oeste,Diesel S10,R$/l,7.49,278,6.516
+2022-07,MS,Centro-Oeste,GNV,R$/m³,4.9,11,4.9
+2022-07,MT,Centro-Oeste,Diesel S10,R$/l,7.82,541,6.803
+2022-07,MT,Centro-Oeste,GNV,R$/m³,3.62,15,3.62
+2022-07,PA,Norte,Diesel S10,R$/l,7.81,452,6.795
+2022-07,PB,Nordeste,Diesel S10,R$/l,7.62,234,6.629
+2022-07,PB,Nordeste,GNV,R$/m³,5.11,33,5.11
+2022-07,PE,Nordeste,Diesel S10,R$/l,7.4,691,6.438
+2022-07,PE,Nordeste,GNV,R$/m³,4.09,84,4.09
+2022-07,PI,Nordeste,Diesel S10,R$/l,7.6,249,6.612
+2022-07,PR,Sul,Diesel S10,R$/l,7.5,1132,6.525
+2022-07,PR,Sul,GNV,R$/m³,6.03,20,6.03
+2022-07,RJ,Sudeste,Diesel S10,R$/l,7.53,1243,6.551
+2022-07,RJ,Sudeste,GNV,R$/m³,5.03,582,5.03
+2022-07,RN,Nordeste,Diesel S10,R$/l,7.87,223,6.847
+2022-07,RN,Nordeste,GNV,R$/m³,4.46,34,4.46
+2022-07,RO,Norte,Diesel S10,R$/l,7.86,255,6.838
+2022-07,RR,Norte,Diesel S10,R$/l,7.93,52,6.899
+2022-07,RS,Sul,Diesel S10,R$/l,7.42,1211,6.455
+2022-07,RS,Sul,GNV,R$/m³,6.18,96,6.18
+2022-07,SC,Sul,Diesel S10,R$/l,7.49,777,6.516
+2022-07,SC,Sul,GNV,R$/m³,6.02,138,6.02
+2022-07,SE,Nordeste,Diesel S10,R$/l,7.32,169,6.368
+2022-07,SE,Nordeste,GNV,R$/m³,5.15,37,5.15
+2022-07,SP,Sudeste,Diesel S10,R$/l,7.53,4647,6.551
+2022-07,SP,Sudeste,GNV,R$/m³,5.48,209,5.48
+2022-07,TO,Norte,Diesel S10,R$/l,7.44,137,6.473
+2022-08,AC,Norte,Diesel S10,R$/l,7.9,183,6.873
+2022-08,AL,Nordeste,Diesel S10,R$/l,7.1,239,6.177
+2022-08,AL,Nordeste,GNV,R$/m³,4.46,45,4.46
+2022-08,AM,Norte,Diesel S10,R$/l,7.3,287,6.351
+2022-08,AM,Norte,GNV,R$/m³,3.99,13,3.99
+2022-08,AP,Norte,Diesel S10,R$/l,7.45,57,6.482
+2022-08,BA,Nordeste,Diesel S10,R$/l,7.05,1381,6.134
+2022-08,BA,Nordeste,GNV,R$/m³,4.46,130,4.46
+2022-08,CE,Nordeste,Diesel S10,R$/l,7.29,1018,6.342
+2022-08,CE,Nordeste,GNV,R$/m³,5.32,76,5.32
+2022-08,DF,Centro-Oeste,Diesel S10,R$/l,7.23,192,6.29
+2022-08,DF,Centro-Oeste,GNV,R$/m³,6.32,4,6.32
+2022-08,ES,Sudeste,Diesel S10,R$/l,7.14,401,6.212
+2022-08,ES,Sudeste,GNV,R$/m³,5.06,64,5.06
+2022-08,GO,Centro-Oeste,Diesel S10,R$/l,7.26,893,6.316
+2022-08,MA,Nordeste,Diesel S10,R$/l,7.32,505,6.368
+2022-08,MG,Sudeste,Diesel S10,R$/l,7.23,2018,6.29
+2022-08,MG,Sudeste,GNV,R$/m³,5.5,40,5.5
+2022-08,MS,Centro-Oeste,Diesel S10,R$/l,7.18,330,6.247
+2022-08,MS,Centro-Oeste,GNV,R$/m³,4.91,22,4.91
+2022-08,MT,Centro-Oeste,Diesel S10,R$/l,7.5,625,6.525
+2022-08,MT,Centro-Oeste,GNV,R$/m³,3.18,14,3.18
+2022-08,PA,Norte,Diesel S10,R$/l,7.49,544,6.516
+2022-08,PB,Nordeste,Diesel S10,R$/l,7.14,295,6.212
+2022-08,PB,Nordeste,GNV,R$/m³,5.11,42,5.11
+2022-08,PE,Nordeste,Diesel S10,R$/l,6.98,859,6.073
+2022-08,PE,Nordeste,GNV,R$/m³,4.22,107,4.22
+2022-08,PI,Nordeste,Diesel S10,R$/l,7.22,289,6.281
+2022-08,PR,Sul,Diesel S10,R$/l,7.04,1389,6.125
+2022-08,PR,Sul,GNV,R$/m³,5.97,21,5.97
+2022-08,RJ,Sudeste,Diesel S10,R$/l,7.23,1528,6.29
+2022-08,RJ,Sudeste,GNV,R$/m³,4.96,716,4.96
+2022-08,RN,Nordeste,Diesel S10,R$/l,7.47,285,6.499
+2022-08,RN,Nordeste,GNV,R$/m³,4.41,42,4.41
+2022-08,RO,Norte,Diesel S10,R$/l,7.54,300,6.56
+2022-08,RR,Norte,Diesel S10,R$/l,7.69,65,6.69
+2022-08,RS,Sul,Diesel S10,R$/l,7.06,1408,6.142
+2022-08,RS,Sul,GNV,R$/m³,6.01,96,6.01
+2022-08,SC,Sul,Diesel S10,R$/l,7.14,919,6.212
+2022-08,SC,Sul,GNV,R$/m³,5.95,160,5.95
+2022-08,SE,Nordeste,Diesel S10,R$/l,6.77,217,5.89
+2022-08,SE,Nordeste,GNV,R$/m³,5.15,39,5.15
+2022-08,SP,Sudeste,Diesel S10,R$/l,7.2,5692,6.264
+2022-08,SP,Sudeste,GNV,R$/m³,5.44,258,5.44
+2022-08,TO,Norte,Diesel S10,R$/l,7.09,171,6.168
+2022-09,AC,Norte,Diesel S10,R$/l,7.75,57,6.742
+2022-09,AL,Nordeste,Diesel S10,R$/l,6.85,130,5.959
+2022-09,AL,Nordeste,GNV,R$/m³,4.43,24,4.43
+2022-09,AM,Norte,Diesel S10,R$/l,6.93,157,6.029
+2022-09,AM,Norte,GNV,R$/m³,3.99,4,3.99
+2022-09,AP,Norte,Diesel S10,R$/l,7.25,15,6.308
+2022-09,BA,Nordeste,Diesel S10,R$/l,7.11,621,6.186
+2022-09,BA,Nordeste,GNV,R$/m³,4.41,54,4.41
+2022-09,CE,Nordeste,Diesel S10,R$/l,6.97,432,6.064
+2022-09,CE,Nordeste,GNV,R$/m³,4.94,49,4.94
+2022-09,DF,Centro-Oeste,Diesel S10,R$/l,6.9,86,6.003
+2022-09,DF,Centro-Oeste,GNV,R$/m³,6.19,2,6.19
+2022-09,ES,Sudeste,Diesel S10,R$/l,6.84,218,5.951
+2022-09,ES,Sudeste,GNV,R$/m³,5.11,49,5.11
+2022-09,GO,Centro-Oeste,Diesel S10,R$/l,6.93,409,6.029
+2022-09,MA,Nordeste,Diesel S10,R$/l,6.98,287,6.073
+2022-09,MG,Sudeste,Diesel S10,R$/l,6.99,899,6.081
+2022-09,MG,Sudeste,GNV,R$/m³,5.47,18,5.47
+2022-09,MS,Centro-Oeste,Diesel S10,R$/l,6.92,166,6.02
+2022-09,MS,Centro-Oeste,GNV,R$/m³,4.93,7,4.93
+2022-09,MT,Centro-Oeste,Diesel S10,R$/l,7.24,301,6.299
+2022-09,MT,Centro-Oeste,GNV,R$/m³,3.18,6,3.18
+2022-09,PA,Norte,Diesel S10,R$/l,7.25,237,6.308
+2022-09,PB,Nordeste,Diesel S10,R$/l,6.78,129,5.899
+2022-09,PB,Nordeste,GNV,R$/m³,5.11,19,5.11
+2022-09,PE,Nordeste,Diesel S10,R$/l,6.7,268,5.829
+2022-09,PE,Nordeste,GNV,R$/m³,4.23,22,4.23
+2022-09,PI,Nordeste,Diesel S10,R$/l,6.87,163,5.977
+2022-09,PR,Sul,Diesel S10,R$/l,6.75,549,5.872
+2022-09,PR,Sul,GNV,R$/m³,5.99,12,5.99
+2022-09,RJ,Sudeste,Diesel S10,R$/l,6.95,610,6.046
+2022-09,RJ,Sudeste,GNV,R$/m³,4.91,300,4.91
+2022-09,RN,Nordeste,Diesel S10,R$/l,7.07,123,6.151
+2022-09,RN,Nordeste,GNV,R$/m³,4.34,21,4.34
+2022-09,RO,Norte,Diesel S10,R$/l,7.3,149,6.351
+2022-09,RR,Norte,Diesel S10,R$/l,7.37,41,6.412
+2022-09,RS,Sul,Diesel S10,R$/l,6.82,725,5.933
+2022-09,RS,Sul,GNV,R$/m³,5.84,62,5.84
+2022-09,SC,Sul,Diesel S10,R$/l,6.89,435,5.994
+2022-09,SC,Sul,GNV,R$/m³,5.92,80,5.92
+2022-09,SE,Nordeste,Diesel S10,R$/l,6.61,101,5.751
+2022-09,SE,Nordeste,GNV,R$/m³,5.15,22,5.15
+2022-09,SP,Sudeste,Diesel S10,R$/l,6.91,2573,6.012
+2022-09,SP,Sudeste,GNV,R$/m³,5.36,119,5.36
+2022-09,TO,Norte,Diesel S10,R$/l,6.77,87,5.89
+2022-10,AC,Norte,Diesel S10,R$/l,7.47,48,6.499
+2022-10,AL,Nordeste,Diesel S10,R$/l,6.6,34,5.742
+2022-10,AL,Nordeste,GNV,R$/m³,4.41,32,4.41
+2022-10,AM,Norte,Diesel S10,R$/l,6.69,139,5.82
+2022-10,AM,Norte,GNV,R$/m³,3.99,4,3.99
+2022-10,AP,Norte,Diesel S10,R$/l,7.0,26,6.09
+2022-10,BA,Nordeste,Diesel S10,R$/l,7.19,65,6.255
+2022-10,BA,Nordeste,GNV,R$/m³,4.32,17,4.32
+2022-10,CE,Nordeste,Diesel S10,R$/l,6.88,219,5.986
+2022-10,CE,Nordeste,GNV,R$/m³,4.64,58,4.64
+2022-10,DF,Centro-Oeste,Diesel S10,R$/l,6.68,108,5.812
+2022-10,DF,Centro-Oeste,GNV,R$/m³,6.24,2,6.24
+2022-10,ES,Sudeste,Diesel S10,R$/l,6.52,185,5.672
+2022-10,ES,Sudeste,GNV,R$/m³,5.0,57,5.0
+2022-10,GO,Centro-Oeste,Diesel S10,R$/l,6.66,220,5.794
+2022-10,MA,Nordeste,Diesel S10,R$/l,6.81,143,5.925
+2022-10,MG,Sudeste,Diesel S10,R$/l,6.61,531,5.751
+2022-10,MG,Sudeste,GNV,R$/m³,5.39,38,5.39
+2022-10,MS,Centro-Oeste,Diesel S10,R$/l,6.56,134,5.707
+2022-10,MS,Centro-Oeste,GNV,R$/m³,4.99,6,4.99
+2022-10,MT,Centro-Oeste,Diesel S10,R$/l,6.79,90,5.907
+2022-10,MT,Centro-Oeste,GNV,R$/m³,3.19,4,3.19
+2022-10,PA,Norte,Diesel S10,R$/l,6.92,106,6.02
+2022-10,PB,Nordeste,Diesel S10,R$/l,6.47,112,5.629
+2022-10,PB,Nordeste,GNV,R$/m³,4.98,17,4.98
+2022-10,PE,Nordeste,Diesel S10,R$/l,6.59,158,5.733
+2022-10,PE,Nordeste,GNV,R$/m³,4.23,32,4.23
+2022-10,PI,Nordeste,Diesel S10,R$/l,6.75,123,5.872
+2022-10,PR,Sul,Diesel S10,R$/l,6.57,329,5.716
+2022-10,PR,Sul,GNV,R$/m³,6.01,21,6.01
+2022-10,RJ,Sudeste,Diesel S10,R$/l,6.59,372,5.733
+2022-10,RJ,Sudeste,GNV,R$/m³,4.82,348,4.82
+2022-10,RN,Nordeste,Diesel S10,R$/l,6.96,84,6.055
+2022-10,RN,Nordeste,GNV,R$/m³,4.28,29,4.28
+2022-10,RO,Norte,Diesel S10,R$/l,7.04,80,6.125
+2022-10,RR,Norte,Diesel S10,R$/l,7.08,54,6.16
+2022-10,RS,Sul,Diesel S10,R$/l,6.45,416,5.612
+2022-10,RS,Sul,GNV,R$/m³,5.45,53,5.45
+2022-10,SC,Sul,Diesel S10,R$/l,6.55,265,5.698
+2022-10,SC,Sul,GNV,R$/m³,5.94,39,5.94
+2022-10,SE,Nordeste,Diesel S10,R$/l,6.73,19,5.855
+2022-10,SE,Nordeste,GNV,R$/m³,5.14,22,5.14
+2022-10,SP,Sudeste,Diesel S10,R$/l,6.63,1657,5.768
+2022-10,SP,Sudeste,GNV,R$/m³,5.3,137,5.3
+2022-10,TO,Norte,Diesel S10,R$/l,6.61,70,5.751
+2022-11,AC,Norte,Diesel S10,R$/l,7.5,51,6.525
+2022-11,AL,Nordeste,Diesel S10,R$/l,6.71,75,5.838
+2022-11,AL,Nordeste,GNV,R$/m³,4.67,23,4.67
+2022-11,AM,Norte,Diesel S10,R$/l,6.71,153,5.838
+2022-11,AM,Norte,GNV,R$/m³,4.14,4,4.14
+2022-11,AP,Norte,Diesel S10,R$/l,7.15,34,6.22
+2022-11,BA,Nordeste,Diesel S10,R$/l,6.89,216,5.994
+2022-11,BA,Nordeste,GNV,R$/m³,4.27,35,4.27
+2022-11,CE,Nordeste,Diesel S10,R$/l,7.01,281,6.099
+2022-11,CE,Nordeste,GNV,R$/m³,4.5,58,4.5
+2022-11,DF,Centro-Oeste,Diesel S10,R$/l,6.81,104,5.925
+2022-11,ES,Sudeste,Diesel S10,R$/l,6.5,182,5.655
+2022-11,ES,Sudeste,GNV,R$/m³,4.99,44,4.99
+2022-11,GO,Centro-Oeste,Diesel S10,R$/l,6.67,339,5.803
+2022-11,MA,Nordeste,Diesel S10,R$/l,6.9,274,6.003
+2022-11,MG,Sudeste,Diesel S10,R$/l,6.64,920,5.777
+2022-11,MG,Sudeste,GNV,R$/m³,4.99,48,4.99
+2022-11,MS,Centro-Oeste,Diesel S10,R$/l,6.67,114,5.803
+2022-11,MS,Centro-Oeste,GNV,R$/m³,4.99,4,4.99
+2022-11,MT,Centro-Oeste,Diesel S10,R$/l,6.91,161,6.012
+2022-11,MT,Centro-Oeste,GNV,R$/m³,3.19,5,3.19
+2022-11,PA,Norte,Diesel S10,R$/l,6.97,191,6.064
+2022-11,PB,Nordeste,Diesel S10,R$/l,6.5,117,5.655
+2022-11,PB,Nordeste,GNV,R$/m³,4.63,27,4.63
+2022-11,PE,Nordeste,Diesel S10,R$/l,6.59,241,5.733
+2022-11,PE,Nordeste,GNV,R$/m³,3.99,10,3.99
+2022-11,PI,Nordeste,Diesel S10,R$/l,6.91,163,6.012
+2022-11,PR,Sul,Diesel S10,R$/l,6.59,647,5.733
+2022-11,PR,Sul,GNV,R$/m³,6.0,38,6.0
+2022-11,RJ,Sudeste,Diesel S10,R$/l,6.58,587,5.725
+2022-11,RJ,Sudeste,GNV,R$/m³,4.73,497,4.73
+2022-11,RN,Nordeste,Diesel S10,R$/l,6.98,130,6.073
+2022-11,RN,Nordeste,GNV,R$/m³,4.24,38,4.24
+2022-11,RO,Norte,Diesel S10,R$/l,7.14,118,6.212
+2022-11,RR,Norte,Diesel S10,R$/l,7.14,73,6.212
+2022-11,RS,Sul,Diesel S10,R$/l,6.44,785,5.603
+2022-11,RS,Sul,GNV,R$/m³,5.44,88,5.44
+2022-11,SC,Sul,Diesel S10,R$/l,6.55,416,5.698
+2022-11,SC,Sul,GNV,R$/m³,5.88,68,5.88
+2022-11,SE,Nordeste,Diesel S10,R$/l,6.86,18,5.968
+2022-11,SE,Nordeste,GNV,R$/m³,5.03,17,5.03
+2022-11,SP,Sudeste,Diesel S10,R$/l,6.64,2755,5.777
+2022-11,SP,Sudeste,GNV,R$/m³,5.39,254,5.39
+2022-11,TO,Norte,Diesel S10,R$/l,6.66,101,5.794
+2022-12,AC,Norte,Diesel S10,R$/l,7.49,30,6.516
+2022-12,AL,Nordeste,Diesel S10,R$/l,6.57,66,5.716
+2022-12,AL,Nordeste,GNV,R$/m³,4.56,21,4.56
+2022-12,AM,Norte,Diesel S10,R$/l,6.69,129,5.82
+2022-12,AM,Norte,GNV,R$/m³,4.19,3,4.19
+2022-12,AP,Norte,Diesel S10,R$/l,6.94,26,6.038
+2022-12,BA,Nordeste,Diesel S10,R$/l,6.27,265,5.455
+2022-12,BA,Nordeste,GNV,R$/m³,4.19,47,4.19
+2022-12,CE,Nordeste,Diesel S10,R$/l,6.83,336,5.942
+2022-12,CE,Nordeste,GNV,R$/m³,4.47,57,4.47
+2022-12,DF,Centro-Oeste,Diesel S10,R$/l,6.64,109,5.777
+2022-12,DF,Centro-Oeste,GNV,R$/m³,6.13,1,6.13
+2022-12,ES,Sudeste,Diesel S10,R$/l,6.26,214,5.446
+2022-12,ES,Sudeste,GNV,R$/m³,4.84,53,4.84
+2022-12,GO,Centro-Oeste,Diesel S10,R$/l,6.44,294,5.603
+2022-12,MA,Nordeste,Diesel S10,R$/l,6.73,225,5.855
+2022-12,MG,Sudeste,Diesel S10,R$/l,6.39,874,5.559
+2022-12,MG,Sudeste,GNV,R$/m³,5.11,40,5.11
+2022-12,MS,Centro-Oeste,Diesel S10,R$/l,6.48,118,5.638
+2022-12,MS,Centro-Oeste,GNV,R$/m³,4.89,3,4.89
+2022-12,MT,Centro-Oeste,Diesel S10,R$/l,6.72,200,5.846
+2022-12,MT,Centro-Oeste,GNV,R$/m³,3.19,4,3.19
+2022-12,PA,Norte,Diesel S10,R$/l,6.84,214,5.951
+2022-12,PB,Nordeste,Diesel S10,R$/l,6.49,132,5.646
+2022-12,PB,Nordeste,GNV,R$/m³,4.67,30,4.67
+2022-12,PE,Nordeste,Diesel S10,R$/l,6.5,336,5.655
+2022-12,PE,Nordeste,GNV,R$/m³,3.97,37,3.97
+2022-12,PI,Nordeste,Diesel S10,R$/l,6.77,162,5.89
+2022-12,PR,Sul,Diesel S10,R$/l,6.45,646,5.612
+2022-12,PR,Sul,GNV,R$/m³,5.98,25,5.98
+2022-12,RJ,Sudeste,Diesel S10,R$/l,6.4,568,5.568
+2022-12,RJ,Sudeste,GNV,R$/m³,4.68,455,4.68
+2022-12,RN,Nordeste,Diesel S10,R$/l,6.84,109,5.951
+2022-12,RN,Nordeste,GNV,R$/m³,4.22,36,4.22
+2022-12,RO,Norte,Diesel S10,R$/l,7.04,166,6.125
+2022-12,RR,Norte,Diesel S10,R$/l,7.13,64,6.203
+2022-12,RS,Sul,Diesel S10,R$/l,6.33,767,5.507
+2022-12,RS,Sul,GNV,R$/m³,5.56,80,5.56
+2022-12,SC,Sul,Diesel S10,R$/l,6.39,421,5.559
+2022-12,SC,Sul,GNV,R$/m³,5.8,85,5.8
+2022-12,SE,Nordeste,Diesel S10,R$/l,6.56,24,5.707
+2022-12,SE,Nordeste,GNV,R$/m³,5.07,23,5.07
+2022-12,SP,Sudeste,Diesel S10,R$/l,6.47,2803,5.629
+2022-12,SP,Sudeste,GNV,R$/m³,5.22,245,5.22
+2022-12,TO,Norte,Diesel S10,R$/l,6.47,100,5.629
+2023-01,AC,Norte,Diesel S10,R$/l,7.25,25,6.308
+2023-01,AL,Nordeste,Diesel S10,R$/l,6.53,122,5.681
+2023-01,AL,Nordeste,GNV,R$/m³,4.62,39,4.62
+2023-01,AM,Norte,Diesel S10,R$/l,6.68,180,5.812
+2023-01,AM,Norte,GNV,R$/m³,4.19,5,4.19
+2023-01,AP,Norte,Diesel S10,R$/l,6.79,27,5.907
+2023-01,BA,Nordeste,Diesel S10,R$/l,6.58,541,5.725
+2023-01,BA,Nordeste,GNV,R$/m³,4.23,53,4.23
+2023-01,CE,Nordeste,Diesel S10,R$/l,6.66,421,5.794
+2023-01,CE,Nordeste,GNV,R$/m³,4.51,58,4.51
+2023-01,DF,Centro-Oeste,Diesel S10,R$/l,6.56,129,5.707
+2023-01,ES,Sudeste,Diesel S10,R$/l,6.18,281,5.377
+2023-01,ES,Sudeste,GNV,R$/m³,4.79,72,4.79
+2023-01,GO,Centro-Oeste,Diesel S10,R$/l,6.29,432,5.472
+2023-01,MA,Nordeste,Diesel S10,R$/l,6.39,316,5.559
+2023-01,MG,Sudeste,Diesel S10,R$/l,6.26,1348,5.446
+2023-01,MG,Sudeste,GNV,R$/m³,4.95,63,4.95
+2023-01,MS,Centro-Oeste,Diesel S10,R$/l,6.54,152,5.69
+2023-01,MS,Centro-Oeste,GNV,R$/m³,4.91,5,4.91
+2023-01,MT,Centro-Oeste,Diesel S10,R$/l,6.7,213,5.829
+2023-01,MT,Centro-Oeste,GNV,R$/m³,3.48,8,3.48
+2023-01,PA,Norte,Diesel S10,R$/l,6.75,350,5.872
+2023-01,PB,Nordeste,Diesel S10,R$/l,6.39,183,5.559
+2023-01,PB,Nordeste,GNV,R$/m³,4.55,42,4.55
+2023-01,PE,Nordeste,Diesel S10,R$/l,6.24,598,5.429
+2023-01,PE,Nordeste,GNV,R$/m³,3.94,85,3.94
+2023-01,PI,Nordeste,Diesel S10,R$/l,6.66,173,5.794
+2023-01,PR,Sul,Diesel S10,R$/l,6.36,847,5.533
+2023-01,PR,Sul,GNV,R$/m³,5.99,25,5.99
+2023-01,RJ,Sudeste,Diesel S10,R$/l,6.32,811,5.498
+2023-01,RJ,Sudeste,GNV,R$/m³,4.68,559,4.68
+2023-01,RN,Nordeste,Diesel S10,R$/l,6.7,155,5.829
+2023-01,RN,Nordeste,GNV,R$/m³,4.21,44,4.21
+2023-01,RO,Norte,Diesel S10,R$/l,7.11,199,6.186
+2023-01,RR,Norte,Diesel S10,R$/l,7.18,80,6.247
+2023-01,RS,Sul,Diesel S10,R$/l,6.28,1000,5.464
+2023-01,RS,Sul,GNV,R$/m³,5.46,103,5.46
+2023-01,SC,Sul,Diesel S10,R$/l,6.46,559,5.62
+2023-01,SC,Sul,GNV,R$/m³,5.59,110,5.59
+2023-01,SE,Nordeste,Diesel S10,R$/l,6.35,89,5.524
+2023-01,SE,Nordeste,GNV,R$/m³,5.1,25,5.1
+2023-01,SP,Sudeste,Diesel S10,R$/l,6.46,3333,5.62
+2023-01,SP,Sudeste,GNV,R$/m³,5.07,280,5.07
+2023-01,TO,Norte,Diesel S10,R$/l,6.18,199,5.377
+2023-02,AC,Norte,Diesel S10,R$/l,7.11,53,6.186
+2023-02,AL,Nordeste,Diesel S10,R$/l,6.23,116,5.42
+2023-02,AL,Nordeste,GNV,R$/m³,4.57,31,4.57
+2023-02,AM,Norte,Diesel S10,R$/l,6.27,158,5.455
+2023-02,AM,Norte,GNV,R$/m³,4.19,3,4.19
+2023-02,AP,Norte,Diesel S10,R$/l,6.77,25,5.89
+2023-02,BA,Nordeste,Diesel S10,R$/l,6.27,511,5.455
+2023-02,BA,Nordeste,GNV,R$/m³,4.19,46,4.19
+2023-02,CE,Nordeste,Diesel S10,R$/l,6.48,434,5.638
+2023-02,CE,Nordeste,GNV,R$/m³,4.67,39,4.67
+2023-02,DF,Centro-Oeste,Diesel S10,R$/l,6.2,87,5.394
+2023-02,ES,Sudeste,Diesel S10,R$/l,5.94,251,5.168
+2023-02,ES,Sudeste,GNV,R$/m³,4.85,51,4.85
+2023-02,GO,Centro-Oeste,Diesel S10,R$/l,6.08,367,5.29
+2023-02,MA,Nordeste,Diesel S10,R$/l,6.03,300,5.246
+2023-02,MG,Sudeste,Diesel S10,R$/l,5.96,1293,5.185
+2023-02,MG,Sudeste,GNV,R$/m³,4.91,64,4.91
+2023-02,MS,Centro-Oeste,Diesel S10,R$/l,6.28,126,5.464
+2023-02,MS,Centro-Oeste,GNV,R$/m³,4.62,3,4.62
+2023-02,MT,Centro-Oeste,Diesel S10,R$/l,6.5,161,5.655
+2023-02,MT,Centro-Oeste,GNV,R$/m³,3.54,10,3.54
+2023-02,PA,Norte,Diesel S10,R$/l,6.37,331,5.542
+2023-02,PB,Nordeste,Diesel S10,R$/l,6.2,169,5.394
+2023-02,PB,Nordeste,GNV,R$/m³,4.32,37,4.32
+2023-02,PE,Nordeste,Diesel S10,R$/l,5.95,520,5.176
+2023-02,PE,Nordeste,GNV,R$/m³,3.64,73,3.64
+2023-02,PI,Nordeste,Diesel S10,R$/l,6.26,146,5.446
+2023-02,PR,Sul,Diesel S10,R$/l,6.09,786,5.298
+2023-02,PR,Sul,GNV,R$/m³,5.57,18,5.57
+2023-02,RJ,Sudeste,Diesel S10,R$/l,6.12,702,5.324
+2023-02,RJ,Sudeste,GNV,R$/m³,4.52,430,4.52
+2023-02,RN,Nordeste,Diesel S10,R$/l,6.58,157,5.725
+2023-02,RN,Nordeste,GNV,R$/m³,4.39,37,4.39
+2023-02,RO,Norte,Diesel S10,R$/l,6.94,190,6.038
+2023-02,RR,Norte,Diesel S10,R$/l,7.18,65,6.247
+2023-02,RS,Sul,Diesel S10,R$/l,5.96,822,5.185
+2023-02,RS,Sul,GNV,R$/m³,5.32,93,5.32
+2023-02,SC,Sul,Diesel S10,R$/l,6.18,493,5.377
+2023-02,SC,Sul,GNV,R$/m³,5.47,92,5.47
+2023-02,SE,Nordeste,Diesel S10,R$/l,5.87,92,5.107
+2023-02,SE,Nordeste,GNV,R$/m³,4.77,20,4.77
+2023-02,SP,Sudeste,Diesel S10,R$/l,6.18,3101,5.377
+2023-02,SP,Sudeste,GNV,R$/m³,5.03,228,5.03
+2023-02,TO,Norte,Diesel S10,R$/l,5.87,157,5.107
+2023-03,AC,Norte,Diesel S10,R$/l,6.93,66,6.029
+2023-03,AL,Nordeste,Diesel S10,R$/l,6.05,150,5.264
+2023-03,AL,Nordeste,GNV,R$/m³,4.59,34,4.59
+2023-03,AM,Norte,Diesel S10,R$/l,6.42,170,5.585
+2023-03,AM,Norte,GNV,R$/m³,4.19,4,4.19
+2023-03,AP,Norte,Diesel S10,R$/l,6.43,32,5.594
+2023-03,BA,Nordeste,Diesel S10,R$/l,5.99,619,5.211
+2023-03,BA,Nordeste,GNV,R$/m³,4.15,55,4.15
+2023-03,CE,Nordeste,Diesel S10,R$/l,6.1,517,5.307
+2023-03,CE,Nordeste,GNV,R$/m³,4.68,58,4.68
+2023-03,DF,Centro-Oeste,Diesel S10,R$/l,5.96,111,5.185
+2023-03,ES,Sudeste,Diesel S10,R$/l,5.77,301,5.02
+2023-03,ES,Sudeste,GNV,R$/m³,4.99,59,4.99
+2023-03,GO,Centro-Oeste,Diesel S10,R$/l,5.96,523,5.185
+2023-03,MA,Nordeste,Diesel S10,R$/l,5.85,367,5.089
+2023-03,MG,Sudeste,Diesel S10,R$/l,5.89,1519,5.124
+2023-03,MG,Sudeste,GNV,R$/m³,4.57,63,4.57
+2023-03,MS,Centro-Oeste,Diesel S10,R$/l,6.06,168,5.272
+2023-03,MS,Centro-Oeste,GNV,R$/m³,4.69,4,4.69
+2023-03,MT,Centro-Oeste,Diesel S10,R$/l,6.32,177,5.498
+2023-03,MT,Centro-Oeste,GNV,R$/m³,3.54,5,3.54
+2023-03,PA,Norte,Diesel S10,R$/l,6.25,411,5.438
+2023-03,PA,Norte,GNV,R$/m³,5.5,1,5.5
+2023-03,PB,Nordeste,Diesel S10,R$/l,5.96,175,5.185
+2023-03,PB,Nordeste,GNV,R$/m³,4.31,37,4.31
+2023-03,PE,Nordeste,Diesel S10,R$/l,5.7,605,4.959
+2023-03,PE,Nordeste,GNV,R$/m³,3.63,79,3.63
+2023-03,PI,Nordeste,Diesel S10,R$/l,6.11,188,5.316
+2023-03,PR,Sul,Diesel S10,R$/l,5.8,858,5.046
+2023-03,PR,Sul,GNV,R$/m³,5.49,27,5.49
+2023-03,RJ,Sudeste,Diesel S10,R$/l,5.98,851,5.203
+2023-03,RJ,Sudeste,GNV,R$/m³,4.42,553,4.42
+2023-03,RN,Nordeste,Diesel S10,R$/l,6.35,164,5.524
+2023-03,RN,Nordeste,GNV,R$/m³,4.4,40,4.4
+2023-03,RO,Norte,Diesel S10,R$/l,6.62,217,5.759
+2023-03,RR,Norte,Diesel S10,R$/l,7.01,63,6.099
+2023-03,RS,Sul,Diesel S10,R$/l,5.77,931,5.02
+2023-03,RS,Sul,GNV,R$/m³,5.31,91,5.31
+2023-03,SC,Sul,Diesel S10,R$/l,5.97,561,5.194
+2023-03,SC,Sul,GNV,R$/m³,5.42,109,5.42
+2023-03,SE,Nordeste,Diesel S10,R$/l,5.86,80,5.098
+2023-03,SE,Nordeste,GNV,R$/m³,4.77,24,4.77
+2023-03,SP,Sudeste,Diesel S10,R$/l,5.95,3438,5.176
+2023-03,SP,Sudeste,GNV,R$/m³,4.76,256,4.76
+2023-03,TO,Norte,Diesel S10,R$/l,5.72,189,4.976
+2023-04,AC,Norte,Diesel S10,R$/l,6.79,49,5.907
+2023-04,AL,Nordeste,Diesel S10,R$/l,6.11,131,5.316
+2023-04,AL,Nordeste,GNV,R$/m³,4.66,34,4.66
+2023-04,AM,Norte,Diesel S10,R$/l,6.31,178,5.49
+2023-04,AM,Norte,GNV,R$/m³,4.19,3,4.19
+2023-04,AP,Norte,Diesel S10,R$/l,6.28,25,5.464
+2023-04,BA,Nordeste,Diesel S10,R$/l,5.79,659,5.037
+2023-04,BA,Nordeste,GNV,R$/m³,4.11,53,4.11
+2023-04,CE,Nordeste,Diesel S10,R$/l,5.87,505,5.107
+2023-04,CE,Nordeste,GNV,R$/m³,4.64,57,4.64
+2023-04,DF,Centro-Oeste,Diesel S10,R$/l,5.8,96,5.046
+2023-04,DF,Centro-Oeste,GNV,R$/m³,6.29,1,6.29
+2023-04,ES,Sudeste,Diesel S10,R$/l,5.68,283,4.942
+2023-04,ES,Sudeste,GNV,R$/m³,4.97,63,4.97
+2023-04,GO,Centro-Oeste,Diesel S10,R$/l,5.81,467,5.055
+2023-04,MA,Nordeste,Diesel S10,R$/l,5.72,312,4.976
+2023-04,MA,Nordeste,GNV,R$/m³,5.23,1,5.23
+2023-04,MG,Sudeste,Diesel S10,R$/l,5.77,1415,5.02
+2023-04,MG,Sudeste,GNV,R$/m³,4.68,59,4.68
+2023-04,MS,Centro-Oeste,Diesel S10,R$/l,5.93,138,5.159
+2023-04,MS,Centro-Oeste,GNV,R$/m³,4.63,5,4.63
+2023-04,MT,Centro-Oeste,Diesel S10,R$/l,6.17,171,5.368
+2023-04,MT,Centro-Oeste,GNV,R$/m³,3.54,3,3.54
+2023-04,PA,Norte,Diesel S10,R$/l,6.22,366,5.411
+2023-04,PB,Nordeste,Diesel S10,R$/l,5.74,163,4.994
+2023-04,PB,Nordeste,GNV,R$/m³,4.31,39,4.31
+2023-04,PE,Nordeste,Diesel S10,R$/l,5.42,532,4.715
+2023-04,PE,Nordeste,GNV,R$/m³,3.64,62,3.64
+2023-04,PI,Nordeste,Diesel S10,R$/l,5.95,176,5.176
+2023-04,PR,Sul,Diesel S10,R$/l,5.63,860,4.898
+2023-04,PR,Sul,GNV,R$/m³,5.52,18,5.52
+2023-04,RJ,Sudeste,Diesel S10,R$/l,5.85,794,5.089
+2023-04,RJ,Sudeste,GNV,R$/m³,4.41,533,4.41
+2023-04,RN,Nordeste,Diesel S10,R$/l,6.09,137,5.298
+2023-04,RN,Nordeste,GNV,R$/m³,4.4,31,4.4
+2023-04,RO,Norte,Diesel S10,R$/l,6.36,189,5.533
+2023-04,RR,Norte,Diesel S10,R$/l,6.99,66,6.081
+2023-04,RR,Norte,GNV,R$/m³,4.99,1,4.99
+2023-04,RS,Sul,Diesel S10,R$/l,5.71,960,4.968
+2023-04,RS,Sul,GNV,R$/m³,5.26,87,5.26
+2023-04,SC,Sul,Diesel S10,R$/l,5.81,533,5.055
+2023-04,SC,Sul,GNV,R$/m³,5.44,94,5.44
+2023-04,SE,Nordeste,Diesel S10,R$/l,5.85,73,5.089
+2023-04,SE,Nordeste,GNV,R$/m³,4.76,21,4.76
+2023-04,SP,Sudeste,Diesel S10,R$/l,5.81,3260,5.055
+2023-04,SP,Sudeste,GNV,R$/m³,4.54,255,4.54
+2023-04,TO,Norte,Diesel S10,R$/l,5.63,144,4.898
+2023-05,AC,Norte,Diesel S10,R$/l,6.37,48,5.542
+2023-05,AL,Nordeste,Diesel S10,R$/l,5.53,171,4.811
+2023-05,AL,Nordeste,GNV,R$/m³,4.6,44,4.6
+2023-05,AM,Norte,Diesel S10,R$/l,5.52,229,4.802
+2023-05,AM,Norte,GNV,R$/m³,4.15,5,4.15
+2023-05,AP,Norte,Diesel S10,R$/l,5.7,54,4.959
+2023-05,BA,Nordeste,Diesel S10,R$/l,5.26,899,4.576
+2023-05,BA,Nordeste,GNV,R$/m³,3.96,79,3.96
+2023-05,CE,Nordeste,Diesel S10,R$/l,5.45,631,4.742
+2023-05,CE,Nordeste,GNV,R$/m³,4.37,50,4.37
+2023-05,DF,Centro-Oeste,Diesel S10,R$/l,5.47,117,4.759
+2023-05,DF,Centro-Oeste,GNV,R$/m³,6.04,1,6.04
+2023-05,ES,Sudeste,Diesel S10,R$/l,5.48,365,4.768
+2023-05,ES,Sudeste,GNV,R$/m³,4.81,76,4.81
+2023-05,GO,Centro-Oeste,Diesel S10,R$/l,5.37,643,4.672
+2023-05,MA,Nordeste,Diesel S10,R$/l,5.24,435,4.559
+2023-05,MG,Sudeste,Diesel S10,R$/l,5.35,1788,4.654
+2023-05,MG,Sudeste,GNV,R$/m³,4.5,78,4.5
+2023-05,MS,Centro-Oeste,Diesel S10,R$/l,5.48,201,4.768
+2023-05,MS,Centro-Oeste,GNV,R$/m³,4.34,13,4.34
+2023-05,MT,Centro-Oeste,Diesel S10,R$/l,5.63,226,4.898
+2023-05,MT,Centro-Oeste,GNV,R$/m³,3.54,5,3.54
+2023-05,PA,Norte,Diesel S10,R$/l,5.71,474,4.968
+2023-05,PB,Nordeste,Diesel S10,R$/l,5.33,188,4.637
+2023-05,PB,Nordeste,GNV,R$/m³,4.31,46,4.31
+2023-05,PE,Nordeste,Diesel S10,R$/l,5.08,704,4.42
+2023-05,PE,Nordeste,GNV,R$/m³,3.15,91,3.15
+2023-05,PI,Nordeste,Diesel S10,R$/l,5.51,226,4.794
+2023-05,PR,Sul,Diesel S10,R$/l,5.31,1061,4.62
+2023-05,PR,Sul,GNV,R$/m³,5.33,27,5.33
+2023-05,RJ,Sudeste,Diesel S10,R$/l,5.54,931,4.82
+2023-05,RJ,Sudeste,GNV,R$/m³,4.34,608,4.34
+2023-05,RN,Nordeste,Diesel S10,R$/l,5.54,175,4.82
+2023-05,RN,Nordeste,GNV,R$/m³,4.4,53,4.4
+2023-05,RO,Norte,Diesel S10,R$/l,5.96,252,5.185
+2023-05,RR,Norte,Diesel S10,R$/l,6.41,79,5.577
+2023-05,RS,Sul,Diesel S10,R$/l,5.47,1255,4.759
+2023-05,RS,Sul,GNV,R$/m³,5.2,123,5.2
+2023-05,SC,Sul,Diesel S10,R$/l,5.51,664,4.794
+2023-05,SC,Sul,GNV,R$/m³,5.42,113,5.42
+2023-05,SE,Nordeste,Diesel S10,R$/l,5.15,109,4.48
+2023-05,SE,Nordeste,GNV,R$/m³,4.69,24,4.69
+2023-05,SP,Sudeste,Diesel S10,R$/l,5.48,3941,4.768
+2023-05,SP,Sudeste,GNV,R$/m³,4.39,305,4.39
+2023-05,TO,Norte,Diesel S10,R$/l,5.28,206,4.594
+2023-06,AC,Norte,Diesel S10,R$/l,6.05,64,5.264
+2023-06,AL,Nordeste,Diesel S10,R$/l,5.05,149,4.393
+2023-06,AL,Nordeste,GNV,R$/m³,4.58,40,4.58
+2023-06,AM,Norte,Diesel S10,R$/l,5.09,179,4.428
+2023-06,AM,Norte,GNV,R$/m³,3.94,4,3.94
+2023-06,AP,Norte,Diesel S10,R$/l,5.37,49,4.672
+2023-06,BA,Nordeste,Diesel S10,R$/l,5.03,787,4.376
+2023-06,BA,Nordeste,GNV,R$/m³,3.79,59,3.79
+2023-06,CE,Nordeste,Diesel S10,R$/l,4.97,500,4.324
+2023-06,CE,Nordeste,GNV,R$/m³,4.57,63,4.57
+2023-06,DF,Centro-Oeste,Diesel S10,R$/l,5.18,96,4.507
+2023-06,DF,Centro-Oeste,GNV,R$/m³,6.04,2,6.04
+2023-06,ES,Sudeste,Diesel S10,R$/l,5.11,303,4.446
+2023-06,ES,Sudeste,GNV,R$/m³,4.79,69,4.79
+2023-06,GO,Centro-Oeste,Diesel S10,R$/l,5.01,534,4.359
+2023-06,MA,Nordeste,Diesel S10,R$/l,4.94,367,4.298
+2023-06,MG,Sudeste,Diesel S10,R$/l,4.95,1570,4.306
+2023-06,MG,Sudeste,GNV,R$/m³,4.49,59,4.49
+2023-06,MS,Centro-Oeste,Diesel S10,R$/l,5.15,182,4.48
+2023-06,MS,Centro-Oeste,GNV,R$/m³,4.34,6,4.34
+2023-06,MT,Centro-Oeste,Diesel S10,R$/l,5.31,173,4.62
+2023-06,MT,Centro-Oeste,GNV,R$/m³,3.54,4,3.54
+2023-06,PA,Norte,Diesel S10,R$/l,5.3,347,4.611
+2023-06,PB,Nordeste,Diesel S10,R$/l,4.91,184,4.272
+2023-06,PB,Nordeste,GNV,R$/m³,4.31,40,4.31
+2023-06,PE,Nordeste,Diesel S10,R$/l,4.77,560,4.15
+2023-06,PE,Nordeste,GNV,R$/m³,3.15,77,3.15
+2023-06,PI,Nordeste,Diesel S10,R$/l,4.99,172,4.341
+2023-06,PR,Sul,Diesel S10,R$/l,5.02,767,4.367
+2023-06,PR,Sul,GNV,R$/m³,5.21,22,5.21
+2023-06,RJ,Sudeste,Diesel S10,R$/l,5.18,866,4.507
+2023-06,RJ,Sudeste,GNV,R$/m³,4.26,561,4.26
+2023-06,RN,Nordeste,Diesel S10,R$/l,5.19,127,4.515
+2023-06,RN,Nordeste,GNV,R$/m³,4.38,41,4.38
+2023-06,RO,Norte,Diesel S10,R$/l,5.54,203,4.82
+2023-06,RR,Norte,Diesel S10,R$/l,5.76,65,5.011
+2023-06,RS,Sul,Diesel S10,R$/l,5.11,1036,4.446
+2023-06,RS,Sul,GNV,R$/m³,5.12,90,5.12
+2023-06,SC,Sul,Diesel S10,R$/l,5.18,513,4.507
+2023-06,SC,Sul,GNV,R$/m³,5.18,103,5.18
+2023-06,SE,Nordeste,Diesel S10,R$/l,4.9,94,4.263
+2023-06,SE,Nordeste,GNV,R$/m³,4.68,24,4.68
+2023-06,SP,Sudeste,Diesel S10,R$/l,5.15,3596,4.48
+2023-06,SP,Sudeste,GNV,R$/m³,4.17,276,4.17
+2023-06,TO,Norte,Diesel S10,R$/l,5.02,176,4.367
+2023-07,AC,Norte,Diesel S10,R$/l,6.02,97,5.237
+2023-07,AL,Nordeste,Diesel S10,R$/l,4.91,170,4.272
+2023-07,AL,Nordeste,GNV,R$/m³,4.77,47,4.77
+2023-07,AM,Norte,Diesel S10,R$/l,5.11,194,4.446
+2023-07,AM,Norte,GNV,R$/m³,4.49,4,4.49
+2023-07,AP,Norte,Diesel S10,R$/l,5.41,56,4.707
+2023-07,BA,Nordeste,Diesel S10,R$/l,5.03,947,4.376
+2023-07,BA,Nordeste,GNV,R$/m³,4.25,61,4.25
+2023-07,CE,Nordeste,Diesel S10,R$/l,4.91,544,4.272
+2023-07,CE,Nordeste,GNV,R$/m³,4.95,63,4.95
+2023-07,DF,Centro-Oeste,Diesel S10,R$/l,5.05,102,4.393
+2023-07,DF,Centro-Oeste,GNV,R$/m³,6.62,1,6.62
+2023-07,ES,Sudeste,Diesel S10,R$/l,5.03,362,4.376
+2023-07,ES,Sudeste,GNV,R$/m³,4.79,75,4.79
+2023-07,GO,Centro-Oeste,Diesel S10,R$/l,4.93,600,4.289
+2023-07,MA,Nordeste,Diesel S10,R$/l,4.9,481,4.263
+2023-07,MG,Sudeste,Diesel S10,R$/l,4.88,1762,4.246
+2023-07,MG,Sudeste,GNV,R$/m³,4.72,68,4.72
+2023-07,MS,Centro-Oeste,Diesel S10,R$/l,5.1,215,4.437
+2023-07,MS,Centro-Oeste,GNV,R$/m³,4.44,2,4.44
+2023-07,MT,Centro-Oeste,Diesel S10,R$/l,5.18,218,4.507
+2023-07,MT,Centro-Oeste,GNV,R$/m³,3.54,7,3.54
+2023-07,PA,Norte,Diesel S10,R$/l,5.17,392,4.498
+2023-07,PB,Nordeste,Diesel S10,R$/l,4.84,186,4.211
+2023-07,PB,Nordeste,GNV,R$/m³,4.65,41,4.65
+2023-07,PE,Nordeste,Diesel S10,R$/l,4.72,627,4.106
+2023-07,PE,Nordeste,GNV,R$/m³,3.38,87,3.38
+2023-07,PI,Nordeste,Diesel S10,R$/l,4.94,197,4.298
+2023-07,PR,Sul,Diesel S10,R$/l,4.93,946,4.289
+2023-07,PR,Sul,GNV,R$/m³,5.15,26,5.15
+2023-07,RJ,Sudeste,Diesel S10,R$/l,5.08,869,4.42
+2023-07,RJ,Sudeste,GNV,R$/m³,4.55,538,4.55
+2023-07,RN,Nordeste,Diesel S10,R$/l,5.1,144,4.437
+2023-07,RN,Nordeste,GNV,R$/m³,4.55,39,4.55
+2023-07,RO,Norte,Diesel S10,R$/l,5.43,235,4.724
+2023-07,RR,Norte,Diesel S10,R$/l,5.49,75,4.776
+2023-07,RS,Sul,Diesel S10,R$/l,5.03,1158,4.376
+2023-07,RS,Sul,GNV,R$/m³,5.19,105,5.19
+2023-07,SC,Sul,Diesel S10,R$/l,5.09,593,4.428
+2023-07,SC,Sul,GNV,R$/m³,5.15,114,5.15
+2023-07,SE,Nordeste,Diesel S10,R$/l,4.9,82,4.263
+2023-07,SE,Nordeste,GNV,R$/m³,4.99,28,4.99
+2023-07,SP,Sudeste,Diesel S10,R$/l,5.05,3743,4.393
+2023-07,SP,Sudeste,GNV,R$/m³,4.31,258,4.31
+2023-07,TO,Norte,Diesel S10,R$/l,4.99,198,4.341
+2023-08,AC,Norte,Diesel S10,R$/l,6.58,74,5.725
+2023-08,AL,Nordeste,Diesel S10,R$/l,5.5,160,4.785
+2023-08,AL,Nordeste,GNV,R$/m³,4.69,40,4.69
+2023-08,AM,Norte,Diesel S10,R$/l,5.65,211,4.916
+2023-08,AM,Norte,GNV,R$/m³,4.49,5,4.49
+2023-08,AP,Norte,Diesel S10,R$/l,6.06,72,5.272
+2023-08,BA,Nordeste,Diesel S10,R$/l,5.66,959,4.924
+2023-08,BA,Nordeste,GNV,R$/m³,4.2,67,4.2
+2023-08,CE,Nordeste,Diesel S10,R$/l,5.61,602,4.881
+2023-08,CE,Nordeste,GNV,R$/m³,4.95,72,4.95
+2023-08,DF,Centro-Oeste,Diesel S10,R$/l,5.55,106,4.828
+2023-08,ES,Sudeste,Diesel S10,R$/l,5.57,292,4.846
+2023-08,ES,Sudeste,GNV,R$/m³,4.79,63,4.79
+2023-08,GO,Centro-Oeste,Diesel S10,R$/l,5.73,535,4.985
+2023-08,MA,Nordeste,Diesel S10,R$/l,5.66,443,4.924
+2023-08,MG,Sudeste,Diesel S10,R$/l,5.56,1661,4.837
+2023-08,MG,Sudeste,GNV,R$/m³,4.63,72,4.63
+2023-08,MS,Centro-Oeste,Diesel S10,R$/l,5.75,176,5.002
+2023-08,MS,Centro-Oeste,GNV,R$/m³,4.46,4,4.46
+2023-08,MT,Centro-Oeste,Diesel S10,R$/l,5.9,204,5.133
+2023-08,MT,Centro-Oeste,GNV,R$/m³,3.54,7,3.54
+2023-08,PA,Norte,Diesel S10,R$/l,5.84,457,5.081
+2023-08,PB,Nordeste,Diesel S10,R$/l,5.49,209,4.776
+2023-08,PB,Nordeste,GNV,R$/m³,4.56,37,4.56
+2023-08,PE,Nordeste,Diesel S10,R$/l,5.4,555,4.698
+2023-08,PE,Nordeste,GNV,R$/m³,3.39,98,3.39
+2023-08,PI,Nordeste,Diesel S10,R$/l,5.7,192,4.959
+2023-08,PR,Sul,Diesel S10,R$/l,5.58,981,4.855
+2023-08,PR,Sul,GNV,R$/m³,5.16,36,5.16
+2023-08,RJ,Sudeste,Diesel S10,R$/l,5.5,989,4.785
+2023-08,RJ,Sudeste,GNV,R$/m³,4.43,615,4.43
+2023-08,RN,Nordeste,Diesel S10,R$/l,5.67,111,4.933
+2023-08,RN,Nordeste,GNV,R$/m³,4.72,39,4.72
+2023-08,RO,Norte,Diesel S10,R$/l,5.84,232,5.081
+2023-08,RR,Norte,Diesel S10,R$/l,5.93,69,5.159
+2023-08,RS,Sul,Diesel S10,R$/l,5.55,1210,4.828
+2023-08,RS,Sul,GNV,R$/m³,4.95,105,4.95
+2023-08,SC,Sul,Diesel S10,R$/l,5.5,633,4.785
+2023-08,SC,Sul,GNV,R$/m³,5.1,122,5.1
+2023-08,SE,Nordeste,Diesel S10,R$/l,5.75,103,5.002
+2023-08,SE,Nordeste,GNV,R$/m³,4.95,20,4.95
+2023-08,SP,Sudeste,Diesel S10,R$/l,5.56,3921,4.837
+2023-08,SP,Sudeste,GNV,R$/m³,4.24,265,4.24
+2023-08,TO,Norte,Diesel S10,R$/l,5.76,181,5.011
+2023-09,AC,Norte,Diesel S10,R$/l,7.06,73,6.142
+2023-09,AL,Nordeste,Diesel S10,R$/l,6.04,133,5.255
+2023-09,AL,Nordeste,GNV,R$/m³,4.66,33,4.66
+2023-09,AM,Norte,Diesel S10,R$/l,6.19,192,5.385
+2023-09,AM,Norte,GNV,R$/m³,4.49,4,4.49
+2023-09,AP,Norte,Diesel S10,R$/l,6.66,45,5.794
+2023-09,BA,Nordeste,Diesel S10,R$/l,6.24,865,5.429
+2023-09,BA,Nordeste,GNV,R$/m³,4.2,70,4.2
+2023-09,CE,Nordeste,Diesel S10,R$/l,6.13,457,5.333
+2023-09,CE,Nordeste,GNV,R$/m³,4.96,47,4.96
+2023-09,DF,Centro-Oeste,Diesel S10,R$/l,6.44,94,5.603
+2023-09,DF,Centro-Oeste,GNV,R$/m³,6.69,3,6.69
+2023-09,ES,Sudeste,Diesel S10,R$/l,6.1,318,5.307
+2023-09,ES,Sudeste,GNV,R$/m³,4.79,67,4.79
+2023-09,GO,Centro-Oeste,Diesel S10,R$/l,6.33,437,5.507
+2023-09,MA,Nordeste,Diesel S10,R$/l,6.26,427,5.446
+2023-09,MG,Sudeste,Diesel S10,R$/l,6.17,1508,5.368
+2023-09,MG,Sudeste,GNV,R$/m³,4.59,59,4.59
+2023-09,MS,Centro-Oeste,Diesel S10,R$/l,6.28,161,5.464
+2023-09,MS,Centro-Oeste,GNV,R$/m³,4.54,3,4.54
+2023-09,MT,Centro-Oeste,Diesel S10,R$/l,6.59,159,5.733
+2023-09,MT,Centro-Oeste,GNV,R$/m³,3.54,4,3.54
+2023-09,PA,Norte,Diesel S10,R$/l,6.47,375,5.629
+2023-09,PB,Nordeste,Diesel S10,R$/l,6.06,195,5.272
+2023-09,PB,Nordeste,GNV,R$/m³,4.55,38,4.55
+2023-09,PE,Nordeste,Diesel S10,R$/l,6.05,576,5.264
+2023-09,PE,Nordeste,GNV,R$/m³,3.39,95,3.39
+2023-09,PI,Nordeste,Diesel S10,R$/l,6.36,165,5.533
+2023-09,PR,Sul,Diesel S10,R$/l,6.2,872,5.394
+2023-09,PR,Sul,GNV,R$/m³,5.1,28,5.1
+2023-09,RJ,Sudeste,Diesel S10,R$/l,6.03,815,5.246
+2023-09,RJ,Sudeste,GNV,R$/m³,4.39,539,4.39
+2023-09,RN,Nordeste,Diesel S10,R$/l,6.25,86,5.438
+2023-09,RN,Nordeste,GNV,R$/m³,4.77,26,4.77
+2023-09,RO,Norte,Diesel S10,R$/l,6.55,192,5.698
+2023-09,RR,Norte,Diesel S10,R$/l,6.3,65,5.481
+2023-09,RS,Sul,Diesel S10,R$/l,6.05,1019,5.264
+2023-09,RS,Sul,GNV,R$/m³,4.52,86,4.52
+2023-09,SC,Sul,Diesel S10,R$/l,6.08,580,5.29
+2023-09,SC,Sul,GNV,R$/m³,5.08,108,5.08
+2023-09,SE,Nordeste,Diesel S10,R$/l,6.27,101,5.455
+2023-09,SE,Nordeste,GNV,R$/m³,4.95,22,4.95
+2023-09,SP,Sudeste,Diesel S10,R$/l,6.15,3399,5.35
+2023-09,SP,Sudeste,GNV,R$/m³,4.13,217,4.13
+2023-09,TO,Norte,Diesel S10,R$/l,6.31,160,5.49
+2023-10,AC,Norte,Diesel S10,R$/l,7.15,86,6.22
+2023-10,AL,Nordeste,Diesel S10,R$/l,6.15,162,5.35
+2023-10,AL,Nordeste,GNV,R$/m³,4.69,39,4.69
+2023-10,AM,Norte,Diesel S10,R$/l,6.38,230,5.551
+2023-10,AM,Norte,GNV,R$/m³,4.49,5,4.49
+2023-10,AP,Norte,Diesel S10,R$/l,6.78,47,5.899
+2023-10,BA,Nordeste,Diesel S10,R$/l,6.22,986,5.411
+2023-10,BA,Nordeste,GNV,R$/m³,4.07,64,4.07
+2023-10,CE,Nordeste,Diesel S10,R$/l,6.17,536,5.368
+2023-10,CE,Nordeste,GNV,R$/m³,4.98,55,4.98
+2023-10,DF,Centro-Oeste,Diesel S10,R$/l,6.23,108,5.42
+2023-10,DF,Centro-Oeste,GNV,R$/m³,6.69,1,6.69
+2023-10,ES,Sudeste,Diesel S10,R$/l,6.11,376,5.316
+2023-10,ES,Sudeste,GNV,R$/m³,4.78,81,4.78
+2023-10,GO,Centro-Oeste,Diesel S10,R$/l,6.24,505,5.429
+2023-10,MA,Nordeste,Diesel S10,R$/l,6.24,518,5.429
+2023-10,MG,Sudeste,Diesel S10,R$/l,6.19,1819,5.385
+2023-10,MG,Sudeste,GNV,R$/m³,4.58,81,4.58
+2023-10,MS,Centro-Oeste,Diesel S10,R$/l,6.32,201,5.498
+2023-10,MS,Centro-Oeste,GNV,R$/m³,4.49,3,4.49
+2023-10,MT,Centro-Oeste,Diesel S10,R$/l,6.48,177,5.638
+2023-10,MT,Centro-Oeste,GNV,R$/m³,3.54,11,3.54
+2023-10,PA,Norte,Diesel S10,R$/l,6.43,434,5.594
+2023-10,PB,Nordeste,Diesel S10,R$/l,6.07,232,5.281
+2023-10,PB,Nordeste,GNV,R$/m³,4.46,52,4.46
+2023-10,PE,Nordeste,Diesel S10,R$/l,6.05,698,5.264
+2023-10,PE,Nordeste,GNV,R$/m³,3.38,121,3.38
+2023-10,PI,Nordeste,Diesel S10,R$/l,6.37,198,5.542
+2023-10,PR,Sul,Diesel S10,R$/l,6.2,966,5.394
+2023-10,PR,Sul,GNV,R$/m³,5.05,37,5.05
+2023-10,RJ,Sudeste,Diesel S10,R$/l,6.1,911,5.307
+2023-10,RJ,Sudeste,GNV,R$/m³,4.38,563,4.38
+2023-10,RN,Nordeste,Diesel S10,R$/l,6.25,133,5.438
+2023-10,RN,Nordeste,GNV,R$/m³,4.77,53,4.77
+2023-10,RO,Norte,Diesel S10,R$/l,6.59,237,5.733
+2023-10,RR,Norte,Diesel S10,R$/l,6.62,81,5.759
+2023-10,RS,Sul,Diesel S10,R$/l,6.09,1282,5.298
+2023-10,RS,Sul,GNV,R$/m³,4.38,112,4.38
+2023-10,SC,Sul,Diesel S10,R$/l,6.11,652,5.316
+2023-10,SC,Sul,GNV,R$/m³,5.05,129,5.05
+2023-10,SE,Nordeste,Diesel S10,R$/l,6.25,91,5.438
+2023-10,SE,Nordeste,GNV,R$/m³,4.95,23,4.95
+2023-10,SP,Sudeste,Diesel S10,R$/l,6.19,4080,5.385
+2023-10,SP,Sudeste,GNV,R$/m³,4.12,270,4.12
+2023-10,TO,Norte,Diesel S10,R$/l,6.33,193,5.507
+2023-11,AC,Norte,Diesel S10,R$/l,7.16,75,6.229
+2023-11,AL,Nordeste,Diesel S10,R$/l,6.22,148,5.411
+2023-11,AL,Nordeste,GNV,R$/m³,4.7,36,4.7
+2023-11,AM,Norte,Diesel S10,R$/l,6.39,187,5.559
+2023-11,AM,Norte,GNV,R$/m³,4.49,3,4.49
+2023-11,AP,Norte,Diesel S10,R$/l,6.81,40,5.925
+2023-11,BA,Nordeste,Diesel S10,R$/l,5.97,922,5.194
+2023-11,BA,Nordeste,GNV,R$/m³,4.04,72,4.04
+2023-11,CE,Nordeste,Diesel S10,R$/l,6.14,540,5.342
+2023-11,CE,Nordeste,GNV,R$/m³,4.98,47,4.98
+2023-11,DF,Centro-Oeste,Diesel S10,R$/l,6.2,96,5.394
+2023-11,DF,Centro-Oeste,GNV,R$/m³,6.69,4,6.69
+2023-11,ES,Sudeste,Diesel S10,R$/l,6.17,307,5.368
+2023-11,ES,Sudeste,GNV,R$/m³,4.79,70,4.79
+2023-11,GO,Centro-Oeste,Diesel S10,R$/l,6.2,581,5.394
+2023-11,MA,Nordeste,Diesel S10,R$/l,6.14,424,5.342
+2023-11,MA,Nordeste,GNV,R$/m³,5.46,1,5.46
+2023-11,MG,Sudeste,Diesel S10,R$/l,6.16,1567,5.359
+2023-11,MG,Sudeste,GNV,R$/m³,4.9,65,4.9
+2023-11,MS,Centro-Oeste,Diesel S10,R$/l,6.32,183,5.498
+2023-11,MS,Centro-Oeste,GNV,R$/m³,4.25,3,4.25
+2023-11,MT,Centro-Oeste,Diesel S10,R$/l,6.38,173,5.551
+2023-11,MT,Centro-Oeste,GNV,R$/m³,3.54,9,3.54
+2023-11,PA,Norte,Diesel S10,R$/l,6.51,379,5.664
+2023-11,PB,Nordeste,Diesel S10,R$/l,6.1,217,5.307
+2023-11,PB,Nordeste,GNV,R$/m³,4.46,51,4.46
+2023-11,PE,Nordeste,Diesel S10,R$/l,5.98,643,5.203
+2023-11,PE,Nordeste,GNV,R$/m³,4.24,96,4.24
+2023-11,PI,Nordeste,Diesel S10,R$/l,6.31,173,5.49
+2023-11,PR,Sul,Diesel S10,R$/l,6.16,977,5.359
+2023-11,PR,Sul,GNV,R$/m³,5.01,34,5.01
+2023-11,RJ,Sudeste,Diesel S10,R$/l,6.18,916,5.377
+2023-11,RJ,Sudeste,GNV,R$/m³,4.39,575,4.39
+2023-11,RN,Nordeste,Diesel S10,R$/l,6.25,136,5.438
+2023-11,RN,Nordeste,GNV,R$/m³,4.78,43,4.78
+2023-11,RO,Norte,Diesel S10,R$/l,6.65,151,5.786
+2023-11,RR,Norte,Diesel S10,R$/l,6.7,65,5.829
+2023-11,RS,Sul,Diesel S10,R$/l,6.15,1131,5.35
+2023-11,RS,Sul,GNV,R$/m³,4.29,94,4.29
+2023-11,SC,Sul,Diesel S10,R$/l,6.16,613,5.359
+2023-11,SC,Sul,GNV,R$/m³,5.03,106,5.03
+2023-11,SE,Nordeste,Diesel S10,R$/l,6.02,92,5.237
+2023-11,SE,Nordeste,GNV,R$/m³,5.01,22,5.01
+2023-11,SP,Sudeste,Diesel S10,R$/l,6.25,3702,5.438
+2023-11,SP,Sudeste,GNV,R$/m³,4.07,241,4.07
+2023-11,TO,Norte,Diesel S10,R$/l,6.25,180,5.438
+2023-12,AC,Norte,Diesel S10,R$/l,7.17,72,6.238
+2023-12,AL,Nordeste,Diesel S10,R$/l,6.0,130,5.22
+2023-12,AL,Nordeste,GNV,R$/m³,4.69,35,4.69
+2023-12,AM,Norte,Diesel S10,R$/l,6.31,178,5.49
+2023-12,AM,Norte,GNV,R$/m³,4.49,5,4.49
+2023-12,AP,Norte,Diesel S10,R$/l,6.52,47,5.672
+2023-12,BA,Nordeste,Diesel S10,R$/l,5.82,863,5.063
+2023-12,BA,Nordeste,GNV,R$/m³,4.11,65,4.11
+2023-12,CE,Nordeste,Diesel S10,R$/l,6.05,490,5.264
+2023-12,CE,Nordeste,GNV,R$/m³,4.98,54,4.98
+2023-12,DF,Centro-Oeste,Diesel S10,R$/l,5.99,91,5.211
+2023-12,DF,Centro-Oeste,GNV,R$/m³,6.69,2,6.69
+2023-12,ES,Sudeste,Diesel S10,R$/l,6.08,268,5.29
+2023-12,ES,Sudeste,GNV,R$/m³,4.95,60,4.95
+2023-12,GO,Centro-Oeste,Diesel S10,R$/l,6.0,536,5.22
+2023-12,MA,Nordeste,Diesel S10,R$/l,5.85,403,5.089
+2023-12,MG,Sudeste,Diesel S10,R$/l,5.98,1525,5.203
+2023-12,MG,Sudeste,GNV,R$/m³,4.94,54,4.94
+2023-12,MS,Centro-Oeste,Diesel S10,R$/l,6.07,159,5.281
+2023-12,MS,Centro-Oeste,GNV,R$/m³,4.59,1,4.59
+2023-12,MT,Centro-Oeste,Diesel S10,R$/l,6.14,166,5.342
+2023-12,MT,Centro-Oeste,GNV,R$/m³,3.54,6,3.54
+2023-12,PA,Norte,Diesel S10,R$/l,6.24,383,5.429
+2023-12,PB,Nordeste,Diesel S10,R$/l,5.93,196,5.159
+2023-12,PB,Nordeste,GNV,R$/m³,4.46,47,4.46
+2023-12,PE,Nordeste,Diesel S10,R$/l,5.72,621,4.976
+2023-12,PE,Nordeste,GNV,R$/m³,4.24,100,4.24
+2023-12,PI,Nordeste,Diesel S10,R$/l,6.09,168,5.298
+2023-12,PR,Sul,Diesel S10,R$/l,5.99,855,5.211
+2023-12,PR,Sul,GNV,R$/m³,5.03,36,5.03
+2023-12,RJ,Sudeste,Diesel S10,R$/l,6.1,862,5.307
+2023-12,RJ,Sudeste,GNV,R$/m³,4.39,537,4.39
+2023-12,RN,Nordeste,Diesel S10,R$/l,6.15,123,5.35
+2023-12,RN,Nordeste,GNV,R$/m³,4.78,39,4.78
+2023-12,RO,Norte,Diesel S10,R$/l,6.57,185,5.716
+2023-12,RR,Norte,Diesel S10,R$/l,6.7,66,5.829
+2023-12,RS,Sul,Diesel S10,R$/l,6.01,1009,5.229
+2023-12,RS,Sul,GNV,R$/m³,4.26,85,4.26
+2023-12,SC,Sul,Diesel S10,R$/l,6.04,597,5.255
+2023-12,SC,Sul,GNV,R$/m³,4.99,103,4.99
+2023-12,SE,Nordeste,Diesel S10,R$/l,5.77,94,5.02
+2023-12,SE,Nordeste,GNV,R$/m³,5.19,19,5.19
+2023-12,SP,Sudeste,Diesel S10,R$/l,6.11,3422,5.316
+2023-12,SP,Sudeste,GNV,R$/m³,4.19,240,4.19
+2023-12,TO,Norte,Diesel S10,R$/l,5.98,155,5.203
+2024-01,AC,Norte,Diesel S10,R$/l,7.17,92,6.238
+2024-01,AL,Nordeste,Diesel S10,R$/l,5.81,179,5.055
+2024-01,AL,Nordeste,GNV,R$/m³,4.69,42,4.69
+2024-01,AM,Norte,Diesel S10,R$/l,6.23,223,5.42
+2024-01,AM,Norte,GNV,R$/m³,4.59,5,4.59
+2024-01,AP,Norte,Diesel S10,R$/l,6.47,57,5.629
+2024-01,BA,Nordeste,Diesel S10,R$/l,5.93,1038,5.159
+2024-01,BA,Nordeste,GNV,R$/m³,4.16,62,4.16
+2024-01,CE,Nordeste,Diesel S10,R$/l,5.91,558,5.142
+2024-01,CE,Nordeste,GNV,R$/m³,4.99,55,4.99
+2024-01,DF,Centro-Oeste,Diesel S10,R$/l,5.89,93,5.124
+2024-01,DF,Centro-Oeste,GNV,R$/m³,6.69,3,6.69
+2024-01,ES,Sudeste,Diesel S10,R$/l,6.0,313,5.22
+2024-01,ES,Sudeste,GNV,R$/m³,4.98,77,4.98
+2024-01,GO,Centro-Oeste,Diesel S10,R$/l,5.86,597,5.098
+2024-01,MA,Nordeste,Diesel S10,R$/l,5.7,541,4.959
+2024-01,MG,Sudeste,Diesel S10,R$/l,5.86,1811,5.098
+2024-01,MG,Sudeste,GNV,R$/m³,4.94,71,4.94
+2024-01,MS,Centro-Oeste,Diesel S10,R$/l,5.88,191,5.116
+2024-01,MS,Centro-Oeste,GNV,R$/m³,4.23,7,4.23
+2024-01,MT,Centro-Oeste,Diesel S10,R$/l,6.05,211,5.264
+2024-01,MT,Centro-Oeste,GNV,R$/m³,3.54,4,3.54
+2024-01,PA,Norte,Diesel S10,R$/l,6.2,500,5.394
+2024-01,PB,Nordeste,Diesel S10,R$/l,5.8,252,5.046
+2024-01,PB,Nordeste,GNV,R$/m³,4.66,55,4.66
+2024-01,PE,Nordeste,Diesel S10,R$/l,5.69,764,4.95
+2024-01,PE,Nordeste,GNV,R$/m³,4.24,121,4.24
+2024-01,PI,Nordeste,Diesel S10,R$/l,6.02,197,5.237
+2024-01,PR,Sul,Diesel S10,R$/l,5.9,1041,5.133
+2024-01,PR,Sul,GNV,R$/m³,4.99,37,4.99
+2024-01,RJ,Sudeste,Diesel S10,R$/l,6.07,1022,5.281
+2024-01,RJ,Sudeste,GNV,R$/m³,4.63,659,4.63
+2024-01,RN,Nordeste,Diesel S10,R$/l,6.02,149,5.237
+2024-01,RN,Nordeste,GNV,R$/m³,5.08,56,5.08
+2024-01,RO,Norte,Diesel S10,R$/l,6.52,228,5.672
+2024-01,RR,Norte,Diesel S10,R$/l,6.67,82,5.803
+2024-01,RS,Sul,Diesel S10,R$/l,5.97,1293,5.194
+2024-01,RS,Sul,GNV,R$/m³,4.5,104,4.5
+2024-01,SC,Sul,Diesel S10,R$/l,5.98,678,5.203
+2024-01,SC,Sul,GNV,R$/m³,4.96,108,4.96
+2024-01,SE,Nordeste,Diesel S10,R$/l,5.75,116,5.002
+2024-01,SE,Nordeste,GNV,R$/m³,5.09,29,5.09
+2024-01,SP,Sudeste,Diesel S10,R$/l,6.02,4134,5.237
+2024-01,SP,Sudeste,GNV,R$/m³,4.28,289,4.28
+2024-01,TO,Norte,Diesel S10,R$/l,5.8,213,5.046
+2024-02,AC,Norte,Diesel S10,R$/l,7.32,82,6.368
+2024-02,AL,Nordeste,Diesel S10,R$/l,5.84,137,5.081
+2024-02,AL,Nordeste,GNV,R$/m³,4.7,43,4.7
+2024-02,AM,Norte,Diesel S10,R$/l,6.27,183,5.455
+2024-02,AM,Norte,GNV,R$/m³,4.13,7,4.13
+2024-02,AP,Norte,Diesel S10,R$/l,6.52,46,5.672
+2024-02,BA,Nordeste,Diesel S10,R$/l,6.07,840,5.281
+2024-02,BA,Nordeste,GNV,R$/m³,4.07,35,4.07
+2024-02,CE,Nordeste,Diesel S10,R$/l,5.92,515,5.15
+2024-02,CE,Nordeste,GNV,R$/m³,4.97,55,4.97
+2024-02,DF,Centro-Oeste,Diesel S10,R$/l,5.94,84,5.168
+2024-02,DF,Centro-Oeste,GNV,R$/m³,6.69,1,6.69
+2024-02,ES,Sudeste,Diesel S10,R$/l,6.03,305,5.246
+2024-02,ES,Sudeste,GNV,R$/m³,4.97,68,4.97
+2024-02,GO,Centro-Oeste,Diesel S10,R$/l,5.91,560,5.142
+2024-02,MA,Nordeste,Diesel S10,R$/l,5.71,440,4.968
+2024-02,MG,Sudeste,Diesel S10,R$/l,5.86,1589,5.098
+2024-02,MG,Sudeste,GNV,R$/m³,4.94,60,4.94
+2024-02,MS,Centro-Oeste,Diesel S10,R$/l,6.0,183,5.22
+2024-02,MS,Centro-Oeste,GNV,R$/m³,4.17,8,4.17
+2024-02,MT,Centro-Oeste,Diesel S10,R$/l,6.16,197,5.359
+2024-02,MT,Centro-Oeste,GNV,R$/m³,3.54,4,3.54
+2024-02,PA,Norte,Diesel S10,R$/l,6.14,437,5.342
+2024-02,PB,Nordeste,Diesel S10,R$/l,5.85,190,5.089
+2024-02,PB,Nordeste,GNV,R$/m³,4.72,48,4.72
+2024-02,PE,Nordeste,Diesel S10,R$/l,5.73,613,4.985
+2024-02,PE,Nordeste,GNV,R$/m³,4.35,94,4.35
+2024-02,PI,Nordeste,Diesel S10,R$/l,5.93,157,5.159
+2024-02,PR,Sul,Diesel S10,R$/l,5.9,915,5.133
+2024-02,PR,Sul,GNV,R$/m³,4.99,25,4.99
+2024-02,RJ,Sudeste,Diesel S10,R$/l,6.04,874,5.255
+2024-02,RJ,Sudeste,GNV,R$/m³,4.58,543,4.58
+2024-02,RN,Nordeste,Diesel S10,R$/l,6.07,120,5.281
+2024-02,RN,Nordeste,GNV,R$/m³,5.18,34,5.18
+2024-02,RO,Norte,Diesel S10,R$/l,6.55,196,5.698
+2024-02,RR,Norte,Diesel S10,R$/l,6.66,67,5.794
+2024-02,RS,Sul,Diesel S10,R$/l,6.02,1104,5.237
+2024-02,RS,Sul,GNV,R$/m³,4.5,84,4.5
+2024-02,SC,Sul,Diesel S10,R$/l,6.0,574,5.22
+2024-02,SC,Sul,GNV,R$/m³,4.97,100,4.97
+2024-02,SE,Nordeste,Diesel S10,R$/l,5.98,87,5.203
+2024-02,SE,Nordeste,GNV,R$/m³,4.92,15,4.92
+2024-02,SP,Sudeste,Diesel S10,R$/l,6.01,3540,5.229
+2024-02,SP,Sudeste,GNV,R$/m³,4.28,239,4.28
+2024-02,TO,Norte,Diesel S10,R$/l,5.78,173,5.029
+2024-03,AC,Norte,Diesel S10,R$/l,7.29,77,6.342
+2024-03,AL,Nordeste,Diesel S10,R$/l,5.81,132,5.055
+2024-03,AL,Nordeste,GNV,R$/m³,4.7,31,4.7
+2024-03,AM,Norte,Diesel S10,R$/l,6.34,143,5.516
+2024-03,AM,Norte,GNV,R$/m³,3.99,5,3.99
+2024-03,AP,Norte,Diesel S10,R$/l,6.53,48,5.681
+2024-03,BA,Nordeste,Diesel S10,R$/l,5.9,879,5.133
+2024-03,BA,Nordeste,GNV,R$/m³,4.08,57,4.08
+2024-03,CE,Nordeste,Diesel S10,R$/l,5.86,503,5.098
+2024-03,CE,Nordeste,GNV,R$/m³,4.99,55,4.99
+2024-03,DF,Centro-Oeste,Diesel S10,R$/l,5.87,93,5.107
+2024-03,ES,Sudeste,Diesel S10,R$/l,5.96,288,5.185
+2024-03,ES,Sudeste,GNV,R$/m³,4.97,62,4.97
+2024-03,GO,Centro-Oeste,Diesel S10,R$/l,5.91,577,5.142
+2024-03,MA,Nordeste,Diesel S10,R$/l,5.69,434,4.95
+2024-03,MG,Sudeste,Diesel S10,R$/l,5.84,1550,5.081
+2024-03,MG,Sudeste,GNV,R$/m³,4.88,66,4.88
+2024-03,MS,Centro-Oeste,Diesel S10,R$/l,5.98,164,5.203
+2024-03,MS,Centro-Oeste,GNV,R$/m³,4.22,3,4.22
+2024-03,MT,Centro-Oeste,Diesel S10,R$/l,6.04,202,5.255
+2024-03,MT,Centro-Oeste,GNV,R$/m³,3.54,4,3.54
+2024-03,PA,Norte,Diesel S10,R$/l,6.08,407,5.29
+2024-03,PB,Nordeste,Diesel S10,R$/l,5.82,195,5.063
+2024-03,PB,Nordeste,GNV,R$/m³,4.72,47,4.72
+2024-03,PE,Nordeste,Diesel S10,R$/l,5.67,650,4.933
+2024-03,PE,Nordeste,GNV,R$/m³,4.35,112,4.35
+2024-03,PI,Nordeste,Diesel S10,R$/l,5.92,165,5.15
+2024-03,PR,Sul,Diesel S10,R$/l,5.88,873,5.116
+2024-03,PR,Sul,GNV,R$/m³,4.97,38,4.97
+2024-03,RJ,Sudeste,Diesel S10,R$/l,6.05,910,5.264
+2024-03,RJ,Sudeste,GNV,R$/m³,4.56,560,4.56
+2024-03,RN,Nordeste,Diesel S10,R$/l,5.98,105,5.203
+2024-03,RN,Nordeste,GNV,R$/m³,5.18,28,5.18
+2024-03,RO,Norte,Diesel S10,R$/l,6.52,184,5.672
+2024-03,RR,Norte,Diesel S10,R$/l,6.64,67,5.777
+2024-03,RS,Sul,Diesel S10,R$/l,5.98,1065,5.203
+2024-03,RS,Sul,GNV,R$/m³,4.56,89,4.56
+2024-03,SC,Sul,Diesel S10,R$/l,5.98,595,5.203
+2024-03,SC,Sul,GNV,R$/m³,4.9,103,4.9
+2024-03,SE,Nordeste,Diesel S10,R$/l,5.79,79,5.037
+2024-03,SE,Nordeste,GNV,R$/m³,4.92,12,4.92
+2024-03,SP,Sudeste,Diesel S10,R$/l,6.0,3398,5.22
+2024-03,SP,Sudeste,GNV,R$/m³,4.38,246,4.38
+2024-03,TO,Norte,Diesel S10,R$/l,5.73,171,4.985
+2024-04,AC,Norte,Diesel S10,R$/l,7.25,78,6.308
+2024-04,AL,Nordeste,Diesel S10,R$/l,5.84,197,5.081
+2024-04,AL,Nordeste,GNV,R$/m³,4.69,49,4.69
+2024-04,AM,Norte,Diesel S10,R$/l,6.34,196,5.516
+2024-04,AM,Norte,GNV,R$/m³,4.59,10,4.59
+2024-04,AP,Norte,Diesel S10,R$/l,6.48,50,5.638
+2024-04,BA,Nordeste,Diesel S10,R$/l,5.96,1024,5.185
+2024-04,BA,Nordeste,GNV,R$/m³,4.04,68,4.04
+2024-04,CE,Nordeste,Diesel S10,R$/l,5.85,587,5.089
+2024-04,CE,Nordeste,GNV,R$/m³,4.99,65,4.99
+2024-04,DF,Centro-Oeste,Diesel S10,R$/l,5.82,118,5.063
+2024-04,ES,Sudeste,Diesel S10,R$/l,5.98,338,5.203
+2024-04,ES,Sudeste,GNV,R$/m³,4.97,74,4.97
+2024-04,GO,Centro-Oeste,Diesel S10,R$/l,5.88,703,5.116
+2024-04,MA,Nordeste,Diesel S10,R$/l,5.73,448,4.985
+2024-04,MG,Sudeste,Diesel S10,R$/l,5.84,1800,5.081
+2024-04,MG,Sudeste,GNV,R$/m³,4.86,70,4.86
+2024-04,MS,Centro-Oeste,Diesel S10,R$/l,5.96,196,5.185
+2024-04,MS,Centro-Oeste,GNV,R$/m³,4.21,5,4.21
+2024-04,MT,Centro-Oeste,Diesel S10,R$/l,6.1,204,5.307
+2024-04,MT,Centro-Oeste,GNV,R$/m³,3.54,5,3.54
+2024-04,PA,Norte,Diesel S10,R$/l,6.06,521,5.272
+2024-04,PB,Nordeste,Diesel S10,R$/l,5.81,217,5.055
+2024-04,PB,Nordeste,GNV,R$/m³,4.72,53,4.72
+2024-04,PE,Nordeste,Diesel S10,R$/l,5.73,759,4.985
+2024-04,PE,Nordeste,GNV,R$/m³,4.35,122,4.35
+2024-04,PI,Nordeste,Diesel S10,R$/l,5.96,192,5.185
+2024-04,PR,Sul,Diesel S10,R$/l,5.89,976,5.124
+2024-04,PR,Sul,GNV,R$/m³,5.01,30,5.01
+2024-04,RJ,Sudeste,Diesel S10,R$/l,6.05,1114,5.264
+2024-04,RJ,Sudeste,GNV,R$/m³,4.54,673,4.54
+2024-04,RN,Nordeste,Diesel S10,R$/l,6.0,139,5.22
+2024-04,RN,Nordeste,GNV,R$/m³,5.17,35,5.17
+2024-04,RO,Norte,Diesel S10,R$/l,6.43,249,5.594
+2024-04,RR,Norte,Diesel S10,R$/l,6.57,80,5.716
+2024-04,RS,Sul,Diesel S10,R$/l,6.01,1173,5.229
+2024-04,RS,Sul,GNV,R$/m³,4.59,94,4.59
+2024-04,SC,Sul,Diesel S10,R$/l,5.98,663,5.203
+2024-04,SC,Sul,GNV,R$/m³,4.91,99,4.91
+2024-04,SE,Nordeste,Diesel S10,R$/l,5.82,81,5.063
+2024-04,SE,Nordeste,GNV,R$/m³,4.89,12,4.89
+2024-04,SP,Sudeste,Diesel S10,R$/l,5.99,4172,5.211
+2024-04,SP,Sudeste,GNV,R$/m³,4.43,304,4.43
+2024-04,TO,Norte,Diesel S10,R$/l,5.77,189,5.02
+2024-05,AC,Norte,Diesel S10,R$/l,7.23,85,6.29
+2024-05,AL,Nordeste,Diesel S10,R$/l,5.85,164,5.089
+2024-05,AL,Nordeste,GNV,R$/m³,4.69,34,4.69
+2024-05,AM,Norte,Diesel S10,R$/l,6.26,199,5.446
+2024-05,AM,Norte,GNV,R$/m³,4.59,11,4.59
+2024-05,AP,Norte,Diesel S10,R$/l,6.52,52,5.672
+2024-05,BA,Nordeste,Diesel S10,R$/l,5.95,998,5.176
+2024-05,BA,Nordeste,GNV,R$/m³,4.06,64,4.06
+2024-05,CE,Nordeste,Diesel S10,R$/l,5.85,539,5.089
+2024-05,CE,Nordeste,GNV,R$/m³,4.89,52,4.89
+2024-05,DF,Centro-Oeste,Diesel S10,R$/l,5.84,94,5.081
+2024-05,ES,Sudeste,Diesel S10,R$/l,5.98,300,5.203
+2024-05,ES,Sudeste,GNV,R$/m³,4.97,68,4.97
+2024-05,GO,Centro-Oeste,Diesel S10,R$/l,5.89,593,5.124
+2024-05,MA,Nordeste,Diesel S10,R$/l,5.75,478,5.002
+2024-05,MG,Sudeste,Diesel S10,R$/l,5.85,1647,5.089
+2024-05,MG,Sudeste,GNV,R$/m³,4.89,60,4.89
+2024-05,MS,Centro-Oeste,Diesel S10,R$/l,5.94,189,5.168
+2024-05,MS,Centro-Oeste,GNV,R$/m³,4.5,8,4.5
+2024-05,MT,Centro-Oeste,Diesel S10,R$/l,6.07,247,5.281
+2024-05,MT,Centro-Oeste,GNV,R$/m³,3.54,8,3.54
+2024-05,PA,Norte,Diesel S10,R$/l,6.06,421,5.272
+2024-05,PB,Nordeste,Diesel S10,R$/l,5.81,198,5.055
+2024-05,PB,Nordeste,GNV,R$/m³,4.72,48,4.72
+2024-05,PE,Nordeste,Diesel S10,R$/l,5.75,689,5.002
+2024-05,PE,Nordeste,GNV,R$/m³,4.62,122,4.62
+2024-05,PI,Nordeste,Diesel S10,R$/l,5.99,162,5.211
+2024-05,PR,Sul,Diesel S10,R$/l,5.91,888,5.142
+2024-05,PR,Sul,GNV,R$/m³,4.99,25,4.99
+2024-05,RJ,Sudeste,Diesel S10,R$/l,6.04,942,5.255
+2024-05,RJ,Sudeste,GNV,R$/m³,4.57,543,4.57
+2024-05,RN,Nordeste,Diesel S10,R$/l,5.99,122,5.211
+2024-05,RN,Nordeste,GNV,R$/m³,5.14,32,5.14
+2024-05,RO,Norte,Diesel S10,R$/l,6.43,196,5.594
+2024-05,RR,Norte,Diesel S10,R$/l,6.43,64,5.594
+2024-05,RS,Sul,Diesel S10,R$/l,6.05,857,5.264
+2024-05,RS,Sul,GNV,R$/m³,4.57,56,4.57
+2024-05,SC,Sul,Diesel S10,R$/l,5.98,500,5.203
+2024-05,SC,Sul,GNV,R$/m³,4.91,90,4.91
+2024-05,SE,Nordeste,Diesel S10,R$/l,5.92,108,5.15
+2024-05,SE,Nordeste,GNV,R$/m³,4.89,21,4.89
+2024-05,SP,Sudeste,Diesel S10,R$/l,5.98,3575,5.203
+2024-05,SP,Sudeste,GNV,R$/m³,4.42,235,4.42
+2024-05,TO,Norte,Diesel S10,R$/l,5.77,175,5.02
+2024-06,AC,Norte,Diesel S10,R$/l,7.23,79,6.29
+2024-06,AL,Nordeste,Diesel S10,R$/l,5.88,153,5.116
+2024-06,AL,Nordeste,GNV,R$/m³,4.69,27,4.69
+2024-06,AM,Norte,Diesel S10,R$/l,6.08,189,5.29
+2024-06,AM,Norte,GNV,R$/m³,4.59,11,4.59
+2024-06,AP,Norte,Diesel S10,R$/l,6.57,47,5.716
+2024-06,BA,Nordeste,Diesel S10,R$/l,5.95,843,5.176
+2024-06,BA,Nordeste,GNV,R$/m³,4.13,59,4.13
+2024-06,CE,Nordeste,Diesel S10,R$/l,5.86,481,5.098
+2024-06,CE,Nordeste,GNV,R$/m³,4.89,49,4.89
+2024-06,DF,Centro-Oeste,Diesel S10,R$/l,5.81,90,5.055
+2024-06,ES,Sudeste,Diesel S10,R$/l,5.98,302,5.203
+2024-06,ES,Sudeste,GNV,R$/m³,4.97,69,4.97
+2024-06,GO,Centro-Oeste,Diesel S10,R$/l,5.88,585,5.116
+2024-06,MA,Nordeste,Diesel S10,R$/l,5.74,413,4.994
+2024-06,MG,Sudeste,Diesel S10,R$/l,5.84,1527,5.081
+2024-06,MG,Sudeste,GNV,R$/m³,4.9,58,4.9
+2024-06,MS,Centro-Oeste,Diesel S10,R$/l,5.94,171,5.168
+2024-06,MS,Centro-Oeste,GNV,R$/m³,4.32,6,4.32
+2024-06,MT,Centro-Oeste,Diesel S10,R$/l,6.01,185,5.229
+2024-06,MT,Centro-Oeste,GNV,R$/m³,3.54,4,3.54
+2024-06,PA,Norte,Diesel S10,R$/l,6.08,326,5.29
+2024-06,PB,Nordeste,Diesel S10,R$/l,5.81,194,5.055
+2024-06,PB,Nordeste,GNV,R$/m³,4.72,42,4.72
+2024-06,PE,Nordeste,Diesel S10,R$/l,5.69,648,4.95
+2024-06,PE,Nordeste,GNV,R$/m³,4.63,122,4.63
+2024-06,PI,Nordeste,Diesel S10,R$/l,5.95,148,5.176
+2024-06,PR,Sul,Diesel S10,R$/l,5.9,761,5.133
+2024-06,PR,Sul,GNV,R$/m³,5.01,19,5.01
+2024-06,RJ,Sudeste,Diesel S10,R$/l,6.05,887,5.264
+2024-06,RJ,Sudeste,GNV,R$/m³,4.53,536,4.53
+2024-06,RN,Nordeste,Diesel S10,R$/l,5.97,123,5.194
+2024-06,RN,Nordeste,GNV,R$/m³,5.11,34,5.11
+2024-06,RO,Norte,Diesel S10,R$/l,6.4,184,5.568
+2024-06,RR,Norte,Diesel S10,R$/l,6.32,63,5.498
+2024-06,RS,Sul,Diesel S10,R$/l,6.04,1026,5.255
+2024-06,RS,Sul,GNV,R$/m³,4.72,91,4.72
+2024-06,SC,Sul,Diesel S10,R$/l,5.98,516,5.203
+2024-06,SC,Sul,GNV,R$/m³,4.9,100,4.9
+2024-06,SE,Nordeste,Diesel S10,R$/l,5.84,88,5.081
+2024-06,SE,Nordeste,GNV,R$/m³,4.89,9,4.89
+2024-06,SP,Sudeste,Diesel S10,R$/l,5.99,3506,5.211
+2024-06,SP,Sudeste,GNV,R$/m³,4.43,244,4.43
+2024-06,TO,Norte,Diesel S10,R$/l,5.76,168,5.011
+2024-07,AC,Norte,Diesel S10,R$/l,7.3,90,6.351
+2024-07,AL,Nordeste,Diesel S10,R$/l,5.94,185,5.168
+2024-07,AL,Nordeste,GNV,R$/m³,4.69,37,4.69
+2024-07,AM,Norte,Diesel S10,R$/l,6.27,177,5.455
+2024-07,AM,Norte,GNV,R$/m³,4.79,12,4.79
+2024-07,AP,Norte,Diesel S10,R$/l,6.64,52,5.777
+2024-07,BA,Nordeste,Diesel S10,R$/l,6.11,921,5.316
+2024-07,BA,Nordeste,GNV,R$/m³,4.18,51,4.18
+2024-07,CE,Nordeste,Diesel S10,R$/l,6.03,432,5.246
+2024-07,CE,Nordeste,GNV,R$/m³,4.92,47,4.92
+2024-07,DF,Centro-Oeste,Diesel S10,R$/l,5.88,112,5.116
+2024-07,ES,Sudeste,Diesel S10,R$/l,6.01,300,5.229
+2024-07,ES,Sudeste,GNV,R$/m³,4.97,77,4.97
+2024-07,GO,Centro-Oeste,Diesel S10,R$/l,5.97,593,5.194
+2024-07,MA,Nordeste,Diesel S10,R$/l,5.84,433,5.081
+2024-07,MG,Sudeste,Diesel S10,R$/l,5.88,1587,5.116
+2024-07,MG,Sudeste,GNV,R$/m³,4.85,70,4.85
+2024-07,MS,Centro-Oeste,Diesel S10,R$/l,5.99,169,5.211
+2024-07,MS,Centro-Oeste,GNV,R$/m³,4.39,6,4.39
+2024-07,MT,Centro-Oeste,Diesel S10,R$/l,6.13,197,5.333
+2024-07,MT,Centro-Oeste,GNV,R$/m³,3.54,7,3.54
+2024-07,PA,Norte,Diesel S10,R$/l,6.26,252,5.446
+2024-07,PB,Nordeste,Diesel S10,R$/l,5.83,207,5.072
+2024-07,PB,Nordeste,GNV,R$/m³,4.72,53,4.72
+2024-07,PE,Nordeste,Diesel S10,R$/l,5.81,718,5.055
+2024-07,PE,Nordeste,GNV,R$/m³,4.63,127,4.63
+2024-07,PI,Nordeste,Diesel S10,R$/l,6.0,188,5.22
+2024-07,PR,Sul,Diesel S10,R$/l,5.97,759,5.194
+2024-07,PR,Sul,GNV,R$/m³,4.92,19,4.92
+2024-07,RJ,Sudeste,Diesel S10,R$/l,6.06,1014,5.272
+2024-07,RJ,Sudeste,GNV,R$/m³,4.52,745,4.52
+2024-07,RN,Nordeste,Diesel S10,R$/l,6.25,173,5.438
+2024-07,RN,Nordeste,GNV,R$/m³,5.26,42,5.26
+2024-07,RO,Norte,Diesel S10,R$/l,6.46,154,5.62
+2024-07,RR,Norte,Diesel S10,R$/l,6.44,84,5.603
+2024-07,RS,Sul,Diesel S10,R$/l,6.05,1076,5.264
+2024-07,RS,Sul,GNV,R$/m³,4.75,91,4.75
+2024-07,SC,Sul,Diesel S10,R$/l,6.02,492,5.237
+2024-07,SC,Sul,GNV,R$/m³,4.87,92,4.87
+2024-07,SE,Nordeste,Diesel S10,R$/l,5.89,86,5.124
+2024-07,SE,Nordeste,GNV,R$/m³,4.89,13,4.89
+2024-07,SP,Sudeste,Diesel S10,R$/l,6.02,3821,5.237
+2024-07,SP,Sudeste,GNV,R$/m³,4.41,272,4.41
+2024-07,TO,Norte,Diesel S10,R$/l,5.95,169,5.176
+2024-08,AC,Norte,Diesel S10,R$/l,7.36,73,6.403
+2024-08,AL,Nordeste,Diesel S10,R$/l,5.96,140,5.185
+2024-08,AL,Nordeste,GNV,R$/m³,4.98,33,4.98
+2024-08,AM,Norte,Diesel S10,R$/l,6.38,174,5.551
+2024-08,AM,Norte,GNV,R$/m³,4.99,9,4.99
+2024-08,AP,Norte,Diesel S10,R$/l,6.58,48,5.725
+2024-08,BA,Nordeste,Diesel S10,R$/l,6.06,721,5.272
+2024-08,BA,Nordeste,GNV,R$/m³,4.41,33,4.41
+2024-08,CE,Nordeste,Diesel S10,R$/l,6.1,366,5.307
+2024-08,CE,Nordeste,GNV,R$/m³,4.85,34,4.85
+2024-08,DF,Centro-Oeste,Diesel S10,R$/l,5.87,87,5.107
+2024-08,ES,Sudeste,Diesel S10,R$/l,6.03,230,5.246
+2024-08,ES,Sudeste,GNV,R$/m³,4.97,56,4.97
+2024-08,GO,Centro-Oeste,Diesel S10,R$/l,6.01,509,5.229
+2024-08,MA,Nordeste,Diesel S10,R$/l,5.87,347,5.107
+2024-08,MG,Sudeste,Diesel S10,R$/l,5.9,1333,5.133
+2024-08,MG,Sudeste,GNV,R$/m³,5.14,66,5.14
+2024-08,MS,Centro-Oeste,Diesel S10,R$/l,6.03,144,5.246
+2024-08,MS,Centro-Oeste,GNV,R$/m³,4.65,8,4.65
+2024-08,MT,Centro-Oeste,Diesel S10,R$/l,6.12,144,5.324
+2024-08,MT,Centro-Oeste,GNV,R$/m³,3.54,6,3.54
+2024-08,PA,Norte,Diesel S10,R$/l,6.32,247,5.498
+2024-08,PB,Nordeste,Diesel S10,R$/l,5.82,176,5.063
+2024-08,PB,Nordeste,GNV,R$/m³,5.07,48,5.07
+2024-08,PE,Nordeste,Diesel S10,R$/l,5.81,536,5.055
+2024-08,PE,Nordeste,GNV,R$/m³,4.59,103,4.59
+2024-08,PI,Nordeste,Diesel S10,R$/l,6.05,170,5.264
+2024-08,PR,Sul,Diesel S10,R$/l,5.98,775,5.203
+2024-08,PR,Sul,GNV,R$/m³,4.9,34,4.9
+2024-08,RJ,Sudeste,Diesel S10,R$/l,6.07,812,5.281
+2024-08,RJ,Sudeste,GNV,R$/m³,4.75,636,4.75
+2024-08,RN,Nordeste,Diesel S10,R$/l,6.22,113,5.411
+2024-08,RN,Nordeste,GNV,R$/m³,5.14,27,5.14
+2024-08,RO,Norte,Diesel S10,R$/l,6.53,140,5.681
+2024-08,RR,Norte,Diesel S10,R$/l,6.43,67,5.594
+2024-08,RS,Sul,Diesel S10,R$/l,6.07,950,5.281
+2024-08,RS,Sul,GNV,R$/m³,4.68,73,4.68
+2024-08,SC,Sul,Diesel S10,R$/l,6.02,378,5.237
+2024-08,SC,Sul,GNV,R$/m³,4.86,78,4.86
+2024-08,SE,Nordeste,Diesel S10,R$/l,5.92,75,5.15
+2024-08,SE,Nordeste,GNV,R$/m³,4.94,12,4.94
+2024-08,SP,Sudeste,Diesel S10,R$/l,6.03,3170,5.246
+2024-08,SP,Sudeste,GNV,R$/m³,4.4,219,4.4
+2024-08,TO,Norte,Diesel S10,R$/l,6.01,130,5.229
+2024-09,AC,Norte,Diesel S10,R$/l,7.37,62,6.412
+2024-09,AL,Nordeste,Diesel S10,R$/l,5.98,172,5.203
+2024-09,AL,Nordeste,GNV,R$/m³,4.99,44,4.99
+2024-09,AM,Norte,Diesel S10,R$/l,6.38,178,5.551
+2024-09,AM,Norte,GNV,R$/m³,4.99,9,4.99
+2024-09,AP,Norte,Diesel S10,R$/l,6.59,46,5.733
+2024-09,BA,Nordeste,Diesel S10,R$/l,6.0,780,5.22
+2024-09,BA,Nordeste,GNV,R$/m³,4.41,46,4.41
+2024-09,CE,Nordeste,Diesel S10,R$/l,5.97,407,5.194
+2024-09,CE,Nordeste,GNV,R$/m³,4.73,52,4.73
+2024-09,DF,Centro-Oeste,Diesel S10,R$/l,5.85,92,5.089
+2024-09,ES,Sudeste,Diesel S10,R$/l,6.01,243,5.229
+2024-09,ES,Sudeste,GNV,R$/m³,4.95,59,4.95
+2024-09,GO,Centro-Oeste,Diesel S10,R$/l,6.01,562,5.229
+2024-09,MA,Nordeste,Diesel S10,R$/l,5.85,395,5.089
+2024-09,MG,Sudeste,Diesel S10,R$/l,5.9,1433,5.133
+2024-09,MG,Sudeste,GNV,R$/m³,5.05,68,5.05
+2024-09,MS,Centro-Oeste,Diesel S10,R$/l,6.04,156,5.255
+2024-09,MS,Centro-Oeste,GNV,R$/m³,4.59,8,4.59
+2024-09,MT,Centro-Oeste,Diesel S10,R$/l,6.11,210,5.316
+2024-09,MT,Centro-Oeste,GNV,R$/m³,3.54,4,3.54
+2024-09,PA,Norte,Diesel S10,R$/l,6.35,310,5.524
+2024-09,PB,Nordeste,Diesel S10,R$/l,5.81,172,5.055
+2024-09,PB,Nordeste,GNV,R$/m³,5.09,52,5.09
+2024-09,PE,Nordeste,Diesel S10,R$/l,5.79,644,5.037
+2024-09,PE,Nordeste,GNV,R$/m³,4.59,113,4.59
+2024-09,PI,Nordeste,Diesel S10,R$/l,6.05,185,5.264
+2024-09,PR,Sul,Diesel S10,R$/l,5.97,712,5.194
+2024-09,PR,Sul,GNV,R$/m³,4.84,25,4.84
+2024-09,RJ,Sudeste,Diesel S10,R$/l,6.07,930,5.281
+2024-09,RJ,Sudeste,GNV,R$/m³,4.7,709,4.7
+2024-09,RN,Nordeste,Diesel S10,R$/l,6.06,134,5.272
+2024-09,RN,Nordeste,GNV,R$/m³,5.11,37,5.11
+2024-09,RO,Norte,Diesel S10,R$/l,6.57,159,5.716
+2024-09,RR,Norte,Diesel S10,R$/l,6.43,75,5.594
+2024-09,RS,Sul,Diesel S10,R$/l,6.08,1069,5.29
+2024-09,RS,Sul,GNV,R$/m³,4.67,95,4.67
+2024-09,SC,Sul,Diesel S10,R$/l,5.99,466,5.211
+2024-09,SC,Sul,GNV,R$/m³,4.9,105,4.9
+2024-09,SE,Nordeste,Diesel S10,R$/l,5.86,84,5.098
+2024-09,SE,Nordeste,GNV,R$/m³,4.93,15,4.93
+2024-09,SP,Sudeste,Diesel S10,R$/l,6.02,3557,5.237
+2024-09,SP,Sudeste,GNV,R$/m³,4.43,244,4.43
+2024-09,TO,Norte,Diesel S10,R$/l,5.94,146,5.168
+2024-10,AC,Norte,Diesel S10,R$/l,7.52,75,6.542
+2024-10,AL,Nordeste,Diesel S10,R$/l,5.95,140,5.176
+2024-10,AL,Nordeste,GNV,R$/m³,4.99,34,4.99
+2024-10,AM,Norte,Diesel S10,R$/l,6.38,155,5.551
+2024-10,AM,Norte,GNV,R$/m³,4.99,7,4.99
+2024-10,AP,Norte,Diesel S10,R$/l,6.51,55,5.664
+2024-10,BA,Nordeste,Diesel S10,R$/l,6.04,761,5.255
+2024-10,BA,Nordeste,GNV,R$/m³,4.3,33,4.3
+2024-10,CE,Nordeste,Diesel S10,R$/l,6.03,447,5.246
+2024-10,CE,Nordeste,GNV,R$/m³,4.85,56,4.85
+2024-10,DF,Centro-Oeste,Diesel S10,R$/l,5.81,93,5.055
+2024-10,ES,Sudeste,Diesel S10,R$/l,6.0,227,5.22
+2024-10,ES,Sudeste,GNV,R$/m³,4.93,48,4.93
+2024-10,GO,Centro-Oeste,Diesel S10,R$/l,6.0,493,5.22
+2024-10,MA,Nordeste,Diesel S10,R$/l,5.83,389,5.072
+2024-10,MG,Sudeste,Diesel S10,R$/l,5.9,1486,5.133
+2024-10,MG,Sudeste,GNV,R$/m³,4.96,79,4.96
+2024-10,MS,Centro-Oeste,Diesel S10,R$/l,6.02,147,5.237
+2024-10,MS,Centro-Oeste,GNV,R$/m³,4.61,7,4.61
+2024-10,MT,Centro-Oeste,Diesel S10,R$/l,6.12,262,5.324
+2024-10,MT,Centro-Oeste,GNV,R$/m³,3.54,5,3.54
+2024-10,PA,Norte,Diesel S10,R$/l,6.37,304,5.542
+2024-10,PB,Nordeste,Diesel S10,R$/l,5.78,173,5.029
+2024-10,PB,Nordeste,GNV,R$/m³,5.09,48,5.09
+2024-10,PE,Nordeste,Diesel S10,R$/l,5.79,556,5.037
+2024-10,PE,Nordeste,GNV,R$/m³,4.59,111,4.59
+2024-10,PI,Nordeste,Diesel S10,R$/l,6.06,174,5.272
+2024-10,PR,Sul,Diesel S10,R$/l,5.96,837,5.185
+2024-10,PR,Sul,GNV,R$/m³,4.79,37,4.79
+2024-10,RJ,Sudeste,Diesel S10,R$/l,6.07,827,5.281
+2024-10,RJ,Sudeste,GNV,R$/m³,4.69,645,4.69
+2024-10,RN,Nordeste,Diesel S10,R$/l,6.1,132,5.307
+2024-10,RN,Nordeste,GNV,R$/m³,5.04,36,5.04
+2024-10,RO,Norte,Diesel S10,R$/l,6.74,164,5.864
+2024-10,RR,Norte,Diesel S10,R$/l,6.71,73,5.838
+2024-10,RS,Sul,Diesel S10,R$/l,6.08,1026,5.29
+2024-10,RS,Sul,GNV,R$/m³,4.67,73,4.67
+2024-10,SC,Sul,Diesel S10,R$/l,5.99,431,5.211
+2024-10,SC,Sul,GNV,R$/m³,4.86,88,4.86
+2024-10,SE,Nordeste,Diesel S10,R$/l,5.82,65,5.063
+2024-10,SE,Nordeste,GNV,R$/m³,4.83,6,4.83
+2024-10,SP,Sudeste,Diesel S10,R$/l,6.03,3379,5.246
+2024-10,SP,Sudeste,GNV,R$/m³,4.45,246,4.45
+2024-10,TO,Norte,Diesel S10,R$/l,5.95,163,5.176
+2024-11,AC,Norte,Diesel S10,R$/l,7.59,28,6.603
+2024-11,AL,Nordeste,Diesel S10,R$/l,5.94,131,5.168
+2024-11,AL,Nordeste,GNV,R$/m³,4.99,33,4.99
+2024-11,AM,Norte,Diesel S10,R$/l,6.51,166,5.664
+2024-11,AM,Norte,GNV,R$/m³,4.99,7,4.99
+2024-11,AP,Norte,Diesel S10,R$/l,6.52,53,5.672
+2024-11,BA,Nordeste,Diesel S10,R$/l,6.08,675,5.29
+2024-11,BA,Nordeste,GNV,R$/m³,4.25,47,4.25
+2024-11,CE,Nordeste,Diesel S10,R$/l,6.06,346,5.272
+2024-11,CE,Nordeste,GNV,R$/m³,4.91,39,4.91
+2024-11,DF,Centro-Oeste,Diesel S10,R$/l,5.82,85,5.063
+2024-11,ES,Sudeste,Diesel S10,R$/l,5.98,184,5.203
+2024-11,ES,Sudeste,GNV,R$/m³,4.84,45,4.84
+2024-11,GO,Centro-Oeste,Diesel S10,R$/l,6.0,457,5.22
+2024-11,MA,Nordeste,Diesel S10,R$/l,5.83,319,5.072
+2024-11,MG,Sudeste,Diesel S10,R$/l,5.93,1215,5.159
+2024-11,MG,Sudeste,GNV,R$/m³,5.18,75,5.18
+2024-11,MS,Centro-Oeste,Diesel S10,R$/l,6.05,126,5.264
+2024-11,MS,Centro-Oeste,GNV,R$/m³,4.79,3,4.79
+2024-11,MT,Centro-Oeste,Diesel S10,R$/l,6.12,182,5.324
+2024-11,MT,Centro-Oeste,GNV,R$/m³,3.54,7,3.54
+2024-11,PA,Norte,Diesel S10,R$/l,6.41,207,5.577
+2024-11,PB,Nordeste,Diesel S10,R$/l,5.8,183,5.046
+2024-11,PB,Nordeste,GNV,R$/m³,5.09,44,5.09
+2024-11,PE,Nordeste,Diesel S10,R$/l,5.85,514,5.089
+2024-11,PE,Nordeste,GNV,R$/m³,4.59,98,4.59
+2024-11,PI,Nordeste,Diesel S10,R$/l,6.05,151,5.264
+2024-11,PR,Sul,Diesel S10,R$/l,6.0,666,5.22
+2024-11,PR,Sul,GNV,R$/m³,4.79,32,4.79
+2024-11,RJ,Sudeste,Diesel S10,R$/l,6.1,749,5.307
+2024-11,RJ,Sudeste,GNV,R$/m³,4.68,497,4.68
+2024-11,RN,Nordeste,Diesel S10,R$/l,6.11,121,5.316
+2024-11,RN,Nordeste,GNV,R$/m³,4.9,25,4.9
+2024-11,RO,Norte,Diesel S10,R$/l,6.75,160,5.872
+2024-11,RR,Norte,Diesel S10,R$/l,6.87,59,5.977
+2024-11,RS,Sul,Diesel S10,R$/l,6.11,882,5.316
+2024-11,RS,Sul,GNV,R$/m³,4.65,91,4.65
+2024-11,SC,Sul,Diesel S10,R$/l,6.02,377,5.237
+2024-11,SC,Sul,GNV,R$/m³,4.84,76,4.84
+2024-11,SE,Nordeste,Diesel S10,R$/l,5.79,53,5.037
+2024-11,SE,Nordeste,GNV,R$/m³,4.88,12,4.88
+2024-11,SP,Sudeste,Diesel S10,R$/l,6.07,2984,5.281
+2024-11,SP,Sudeste,GNV,R$/m³,4.44,241,4.44
+2024-11,TO,Norte,Diesel S10,R$/l,5.97,153,5.194
+2024-12,AC,Norte,Diesel S10,R$/l,7.65,39,6.656
+2024-12,AL,Nordeste,Diesel S10,R$/l,6.01,149,5.229
+2024-12,AL,Nordeste,GNV,R$/m³,4.95,38,4.95
+2024-12,AM,Norte,Diesel S10,R$/l,6.48,200,5.638
+2024-12,AM,Norte,GNV,R$/m³,4.99,9,4.99
+2024-12,AP,Norte,Diesel S10,R$/l,6.58,53,5.725
+2024-12,BA,Nordeste,Diesel S10,R$/l,6.18,717,5.377
+2024-12,BA,Nordeste,GNV,R$/m³,4.12,46,4.12
+2024-12,CE,Nordeste,Diesel S10,R$/l,6.29,373,5.472
+2024-12,CE,Nordeste,GNV,R$/m³,4.94,37,4.94
+2024-12,DF,Centro-Oeste,Diesel S10,R$/l,5.97,92,5.194
+2024-12,ES,Sudeste,Diesel S10,R$/l,6.0,217,5.22
+2024-12,ES,Sudeste,GNV,R$/m³,4.82,52,4.82
+2024-12,GO,Centro-Oeste,Diesel S10,R$/l,6.04,610,5.255
+2024-12,MA,Nordeste,Diesel S10,R$/l,5.96,373,5.185
+2024-12,MG,Sudeste,Diesel S10,R$/l,5.98,1344,5.203
+2024-12,MG,Sudeste,GNV,R$/m³,5.09,64,5.09
+2024-12,MS,Centro-Oeste,Diesel S10,R$/l,6.13,128,5.333
+2024-12,MS,Centro-Oeste,GNV,R$/m³,4.79,3,4.79
+2024-12,MT,Centro-Oeste,Diesel S10,R$/l,6.24,229,5.429
+2024-12,MT,Centro-Oeste,GNV,R$/m³,3.84,5,3.84
+2024-12,PA,Norte,Diesel S10,R$/l,6.29,235,5.472
+2024-12,PB,Nordeste,Diesel S10,R$/l,5.92,192,5.15
+2024-12,PB,Nordeste,GNV,R$/m³,5.01,42,5.01
+2024-12,PE,Nordeste,Diesel S10,R$/l,5.99,577,5.211
+2024-12,PE,Nordeste,GNV,R$/m³,4.59,116,4.59
+2024-12,PI,Nordeste,Diesel S10,R$/l,6.08,164,5.29
+2024-12,PR,Sul,Diesel S10,R$/l,6.07,747,5.281
+2024-12,PR,Sul,GNV,R$/m³,4.79,35,4.79
+2024-12,RJ,Sudeste,Diesel S10,R$/l,6.13,892,5.333
+2024-12,RJ,Sudeste,GNV,R$/m³,4.69,650,4.69
+2024-12,RN,Nordeste,Diesel S10,R$/l,6.25,128,5.438
+2024-12,RN,Nordeste,GNV,R$/m³,4.82,26,4.82
+2024-12,RO,Norte,Diesel S10,R$/l,6.78,170,5.899
+2024-12,RR,Norte,Diesel S10,R$/l,6.97,74,6.064
+2024-12,RS,Sul,Diesel S10,R$/l,6.13,985,5.333
+2024-12,RS,Sul,GNV,R$/m³,4.61,107,4.61
+2024-12,SC,Sul,Diesel S10,R$/l,6.07,444,5.281
+2024-12,SC,Sul,GNV,R$/m³,4.88,86,4.88
+2024-12,SE,Nordeste,Diesel S10,R$/l,5.95,53,5.176
+2024-12,SE,Nordeste,GNV,R$/m³,4.9,15,4.9
+2024-12,SP,Sudeste,Diesel S10,R$/l,6.11,3418,5.316
+2024-12,SP,Sudeste,GNV,R$/m³,4.57,268,4.57
+2024-12,TO,Norte,Diesel S10,R$/l,6.03,145,5.246
+2025-01,AC,Norte,Diesel S10,R$/l,7.63,46,6.638
+2025-01,AL,Nordeste,Diesel S10,R$/l,6.07,117,5.281
+2025-01,AL,Nordeste,GNV,R$/m³,4.94,30,4.94
+2025-01,AM,Norte,Diesel S10,R$/l,6.47,174,5.629
+2025-01,AM,Norte,GNV,R$/m³,4.99,6,4.99
+2025-01,AP,Norte,Diesel S10,R$/l,6.59,46,5.733
+2025-01,BA,Nordeste,Diesel S10,R$/l,6.36,686,5.533
+2025-01,BA,Nordeste,GNV,R$/m³,4.1,61,4.1
+2025-01,CE,Nordeste,Diesel S10,R$/l,6.22,429,5.411
+2025-01,CE,Nordeste,GNV,R$/m³,4.88,58,4.88
+2025-01,DF,Centro-Oeste,Diesel S10,R$/l,6.0,86,5.22
+2025-01,ES,Sudeste,Diesel S10,R$/l,6.05,200,5.264
+2025-01,ES,Sudeste,GNV,R$/m³,4.51,44,4.51
+2025-01,GO,Centro-Oeste,Diesel S10,R$/l,6.08,526,5.29
+2025-01,MA,Nordeste,Diesel S10,R$/l,6.02,368,5.237
+2025-01,MG,Sudeste,Diesel S10,R$/l,6.03,1331,5.246
+2025-01,MG,Sudeste,GNV,R$/m³,5.1,60,5.1
+2025-01,MS,Centro-Oeste,Diesel S10,R$/l,6.17,135,5.368
+2025-01,MS,Centro-Oeste,GNV,R$/m³,4.75,6,4.75
+2025-01,MT,Centro-Oeste,Diesel S10,R$/l,6.26,232,5.446
+2025-01,MT,Centro-Oeste,GNV,R$/m³,3.92,6,3.92
+2025-01,PA,Norte,Diesel S10,R$/l,6.44,244,5.603
+2025-01,PB,Nordeste,Diesel S10,R$/l,6.03,198,5.246
+2025-01,PB,Nordeste,GNV,R$/m³,5.01,45,5.01
+2025-01,PE,Nordeste,Diesel S10,R$/l,6.05,540,5.264
+2025-01,PE,Nordeste,GNV,R$/m³,4.59,101,4.59
+2025-01,PI,Nordeste,Diesel S10,R$/l,6.2,156,5.394
+2025-01,PR,Sul,Diesel S10,R$/l,6.08,774,5.29
+2025-01,PR,Sul,GNV,R$/m³,4.79,32,4.79
+2025-01,RJ,Sudeste,Diesel S10,R$/l,6.16,838,5.359
+2025-01,RJ,Sudeste,GNV,R$/m³,4.69,606,4.69
+2025-01,RN,Nordeste,Diesel S10,R$/l,6.22,131,5.411
+2025-01,RN,Nordeste,GNV,R$/m³,4.79,24,4.79
+2025-01,RO,Norte,Diesel S10,R$/l,6.74,162,5.864
+2025-01,RR,Norte,Diesel S10,R$/l,6.98,60,6.073
+2025-01,RS,Sul,Diesel S10,R$/l,6.16,1096,5.359
+2025-01,RS,Sul,GNV,R$/m³,4.67,109,4.67
+2025-01,SC,Sul,Diesel S10,R$/l,6.12,427,5.324
+2025-01,SC,Sul,GNV,R$/m³,5.13,78,5.13
+2025-01,SE,Nordeste,Diesel S10,R$/l,6.06,59,5.272
+2025-01,SE,Nordeste,GNV,R$/m³,4.9,12,4.9
+2025-01,SP,Sudeste,Diesel S10,R$/l,6.15,3114,5.35
+2025-01,SP,Sudeste,GNV,R$/m³,4.63,249,4.63
+2025-01,TO,Norte,Diesel S10,R$/l,6.06,142,5.272
+2025-02,AC,Norte,Diesel S10,R$/l,7.86,37,6.838
+2025-02,AL,Nordeste,Diesel S10,R$/l,6.4,114,5.568
+2025-02,AL,Nordeste,GNV,R$/m³,4.87,28,4.87
+2025-02,AM,Norte,Diesel S10,R$/l,6.8,168,5.916
+2025-02,AM,Norte,GNV,R$/m³,5.2,7,5.2
+2025-02,AP,Norte,Diesel S10,R$/l,6.75,40,5.872
+2025-02,BA,Nordeste,Diesel S10,R$/l,6.43,639,5.594
+2025-02,BA,Nordeste,GNV,R$/m³,4.21,53,4.21
+2025-02,CE,Nordeste,Diesel S10,R$/l,6.45,344,5.612
+2025-02,CE,Nordeste,GNV,R$/m³,5.07,42,5.07
+2025-02,DF,Centro-Oeste,Diesel S10,R$/l,6.48,77,5.638
+2025-02,ES,Sudeste,Diesel S10,R$/l,6.41,223,5.577
+2025-02,ES,Sudeste,GNV,R$/m³,4.43,53,4.43
+2025-02,GO,Centro-Oeste,Diesel S10,R$/l,6.41,429,5.577
+2025-02,MA,Nordeste,Diesel S10,R$/l,6.36,335,5.533
+2025-02,MG,Sudeste,Diesel S10,R$/l,6.36,1257,5.533
+2025-02,MG,Sudeste,GNV,R$/m³,5.08,57,5.08
+2025-02,MS,Centro-Oeste,Diesel S10,R$/l,6.44,116,5.603
+2025-02,MS,Centro-Oeste,GNV,R$/m³,4.76,4,4.76
+2025-02,MT,Centro-Oeste,Diesel S10,R$/l,6.64,210,5.777
+2025-02,MT,Centro-Oeste,GNV,R$/m³,4.02,5,4.02
+2025-02,PA,Norte,Diesel S10,R$/l,6.71,317,5.838
+2025-02,PB,Nordeste,Diesel S10,R$/l,6.31,189,5.49
+2025-02,PB,Nordeste,GNV,R$/m³,4.99,44,4.99
+2025-02,PE,Nordeste,Diesel S10,R$/l,6.3,521,5.481
+2025-02,PE,Nordeste,GNV,R$/m³,4.64,97,4.64
+2025-02,PI,Nordeste,Diesel S10,R$/l,6.44,159,5.603
+2025-02,PR,Sul,Diesel S10,R$/l,6.46,710,5.62
+2025-02,PR,Sul,GNV,R$/m³,4.81,30,4.81
+2025-02,RJ,Sudeste,Diesel S10,R$/l,6.42,829,5.585
+2025-02,RJ,Sudeste,GNV,R$/m³,4.68,615,4.68
+2025-02,RN,Nordeste,Diesel S10,R$/l,6.59,101,5.733
+2025-02,RN,Nordeste,GNV,R$/m³,4.83,21,4.83
+2025-02,RO,Norte,Diesel S10,R$/l,6.96,166,6.055
+2025-02,RR,Norte,Diesel S10,R$/l,7.18,59,6.247
+2025-02,RS,Sul,Diesel S10,R$/l,6.48,964,5.638
+2025-02,RS,Sul,GNV,R$/m³,4.68,108,4.68
+2025-02,SC,Sul,Diesel S10,R$/l,6.48,400,5.638
+2025-02,SC,Sul,GNV,R$/m³,5.14,79,5.14
+2025-02,SE,Nordeste,Diesel S10,R$/l,6.26,38,5.446
+2025-02,SE,Nordeste,GNV,R$/m³,4.9,12,4.9
+2025-02,SP,Sudeste,Diesel S10,R$/l,6.45,3081,5.612
+2025-02,SP,Sudeste,GNV,R$/m³,4.6,227,4.6
+2025-02,TO,Norte,Diesel S10,R$/l,6.34,151,5.516
+2025-03,AC,Norte,Diesel S10,R$/l,7.92,41,6.89
+2025-03,AL,Nordeste,Diesel S10,R$/l,6.37,151,5.542
+2025-03,AL,Nordeste,GNV,R$/m³,4.87,42,4.87
+2025-03,AM,Norte,Diesel S10,R$/l,6.91,194,6.012
+2025-03,AM,Norte,GNV,R$/m³,5.49,8,5.49
+2025-03,AP,Norte,Diesel S10,R$/l,6.77,33,5.89
+2025-03,BA,Nordeste,Diesel S10,R$/l,6.37,772,5.542
+2025-03,BA,Nordeste,GNV,R$/m³,4.27,70,4.27
+2025-03,CE,Nordeste,Diesel S10,R$/l,6.44,375,5.603
+2025-03,CE,Nordeste,GNV,R$/m³,5.13,35,5.13
+2025-03,DF,Centro-Oeste,Diesel S10,R$/l,6.47,95,5.629
+2025-03,ES,Sudeste,Diesel S10,R$/l,6.39,294,5.559
+2025-03,ES,Sudeste,GNV,R$/m³,4.39,67,4.39
+2025-03,GO,Centro-Oeste,Diesel S10,R$/l,6.38,482,5.551
+2025-03,MA,Nordeste,Diesel S10,R$/l,6.29,390,5.472
+2025-03,MG,Sudeste,Diesel S10,R$/l,6.33,1385,5.507
+2025-03,MG,Sudeste,GNV,R$/m³,5.07,63,5.07
+2025-03,MS,Centro-Oeste,Diesel S10,R$/l,6.44,131,5.603
+2025-03,MS,Centro-Oeste,GNV,R$/m³,4.84,4,4.84
+2025-03,MT,Centro-Oeste,Diesel S10,R$/l,6.56,222,5.707
+2025-03,MT,Centro-Oeste,GNV,R$/m³,4.05,4,4.05
+2025-03,PA,Norte,Diesel S10,R$/l,6.61,374,5.751
+2025-03,PB,Nordeste,Diesel S10,R$/l,6.29,227,5.472
+2025-03,PB,Nordeste,GNV,R$/m³,4.99,52,4.99
+2025-03,PE,Nordeste,Diesel S10,R$/l,6.21,743,5.403
+2025-03,PE,Nordeste,GNV,R$/m³,4.64,118,4.64
+2025-03,PI,Nordeste,Diesel S10,R$/l,6.43,168,5.594
+2025-03,PR,Sul,Diesel S10,R$/l,6.42,806,5.585
+2025-03,PR,Sul,GNV,R$/m³,4.78,29,4.78
+2025-03,RJ,Sudeste,Diesel S10,R$/l,6.42,999,5.585
+2025-03,RJ,Sudeste,GNV,R$/m³,4.67,742,4.67
+2025-03,RN,Nordeste,Diesel S10,R$/l,6.47,143,5.629
+2025-03,RN,Nordeste,GNV,R$/m³,4.8,28,4.8
+2025-03,RO,Norte,Diesel S10,R$/l,6.91,175,6.012
+2025-03,RR,Norte,Diesel S10,R$/l,7.11,72,6.186
+2025-03,RS,Sul,Diesel S10,R$/l,6.45,1158,5.612
+2025-03,RS,Sul,GNV,R$/m³,4.7,106,4.7
+2025-03,SC,Sul,Diesel S10,R$/l,6.45,466,5.612
+2025-03,SC,Sul,GNV,R$/m³,5.15,102,5.15
+2025-03,SE,Nordeste,Diesel S10,R$/l,6.31,85,5.49
+2025-03,SE,Nordeste,GNV,R$/m³,4.9,23,4.9
+2025-03,SP,Sudeste,Diesel S10,R$/l,6.44,3539,5.603
+2025-03,SP,Sudeste,GNV,R$/m³,4.58,235,4.58
+2025-03,TO,Norte,Diesel S10,R$/l,6.33,180,5.507
+2025-04,AC,Norte,Diesel S10,R$/l,7.91,45,6.882
+2025-04,AL,Nordeste,Diesel S10,R$/l,6.3,113,5.481
+2025-04,AL,Nordeste,GNV,R$/m³,4.85,31,4.85
+2025-04,AM,Norte,Diesel S10,R$/l,6.9,180,6.003
+2025-04,AM,Norte,GNV,R$/m³,5.49,8,5.49
+2025-04,AP,Norte,Diesel S10,R$/l,6.67,35,5.803
+2025-04,BA,Nordeste,Diesel S10,R$/l,6.24,790,5.429
+2025-04,BA,Nordeste,GNV,R$/m³,4.22,65,4.22
+2025-04,CE,Nordeste,Diesel S10,R$/l,6.24,424,5.429
+2025-04,CE,Nordeste,GNV,R$/m³,5.12,46,5.12
+2025-04,DF,Centro-Oeste,Diesel S10,R$/l,6.39,84,5.559
+2025-04,ES,Sudeste,Diesel S10,R$/l,6.33,247,5.507
+2025-04,ES,Sudeste,GNV,R$/m³,4.34,53,4.34
+2025-04,GO,Centro-Oeste,Diesel S10,R$/l,6.27,476,5.455
+2025-04,MA,Nordeste,Diesel S10,R$/l,6.07,376,5.281
+2025-04,MG,Sudeste,Diesel S10,R$/l,6.21,1293,5.403
+2025-04,MG,Sudeste,GNV,R$/m³,5.22,45,5.22
+2025-04,MS,Centro-Oeste,Diesel S10,R$/l,6.32,104,5.498
+2025-04,MS,Centro-Oeste,GNV,R$/m³,4.72,8,4.72
+2025-04,MT,Centro-Oeste,Diesel S10,R$/l,6.31,238,5.49
+2025-04,MT,Centro-Oeste,GNV,R$/m³,4.05,8,4.05
+2025-04,PA,Norte,Diesel S10,R$/l,6.46,349,5.62
+2025-04,PB,Nordeste,Diesel S10,R$/l,6.13,203,5.333
+2025-04,PB,Nordeste,GNV,R$/m³,4.99,47,4.99
+2025-04,PE,Nordeste,Diesel S10,R$/l,5.97,698,5.194
+2025-04,PE,Nordeste,GNV,R$/m³,4.64,107,4.64
+2025-04,PI,Nordeste,Diesel S10,R$/l,6.23,164,5.42
+2025-04,PR,Sul,Diesel S10,R$/l,6.25,780,5.438
+2025-04,PR,Sul,GNV,R$/m³,4.79,26,4.79
+2025-04,RJ,Sudeste,Diesel S10,R$/l,6.36,913,5.533
+2025-04,RJ,Sudeste,GNV,R$/m³,4.62,651,4.62
+2025-04,RN,Nordeste,Diesel S10,R$/l,6.33,146,5.507
+2025-04,RN,Nordeste,GNV,R$/m³,4.85,29,4.85
+2025-04,RO,Norte,Diesel S10,R$/l,6.79,183,5.907
+2025-04,RR,Norte,Diesel S10,R$/l,6.9,56,6.003
+2025-04,RS,Sul,Diesel S10,R$/l,6.38,1093,5.551
+2025-04,RS,Sul,GNV,R$/m³,4.77,94,4.77
+2025-04,SC,Sul,Diesel S10,R$/l,6.38,420,5.551
+2025-04,SC,Sul,GNV,R$/m³,5.12,88,5.12
+2025-04,SE,Nordeste,Diesel S10,R$/l,6.01,74,5.229
+2025-04,SE,Nordeste,GNV,R$/m³,4.9,20,4.9
+2025-04,SP,Sudeste,Diesel S10,R$/l,6.34,3437,5.516
+2025-04,SP,Sudeste,GNV,R$/m³,4.56,244,4.56
+2025-04,TO,Norte,Diesel S10,R$/l,6.22,165,5.411
+2025-05,AC,Norte,Diesel S10,R$/l,7.84,53,6.821
+2025-05,AL,Nordeste,Diesel S10,R$/l,6.03,112,5.246
+2025-05,AL,Nordeste,GNV,R$/m³,4.83,30,4.83
+2025-05,AM,Norte,Diesel S10,R$/l,6.83,168,5.942
+2025-05,AM,Norte,GNV,R$/m³,5.49,7,5.49
+2025-05,AP,Norte,Diesel S10,R$/l,6.56,20,5.707
+2025-05,BA,Nordeste,Diesel S10,R$/l,6.07,726,5.281
+2025-05,BA,Nordeste,GNV,R$/m³,4.19,63,4.19
+2025-05,CE,Nordeste,Diesel S10,R$/l,5.98,330,5.203
+2025-05,CE,Nordeste,GNV,R$/m³,5.12,24,5.12
+2025-05,DF,Centro-Oeste,Diesel S10,R$/l,6.2,81,5.394
+2025-05,ES,Sudeste,Diesel S10,R$/l,6.16,228,5.359
+2025-05,ES,Sudeste,GNV,R$/m³,4.29,52,4.29
+2025-05,GO,Centro-Oeste,Diesel S10,R$/l,6.11,526,5.316
+2025-05,MA,Nordeste,Diesel S10,R$/l,5.93,354,5.159
+2025-05,MG,Sudeste,Diesel S10,R$/l,6.03,1277,5.246
+2025-05,MG,Sudeste,GNV,R$/m³,5.19,60,5.19
+2025-05,MS,Centro-Oeste,Diesel S10,R$/l,6.13,87,5.333
+2025-05,MS,Centro-Oeste,GNV,R$/m³,4.74,8,4.74
+2025-05,MT,Centro-Oeste,Diesel S10,R$/l,6.11,222,5.316
+2025-05,MT,Centro-Oeste,GNV,R$/m³,4.05,7,4.05
+2025-05,PA,Norte,Diesel S10,R$/l,6.28,345,5.464
+2025-05,PB,Nordeste,Diesel S10,R$/l,5.99,191,5.211
+2025-05,PB,Nordeste,GNV,R$/m³,4.99,46,4.99
+2025-05,PE,Nordeste,Diesel S10,R$/l,5.77,616,5.02
+2025-05,PE,Nordeste,GNV,R$/m³,4.71,97,4.71
+2025-05,PI,Nordeste,Diesel S10,R$/l,6.08,164,5.29
+2025-05,PR,Sul,Diesel S10,R$/l,6.08,772,5.29
+2025-05,PR,Sul,GNV,R$/m³,4.78,26,4.78
+2025-05,RJ,Sudeste,Diesel S10,R$/l,6.24,854,5.429
+2025-05,RJ,Sudeste,GNV,R$/m³,4.6,635,4.6
+2025-05,RN,Nordeste,Diesel S10,R$/l,6.21,150,5.403
+2025-05,RN,Nordeste,GNV,R$/m³,4.82,34,4.82
+2025-05,RO,Norte,Diesel S10,R$/l,6.62,143,5.759
+2025-05,RR,Norte,Diesel S10,R$/l,6.86,56,5.968
+2025-05,RS,Sul,Diesel S10,R$/l,6.25,1017,5.438
+2025-05,RS,Sul,GNV,R$/m³,4.75,93,4.75
+2025-05,SC,Sul,Diesel S10,R$/l,6.22,393,5.411
+2025-05,SC,Sul,GNV,R$/m³,5.08,89,5.08
+2025-05,SE,Nordeste,Diesel S10,R$/l,5.86,100,5.098
+2025-05,SE,Nordeste,GNV,R$/m³,4.96,19,4.96
+2025-05,SP,Sudeste,Diesel S10,R$/l,6.2,3205,5.394
+2025-05,SP,Sudeste,GNV,R$/m³,4.54,223,4.54
+2025-05,TO,Norte,Diesel S10,R$/l,6.09,151,5.298
+2025-06,AC,Norte,Diesel S10,R$/l,7.78,45,6.769
+2025-06,AL,Nordeste,Diesel S10,R$/l,5.91,115,5.142
+2025-06,AL,Nordeste,GNV,R$/m³,4.79,37,4.79
+2025-06,AM,Norte,Diesel S10,R$/l,6.68,182,5.812
+2025-06,AM,Norte,GNV,R$/m³,5.49,8,5.49
+2025-06,AP,Norte,Diesel S10,R$/l,6.47,20,5.629
+2025-06,BA,Nordeste,Diesel S10,R$/l,6.0,752,5.22
+2025-06,BA,Nordeste,GNV,R$/m³,4.31,67,4.31
+2025-06,CE,Nordeste,Diesel S10,R$/l,5.9,353,5.133
+2025-06,CE,Nordeste,GNV,R$/m³,5.13,40,5.13
+2025-06,DF,Centro-Oeste,Diesel S10,R$/l,6.1,89,5.307
+2025-06,ES,Sudeste,Diesel S10,R$/l,6.05,253,5.264
+2025-06,ES,Sudeste,GNV,R$/m³,4.29,55,4.29
+2025-06,GO,Centro-Oeste,Diesel S10,R$/l,5.98,584,5.203
+2025-06,MA,Nordeste,Diesel S10,R$/l,5.86,365,5.098
+2025-06,MG,Sudeste,Diesel S10,R$/l,5.93,1305,5.159
+2025-06,MG,Sudeste,GNV,R$/m³,5.2,65,5.2
+2025-06,MS,Centro-Oeste,Diesel S10,R$/l,6.03,103,5.246
+2025-06,MS,Centro-Oeste,GNV,R$/m³,4.73,9,4.73
+2025-06,MT,Centro-Oeste,Diesel S10,R$/l,6.04,216,5.255
+2025-06,MT,Centro-Oeste,GNV,R$/m³,4.05,4,4.05
+2025-06,PA,Norte,Diesel S10,R$/l,6.22,350,5.411
+2025-06,PB,Nordeste,Diesel S10,R$/l,5.84,195,5.081
+2025-06,PB,Nordeste,GNV,R$/m³,4.99,50,4.99
+2025-06,PE,Nordeste,Diesel S10,R$/l,5.73,657,4.985
+2025-06,PE,Nordeste,GNV,R$/m³,4.72,105,4.72
+2025-06,PI,Nordeste,Diesel S10,R$/l,5.96,161,5.185
+2025-06,PR,Sul,Diesel S10,R$/l,6.0,793,5.22
+2025-06,PR,Sul,GNV,R$/m³,4.75,31,4.75
+2025-06,RJ,Sudeste,Diesel S10,R$/l,6.13,951,5.333
+2025-06,RJ,Sudeste,GNV,R$/m³,4.57,729,4.57
+2025-06,RN,Nordeste,Diesel S10,R$/l,6.07,166,5.281
+2025-06,RN,Nordeste,GNV,R$/m³,4.92,27,4.92
+2025-06,RO,Norte,Diesel S10,R$/l,6.48,154,5.638
+2025-06,RR,Norte,Diesel S10,R$/l,6.86,64,5.968
+2025-06,RS,Sul,Diesel S10,R$/l,6.17,926,5.368
+2025-06,RS,Sul,GNV,R$/m³,4.79,83,4.79
+2025-06,SC,Sul,Diesel S10,R$/l,6.15,417,5.35
+2025-06,SC,Sul,GNV,R$/m³,5.08,96,5.08
+2025-06,SE,Nordeste,Diesel S10,R$/l,5.8,88,5.046
+2025-06,SE,Nordeste,GNV,R$/m³,4.99,23,4.99
+2025-06,SP,Sudeste,Diesel S10,R$/l,6.11,3551,5.316
+2025-06,SP,Sudeste,GNV,R$/m³,4.54,259,4.54
+2025-06,TO,Norte,Diesel S10,R$/l,5.99,161,5.211
+2025-07,AC,Norte,Diesel S10,R$/l,7.74,51,6.734
+2025-07,AL,Nordeste,Diesel S10,R$/l,5.91,84,5.142
+2025-07,AL,Nordeste,GNV,R$/m³,4.79,27,4.79
+2025-07,AM,Norte,Diesel S10,R$/l,6.59,173,5.733
+2025-07,AM,Norte,GNV,R$/m³,5.49,9,5.49
+2025-07,AP,Norte,Diesel S10,R$/l,6.45,25,5.612
+2025-07,BA,Nordeste,Diesel S10,R$/l,6.03,527,5.246
+2025-07,BA,Nordeste,GNV,R$/m³,4.22,57,4.22
+2025-07,CE,Nordeste,Diesel S10,R$/l,5.91,379,5.142
+2025-07,CE,Nordeste,GNV,R$/m³,5.15,30,5.15
+2025-07,DF,Centro-Oeste,Diesel S10,R$/l,6.09,82,5.298
+2025-07,ES,Sudeste,Diesel S10,R$/l,6.01,219,5.229
+2025-07,ES,Sudeste,GNV,R$/m³,4.29,50,4.29
+2025-07,GO,Centro-Oeste,Diesel S10,R$/l,5.98,449,5.203
+2025-07,MA,Nordeste,Diesel S10,R$/l,5.92,349,5.15
+2025-07,MG,Sudeste,Diesel S10,R$/l,5.92,945,5.15
+2025-07,MG,Sudeste,GNV,R$/m³,5.1,65,5.1
+2025-07,MS,Centro-Oeste,Diesel S10,R$/l,5.99,107,5.211
+2025-07,MS,Centro-Oeste,GNV,R$/m³,4.74,9,4.74
+2025-07,MT,Centro-Oeste,Diesel S10,R$/l,6.09,216,5.298
+2025-07,MT,Centro-Oeste,GNV,R$/m³,4.03,8,4.03
+2025-07,PA,Norte,Diesel S10,R$/l,6.21,328,5.403
+2025-07,PB,Nordeste,Diesel S10,R$/l,5.79,165,5.037
+2025-07,PB,Nordeste,GNV,R$/m³,4.99,44,4.99
+2025-07,PE,Nordeste,Diesel S10,R$/l,5.73,396,4.985
+2025-07,PE,Nordeste,GNV,R$/m³,4.72,69,4.72
+2025-07,PI,Nordeste,Diesel S10,R$/l,6.03,148,5.246
+2025-07,PR,Sul,Diesel S10,R$/l,6.0,790,5.22
+2025-07,PR,Sul,GNV,R$/m³,4.79,30,4.79
+2025-07,RJ,Sudeste,Diesel S10,R$/l,6.1,848,5.307
+2025-07,RJ,Sudeste,GNV,R$/m³,4.56,659,4.56
+2025-07,RN,Nordeste,Diesel S10,R$/l,6.06,172,5.272
+2025-07,RN,Nordeste,GNV,R$/m³,5.12,39,5.12
+2025-07,RO,Norte,Diesel S10,R$/l,6.41,179,5.577
+2025-07,RR,Norte,Diesel S10,R$/l,6.86,68,5.968
+2025-07,RS,Sul,Diesel S10,R$/l,6.16,948,5.359
+2025-07,RS,Sul,GNV,R$/m³,4.89,66,4.89
+2025-07,SC,Sul,Diesel S10,R$/l,6.09,445,5.298
+2025-07,SC,Sul,GNV,R$/m³,4.94,108,4.94
+2025-07,SE,Nordeste,Diesel S10,R$/l,5.82,46,5.063
+2025-07,SE,Nordeste,GNV,R$/m³,4.99,16,4.99
+2025-07,SP,Sudeste,Diesel S10,R$/l,6.1,3439,5.307
+2025-07,SP,Sudeste,GNV,R$/m³,4.58,245,4.58
+2025-07,TO,Norte,Diesel S10,R$/l,6.0,115,5.22
+2025-08,AC,Norte,Diesel S10,R$/l,7.72,35,6.716
+2025-08,AL,Nordeste,Diesel S10,R$/l,5.89,64,5.124
+2025-08,AL,Nordeste,GNV,R$/m³,4.6,27,4.6
+2025-08,AM,Norte,Diesel S10,R$/l,6.56,136,5.707
+2025-08,AM,Norte,GNV,R$/m³,4.91,5,4.91
+2025-08,AP,Norte,Diesel S10,R$/l,6.46,19,5.62
+2025-08,BA,Nordeste,Diesel S10,R$/l,6.04,323,5.255
+2025-08,BA,Nordeste,GNV,R$/m³,4.13,53,4.13
+2025-08,CE,Nordeste,Diesel S10,R$/l,5.86,338,5.098
+2025-08,CE,Nordeste,GNV,R$/m³,5.13,29,5.13
+2025-08,DF,Centro-Oeste,Diesel S10,R$/l,6.07,74,5.281
+2025-08,ES,Sudeste,Diesel S10,R$/l,6.01,183,5.229
+2025-08,ES,Sudeste,GNV,R$/m³,4.28,41,4.28
+2025-08,GO,Centro-Oeste,Diesel S10,R$/l,6.05,381,5.264
+2025-08,MA,Nordeste,Diesel S10,R$/l,5.93,253,5.159
+2025-08,MG,Sudeste,Diesel S10,R$/l,5.93,572,5.159
+2025-08,MG,Sudeste,GNV,R$/m³,5.16,46,5.16
+2025-08,MS,Centro-Oeste,Diesel S10,R$/l,6.05,84,5.264
+2025-08,MS,Centro-Oeste,GNV,R$/m³,4.63,7,4.63
+2025-08,MT,Centro-Oeste,Diesel S10,R$/l,6.28,183,5.464
+2025-08,MT,Centro-Oeste,GNV,R$/m³,4.05,4,4.05
+2025-08,PA,Norte,Diesel S10,R$/l,6.2,292,5.394
+2025-08,PB,Nordeste,Diesel S10,R$/l,5.71,134,4.968
+2025-08,PB,Nordeste,GNV,R$/m³,4.93,36,4.93
+2025-08,PE,Nordeste,Diesel S10,R$/l,5.79,279,5.037
+2025-08,PE,Nordeste,GNV,R$/m³,4.39,63,4.39
+2025-08,PI,Nordeste,Diesel S10,R$/l,5.99,129,5.211
+2025-08,PR,Sul,Diesel S10,R$/l,6.03,627,5.246
+2025-08,PR,Sul,GNV,R$/m³,4.72,22,4.72
+2025-08,RJ,Sudeste,Diesel S10,R$/l,6.11,741,5.316
+2025-08,RJ,Sudeste,GNV,R$/m³,4.49,605,4.49
+2025-08,RN,Nordeste,Diesel S10,R$/l,6.02,164,5.237
+2025-08,RN,Nordeste,GNV,R$/m³,5.15,29,5.15
+2025-08,RO,Norte,Diesel S10,R$/l,6.41,150,5.577
+2025-08,RR,Norte,Diesel S10,R$/l,6.86,60,5.968
+2025-08,RS,Sul,Diesel S10,R$/l,6.17,778,5.368
+2025-08,RS,Sul,GNV,R$/m³,4.86,45,4.86
+2025-08,SC,Sul,Diesel S10,R$/l,6.12,425,5.324
+2025-08,SC,Sul,GNV,R$/m³,4.84,110,4.84
+2025-08,SE,Nordeste,Diesel S10,R$/l,5.89,13,5.124
+2025-08,SE,Nordeste,GNV,R$/m³,4.69,10,4.69
+2025-08,SP,Sudeste,Diesel S10,R$/l,6.13,2997,5.333
+2025-08,SP,Sudeste,GNV,R$/m³,4.6,224,4.6
+2025-08,TO,Norte,Diesel S10,R$/l,6.09,101,5.298
+2025-09,AC,Norte,Diesel S10,R$/l,7.67,41,6.673
+2025-09,AL,Nordeste,Diesel S10,R$/l,5.87,75,5.107
+2025-09,AL,Nordeste,GNV,R$/m³,4.59,32,4.59
+2025-09,AM,Norte,Diesel S10,R$/l,6.56,187,5.707
+2025-09,AM,Norte,GNV,R$/m³,4.59,4,4.59
+2025-09,AP,Norte,Diesel S10,R$/l,6.48,24,5.638
+2025-09,BA,Nordeste,Diesel S10,R$/l,6.06,407,5.272
+2025-09,BA,Nordeste,GNV,R$/m³,4.17,54,4.17
+2025-09,CE,Nordeste,Diesel S10,R$/l,5.84,382,5.081
+2025-09,CE,Nordeste,GNV,R$/m³,5.15,45,5.15
+2025-09,DF,Centro-Oeste,Diesel S10,R$/l,6.03,90,5.246
+2025-09,ES,Sudeste,Diesel S10,R$/l,6.05,202,5.264
+2025-09,ES,Sudeste,GNV,R$/m³,4.12,46,4.12
+2025-09,GO,Centro-Oeste,Diesel S10,R$/l,6.05,374,5.264
+2025-09,MA,Nordeste,Diesel S10,R$/l,5.91,312,5.142
+2025-09,MG,Sudeste,Diesel S10,R$/l,5.92,720,5.15
+2025-09,MG,Sudeste,GNV,R$/m³,5.16,50,5.16
+2025-09,MS,Centro-Oeste,Diesel S10,R$/l,6.05,90,5.264
+2025-09,MS,Centro-Oeste,GNV,R$/m³,4.63,9,4.63
+2025-09,MT,Centro-Oeste,Diesel S10,R$/l,6.34,208,5.516
+2025-09,MT,Centro-Oeste,GNV,R$/m³,4.05,6,4.05
+2025-09,PA,Norte,Diesel S10,R$/l,6.2,380,5.394
+2025-09,PB,Nordeste,Diesel S10,R$/l,5.75,158,5.002
+2025-09,PB,Nordeste,GNV,R$/m³,4.86,42,4.86
+2025-09,PE,Nordeste,Diesel S10,R$/l,5.77,407,5.02
+2025-09,PE,Nordeste,GNV,R$/m³,4.39,94,4.39
+2025-09,PI,Nordeste,Diesel S10,R$/l,6.0,119,5.22
+2025-09,PR,Sul,Diesel S10,R$/l,6.01,794,5.229
+2025-09,PR,Sul,GNV,R$/m³,4.7,18,4.7
+2025-09,RJ,Sudeste,Diesel S10,R$/l,6.11,944,5.316
+2025-09,RJ,Sudeste,GNV,R$/m³,4.46,737,4.46
+2025-09,RN,Nordeste,Diesel S10,R$/l,6.02,184,5.237
+2025-09,RN,Nordeste,GNV,R$/m³,5.12,42,5.12
+2025-09,RO,Norte,Diesel S10,R$/l,6.37,151,5.542
+2025-09,RR,Norte,Diesel S10,R$/l,6.86,75,5.968
+2025-09,RS,Sul,Diesel S10,R$/l,6.16,923,5.359
+2025-09,RS,Sul,GNV,R$/m³,4.87,49,4.87
+2025-09,SC,Sul,Diesel S10,R$/l,6.13,504,5.333
+2025-09,SC,Sul,GNV,R$/m³,4.82,130,4.82
+2025-09,SE,Nordeste,Diesel S10,R$/l,5.9,26,5.133
+2025-09,SE,Nordeste,GNV,R$/m³,4.69,15,4.69
+2025-09,SP,Sudeste,Diesel S10,R$/l,6.13,3370,5.333
+2025-09,SP,Sudeste,GNV,R$/m³,4.55,257,4.55
+2025-09,TO,Norte,Diesel S10,R$/l,6.01,126,5.229
+2025-10,AC,Norte,Diesel S10,R$/l,7.64,51,6.647
+2025-10,AL,Nordeste,Diesel S10,R$/l,5.83,84,5.072
+2025-10,AL,Nordeste,GNV,R$/m³,4.59,33,4.59
+2025-10,AM,Norte,Diesel S10,R$/l,6.56,172,5.707
+2025-10,AM,Norte,GNV,R$/m³,3.99,6,3.99
+2025-10,AP,Norte,Diesel S10,R$/l,6.49,23,5.646
+2025-10,BA,Nordeste,Diesel S10,R$/l,6.07,465,5.281
+2025-10,BA,Nordeste,GNV,R$/m³,4.3,53,4.3
+2025-10,CE,Nordeste,Diesel S10,R$/l,5.86,350,5.098
+2025-10,CE,Nordeste,GNV,R$/m³,5.15,35,5.15
+2025-10,DF,Centro-Oeste,Diesel S10,R$/l,6.0,70,5.22
+2025-10,ES,Sudeste,Diesel S10,R$/l,6.02,209,5.237
+2025-10,ES,Sudeste,GNV,R$/m³,4.09,41,4.09
+2025-10,GO,Centro-Oeste,Diesel S10,R$/l,6.03,493,5.246
+2025-10,GO,Centro-Oeste,GNV,R$/m³,6.37,1,6.37
+2025-10,MA,Nordeste,Diesel S10,R$/l,5.85,350,5.089
+2025-10,MG,Sudeste,Diesel S10,R$/l,5.92,880,5.15
+2025-10,MG,Sudeste,GNV,R$/m³,5.12,56,5.12
+2025-10,MS,Centro-Oeste,Diesel S10,R$/l,6.01,67,5.229
+2025-10,MS,Centro-Oeste,GNV,R$/m³,4.64,7,4.64
+2025-10,MT,Centro-Oeste,Diesel S10,R$/l,6.31,214,5.49
+2025-10,MT,Centro-Oeste,GNV,R$/m³,4.05,6,4.05
+2025-10,PA,Norte,Diesel S10,R$/l,6.22,348,5.411
+2025-10,PB,Nordeste,Diesel S10,R$/l,5.73,144,4.985
+2025-10,PB,Nordeste,GNV,R$/m³,4.85,39,4.85
+2025-10,PE,Nordeste,Diesel S10,R$/l,5.79,458,5.037
+2025-10,PE,Nordeste,GNV,R$/m³,4.39,101,4.39
+2025-10,PI,Nordeste,Diesel S10,R$/l,5.98,102,5.203
+2025-10,PR,Sul,Diesel S10,R$/l,6.0,851,5.22
+2025-10,PR,Sul,GNV,R$/m³,4.64,18,4.64
+2025-10,RJ,Sudeste,Diesel S10,R$/l,6.13,843,5.333
+2025-10,RJ,Sudeste,GNV,R$/m³,4.44,618,4.44
+2025-10,RN,Nordeste,Diesel S10,R$/l,6.06,168,5.272
+2025-10,RN,Nordeste,GNV,R$/m³,5.05,26,5.05
+2025-10,RO,Norte,Diesel S10,R$/l,6.41,163,5.577
+2025-10,RR,Norte,Diesel S10,R$/l,6.86,54,5.968
+2025-10,RS,Sul,Diesel S10,R$/l,6.15,936,5.35
+2025-10,RS,Sul,GNV,R$/m³,4.85,71,4.85
+2025-10,SC,Sul,Diesel S10,R$/l,6.12,453,5.324
+2025-10,SC,Sul,GNV,R$/m³,4.82,114,4.82
+2025-10,SE,Nordeste,Diesel S10,R$/l,5.91,43,5.142
+2025-10,SE,Nordeste,GNV,R$/m³,4.69,11,4.69
+2025-10,SP,Sudeste,Diesel S10,R$/l,6.11,3018,5.316
+2025-10,SP,Sudeste,GNV,R$/m³,4.55,201,4.55
+2025-10,TO,Norte,Diesel S10,R$/l,6.01,165,5.229
+2025-11,AC,Norte,Diesel S10,R$/l,7.62,40,6.629
+2025-11,AL,Nordeste,Diesel S10,R$/l,5.92,108,5.15
+2025-11,AL,Nordeste,GNV,R$/m³,4.59,33,4.59
+2025-11,AM,Norte,Diesel S10,R$/l,6.56,145,5.707
+2025-11,AM,Norte,GNV,R$/m³,3.99,6,3.99
+2025-11,AP,Norte,Diesel S10,R$/l,6.48,27,5.638
+2025-11,BA,Nordeste,Diesel S10,R$/l,6.1,618,5.307
+2025-11,BA,Nordeste,GNV,R$/m³,4.22,49,4.22
+2025-11,CE,Nordeste,Diesel S10,R$/l,5.89,386,5.124
+2025-11,CE,Nordeste,GNV,R$/m³,5.13,36,5.13
+2025-11,DF,Centro-Oeste,Diesel S10,R$/l,6.0,75,5.22
+2025-11,ES,Sudeste,Diesel S10,R$/l,6.03,201,5.246
+2025-11,ES,Sudeste,GNV,R$/m³,4.47,39,4.47
+2025-11,GO,Centro-Oeste,Diesel S10,R$/l,6.04,420,5.255
+2025-11,MA,Nordeste,Diesel S10,R$/l,5.93,308,5.159
+2025-11,MG,Sudeste,Diesel S10,R$/l,5.95,1103,5.176
+2025-11,MG,Sudeste,GNV,R$/m³,4.95,46,4.95
+2025-11,MS,Centro-Oeste,Diesel S10,R$/l,6.04,70,5.255
+2025-11,MS,Centro-Oeste,GNV,R$/m³,4.59,4,4.59
+2025-11,MT,Centro-Oeste,Diesel S10,R$/l,6.35,194,5.524
+2025-11,MT,Centro-Oeste,GNV,R$/m³,4.05,10,4.05
+2025-11,PA,Norte,Diesel S10,R$/l,6.21,324,5.403
+2025-11,PB,Nordeste,Diesel S10,R$/l,5.79,115,5.037
+2025-11,PB,Nordeste,GNV,R$/m³,4.85,28,4.85
+2025-11,PE,Nordeste,Diesel S10,R$/l,5.82,512,5.063
+2025-11,PE,Nordeste,GNV,R$/m³,4.39,101,4.39
+2025-11,PI,Nordeste,Diesel S10,R$/l,5.97,114,5.194
+2025-11,PR,Sul,Diesel S10,R$/l,6.0,706,5.22
+2025-11,PR,Sul,GNV,R$/m³,4.69,15,4.69
+2025-11,RJ,Sudeste,Diesel S10,R$/l,6.13,756,5.333
+2025-11,RJ,Sudeste,GNV,R$/m³,4.41,539,4.41
+2025-11,RN,Nordeste,Diesel S10,R$/l,6.04,141,5.255
+2025-11,RN,Nordeste,GNV,R$/m³,5.04,24,5.04
+2025-11,RO,Norte,Diesel S10,R$/l,6.44,181,5.603
+2025-11,RR,Norte,Diesel S10,R$/l,6.86,48,5.968
+2025-11,RS,Sul,Diesel S10,R$/l,6.15,898,5.35
+2025-11,RS,Sul,GNV,R$/m³,4.88,81,4.88
+2025-11,SC,Sul,Diesel S10,R$/l,6.12,410,5.324
+2025-11,SC,Sul,GNV,R$/m³,4.92,93,4.92
+2025-11,SE,Nordeste,Diesel S10,R$/l,5.91,90,5.142
+2025-11,SE,Nordeste,GNV,R$/m³,4.69,20,4.69
+2025-11,SP,Sudeste,Diesel S10,R$/l,6.11,3008,5.316
+2025-11,SP,Sudeste,GNV,R$/m³,4.47,165,4.47
+2025-11,TO,Norte,Diesel S10,R$/l,6.03,121,5.246
+2025-12,AC,Norte,Diesel S10,R$/l,7.6,32,6.612
+2025-12,AL,Nordeste,Diesel S10,R$/l,5.95,125,5.176
+2025-12,AL,Nordeste,GNV,R$/m³,4.53,35,4.53
+2025-12,AM,Norte,Diesel S10,R$/l,6.56,203,5.707
+2025-12,AM,Norte,GNV,R$/m³,3.99,7,3.99
+2025-12,AP,Norte,Diesel S10,R$/l,6.47,29,5.629
+2025-12,BA,Nordeste,Diesel S10,R$/l,6.12,748,5.324
+2025-12,BA,Nordeste,GNV,R$/m³,4.18,51,4.18
+2025-12,CE,Nordeste,Diesel S10,R$/l,5.88,548,5.116
+2025-12,CE,Nordeste,GNV,R$/m³,5.14,41,5.14
+2025-12,DF,Centro-Oeste,Diesel S10,R$/l,5.99,89,5.211
+2025-12,ES,Sudeste,Diesel S10,R$/l,6.01,243,5.229
+2025-12,ES,Sudeste,GNV,R$/m³,4.09,46,4.09
+2025-12,GO,Centro-Oeste,Diesel S10,R$/l,6.03,566,5.246
+2025-12,MA,Nordeste,Diesel S10,R$/l,5.99,381,5.211
+2025-12,MG,Sudeste,Diesel S10,R$/l,5.95,1426,5.176
+2025-12,MG,Sudeste,GNV,R$/m³,4.91,51,4.91
+2025-12,MS,Centro-Oeste,Diesel S10,R$/l,6.04,99,5.255
+2025-12,MS,Centro-Oeste,GNV,R$/m³,4.59,3,4.59
+2025-12,MT,Centro-Oeste,Diesel S10,R$/l,6.33,241,5.507
+2025-12,MT,Centro-Oeste,GNV,R$/m³,4.05,10,4.05
+2025-12,PA,Norte,Diesel S10,R$/l,6.19,362,5.385
+2025-12,PB,Nordeste,Diesel S10,R$/l,5.85,205,5.089
+2025-12,PB,Nordeste,GNV,R$/m³,4.85,49,4.85
+2025-12,PE,Nordeste,Diesel S10,R$/l,5.84,674,5.081
+2025-12,PE,Nordeste,GNV,R$/m³,4.39,116,4.39
+2025-12,PI,Nordeste,Diesel S10,R$/l,6.02,167,5.237
+2025-12,PR,Sul,Diesel S10,R$/l,6.0,884,5.22
+2025-12,PR,Sul,GNV,R$/m³,4.69,15,4.69
+2025-12,RJ,Sudeste,Diesel S10,R$/l,6.19,838,5.385
+2025-12,RJ,Sudeste,GNV,R$/m³,4.4,616,4.4
+2025-12,RN,Nordeste,Diesel S10,R$/l,6.01,157,5.229
+2025-12,RN,Nordeste,GNV,R$/m³,5.03,20,5.03
+2025-12,RO,Norte,Diesel S10,R$/l,6.44,221,5.603
+2025-12,RR,Norte,Diesel S10,R$/l,6.65,60,5.786
+2025-12,RS,Sul,Diesel S10,R$/l,6.15,1030,5.35
+2025-12,RS,Sul,GNV,R$/m³,4.96,101,4.96
+2025-12,SC,Sul,Diesel S10,R$/l,6.11,485,5.316
+2025-12,SC,Sul,GNV,R$/m³,4.92,110,4.92
+2025-12,SE,Nordeste,Diesel S10,R$/l,5.89,110,5.124
+2025-12,SE,Nordeste,GNV,R$/m³,4.69,19,4.69
+2025-12,SP,Sudeste,Diesel S10,R$/l,6.13,3585,5.333
+2025-12,SP,Sudeste,GNV,R$/m³,4.14,199,4.14
+2025-12,TO,Norte,Diesel S10,R$/l,6.04,105,5.255
+2026-01,AC,Norte,Diesel S10,R$/l,7.55,51,6.568
+2026-01,AL,Nordeste,Diesel S10,R$/l,6.0,105,5.22
+2026-01,AL,Nordeste,GNV,R$/m³,4.31,33,4.31
+2026-01,AM,Norte,Diesel S10,R$/l,6.55,166,5.698
+2026-01,AM,Norte,GNV,R$/m³,3.99,6,3.99
+2026-01,AP,Norte,Diesel S10,R$/l,6.56,1,5.707
+2026-01,BA,Nordeste,Diesel S10,R$/l,6.16,684,5.359
+2026-01,BA,Nordeste,GNV,R$/m³,4.16,51,4.16
+2026-01,CE,Nordeste,Diesel S10,R$/l,5.95,501,5.176
+2026-01,CE,Nordeste,GNV,R$/m³,5.13,38,5.13
+2026-01,DF,Centro-Oeste,Diesel S10,R$/l,5.98,80,5.203
+2026-01,ES,Sudeste,Diesel S10,R$/l,6.08,221,5.29
+2026-01,ES,Sudeste,GNV,R$/m³,4.09,37,4.09
+2026-01,GO,Centro-Oeste,Diesel S10,R$/l,6.06,526,5.272
+2026-01,MA,Nordeste,Diesel S10,R$/l,5.97,312,5.194
+2026-01,MG,Sudeste,Diesel S10,R$/l,6.01,1277,5.229
+2026-01,MG,Sudeste,GNV,R$/m³,4.97,33,4.97
+2026-01,MS,Centro-Oeste,Diesel S10,R$/l,6.08,89,5.29
+2026-01,MS,Centro-Oeste,GNV,R$/m³,4.59,3,4.59
+2026-01,MT,Centro-Oeste,Diesel S10,R$/l,6.37,180,5.542
+2026-01,MT,Centro-Oeste,GNV,R$/m³,4.04,4,4.04
+2026-01,PA,Norte,Diesel S10,R$/l,6.22,315,5.411
+2026-01,PB,Nordeste,Diesel S10,R$/l,5.95,156,5.176
+2026-01,PB,Nordeste,GNV,R$/m³,4.85,34,4.85
+2026-01,PE,Nordeste,Diesel S10,R$/l,5.9,579,5.133
+2026-01,PE,Nordeste,GNV,R$/m³,4.39,114,4.39
+2026-01,PI,Nordeste,Diesel S10,R$/l,6.13,149,5.333
+2026-01,PR,Sul,Diesel S10,R$/l,6.02,794,5.237
+2026-01,PR,Sul,GNV,R$/m³,4.74,14,4.74
+2026-01,RJ,Sudeste,Diesel S10,R$/l,6.26,769,5.446
+2026-01,RJ,Sudeste,GNV,R$/m³,4.41,549,4.41
+2026-01,RN,Nordeste,Diesel S10,R$/l,6.27,154,5.455
+2026-01,RN,Nordeste,GNV,R$/m³,5.02,26,5.02
+2026-01,RO,Norte,Diesel S10,R$/l,6.48,194,5.638
+2026-01,RR,Norte,Diesel S10,R$/l,6.77,48,5.89
+2026-01,RS,Sul,Diesel S10,R$/l,6.2,959,5.394
+2026-01,RS,Sul,GNV,R$/m³,4.99,89,4.99
+2026-01,SC,Sul,Diesel S10,R$/l,6.16,453,5.359
+2026-01,SC,Sul,GNV,R$/m³,4.73,96,4.73
+2026-01,SE,Nordeste,Diesel S10,R$/l,5.89,90,5.124
+2026-01,SE,Nordeste,GNV,R$/m³,4.69,13,4.69
+2026-01,SP,Sudeste,Diesel S10,R$/l,6.17,3030,5.368
+2026-01,SP,Sudeste,GNV,R$/m³,3.84,186,3.84
+2026-01,TO,Norte,Diesel S10,R$/l,6.04,102,5.255
+2026-02,AC,Norte,Diesel S10,R$/l,7.52,33,6.542
+2026-02,AL,Nordeste,Diesel S10,R$/l,6.01,118,5.229
+2026-02,AL,Nordeste,GNV,R$/m³,4.44,23,4.44
+2026-02,AM,Norte,Diesel S10,R$/l,6.55,166,5.698
+2026-02,AM,Norte,GNV,R$/m³,3.99,4,3.99
+2026-02,AP,Norte,Diesel S10,R$/l,6.52,25,5.672
+2026-02,BA,Nordeste,Diesel S10,R$/l,6.12,669,5.324
+2026-02,BA,Nordeste,GNV,R$/m³,4.13,39,4.13
+2026-02,CE,Nordeste,Diesel S10,R$/l,6.0,441,5.22
+2026-02,CE,Nordeste,GNV,R$/m³,5.15,32,5.15
+2026-02,DF,Centro-Oeste,Diesel S10,R$/l,6.07,81,5.281
+2026-02,ES,Sudeste,Diesel S10,R$/l,6.1,180,5.307
+2026-02,ES,Sudeste,GNV,R$/m³,4.06,26,4.06
+2026-02,GO,Centro-Oeste,Diesel S10,R$/l,6.01,513,5.229
+2026-02,MA,Nordeste,Diesel S10,R$/l,5.94,316,5.168
+2026-02,MG,Sudeste,Diesel S10,R$/l,5.98,1252,5.203
+2026-02,MG,Sudeste,GNV,R$/m³,4.97,20,4.97
+2026-02,MS,Centro-Oeste,Diesel S10,R$/l,6.11,93,5.316
+2026-02,MS,Centro-Oeste,GNV,R$/m³,4.59,2,4.59
+2026-02,MT,Centro-Oeste,Diesel S10,R$/l,6.35,205,5.524
+2026-02,MT,Centro-Oeste,GNV,R$/m³,3.99,5,3.99
+2026-02,PA,Norte,Diesel S10,R$/l,6.26,268,5.446
+2026-02,PB,Nordeste,Diesel S10,R$/l,5.9,170,5.133
+2026-02,PB,Nordeste,GNV,R$/m³,4.85,30,4.85
+2026-02,PE,Nordeste,Diesel S10,R$/l,5.87,612,5.107
+2026-02,PE,Nordeste,GNV,R$/m³,4.19,83,4.19
+2026-02,PI,Nordeste,Diesel S10,R$/l,6.01,143,5.229
+2026-02,PR,Sul,Diesel S10,R$/l,6.02,798,5.237
+2026-02,PR,Sul,GNV,R$/m³,4.49,14,4.49
+2026-02,RJ,Sudeste,Diesel S10,R$/l,6.24,859,5.429
+2026-02,RJ,Sudeste,GNV,R$/m³,4.23,499,4.23
+2026-02,RN,Nordeste,Diesel S10,R$/l,6.3,141,5.481
+2026-02,RN,Nordeste,GNV,R$/m³,5.04,15,5.04
+2026-02,RO,Norte,Diesel S10,R$/l,6.5,158,5.655
+2026-02,RR,Norte,Diesel S10,R$/l,6.83,48,5.942
+2026-02,RS,Sul,Diesel S10,R$/l,6.16,884,5.359
+2026-02,RS,Sul,GNV,R$/m³,4.86,59,4.86
+2026-02,SC,Sul,Diesel S10,R$/l,6.15,417,5.35
+2026-02,SC,Sul,GNV,R$/m³,4.71,74,4.71
+2026-02,SE,Nordeste,Diesel S10,R$/l,5.89,91,5.124
+2026-02,SE,Nordeste,GNV,R$/m³,4.61,11,4.61
+2026-02,SP,Sudeste,Diesel S10,R$/l,6.17,3073,5.368
+2026-02,SP,Sudeste,GNV,R$/m³,3.81,138,3.81
+2026-02,TO,Norte,Diesel S10,R$/l,6.07,93,5.281
+2026-03,AC,Norte,Diesel S10,R$/l,8.0,21,6.96
+2026-03,AL,Nordeste,Diesel S10,R$/l,6.66,140,5.794
+2026-03,AL,Nordeste,GNV,R$/m³,4.58,40,4.58
+2026-03,AM,Norte,Diesel S10,R$/l,7.2,212,6.264
+2026-03,AM,Norte,GNV,R$/m³,3.99,6,3.99
+2026-03,AP,Norte,Diesel S10,R$/l,6.91,16,6.012
+2026-03,BA,Nordeste,Diesel S10,R$/l,7.5,809,6.525
+2026-03,BA,Nordeste,GNV,R$/m³,4.1,60,4.1
+2026-03,CE,Nordeste,Diesel S10,R$/l,6.85,556,5.959
+2026-03,CE,Nordeste,GNV,R$/m³,5.15,35,5.15
+2026-03,DF,Centro-Oeste,Diesel S10,R$/l,7.1,97,6.177
+2026-03,ES,Sudeste,Diesel S10,R$/l,6.62,204,5.759
+2026-03,ES,Sudeste,GNV,R$/m³,4.03,39,4.03
+2026-03,GO,Centro-Oeste,Diesel S10,R$/l,7.23,601,6.29
+2026-03,MA,Nordeste,Diesel S10,R$/l,6.9,412,6.003
+2026-03,MG,Sudeste,Diesel S10,R$/l,7.0,1481,6.09
+2026-03,MG,Sudeste,GNV,R$/m³,5.18,32,5.18
+2026-03,MS,Centro-Oeste,Diesel S10,R$/l,6.85,113,5.959
+2026-03,MS,Centro-Oeste,GNV,R$/m³,4.59,5,4.59
+2026-03,MT,Centro-Oeste,Diesel S10,R$/l,7.21,220,6.273
+2026-03,MT,Centro-Oeste,GNV,R$/m³,3.99,4,3.99
+2026-03,PA,Norte,Diesel S10,R$/l,7.13,298,6.203
+2026-03,PB,Nordeste,Diesel S10,R$/l,6.63,223,5.768
+2026-03,PB,Nordeste,GNV,R$/m³,4.85,41,4.85
+2026-03,PE,Nordeste,Diesel S10,R$/l,6.8,758,5.916
+2026-03,PE,Nordeste,GNV,R$/m³,4.19,137,4.19
+2026-03,PI,Nordeste,Diesel S10,R$/l,7.07,202,6.151
+2026-03,PR,Sul,Diesel S10,R$/l,7.1,866,6.177
+2026-03,PR,Sul,GNV,R$/m³,4.57,24,4.57
+2026-03,RJ,Sudeste,Diesel S10,R$/l,6.89,964,5.994
+2026-03,RJ,Sudeste,GNV,R$/m³,4.23,718,4.23
+2026-03,RN,Nordeste,Diesel S10,R$/l,7.0,162,6.09
+2026-03,RN,Nordeste,GNV,R$/m³,5.15,18,5.15
+2026-03,RO,Norte,Diesel S10,R$/l,7.14,211,6.212
+2026-03,RR,Norte,Diesel S10,R$/l,7.44,58,6.473
+2026-03,RS,Sul,Diesel S10,R$/l,7.04,1019,6.125
+2026-03,RS,Sul,GNV,R$/m³,4.94,89,4.94
+2026-03,SC,Sul,Diesel S10,R$/l,7.09,497,6.168
+2026-03,SC,Sul,GNV,R$/m³,4.67,109,4.67
+2026-03,SE,Nordeste,Diesel S10,R$/l,6.54,85,5.69
+2026-03,SE,Nordeste,GNV,R$/m³,4.61,23,4.61
+2026-03,SP,Sudeste,Diesel S10,R$/l,7.13,3610,6.203
+2026-03,SP,Sudeste,GNV,R$/m³,3.92,211,3.92
+2026-03,TO,Norte,Diesel S10,R$/l,7.47,146,6.499
+2026-04,AC,Norte,Diesel S10,R$/l,8.42,47,7.325
+2026-04,AL,Nordeste,Diesel S10,R$/l,7.16,97,6.229
+2026-04,AL,Nordeste,GNV,R$/m³,4.16,28,4.16
+2026-04,AM,Norte,Diesel S10,R$/l,7.55,170,6.568
+2026-04,AM,Norte,GNV,R$/m³,4.99,6,4.99
+2026-04,AP,Norte,Diesel S10,R$/l,7.2,21,6.264
+2026-04,BA,Nordeste,Diesel S10,R$/l,8.04,727,6.995
+2026-04,BA,Nordeste,GNV,R$/m³,4.09,54,4.09
+2026-04,CE,Nordeste,Diesel S10,R$/l,7.12,552,6.194
+2026-04,CE,Nordeste,GNV,R$/m³,5.14,29,5.14
+2026-04,DF,Centro-Oeste,Diesel S10,R$/l,7.48,74,6.508
+2026-04,ES,Sudeste,Diesel S10,R$/l,7.02,202,6.107
+2026-04,ES,Sudeste,GNV,R$/m³,3.99,34,3.99
+2026-04,GO,Centro-Oeste,Diesel S10,R$/l,7.33,576,6.377
+2026-04,MA,Nordeste,Diesel S10,R$/l,7.35,347,6.394
+2026-04,MG,Sudeste,Diesel S10,R$/l,7.27,1465,6.325
+2026-04,MG,Sudeste,GNV,R$/m³,5.23,40,5.23
+2026-04,MS,Centro-Oeste,Diesel S10,R$/l,7.35,119,6.394
+2026-04,MS,Centro-Oeste,GNV,R$/m³,4.59,3,4.59
+2026-04,MT,Centro-Oeste,Diesel S10,R$/l,7.44,240,6.473
+2026-04,MT,Centro-Oeste,GNV,R$/m³,3.99,8,3.99
+2026-04,PA,Norte,Diesel S10,R$/l,7.68,329,6.682
+2026-04,PB,Nordeste,Diesel S10,R$/l,7.12,190,6.194
+2026-04,PB,Nordeste,GNV,R$/m³,4.85,44,4.85
+2026-04,PE,Nordeste,Diesel S10,R$/l,7.17,642,6.238
+2026-04,PE,Nordeste,GNV,R$/m³,4.19,117,4.19
+2026-04,PI,Nordeste,Diesel S10,R$/l,7.58,137,6.595
+2026-04,PR,Sul,Diesel S10,R$/l,7.53,784,6.551
+2026-04,PR,Sul,GNV,R$/m³,4.59,14,4.59
+2026-04,RJ,Sudeste,Diesel S10,R$/l,7.34,831,6.386
+2026-04,RJ,Sudeste,GNV,R$/m³,4.21,613,4.21
+2026-04,RN,Nordeste,Diesel S10,R$/l,7.32,138,6.368
+2026-04,RN,Nordeste,GNV,R$/m³,5.22,20,5.22
+2026-04,RO,Norte,Diesel S10,R$/l,7.58,143,6.595
+2026-04,RR,Norte,Diesel S10,R$/l,7.81,40,6.795
+2026-04,RS,Sul,Diesel S10,R$/l,7.27,945,6.325
+2026-04,RS,Sul,GNV,R$/m³,5.01,94,5.01
+2026-04,SC,Sul,Diesel S10,R$/l,7.45,433,6.482
+2026-04,SC,Sul,GNV,R$/m³,4.64,116,4.64
+2026-04,SE,Nordeste,Diesel S10,R$/l,7.31,45,6.36
+2026-04,SE,Nordeste,GNV,R$/m³,4.61,25,4.61
+2026-04,SP,Sudeste,Diesel S10,R$/l,7.52,3381,6.542
+2026-04,SP,Sudeste,GNV,R$/m³,4.04,192,4.04
+2026-04,TO,Norte,Diesel S10,R$/l,7.38,100,6.421
+2026-05,AC,Norte,Diesel S10,R$/l,8.41,36,7.317
+2026-05,AL,Nordeste,Diesel S10,R$/l,7.14,104,6.212
+2026-05,AL,Nordeste,GNV,R$/m³,4.16,31,4.16
+2026-05,AM,Norte,Diesel S10,R$/l,7.46,159,6.49
+2026-05,AM,Norte,GNV,R$/m³,4.99,4,4.99
+2026-05,AP,Norte,Diesel S10,R$/l,7.19,36,6.255
+2026-05,BA,Nordeste,Diesel S10,R$/l,7.66,679,6.664
+2026-05,BA,Nordeste,GNV,R$/m³,4.26,53,4.26
+2026-05,CE,Nordeste,Diesel S10,R$/l,7.04,457,6.125
+2026-05,CE,Nordeste,GNV,R$/m³,5.15,16,5.15
+2026-05,DF,Centro-Oeste,Diesel S10,R$/l,7.15,62,6.22
+2026-05,ES,Sudeste,Diesel S10,R$/l,6.94,218,6.038
+2026-05,ES,Sudeste,GNV,R$/m³,3.99,36,3.99
+2026-05,GO,Centro-Oeste,Diesel S10,R$/l,6.92,492,6.02
+2026-05,MA,Nordeste,Diesel S10,R$/l,7.15,338,6.22
+2026-05,MG,Sudeste,Diesel S10,R$/l,6.99,1324,6.081
+2026-05,MG,Sudeste,GNV,R$/m³,5.37,29,5.37
+2026-05,MS,Centro-Oeste,Diesel S10,R$/l,7.17,130,6.238
+2026-05,MS,Centro-Oeste,GNV,R$/m³,4.65,8,4.65
+2026-05,MT,Centro-Oeste,Diesel S10,R$/l,7.12,210,6.194
+2026-05,MT,Centro-Oeste,GNV,R$/m³,3.99,8,3.99
+2026-05,PA,Norte,Diesel S10,R$/l,7.49,304,6.516
+2026-05,PB,Nordeste,Diesel S10,R$/l,7.1,200,6.177
+2026-05,PB,Nordeste,GNV,R$/m³,4.85,43,4.85
+2026-05,PE,Nordeste,Diesel S10,R$/l,7.07,592,6.151
+2026-05,PE,Nordeste,GNV,R$/m³,4.68,108,4.68
+2026-05,PI,Nordeste,Diesel S10,R$/l,7.44,180,6.473
+2026-05,PR,Sul,Diesel S10,R$/l,7.18,775,6.247
+2026-05,PR,Sul,GNV,R$/m³,4.39,19,4.39
+2026-05,RJ,Sudeste,Diesel S10,R$/l,7.16,804,6.229
+2026-05,RJ,Sudeste,GNV,R$/m³,4.52,569,4.52
+2026-05,RN,Nordeste,Diesel S10,R$/l,7.26,157,6.316
+2026-05,RN,Nordeste,GNV,R$/m³,5.14,21,5.14
+2026-05,RO,Norte,Diesel S10,R$/l,7.5,181,6.525
+2026-05,RR,Norte,Diesel S10,R$/l,7.69,41,6.69
+2026-05,RS,Sul,Diesel S10,R$/l,7.0,834,6.09
+2026-05,RS,Sul,GNV,R$/m³,5.09,71,5.09
+2026-05,SC,Sul,Diesel S10,R$/l,7.19,434,6.255
+2026-05,SC,Sul,GNV,R$/m³,4.59,106,4.59
+2026-05,SE,Nordeste,Diesel S10,R$/l,7.11,60,6.186
+2026-05,SE,Nordeste,GNV,R$/m³,4.77,30,4.77
+2026-05,SP,Sudeste,Diesel S10,R$/l,7.2,3337,6.264
+2026-05,SP,Sudeste,GNV,R$/m³,4.02,192,4.02
+2026-05,TO,Norte,Diesel S10,R$/l,7.02,94,6.107
+2026-06,AC,Norte,Diesel S10,R$/l,8.38,39,7.291
+2026-06,AL,Nordeste,Diesel S10,R$/l,7.09,119,6.168
+2026-06,AL,Nordeste,GNV,R$/m³,4.19,58,4.19
+2026-06,AM,Norte,Diesel S10,R$/l,7.16,183,6.229
+2026-06,AM,Norte,GNV,R$/m³,4.99,9,4.99
+2026-06,AP,Norte,Diesel S10,R$/l,7.13,24,6.203
+2026-06,BA,Nordeste,Diesel S10,R$/l,7.46,756,6.49
+2026-06,BA,Nordeste,GNV,R$/m³,4.31,46,4.31
+2026-06,CE,Nordeste,Diesel S10,R$/l,7.03,564,6.116
+2026-06,CE,Nordeste,GNV,R$/m³,5.15,27,5.15
+2026-06,DF,Centro-Oeste,Diesel S10,R$/l,6.98,58,6.073
+2026-06,ES,Sudeste,Diesel S10,R$/l,6.94,241,6.038
+2026-06,ES,Sudeste,GNV,R$/m³,4.14,49,4.14
+2026-06,GO,Centro-Oeste,Diesel S10,R$/l,6.83,629,5.942
+2026-06,MA,Nordeste,Diesel S10,R$/l,7.16,410,6.229
+2026-06,MG,Sudeste,Diesel S10,R$/l,6.93,1554,6.029
+2026-06,MG,Sudeste,GNV,R$/m³,5.17,37,5.17
+2026-06,MS,Centro-Oeste,Diesel S10,R$/l,7.03,134,6.116
+2026-06,MS,Centro-Oeste,GNV,R$/m³,4.69,10,4.69
+2026-06,MT,Centro-Oeste,Diesel S10,R$/l,7.09,250,6.168
+2026-06,MT,Centro-Oeste,GNV,R$/m³,3.99,12,3.99
+2026-06,PA,Norte,Diesel S10,R$/l,7.39,329,6.429
+2026-06,PB,Nordeste,Diesel S10,R$/l,7.13,242,6.203
+2026-06,PB,Nordeste,GNV,R$/m³,4.85,60,4.85
+2026-06,PE,Nordeste,Diesel S10,R$/l,7.03,703,6.116
+2026-06,PE,Nordeste,GNV,R$/m³,4.69,127,4.69
+2026-06,PI,Nordeste,Diesel S10,R$/l,7.39,161,6.429
+2026-06,PR,Sul,Diesel S10,R$/l,7.0,844,6.09
+2026-06,PR,Sul,GNV,R$/m³,4.41,22,4.41
+2026-06,RJ,Sudeste,Diesel S10,R$/l,7.14,962,6.212
+2026-06,RJ,Sudeste,GNV,R$/m³,4.48,713,4.48
+2026-06,RN,Nordeste,Diesel S10,R$/l,7.22,142,6.281
+2026-06,RN,Nordeste,GNV,R$/m³,5.06,16,5.06
+2026-06,RO,Norte,Diesel S10,R$/l,7.41,239,6.447
+2026-06,RR,Norte,Diesel S10,R$/l,7.54,56,6.56
+2026-06,RS,Sul,Diesel S10,R$/l,6.87,1005,5.977
+2026-06,RS,Sul,GNV,R$/m³,5.04,94,5.04
+2026-06,SC,Sul,Diesel S10,R$/l,7.02,552,6.107
+2026-06,SC,Sul,GNV,R$/m³,4.57,123,4.57
+2026-06,SE,Nordeste,Diesel S10,R$/l,7.04,98,6.125
+2026-06,SE,Nordeste,GNV,R$/m³,4.83,34,4.83
+2026-06,SP,Sudeste,Diesel S10,R$/l,7.1,3840,6.177
+2026-06,SP,Sudeste,GNV,R$/m³,4.55,228,4.55
+2026-06,TO,Norte,Diesel S10,R$/l,7.08,156,6.16
+2026-07,AC,Norte,Diesel S10,R$/l,8.3,25,7.221
+2026-07,AL,Nordeste,Diesel S10,R$/l,7.02,122,6.107
+2026-07,AL,Nordeste,GNV,R$/m³,4.34,51,4.34
+2026-07,AM,Norte,Diesel S10,R$/l,7.19,160,6.255
+2026-07,AM,Norte,GNV,R$/m³,4.99,7,4.99
+2026-07,AP,Norte,Diesel S10,R$/l,7.06,23,6.142
+2026-07,BA,Nordeste,Diesel S10,R$/l,7.36,751,6.403
+2026-07,BA,Nordeste,GNV,R$/m³,4.21,51,4.21
+2026-07,CE,Nordeste,Diesel S10,R$/l,6.99,526,6.081
+2026-07,CE,Nordeste,GNV,R$/m³,5.4,11,5.4
+2026-07,DF,Centro-Oeste,Diesel S10,R$/l,6.94,52,6.038
+2026-07,ES,Sudeste,Diesel S10,R$/l,6.95,249,6.046
+2026-07,ES,Sudeste,GNV,R$/m³,4.28,50,4.28
+2026-07,GO,Centro-Oeste,Diesel S10,R$/l,6.74,571,5.864
+2026-07,MA,Nordeste,Diesel S10,R$/l,7.1,371,6.177
+2026-07,MG,Sudeste,Diesel S10,R$/l,6.81,1504,5.925
+2026-07,MG,Sudeste,GNV,R$/m³,5.3,41,5.3
+2026-07,MS,Centro-Oeste,Diesel S10,R$/l,6.84,131,5.951
+2026-07,MS,Centro-Oeste,GNV,R$/m³,4.69,8,4.69
+2026-07,MT,Centro-Oeste,Diesel S10,R$/l,6.94,247,6.038
+2026-07,MT,Centro-Oeste,GNV,R$/m³,3.99,9,3.99
+2026-07,PA,Norte,Diesel S10,R$/l,7.31,330,6.36
+2026-07,PB,Nordeste,Diesel S10,R$/l,7.07,206,6.151
+2026-07,PB,Nordeste,GNV,R$/m³,4.93,49,4.93
+2026-07,PE,Nordeste,Diesel S10,R$/l,6.89,668,5.994
+2026-07,PE,Nordeste,GNV,R$/m³,4.69,125,4.69
+2026-07,PI,Nordeste,Diesel S10,R$/l,7.32,177,6.368
+2026-07,PR,Sul,Diesel S10,R$/l,6.82,847,5.933
+2026-07,PR,Sul,GNV,R$/m³,4.59,18,4.59
+2026-07,RJ,Sudeste,Diesel S10,R$/l,7.08,837,6.16
+2026-07,RJ,Sudeste,GNV,R$/m³,4.41,579,4.41
+2026-07,RN,Nordeste,Diesel S10,R$/l,7.21,152,6.273
+2026-07,RN,Nordeste,GNV,R$/m³,5.02,22,5.02
+2026-07,RO,Norte,Diesel S10,R$/l,7.37,218,6.412
+2026-07,RR,Norte,Diesel S10,R$/l,7.42,43,6.455
+2026-07,RS,Sul,Diesel S10,R$/l,6.65,838,5.786
+2026-07,RS,Sul,GNV,R$/m³,4.92,79,4.92
+2026-07,SC,Sul,Diesel S10,R$/l,6.83,499,5.942
+2026-07,SC,Sul,GNV,R$/m³,4.72,103,4.72
+2026-07,SE,Nordeste,Diesel S10,R$/l,6.87,89,5.977
+2026-07,SE,Nordeste,GNV,R$/m³,4.83,22,4.83
+2026-07,SP,Sudeste,Diesel S10,R$/l,6.96,3584,6.055
+2026-07,SP,Sudeste,GNV,R$/m³,4.82,218,4.82
+2026-07,TO,Norte,Diesel S10,R$/l,6.99,95,6.081
+2026-08,AC,Norte,Diesel S10,R$/l,8.32,36,7.238
+2026-08,AL,Nordeste,Diesel S10,R$/l,6.97,149,6.064
+2026-08,AL,Nordeste,GNV,R$/m³,4.39,63,4.39
+2026-08,AM,Norte,Diesel S10,R$/l,7.13,174,6.203
+2026-08,AM,Norte,GNV,R$/m³,4.99,4,4.99
+2026-08,AP,Norte,Diesel S10,R$/l,7.16,44,6.229
+2026-08,BA,Nordeste,Diesel S10,R$/l,7.34,788,6.386
+2026-08,BA,Nordeste,GNV,R$/m³,4.3,58,4.3
+2026-08,CE,Nordeste,Diesel S10,R$/l,7.02,585,6.107
+2026-08,CE,Nordeste,GNV,R$/m³,5.55,13,5.55
+2026-08,DF,Centro-Oeste,Diesel S10,R$/l,6.92,54,6.02
+2026-08,ES,Sudeste,Diesel S10,R$/l,6.88,197,5.986
+2026-08,ES,Sudeste,GNV,R$/m³,4.29,42,4.29
+2026-08,GO,Centro-Oeste,Diesel S10,R$/l,6.68,621,5.812
+2026-08,MA,Nordeste,Diesel S10,R$/l,7.02,437,6.107
+2026-08,MG,Sudeste,Diesel S10,R$/l,6.7,1520,5.829
+2026-08,MG,Sudeste,GNV,R$/m³,5.28,45,5.28
+2026-08,MS,Centro-Oeste,Diesel S10,R$/l,6.8,140,5.916
+2026-08,MS,Centro-Oeste,GNV,R$/m³,4.67,9,4.67
+2026-08,MT,Centro-Oeste,Diesel S10,R$/l,6.91,240,6.012
+2026-08,MT,Centro-Oeste,GNV,R$/m³,3.99,13,3.99
+2026-08,PA,Norte,Diesel S10,R$/l,7.27,321,6.325
+2026-08,PB,Nordeste,Diesel S10,R$/l,7.0,238,6.09
+2026-08,PB,Nordeste,GNV,R$/m³,4.99,64,4.99
+2026-08,PE,Nordeste,Diesel S10,R$/l,6.75,706,5.872
+2026-08,PE,Nordeste,GNV,R$/m³,4.78,130,4.78
+2026-08,PI,Nordeste,Diesel S10,R$/l,7.28,175,6.334
+2026-08,PR,Sul,Diesel S10,R$/l,6.86,827,5.968
+2026-08,PR,Sul,GNV,R$/m³,4.95,19,4.95
+2026-08,RJ,Sudeste,Diesel S10,R$/l,7.03,887,6.116
+2026-08,RJ,Sudeste,GNV,R$/m³,4.55,637,4.55
+2026-08,RN,Nordeste,Diesel S10,R$/l,7.07,135,6.151
+2026-08,RN,Nordeste,GNV,R$/m³,5.01,16,5.01
+2026-08,RO,Norte,Diesel S10,R$/l,7.34,229,6.386
+2026-08,RR,Norte,Diesel S10,R$/l,7.29,56,6.342
+2026-08,RS,Sul,Diesel S10,R$/l,6.58,927,5.725
+2026-08,RS,Sul,GNV,R$/m³,5.15,79,5.15
+2026-08,SC,Sul,Diesel S10,R$/l,6.76,532,5.881
+2026-08,SC,Sul,GNV,R$/m³,4.67,118,4.67
+2026-08,SE,Nordeste,Diesel S10,R$/l,6.8,108,5.916
+2026-08,SE,Nordeste,GNV,R$/m³,4.83,33,4.83
+2026-08,SP,Sudeste,Diesel S10,R$/l,6.89,3781,5.994
+2026-08,SP,Sudeste,GNV,R$/m³,4.89,236,4.89
+2026-08,TO,Norte,Diesel S10,R$/l,6.94,124,6.038
+2026-09,AC,Norte,Diesel S10,R$/l,8.31,34,7.23
+2026-09,AL,Nordeste,Diesel S10,R$/l,7.15,114,6.22
+2026-09,AL,Nordeste,GNV,R$/m³,4.39,42,4.39
+2026-09,AM,Norte,Diesel S10,R$/l,7.3,166,6.351
+2026-09,AM,Norte,GNV,R$/m³,4.99,5,4.99
+2026-09,AP,Norte,Diesel S10,R$/l,7.2,35,6.264
+2026-09,BA,Nordeste,Diesel S10,R$/l,7.73,789,6.725
+2026-09,BA,Nordeste,GNV,R$/m³,4.65,59,4.65
+2026-09,CE,Nordeste,Diesel S10,R$/l,7.14,489,6.212
+2026-09,CE,Nordeste,GNV,R$/m³,5.55,16,5.55
+2026-09,DF,Centro-Oeste,Diesel S10,R$/l,7.12,91,6.194
+2026-09,ES,Sudeste,Diesel S10,R$/l,6.85,229,5.959
+2026-09,ES,Sudeste,GNV,R$/m³,4.39,57,4.39
+2026-09,GO,Centro-Oeste,Diesel S10,R$/l,7.04,595,6.125
+2026-09,MA,Nordeste,Diesel S10,R$/l,7.24,420,6.299
+2026-09,MG,Sudeste,Diesel S10,R$/l,6.87,1453,5.977
+2026-09,MG,Sudeste,GNV,R$/m³,5.42,42,5.42
+2026-09,MS,Centro-Oeste,Diesel S10,R$/l,7.13,139,6.203
+2026-09,MS,Centro-Oeste,GNV,R$/m³,4.64,7,4.64
+2026-09,MT,Centro-Oeste,Diesel S10,R$/l,7.45,244,6.482
+2026-09,MT,Centro-Oeste,GNV,R$/m³,3.99,6,3.99
+2026-09,PA,Norte,Diesel S10,R$/l,7.46,319,6.49
+2026-09,PB,Nordeste,Diesel S10,R$/l,7.12,211,6.194
+2026-09,PB,Nordeste,GNV,R$/m³,4.99,50,4.99
+2026-09,PE,Nordeste,Diesel S10,R$/l,7.05,644,6.134
+2026-09,PE,Nordeste,GNV,R$/m³,4.78,114,4.78
+2026-09,PI,Nordeste,Diesel S10,R$/l,7.48,171,6.508
+2026-09,PR,Sul,Diesel S10,R$/l,7.16,807,6.229
+2026-09,PR,Sul,GNV,R$/m³,5.02,15,5.02
+2026-09,RJ,Sudeste,Diesel S10,R$/l,7.07,877,6.151
+2026-09,RJ,Sudeste,GNV,R$/m³,4.54,605,4.54
+2026-09,RN,Nordeste,Diesel S10,R$/l,7.27,163,6.325
+2026-09,RN,Nordeste,GNV,R$/m³,5.11,20,5.11
+2026-09,RO,Norte,Diesel S10,R$/l,7.4,194,6.438
+2026-09,RR,Norte,Diesel S10,R$/l,7.2,44,6.264
+2026-09,RS,Sul,Diesel S10,R$/l,6.92,942,6.02
+2026-09,RS,Sul,GNV,R$/m³,5.31,78,5.31
+2026-09,SC,Sul,Diesel S10,R$/l,7.01,521,6.099
+2026-09,SC,Sul,GNV,R$/m³,4.68,117,4.68
+2026-09,SE,Nordeste,Diesel S10,R$/l,6.99,74,6.081
+2026-09,SE,Nordeste,GNV,R$/m³,4.83,19,4.83
+2026-09,SP,Sudeste,Diesel S10,R$/l,7.13,3748,6.203
+2026-09,SP,Sudeste,GNV,R$/m³,5.08,206,5.08
+2026-09,TO,Norte,Diesel S10,R$/l,7.11,169,6.186

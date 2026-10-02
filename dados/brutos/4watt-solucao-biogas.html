@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <link rel="icon" href="assets/img/favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/img/favicon.png">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="sol_biogas_page_title">Engenharia de Biogás e Biodigestores | 4WaTT</title>
+  <meta name="description"
+    content="Do estudo de viabilidade ao projeto como construído. Engenharia própria de biogás e biodigestores para 6 tipos de substrato, com ART e modelo financeiro bancável." data-i18n="sol_biogas_page_desc">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@600;700;800;900&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/theme-4watt.css?v=3.9">
+  <link rel="stylesheet" href="assets/css/solucoes.css?v=2.2">
+  <style>:root { --accent: var(--teal); --accent-light: var(--teal-ink); }</style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-N91NFD55MB"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-N91NFD55MB');</script>
+  <link rel="stylesheet" href="assets/css/mobile-fixes.css?v=2">
+</head>
+
+<body class="t4">
+    <nav class="nav">
+    <a class="nav__logo" href="index.html" aria-label="4WaTT início" data-i18n-title="nav_logo_aria">
+      <img src="assets/img/logo-4watt-dark.png" alt="4WaTT Bio Engenharia">
+    </a>
+    <button class="nav__toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-i18n-title="nav_toggle_aria"><i class="fas fa-bars"></i></button>
+    <ul class="nav__links">
+      <li><a href="index.html#ecossistema" data-i18n="nav_ecossistema">Ecossistema</a></li>
+      <li><a href="index.html#matriz" data-i18n="nav_residuos">Resíduos</a></li>
+      <li><a href="index.html#engenharia" data-i18n="nav_engenharia">Equipamentos</a></li>
+      <li><a href="index.html#jornada" data-i18n="nav_jornada">Jornada</a></li>
+      <li class="nav__dd">
+        <a tabindex="0" data-i18n="nav_solucoes">Soluções <i class="fas fa-chevron-down"></i></a>
+        <ul class="nav__dd-menu">
+          <li><a href="solucao-gestao-residuos.html" data-i18n="nav_gestao_residuos">Gestão de Resíduos</a></li>
+          <li><a href="solucao-biogas.html" data-i18n="nav_biogas">Engenharia de Biogás</a></li>
+          <li><a href="solucao-biometano.html" data-i18n="nav_biom">Biometano</a></li>
+          <li><a href="solucao-gaseificacao.html" data-i18n="nav_gaseificacao">Gaseificação de RSU</a></li>
+          <li><a href="engenharia/index.html" data-i18n="nav_servicos_engenharia">Serviços de Engenharia</a></li>
+        </ul>
+      </li>
+      <li><a href="investidor.html" data-i18n="nav_investidor">Área do Investidor</a></li>
+      <li><a href="imprensa.html" data-i18n="nav_imprensa">Imprensa</a></li>
+      <li><a href="academy.html" data-i18n="nav_academy">Academy</a></li>
+      <li class="nav__lang">
+        <div class="lang-selector" role="group" aria-label="Seletor de idioma">
+          <button class="lang-btn active" type="button" data-lang="pt" aria-pressed="true" data-i18n="lang_pt">PT</button>
+          <button class="lang-btn" type="button" data-lang="en" aria-pressed="false" data-i18n="lang_en">EN</button>
+        </div>
+      </li>
+      <li><a class="nav__cta" href="#cta" data-i18n="cta_estudo">Solicitar estudo</a></li>
+    </ul>
+    <div class="nav__progress"></div>
+  </nav>
+
+  <div class="wrap">
+
+    <!-- HERO -->
+    <header class="sol-hero" data-hero>
+      <div class="ph ph--px"><img src="assets/img_old/hero-biodigestor.jpg" alt="Biodigestores 4WaTT ao pôr do sol" data-parallax="0.06"></div>
+      <div class="sol-hero__inner container">
+        <span class="sol-badge" data-reveal data-i18n="sol_biogas_hero_badge"><i class="fas fa-drafting-compass"></i> Engenharia de Projetos</span>
+        <h1 data-reveal data-d="1" data-i18n="sol_biogas_hero_title">Engenharia de biogás e biodigestores</h1>
+        <p class="sol-hero__lead" data-reveal data-d="2" data-i18n="sol_biogas_hero_lead">Transformamos dados técnicos em projetos que funcionam, do
+          primeiro estudo à entrega do projeto como construído. Engenharia própria, auditável e bancável.</p>
+        <div class="sol-hero__cta" data-reveal data-d="3">
+          <a class="btn btn--primary" href="#cta" data-i18n="sol_biogas_hero_cta_primary">Solicitar estudo de viabilidade <i class="fas fa-arrow-right"></i></a>
+          <a class="btn btn--ghost" href="index.html#ecossistema" data-i18n="sol_biogas_hero_cta_secondary">Ver todas as soluções</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+
+      <!-- DESAFIO -->
+      <section class="section">
+        <div class="container">
+          <div class="sol-split">
+            <div class="sol-split__head">
+              <span class="kicker" data-reveal data-i18n="sol_biogas_desafio_kicker">O desafio</span>
+              <h2 class="h2" data-reveal data-d="1" data-i18n="sol_biogas_desafio_title">Projetos de biogás exigem múltiplas disciplinas simultâneas.</h2>
+              <p class="prose" data-reveal data-d="2" data-i18n="sol_biogas_desafio_p1">Um projeto bem executado integra análise agronômica e industrial do
+                substrato, dimensionamento de digestão anaeróbia, engenharia elétrica e mecânica, modelagem financeira,
+                licenciamento ambiental e estruturação jurídico-contratual.</p>
+              <p class="prose" data-reveal data-d="2" style="margin-top:16px;" data-i18n="sol_biogas_desafio_p2">A maioria dos fracassos ocorre na
+                concepção, premissas erradas de geração, subestimação do CAPEX ou projeto básico inadequado. Corrigir
+                na obra custa <strong>5 a 10× mais</strong> que evitar na fase de projeto.</p>
+              <div class="sol-stats">
+                <div class="sol-stat" data-reveal><div class="v"><span data-counter="200" data-suffix="+">200+</span></div><div class="l" data-i18n="sol_biogas_stat_projetos">Projetos entregues</div></div>
+                <div class="sol-stat" data-reveal data-d="1"><div class="v"><span data-counter="12">12</span></div><div class="l" data-i18n="sol_biogas_stat_anos">Anos de experiência</div></div>
+                <div class="sol-stat" data-reveal data-d="2"><div class="v"><span data-counter="6">6</span></div><div class="l" data-i18n="sol_biogas_stat_substratos">Tipos de substrato</div></div>
+                <div class="sol-stat" data-reveal data-d="3"><div class="v"><span data-counter="100" data-suffix="%">100%</span></div><div class="l" data-i18n="sol_biogas_stat_art">Projetos com ART</div></div>
+              </div>
+            </div>
+            <div class="sol-split__media" data-reveal data-d="1">
+              <div class="ph ph--px frame tall"><img src="assets/img_old/pordosol-ceasa.jpeg" alt="Biodigestores em operação" data-parallax="0.08"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- METODOLOGIA (6 etapas) -->
+      <section class="section section--tight">
+        <div class="container">
+          <div class="sol-head">
+            <span class="kicker" data-reveal data-i18n="sol_biogas_met_kicker">Metodologia 4WaTT</span>
+            <h2 class="h2" data-reveal data-d="1" data-i18n="sol_biogas_met_title">Da premissa à partida da planta.</h2>
+            <p class="lead" data-reveal data-d="2" data-i18n="sol_biogas_met_lead">Seis etapas encadeadas, cada uma com entregáveis claros e prazos definidos.</p>
+          </div>
+          <div class="sol-steps sol-steps--with-media">
+            <div class="sol-steps__track">
+              <div class="sol-step" data-reveal>
+                <div class="sol-step__num"><i class="fa-solid fa-magnifying-glass-chart"></i><span class="step-n">01</span></div>
+                <div class="sol-step__body">
+                  <span class="sol-step__time" data-i18n="sol_biogas_step1_time">2–4 semanas</span>
+                  <h3 data-i18n="sol_biogas_step1_title">Diagnóstico Técnico-Financeiro</h3>
+                  <p data-i18n="sol_biogas_step1_desc">Consolidação de premissas técnicas, variáveis operacionais e restrições.</p>
+                  <ul><li data-i18n="sol_biogas_step1_item1">Relatório de diagnóstico do substrato e operação</li><li data-i18n="sol_biogas_step1_item2">Matriz de premissas técnicas e comerciais</li><li data-i18n="sol_biogas_step1_item3">Parecer preliminar de viabilidade</li></ul>
+                </div>
+              </div>
+              <div class="sol-step" data-reveal>
+                <div class="sol-step__num"><i class="fa-solid fa-calculator"></i><span class="step-n">02</span></div>
+                <div class="sol-step__body">
+                  <span class="sol-step__time" data-i18n="sol_biogas_step2_time">4–8 semanas</span>
+                  <h3 data-i18n="sol_biogas_step2_title">Estudo de Viabilidade</h3>
+                  <p data-i18n="sol_biogas_step2_desc">Simulação de cenários operacionais e financeiros, com testes de sensibilidade.</p>
+                  <ul><li data-i18n="sol_biogas_step2_item1">Relatório de viabilidade técnica e econômica</li><li data-i18n="sol_biogas_step2_item2">Modelo financeiro auditável com cenários</li><li data-i18n="sol_biogas_step2_item3">Roteiro preliminar de implantação e licenciamento</li></ul>
+                </div>
+              </div>
+              <div class="sol-step" data-reveal>
+                <div class="sol-step__num"><i class="fa-solid fa-pen-ruler"></i><span class="step-n">03</span></div>
+                <div class="sol-step__body">
+                  <span class="sol-step__time" data-i18n="sol_biogas_step3_time">8–14 semanas</span>
+                  <h3 data-i18n="sol_biogas_step3_title">Projeto Básico</h3>
+                  <p data-i18n="sol_biogas_step3_desc">Transformação de premissas em engenharia conceitual robusta.</p>
+                  <ul><li data-i18n="sol_biogas_step3_item1">P&amp;ID, layout geral e memorial descritivo</li><li data-i18n="sol_biogas_step3_item2">Especificações técnicas e lista mestra de equipamentos</li><li data-i18n="sol_biogas_step3_item3">Estimativa detalhada de CAPEX e OPEX por item</li></ul>
+                </div>
+              </div>
+              <div class="sol-step" data-reveal>
+                <div class="sol-step__num"><i class="fa-solid fa-file-shield"></i><span class="step-n">04</span></div>
+                <div class="sol-step__body">
+                  <span class="sol-step__time" data-i18n="sol_biogas_step4_time">10–18 semanas</span>
+                  <h3 data-i18n="sol_biogas_step4_title">Projeto Executivo</h3>
+                  <p data-i18n="sol_biogas_step4_desc">Compatibilização de todas as disciplinas de engenharia.</p>
+                  <ul><li data-i18n="sol_biogas_step4_item1">Conjunto completo de desenhos executivos por disciplina</li><li data-i18n="sol_biogas_step4_item2">Memoriais de cálculo e caderno de especificações</li><li data-i18n="sol_biogas_step4_item3">ART do engenheiro responsável</li></ul>
+                </div>
+              </div>
+              <div class="sol-step" data-reveal>
+                <div class="sol-step__num"><i class="fa-solid fa-hand-holding-dollar"></i><span class="step-n">05</span></div>
+                <div class="sol-step__body">
+                  <span class="sol-step__time" data-i18n="sol_biogas_step5_time">8–18 semanas</span>
+                  <h3 data-i18n="sol_biogas_step5_title">Assessoria Financeira e Captação</h3>
+                  <p data-i18n="sol_biogas_step5_desc">Estruturação do projeto como ativo bancável.</p>
+                  <ul><li data-i18n="sol_biogas_step5_item1">Memorando de informações e materiais de investimento</li><li data-i18n="sol_biogas_step5_item2">Estratégia de financiamento e lista de financiadores</li><li data-i18n="sol_biogas_step5_item3">Documentação de apoio para diligência prévia</li></ul>
+                </div>
+              </div>
+              <div class="sol-step" data-reveal>
+                <div class="sol-step__num"><i class="fa-solid fa-helmet-safety"></i><span class="step-n">06</span></div>
+                <div class="sol-step__body">
+                  <span class="sol-step__time" data-i18n="sol_biogas_step6_time">Durante a obra</span>
+                  <h3 data-i18n="sol_biogas_step6_title">Supervisão da Construção</h3>
+                  <p data-i18n="sol_biogas_step6_desc">Fiscalização técnica e gestão de não conformidades.</p>
+                  <ul><li data-i18n="sol_biogas_step6_item1">Relatórios periódicos de acompanhamento de obra</li><li data-i18n="sol_biogas_step6_item2">Pareceres sobre não conformidades e substituições</li><li data-i18n="sol_biogas_step6_item3">Comissionamento, partida e projeto como construído</li></ul>
+                </div>
+              </div>
+            </div>
+            <div class="sol-steps__media" data-reveal data-d="2">
+              <div class="ph ph--px"><img src="assets/img_old/biodigestor-lona-paisagem.jpg" alt="Biodigestores em operação" data-parallax="0.06"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ESPECIFICAÇÕES -->
+      <section class="section section--tight">
+        <div class="container container--narrow">
+          <div class="sol-head"><span class="kicker" data-reveal data-i18n="sol_biogas_spec_kicker">Especificações técnicas</span>
+            <h2 class="h2" data-reveal data-d="1" data-i18n="sol_biogas_spec_title">O que entra em cada projeto.</h2></div>
+          <div class="sol-table-wrap" data-reveal>
+            <table class="sol-table">
+              <thead>
+                <tr><th><i class="fa-solid fa-list-check"></i> <span data-i18n="sol_biogas_spec_th_item">Item</span></th><th><i class="fa-solid fa-circle-info"></i> <span data-i18n="sol_biogas_spec_th_spec">Especificação</span></th></tr>
+              </thead>
+              <tbody data-stagger>
+                <tr><td data-i18n="sol_biogas_spec_row_substrato_label">Tipos de substrato</td><td data-i18n="sol_biogas_spec_row_substrato_val">Dejetos bovinos, suínos e avícolas · efluentes de frigoríficos · vinhaça de cana · RSU · resíduos industriais orgânicos · lodo de ETE</td></tr>
+                <tr><td data-i18n="sol_biogas_spec_row_cap_label">Faixa de capacidade</td><td class="accent" data-i18n="sol_biogas_spec_row_cap_val">50 t/dia a 500+ t/dia de substrato</td></tr>
+                <tr><td data-i18n="sol_biogas_spec_row_via_label">Entregáveis · Viabilidade</td><td data-i18n="sol_biogas_spec_row_via_val">Relatório de potencial de geração · modelo financeiro · análise de sensibilidade · recomendação de tecnologia</td></tr>
+                <tr><td data-i18n="sol_biogas_spec_row_pb_label">Entregáveis · Projeto Básico</td><td data-i18n="sol_biogas_spec_row_pb_val">P&amp;ID · layout · memorial descritivo · especificações · lista de materiais · CAPEX/OPEX detalhado</td></tr>
+                <tr><td data-i18n="sol_biogas_spec_row_pe_label">Entregáveis · Projeto Executivo</td><td data-i18n="sol_biogas_spec_row_pe_val">Itens acima + memoriais de cálculo + detalhamentos construtivos + projetos complementares (estrutural, elétrico, hidráulico) + ART</td></tr>
+                <tr><td data-i18n="sol_biogas_spec_row_normas_label">Normas aplicadas</td><td class="accent" data-i18n="sol_biogas_spec_row_normas_val">ABNT NBR 7229 · NBR 12209 · CONAMA 430/2011 · NR-13 · NR-10</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- CASES -->
+      <section class="section section--tight">
+        <div class="container">
+          <div class="sol-head"><span class="kicker" data-reveal data-i18n="sol_biogas_cases_kicker">Execução comprovada</span>
+            <h2 class="h2" data-reveal data-d="1" data-i18n="sol_biogas_cases_title">Projetos em campo.</h2></div>
+          <div class="sol-grid" style="grid-template-columns:1fr 1fr;">
+            <article class="sol-tile" data-reveal>
+              <div class="ph"><img src="assets/img_old/case-ceasa.png" alt="CEASA Goiás"></div>
+              <div class="sol-tile__body">
+                <div class="sol-badge" style="margin-bottom:12px;" data-i18n="sol_biogas_case1_status">Concluído</div>
+                <div class="sol-tile__name" data-i18n="sol_biogas_case1_name">CEASA Goiás · Goiânia · GO</div>
+                <p class="sol-tile__desc" data-i18n="sol_biogas_case1_desc">Estudo de viabilidade e projeto básico para resíduos orgânicos (FLV) do mercado atacadista. Potencial dimensionado: <strong style="color:var(--accent-light)">1.200 Nm³/dia de biogás</strong>.</p>
+              </div>
+            </article>
+            <article class="sol-tile" data-reveal data-d="1">
+              <div class="ph"><img src="assets/img_old/case-franca.jpg" alt="Frigorífico Franca"></div>
+              <div class="sol-tile__body">
+                <div class="sol-badge" style="margin-bottom:12px;" data-i18n="sol_biogas_case2_status">Em operação</div>
+                <div class="sol-tile__name" data-i18n="sol_biogas_case2_name">Frigorífico · Franca · SP</div>
+                <p class="sol-tile__desc" data-i18n="sol_biogas_case2_desc">Projeto executivo completo para biodigestão de efluentes de frigorífico bovino. Geração: <strong style="color:var(--accent-light)">2.800 Nm³/dia</strong> para cogeração e substituição de GLP.</p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section class="section section--tight">
+        <div class="container container--narrow">
+          <div class="sol-head"><span class="kicker" data-reveal data-i18n="sol_biogas_faq_kicker">Perguntas frequentes</span>
+            <h2 class="h2" data-reveal data-d="1" data-i18n="sol_biogas_faq_title">O que mais perguntam.</h2></div>
+          <div class="acc" data-accordion data-stagger>
+            <div class="acc-item"><button class="acc-head" data-i18n="sol_biogas_faq_q1">Quanto tempo leva um projeto básico? <i class="fas fa-plus"></i></button><div class="acc-body"><p data-i18n="sol_biogas_faq_a1">De 8 a 14 semanas a partir da assinatura. Projetos mais complexos podem levar até 18 semanas.</p></div></div>
+            <div class="acc-item"><button class="acc-head" data-i18n="sol_biogas_faq_q2">A 4WaTT faz projetos para todos os tipos de resíduo? <i class="fas fa-plus"></i></button><div class="acc-body"><p data-i18n="sol_biogas_faq_a2">Sim. Temos experiência com bovinos, suínos, avícolas, frigoríficos, vinhaça de cana, RSU, lodo de ETE e resíduos industriais.</p></div></div>
+            <div class="acc-item"><button class="acc-head" data-i18n="sol_biogas_faq_q3">O que está incluído no estudo de viabilidade? <i class="fas fa-plus"></i></button><div class="acc-body"><p data-i18n="sol_biogas_faq_a3">Levantamento e análise do substrato, dimensionamento de geração, análise de uso energético, CAPEX/OPEX, modelo financeiro com TIR/VPL/payback, análise de sensibilidade e recomendação de tecnologia, formatado para apresentação a financiadores.</p></div></div>
+            <div class="acc-item"><button class="acc-head" data-i18n="sol_biogas_faq_q4">Vocês trabalham com licenciamento ambiental? <i class="fas fa-plus"></i></button><div class="acc-body"><p data-i18n="sol_biogas_faq_a4">Em parceria com escritórios especializados. O projeto básico já é concebido com os requisitos ambientais em mente, com suporte de RAP, dados de emissões e fluxos de massa.</p></div></div>
+            <div class="acc-item"><button class="acc-head" data-i18n="sol_biogas_faq_q5">Qual a diferença entre projeto básico e executivo? <i class="fas fa-plus"></i></button><div class="acc-body"><p data-i18n="sol_biogas_faq_a5">O básico define o que será construído e como (tecnologias, equipamentos, layout, especificações, custo). O executivo detalha como construir (memoriais de cálculo, detalhamentos, documentos para execução sem ambiguidades). O BNDES geralmente exige o executivo completo.</p></div></div>
+            <div class="acc-item"><button class="acc-head" data-i18n="sol_biogas_faq_q6">A simulação gratuita já não me dá a viabilidade? <i class="fas fa-plus"></i></button><div class="acc-body"><p data-i18n="sol_biogas_faq_a6">A simulação entrega uma estimativa de mercado em poucos minutos — é útil para descartar projetos inviáveis. Mas o número que um banco aceita para liberar crédito exige levantamento de substrato, modelagem financeira com TIR/VPL/payback, ART e documentação técnica. É isso que o Projeto de Investimento 4WaTT entrega.</p></div></div>
+            <div class="acc-item"><button class="acc-head" data-i18n="sol_biogas_faq_q7">Como é pago o Projeto de Investimento? <i class="fas fa-plus"></i></button><div class="acc-body"><p data-i18n="sol_biogas_faq_a7">A entrada do projeto pode ser parcelada ao longo da elaboração, alinhada aos marcos de entrega (viabilidade, projeto básico e modelagem financeira). A obra propriamente dita é financiada com terceiros; o cliente precisa ter caixa para a entrada, não para a construção completa.</p></div></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- CTA + FORM -->
+      <section class="section sol-cta" id="cta">
+        <div class="ph ph--px ph--roxo"><img src="assets/img_old/usina_barbosa.jpeg" alt="" data-parallax="0.05"></div>
+        <div class="container">
+          <div class="sol-cta__inner">
+            <div class="sol-cta__copy">
+              <span class="kicker" data-reveal data-i18n="sol_biogas_cta_kicker">Próximo passo</span>
+              <h2 class="h2" data-reveal data-d="1" data-i18n="sol_biogas_cta_title">Solicitar Projeto de Investimento.</h2>
+              <p class="lead" data-reveal data-d="2" data-i18n="sol_biogas_cta_lead">Envie seus dados e nossa equipe de engenharia entra em contato.</p>
+              <ul class="sol-cta__checklist" data-reveal data-d="2">
+                <li data-i18n="sol_biogas_cta_check1"><i class="fas fa-check"></i> Análise preliminar sem custo</li>
+                <li data-i18n="sol_biogas_cta_check2"><i class="fas fa-check"></i> Retorno em até 1 dia útil</li>
+                <li data-i18n="sol_biogas_cta_check3"><i class="fas fa-check"></i> Equipe de engenheiros especializados</li>
+              </ul>
+              <p class="lead" style="margin-top:24px; font-size: clamp(15px, 1.5vw, 17px); opacity: 0.95;" data-i18n="sol_biogas_cta_package_why">O pacote consolidado é recomendado porque une viabilidade, projeto básico, modelagem financeira e kit bancário em um fluxo só. Isso evita retrabalho, acelera a aprovação de crédito e reduz o risco de custos surpresa na obra.</p>
+            </div>
+            <div class="sol-formcard" data-reveal data-d="1">
+              <h3 data-i18n="sol_biogas_form_title">Fale com a engenharia</h3>
+              <p class="sub" data-i18n="sol_biogas_form_sub">Preencha e retornamos em até 24h.</p>
+              <p class="sol-formcard__note" data-i18n="sol_biogas_form_package_note">O <strong>Projeto de Investimento 4WaTT</strong> reúne viabilidade, projeto básico, modelagem financeira e kit bancário em um único fluxo. Isso elimina retrabalho entre etapas, acelera o financiamento e reduz o risco de custos surpresa na obra.</p>
+              <form class="form-4watt" id="form-engenharia-biogas" data-form-name="Engenharia de Biogás">
+                <div class="form-row">
+                  <div class="form-field"><label for="bg-nome" data-i18n="sol_biogas_form_label_nome">Nome*</label><input class="form-input" id="bg-nome" name="nome" type="text" required placeholder="Seu nome" data-i18n-placeholder="sol_biogas_form_ph_nome"><span class="form-error-msg"></span></div>
+                  <div class="form-field"><label for="bg-empresa" data-i18n="sol_biogas_form_label_empresa">Empresa</label><input class="form-input" id="bg-empresa" name="empresa" type="text" placeholder="Sua empresa" data-i18n-placeholder="sol_biogas_form_ph_empresa"><span class="form-error-msg"></span></div>
+                </div>
+                <div class="form-row">
+                  <div class="form-field"><label for="bg-email" data-i18n="sol_biogas_form_label_email">E-mail*</label><input class="form-input" id="bg-email" name="email" type="email" required placeholder="seu@email.com" data-i18n-placeholder="sol_biogas_form_ph_email"><span class="form-error-msg"></span></div>
+                  <div class="form-field"><label for="bg-tel" data-i18n="sol_biogas_form_label_tel">WhatsApp</label><input class="form-input" id="bg-tel" name="whatsapp" type="tel" placeholder="(00) 00000-0000" data-i18n-placeholder="sol_biogas_form_ph_tel"><span class="form-error-msg"></span></div>
+                </div>
+                <div class="form-field"><label for="bg-substrato" data-i18n="sol_biogas_form_label_substrato">Substrato</label>
+                  <select class="form-select" id="bg-substrato" name="substrato">
+                    <option value="" data-i18n="sol_biogas_form_opt_substrato_default">Selecione o substrato</option>
+                    <option data-i18n="sol_biogas_form_opt_bovinos">Dejetos bovinos</option><option data-i18n="sol_biogas_form_opt_suinos">Dejetos suínos</option><option data-i18n="sol_biogas_form_opt_frigorifico">Efluentes de frigorífico</option>
+                    <option data-i18n="sol_biogas_form_opt_vinhaca">Vinhaça / cana-de-açúcar</option><option data-i18n="sol_biogas_form_opt_rsu">RSU</option><option data-i18n="sol_biogas_form_opt_industrial">Resíduos industriais</option><option data-i18n="sol_biogas_form_opt_outro">Outro</option>
+                  </select><span class="form-error-msg"></span></div>
+                <div class="form-field"><label for="bg-etapa" data-i18n="sol_biogas_form_label_etapa">Escopo de interesse</label>
+                  <select class="form-select" id="bg-etapa" name="etapa">
+                    <optgroup data-i18n-label="sol_biogas_form_optgroup_recommended" label="Pacote recomendado">
+                      <option value="projeto-de-investimento" selected data-i18n="sol_biogas_form_opt_completo">Projeto de Investimento 4WaTT — viabilidade + projeto básico + modelagem financeira + kit bancário (recomendado)</option>
+                    </optgroup>
+                    <optgroup data-i18n-label="sol_biogas_form_optgroup_individual" label="Etapas avulsas (sob consulta)">
+                      <option value="estudo" data-i18n="sol_biogas_form_opt_estudo">Estudo de viabilidade</option>
+                      <option value="pb" data-i18n="sol_biogas_form_opt_pb">Projeto básico</option>
+                      <option value="pe" data-i18n="sol_biogas_form_opt_pe">Projeto executivo</option>
+                      <option value="supervisao" data-i18n="sol_biogas_form_opt_supervisao">Supervisão de obra</option>
+                    </optgroup>
+                  </select><span class="form-error-msg"></span></div>
+                <button class="btn btn--primary" type="submit" style="width:100%;justify-content:center;" data-i18n="sol_biogas_form_submit">Solicitar Projeto de Investimento <i class="fas fa-arrow-right"></i></button>
+              </form>
+              <div class="form-success" data-i18n="sol_biogas_form_success">Solicitação enviada! Nossa engenharia retorna em até 24h.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__grid">
+          <div class="footer__brand footer__col">
+            <img class="footer__logo" src="assets/img/logo-4watt-light.png" alt="4WaTT">
+            <p data-i18n="footer_brand_phrase">De todas as formas de energia, escolha a que se renova. Escolha 4WaTT.</p>
+            <p data-i18n="footer_brand_company">4WaTT Bio Engenharia S/A.</p>
+            <div class="footer__seal" data-i18n="footer_seal"><i class="fas fa-circle-check"></i> Site oficial verificado</div>
+          </div>
+          <div class="footer__col"><h4 data-i18n="footer_address_title">Endereço</h4><ul><li>Edifício Metropolitan Business</li><li>Torre Tokyo, sala 601</li><li>Av. Dep. Jamel Cecílio</li><li>Jardim Goiás, Goiânia · GO</li></ul></div>
+          <div class="footer__col"><h4 data-i18n="footer_contact_title">Contato</h4><ul><li><i class="fas fa-envelope"></i> <a href="mailto:contato@4watt.tech">contato@4watt.tech</a></li><li><i class="fas fa-phone"></i> <a href="https://wa.me/5545991378949">+55 45 99137-8949</a></li><li><i class="fas fa-shield-halved"></i> <a href="politica-privacidade.html" data-i18n="legal_privacy">Política de Privacidade</a></li></ul></div>
+          <div class="footer__col"><h4 data-i18n="footer_social_title">Siga-nos</h4><div class="footer__social">
+            <a href="https://www.linkedin.com/in/4watt-tech-b798041b1" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.instagram.com/4watt.tech/" target="_blank" rel="noopener" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com/4wattbioeng" target="_blank" rel="noopener" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+          </div></div>
+        </div>
+        <div class="footer__bottom"><span data-i18n="footer_rights">© 2026 4WaTT Bio Engenharia S/A · Todos os direitos reservados.</span><span data-i18n="footer_tagline">Da simulação à operação. Patrimônio energético.</span></div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="assets/js/languages.js?v=2.8"></script>
+  <script src="/assets/js/languages-pages.js?v=1.3"></script>
+<script src="assets/js/main.js?v=1.5"></script>
+  <script src="assets/js/site-premium.js?v=2.4"></script>
+  <script src="assets/js/forms.js?v=1.3"></script>
+</body>
+
+</html>

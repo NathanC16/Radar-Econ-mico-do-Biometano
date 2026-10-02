@@ -1,0 +1,10 @@
+# versões testadas em out/2026 (Python 3.13); limite superior evita quebra em major nova
+streamlit>=1.64,<2
+plotly>=7.1,<8
+pandas>=3.0,<4
+numpy>=2.0,<3
+# apresentação (apresentacao/gerar_slides.py)
+python-pptx>=1.0,<2
+# notebook de EDA (notebook/01_exploracao.ipynb)
+ipykernel>=7.0
+openpyxl>=3.1

@@ -1,0 +1,29 @@
+[client]
+# esconde o botão "Deploy" e o menu de desenvolvedor para quem usa o painel
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
+
+# Identidade da marca 4WaTT (theme-4watt.css do site 4watt.tech).
+# Dois temas: claro e escuro. O painel segue o tema do sistema; o usuário troca em ⋮ → Settings.
+[theme]
+primaryColor = "#03A589"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap"
+
+[theme.light]
+primaryColor = "#03A589"
+backgroundColor = "#FCFBF8"        # creme (surface)
+secondaryBackgroundColor = "#F4F1EB"
+textColor = "#2A0720"              # plum: títulos e texto no roxo profundo da marca
+borderColor = "#E2DBD0"
+linkColor = "#057A64"
+
+[theme.dark]
+primaryColor = "#03A589"
+backgroundColor = "#1A1320"        # roxo-quase-preto, derivado do plum da marca
+secondaryBackgroundColor = "#2A0720"
+textColor = "#F4F1EB"
+borderColor = "#3A2B40"
+linkColor = "#3FD1B3"

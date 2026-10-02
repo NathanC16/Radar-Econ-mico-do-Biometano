@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <link rel="icon" href="assets/img/favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/img/favicon.png">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>4WaTT Bio Engenharia | Transformamos resíduo em energia e receita previsível</title>
+  <meta name="description"
+    content="Engenharia própria do EVTE ao O&M. A 4WaTT projeta, constrói e opera usinas de biogás e biometano. Transformamos passivo ambiental em patrimônio energético.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@600;700;800;900&family=Roboto+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/theme-4watt.css?v=3.9">
+  <link rel="stylesheet" href="assets/css/home-premium.css?v=3.8">
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-N91NFD55MB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-N91NFD55MB');
+  </script>
+  <link rel="stylesheet" href="assets/css/mobile-fixes.css?v=2.1">
+</head>
+
+<body class="t4">
+
+  <!-- ============================== NAVBAR ============================== -->
+  <nav class="nav">
+    <a class="nav__logo" href="index.html" aria-label="4WaTT início" data-i18n-title="nav_logo_aria">
+      <img src="assets/img/logo-4watt-dark.png" alt="4WaTT Bio Engenharia" fetchpriority="high">
+    </a>
+    <button class="nav__toggle" type="button" aria-label="Abrir menu" aria-expanded="false"
+      data-i18n-title="nav_toggle_aria"><i class="fas fa-bars"></i></button>
+    <ul class="nav__links">
+      <li><a href="#ecossistema" data-i18n="nav_ecossistema">Ecossistema</a></li>
+      <li><a href="#matriz" data-i18n="nav_residuos">Resíduos</a></li>
+      <li><a href="#engenharia" data-i18n="nav_engenharia">Equipamentos</a></li>
+      <li><a href="#jornada" data-i18n="nav_jornada">Jornada</a></li>
+      <li class="nav__dd">
+        <a tabindex="0" data-i18n="nav_solucoes">Soluções <i class="fas fa-chevron-down"></i></a>
+        <ul class="nav__dd-menu">
+          <li><a href="solucao-gestao-residuos.html" data-i18n="nav_gestao_residuos">Gestão de Resíduos</a></li>
+          <li><a href="solucao-biogas.html" data-i18n="nav_biogas">Engenharia de Biogás</a></li>
+          <li><a href="solucao-biometano.html" data-i18n="nav_biom">Biometano</a></li>
+          <li><a href="solucao-gaseificacao.html" data-i18n="nav_gaseificacao">Gaseificação de RSU</a></li>
+          <li><a href="engenharia/index.html" data-i18n="nav_servicos_engenharia">Serviços de Engenharia</a></li>
+        </ul>
+      </li>
+      <li><a href="investidor.html" data-i18n="nav_investidor">Área do Investidor</a></li>
+      <li><a href="imprensa.html" data-i18n="nav_imprensa">Imprensa</a></li>
+      <li><a href="academy.html" data-i18n="nav_academy">Academy</a></li>
+      <li class="nav__lang">
+        <div class="lang-selector" role="group" aria-label="Seletor de idioma">
+          <button class="lang-btn active" type="button" data-lang="pt" aria-pressed="true"
+            data-i18n="lang_pt">PT</button>
+          <button class="lang-btn" type="button" data-lang="en" aria-pressed="false" data-i18n="lang_en">EN</button>
+        </div>
+      </li>
+      <li><a class="nav__cta" href="https://calculadora-zeta-sooty.vercel.app/" data-i18n="cta_simular">Simular
+          Viabilidade</a></li>
+    </ul>
+    <div class="nav__progress"></div>
+  </nav>
+
+  <div class="wrap">
+
+    <!-- ====================== 01 · HERO ====================== -->
+    <header class="hero-h is-loading" data-hero>
+      <div class="hero-h__media">
+        <video autoplay muted loop playsinline preload="auto" poster="assets/img_old/hero-biodigestor.jpg">
+          <source src="assets/biogas_fly2.mp4" type="video/mp4">
+        </video>
+      </div>
+      <div class="hero-h__inner container">
+        <div class="hero-h__top">
+          <span class="kicker" data-i18n="home_hero_kicker">Bio Engenharia · Biogás &amp; Biometano</span>
+        </div>
+        <h1 class="h-reveal">
+          <span class="line"><span data-i18n="home_hero_line1">Transformamos resíduo em</span></span>
+          <span class="line"><span data-i18n="home_hero_line2"><em>energia e receita previsível.</em></span></span>
+        </h1>
+        <p class="hero-h__sub" data-i18n="home_hero_sub">
+          Da simulação à operação, a 4WaTT projeta, constrói e opera a infraestrutura completa.
+          Engenharia própria em cada etapa, a mesma inteligência técnica do projeto acompanha a operação.
+        </p>
+        <div class="hero-h__cta">
+          <a class="btn btn--primary" href="https://calculadora-zeta-sooty.vercel.app/"
+            data-i18n="home_hero_cta_primary">Simular viabilidade do
+            projeto <i class="fas fa-arrow-right"></i></a>
+          <a class="btn btn--ghost" href="#ecossistema" data-i18n="home_hero_cta_secondary">Explorar ecossistema <i
+              class="fas fa-arrow-down"></i></a>
+        </div>
+        <div class="hero-h__meta">
+          <span data-i18n="home_hero_meta_loc"><b>Goiânia</b> · GO</span>
+          <span data-i18n="home_hero_meta_services">EPC · O&amp;M · Consultoria · <b>4WaTT Finance</b></span>
+          <span data-i18n="home_hero_meta_tagline">Projeta · constrói · <b>opera</b></span>
+        </div>
+      </div>
+      <div class="hero-h__scroll" data-i18n="home_hero_scroll">SCROLL</div>
+    </header>
+
+    <main>
+
+      <!-- ====================== 02 · PROVA DE VALOR ====================== -->
+      <section class="section" id="prova">
+        <div class="orb orb--teal" data-parallax="0.14" style="width:460px;height:460px;top:-80px;right:-90px;"></div>
+        <div class="container">
+          <div class="proof__grid">
+            <div class="proof__head">
+              <span class="kicker" data-reveal data-i18n="home_proof_kicker">Prova de valor</span>
+              <h2 class="h2" data-reveal data-d="1" data-i18n="home_proof_title">Engenharia de resultado.<br>Sem
+                atalhos, sem achismo.</h2>
+              <p class="prose" data-reveal data-d="2" style="max-width:48ch;" data-i18n="home_proof_p1">Antes de
+                comprometer capital, o decisor
+                precisa de certeza. Nossa engenharia existe para transformar risco em número, cada etapa medida,
+                documentada e defensável.</p>
+
+              <div class="pillar-list">
+                <div class="pillar" data-reveal data-d="2">
+                  <span class="pillar__n">01</span>
+                  <div>
+                    <h3 data-i18n="home_proof_pillar1_title"><i class="fas fa-drafting-compass"></i>Engenharia própria
+                    </h3>
+                    <p data-i18n="home_proof_pillar1_text">EVTE, business plan e projetos executivos in-house. Você
+                      decide sobre cálculo, não sobre achismo.</p>
+                  </div>
+                </div>
+                <div class="pillar" data-reveal data-d="3">
+                  <span class="pillar__n">02</span>
+                  <div>
+                    <h3 data-i18n="home_proof_pillar2_title"><i class="fas fa-helmet-safety"></i>Execução · EPC</h3>
+                    <p data-i18n="home_proof_pillar2_text">Construção turn-key (BOT e EPCM). Entregamos uma usina pronta
+                      para operar, não um relatório na gaveta.</p>
+                  </div>
+                </div>
+                <div class="pillar" data-reveal data-d="4">
+                  <span class="pillar__n">03</span>
+                  <div>
+                    <h3 data-i18n="home_proof_pillar3_title"><i class="fas fa-gears"></i>Operação · O&amp;M</h3>
+                    <p data-i18n="home_proof_pillar3_text">Contratos recorrentes que mantêm a planta no pico de
+                      performance e a receita previsível.</p>
+                  </div>
+                </div>
+                <div class="pillar" data-reveal data-d="5">
+                  <span class="pillar__n">04</span>
+                  <div>
+                    <h3 data-i18n="home_proof_pillar4_title"><i class="fas fa-microchip"></i>Tecnologia proprietária
+                    </h3>
+                    <p data-i18n="home_proof_pillar4_text">P&amp;D, patentes e automação próprias. A engenharia que o
+                      mercado ainda vai copiar.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="proof__media" data-reveal data-d="2">
+              <div class="ph ph--px frame">
+                <img src="assets/img_old/engenheiro_com_planta_na_mao.png" alt="Engenharia 4WaTT em campo"
+                  data-parallax="0.1">
+              </div>
+              <div class="proof__stat">
+                <div class="v"><span data-counter="100" data-suffix="%">100%</span></div>
+                <div class="l" data-i18n="home_proof_stat_label">Engenharia própria · do EVTE ao O&amp;M</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ====================== 03 · MANIFESTO ====================== -->
+      <section class="manifesto">
+        <div class="manifesto__inner container">
+          <blockquote data-reveal>
+            <span class="kicker kicker--plain" data-i18n="home_manifesto_kicker">Manifesto 4WaTT</span>
+            <p class="pull" data-i18n="home_manifesto_quote">Não vendemos projeto.<br>Construímos <em>patrimônio
+                energético</em> que permanece, com ciência
+              aplicada e operação de excelência.</p>
+            <cite data-i18n="home_manifesto_cite">O Brasil carrega no resíduo o poder de se tornar uma potência
+              energética. A 4WaTT faz isso acontecer.</cite>
+          </blockquote>
+        </div>
+      </section>
+
+      <!-- ====================== 04 · ECOSSISTEMA ====================== -->
+      <section class="section" id="ecossistema">
+        <div class="container">
+          <div class="eco__top">
+            <div>
+              <span class="kicker" data-reveal data-i18n="home_eco_kicker">Ecossistema 4WaTT</span>
+              <h2 class="h2" data-reveal data-d="1" data-i18n="home_eco_title">Uma marca. Um ecossistema.<br>Do primeiro
+                cálculo à operação.</h2>
+              <p class="lead" data-reveal data-d="2" data-i18n="home_eco_lead">Você permanece dentro do mesmo
+                ecossistema em todas as fases do projeto.
+                Sem fricção, sem troca de fornecedor, sem perda de contexto.</p>
+            </div>
+            <div class="eco__visual" data-reveal data-d="2">
+              <div class="ph frame ph-hover">
+                <img src="assets/img_old/usina_4watt.jpeg" alt="Usina 4WaTT">
+              </div>
+              <span class="tag" data-i18n="home_eco_visual_tag">Usina 4WaTT · projeto de referência</span>
+            </div>
+          </div>
+
+          <div class="eco-group">
+            <div class="eco-group__label" data-i18n="home_eco_group1_label">Núcleo · Engenharia &amp; Capital
+              <span></span>
+            </div>
+            <a class="eco-row" href="solucao-biogas.html" style="--row-accent: var(--roxo-soft)" data-reveal>
+              <span class="eco-row__n">01</span>
+              <div><span class="eco-row__name eco-row__name--logo"><img src="assets/img/EPC- Sublogo Vetor.png"
+                    alt="EPC by 4WaTT" class="eco-sublogo"></span><span class="eco-row__tag"
+                  data-i18n="home_eco_row1_tag">Execução</span></div>
+              <p class="eco-row__benefit" data-i18n="home_eco_row1_benefit">Construção turn-key da usina (BOT e EPCM).
+                Entregamos pronta para operar.</p>
+              <span class="eco-row__arrow"><i class="fas fa-arrow-right"></i></span>
+            </a>
+            <a class="eco-row" href="contato.html" style="--row-accent: var(--teal)" data-reveal>
+              <span class="eco-row__n">02</span>
+              <div><span class="eco-row__name eco-row__name--logo"><img src="assets/img/O&amp;M - Sublogo Vetor.png"
+                    alt="O&amp;M by 4WaTT" class="eco-sublogo"></span><span class="eco-row__tag"
+                  data-i18n="home_eco_row2_tag">Recorrência</span></div>
+              <p class="eco-row__benefit" data-i18n="home_eco_row2_benefit">Operação e manutenção que protege a
+                performance e a receita por anos.</p>
+              <span class="eco-row__arrow"><i class="fas fa-arrow-right"></i></span>
+            </a>
+            <a class="eco-row" href="investidor.html" style="--row-accent: var(--teal)" data-reveal>
+              <span class="eco-row__n">03</span>
+              <div><span class="eco-row__name eco-row__name--logo"><img src="assets/img/ENGENHARIA- Sublogo Vetor.png"
+                    alt="Engenharia by 4WaTT" class="eco-sublogo"></span><span class="eco-row__tag"
+                  data-i18n="home_eco_row3_tag">Diagnóstico</span></div>
+              <p class="eco-row__benefit" data-i18n="home_eco_row3_benefit">EVTE, business plan e projetos executivos,
+                por hora ou por projeto.</p>
+              <span class="eco-row__arrow"><i class="fas fa-arrow-right"></i></span>
+            </a>
+            <a class="eco-row" href="contato.html" style="--row-accent: var(--gold)" data-reveal>
+              <span class="eco-row__n">04</span>
+              <div><span class="eco-row__name eco-row__name--logo"><img src="assets/img/FINANCE - Sublogo Vetor.png"
+                    alt="Finance by 4WaTT" class="eco-sublogo"></span><span class="eco-row__tag"
+                  data-i18n="home_eco_row4_tag">Capital</span></div>
+              <p class="eco-row__benefit" data-i18n="home_eco_row4_benefit">Assessoria de captação bancária.
+                Estruturamos o financiamento do CAPEX.</p>
+              <span class="eco-row__arrow"><i class="fas fa-arrow-right"></i></span>
+            </a>
+            <a class="eco-row" href="https://calculadora-zeta-sooty.vercel.app/" style="--row-accent: var(--teal)"
+              data-reveal>
+              <span class="eco-row__n">05</span>
+              <div><span class="eco-row__name eco-row__name--logo"><img src="assets/img/SIMULADOR - Sublogo Vetor.png"
+                    alt="Simulador by 4WaTT" class="eco-sublogo"></span><span class="eco-row__tag"
+                  data-i18n="home_eco_row5_tag">Qualificação</span></div>
+              <p class="eco-row__benefit" data-i18n="home_eco_row5_benefit">Calculadora de pré-viabilidade com IA.
+                Potencial do seu resíduo em minutos.</p>
+              <span class="eco-row__arrow"><i class="fas fa-arrow-right"></i></span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ====================== 05 · MATRIZ DE RESÍDUOS ====================== -->
+      <section class="section" id="matriz">
+        <div class="orb orb--gold" data-parallax="0.1" style="width:420px;height:420px;top:40px;left:-120px;"></div>
+        <div class="container">
+          <div class="matrix__head">
+            <div>
+              <span class="kicker" data-reveal data-i18n="home_matrix_kicker">Matriz de resíduos</span>
+              <h2 class="h2" data-reveal data-d="1" data-i18n="home_matrix_title">Cada resíduo é uma usina<br>esperando
+                para ser projetada.</h2>
+            </div>
+            <p class="lead" data-reveal data-d="2" style="max-width:34ch;" data-i18n="home_matrix_lead">Não tratamos
+              resíduo genérico.
+              Dimensionamos a rota tecnológica certa para cada substrato.</p>
+          </div>
+
+          <div class="matrix-m">
+            <article class="feed feed--w" data-reveal>
+              <div class="ph ph--roxo"><img src="assets/img_old/lixao2.jpeg" alt="RSU"></div>
+              <div class="feed__body">
+                <div class="feed__name" data-i18n="home_matrix_rsu_name">RSU</div>
+                <p class="feed__desc" data-i18n="home_matrix_rsu_desc">Resíduo sólido urbano: gaseificação e biometano
+                  que transformam o aterro em ativo energético.</p>
+                <div class="feed__metric" data-i18n="home_matrix_rsu_metric">Potencial · sob medida · a validar</div>
+              </div>
+            </article>
+            <article class="feed feed--sm" data-reveal data-d="1">
+              <div class="ph"><img src="assets/img_old/Case_4.000_Suinos.jpg" alt="Suínos"></div>
+              <div class="feed__body">
+                <div class="feed__name" data-i18n="home_matrix_suinos_name">Suínos</div>
+                <p class="feed__desc" data-i18n="home_matrix_suinos_desc">Dejeto suíno: um dos substratos mais
+                  eficientes e estáveis para biodigestão contínua.</p>
+                <div class="feed__metric" data-i18n="home_matrix_suinos_metric">Potencial · sob medida</div>
+              </div>
+            </article>
+            <article class="feed feed--md" data-reveal>
+              <div class="ph"><img src="assets/img_old/biodigestor-lona-paisagem.jpg" alt="Bovinos"></div>
+              <div class="feed__body">
+                <div class="feed__name" data-i18n="home_matrix_bovinos_name">Bovinos</div>
+                <p class="feed__desc" data-i18n="home_matrix_bovinos_desc">Dejeto de confinamento convertido em biogás e
+                  biofertilizante de alto valor.</p>
+                <div class="feed__metric" data-i18n="home_matrix_bovinos_metric">Potencial · sob medida</div>
+              </div>
+            </article>
+            <article class="feed feed--md" data-reveal data-d="1">
+              <div class="ph"><img src="assets/img/galinhas.jpeg" alt="Aves"></div>
+              <div class="feed__body">
+                <div class="feed__name" data-i18n="home_matrix_aves_name">Aves</div>
+                <p class="feed__desc" data-i18n="home_matrix_aves_desc">Cama de aviário e resíduos de granja, com forte
+                  potencial de geração de biogás.</p>
+                <div class="feed__metric" data-i18n="home_matrix_aves_metric">Potencial · sob medida</div>
+              </div>
+            </article>
+            <article class="feed feed--md" data-reveal data-d="2">
+              <div class="ph"><img src="assets/img_old/case-franca.jpg" alt="Frigoríficos"></div>
+              <div class="feed__body">
+                <div class="feed__name" data-i18n="home_matrix_frigorificos_name">Frigoríficos</div>
+                <p class="feed__desc" data-i18n="home_matrix_frigorificos_desc">Efluentes e resíduos de abate com alta
+                  carga orgânica viram energia.</p>
+                <div class="feed__metric" data-i18n="home_matrix_frigorificos_metric">Potencial · sob medida</div>
+              </div>
+            </article>
+            <article class="feed feed--full" data-reveal>
+              <div class="ph ph--side"><img src="assets/img_old/usina_barbosa.jpeg" alt="Usinas de etanol"></div>
+              <div class="feed__body">
+                <div class="feed__name" data-i18n="home_matrix_etanol_name">Usinas de etanol</div>
+                <p class="feed__desc" data-i18n="home_matrix_etanol_desc">Vinhaça e torta de filtro: biogás integrado à
+                  operação sucroenergética, fechando o ciclo.</p>
+                <div class="feed__metric" data-i18n="home_matrix_etanol_metric">Potencial · sob medida · a validar</div>
+              </div>
+            </article>
+          </div>
+          <p class="matrix__note" data-reveal data-i18n="home_matrix_note"><i class="fas fa-circle-info"></i> Faixas de
+            potencial calculadas sob
+            medida pela engenharia 4WaTT. Os números reais dependem do seu resíduo, volume e localização.</p>
+        </div>
+      </section>
+
+      <!-- ====================== 06 · THE MACHINE ====================== -->
+      <section class="section" id="engenharia">
+        <div class="orb orb--roxo" data-parallax="0.16" style="width:480px;height:480px;bottom:-120px;right:-100px;">
+        </div>
+        <div class="container">
+          <div class="machine__grid">
+            <div class="machine__collage" data-reveal>
+              <div class="ph ph--px frame c1"><img src="assets/img_old/IA_usina.jpeg" alt="Planta industrial"
+                  data-parallax="0.06"></div>
+              <div class="ph frame c2 ph-hover"><img src="assets/img_old/biodigestor-lona-paisagem.jpg"
+                  alt="Biodigestores"></div>
+              <div class="ph frame c3 ph-hover"><img src="assets/img_old/cano-biogas-barbosa.jpg"
+                  alt="Tubulação de biogás 4WaTT"></div>
+            </div>
+            <div class="machine__head">
+              <span class="kicker" data-reveal data-i18n="home_machine_kicker">Engenharia &amp; equipamentos</span>
+              <br>
+              <h3 class="h3" data-reveal data-d="1" data-i18n="home_machine_title">A máquina por trás da energia </h3>
+              <br>
+              <p class="lead" data-reveal data-d="2" data-i18n="home_machine_lead">Robustez industrial e tecnologia
+                aplicada. Cada equipamento é
+                dimensionado para extrair o máximo do seu resíduo.</p>
+              <div class="machine__list">
+                <div class="m-item" data-reveal><span class="m-item__n">01</span>
+                  <div>
+                    <h3 data-i18n="home_machine_item1_title">Biodigestores</h3>
+                    <p data-i18n="home_machine_item1_text">Reatores dimensionados para o seu substrato, com a máxima
+                      conversão de resíduo em biogás.</p>
+                  </div>
+                </div>
+                <div class="m-item" data-reveal data-d="1"><span class="m-item__n">02</span>
+                  <div>
+                    <h3 data-i18n="home_machine_item2_title">Purificação &amp; upgrading</h3>
+                    <p data-i18n="home_machine_item2_text">Remoção de H₂S e CO₂ para biometano em especificação de
+                      injeção e uso veicular.</p>
+                  </div>
+                </div>
+                <div class="m-item" data-reveal data-d="2"><span class="m-item__n">03</span>
+                  <div>
+                    <h3 data-i18n="home_machine_item3_title">Automação &amp; controle</h3>
+                    <p data-i18n="home_machine_item3_text">Sensores, SCADA e lógica de operação para a planta rodar
+                      sempre no ponto ótimo.</p>
+                  </div>
+                </div>
+                <div class="m-item" data-reveal data-d="3"><span class="m-item__n">04</span>
+                  <div>
+                    <h3 data-i18n="home_machine_item4_title">Sistemas industriais</h3>
+                    <p data-i18n="home_machine_item4_text">Skids, gaseificador, filtros H₂S e refinaria. Engenharia
+                      modular e escalável.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ====================== 07 · JORNADA / FUNIL ====================== -->
+      <section class="section section--tight" id="jornada">
+        <div class="orb orb--teal" data-parallax="0.1" style="width:380px;height:380px;top:-60px;left:-100px;"></div>
+        <div class="container">
+          <div class="funnel__head">
+            <span class="kicker" data-reveal data-i18n="home_funnel_kicker">Jornada do cliente</span>
+            <h2 class="h2" data-reveal data-d="1" data-i18n="home_funnel_title">Um funil visível: você sempre sabe o
+              próximo passo.</h2>
+            <p class="lead" data-reveal data-d="2" data-i18n="home_funnel_lead">Cada submarca é uma etapa da compra. Da
+              simulação à expansão, tudo fica tangível.</p>
+          </div>
+          <div class="funnel-t" data-funnel>
+            <div class="step" data-reveal><span class="step__node"></span>
+              <div class="step__stage" data-i18n="home_funnel_step1_stage">Qualificação</div>
+              <div class="step__name">4WaTT Simulador</div>
+              <p class="step__desc" data-i18n="home_funnel_step1_desc">Calcule o potencial do resíduo.</p>
+            </div>
+            <a class="step" href="score.html" data-reveal data-d="1"><span class="step__node"></span>
+              <div class="step__stage" data-i18n="home_funnel_step2_stage">Diagnóstico</div>
+              <div class="step__name">4WaTT Score</div>
+              <p class="step__desc" data-i18n="home_funnel_step2_desc">Avalie a maturidade do projeto.</p>
+            </a>
+            <div class="step" data-reveal data-d="2"><span class="step__node"></span>
+              <div class="step__stage" data-i18n="home_funnel_step3_stage">Proposta</div>
+              <div class="step__name">EVTE + BP</div>
+              <p class="step__desc" data-i18n="home_funnel_step3_desc">Viabilidade e business plan.</p>
+            </div>
+            <div class="step" data-reveal data-d="3"><span class="step__node"></span>
+              <div class="step__stage" data-i18n="home_funnel_step4_stage">Execução</div>
+              <div class="step__name">4WaTT EPC</div>
+              <p class="step__desc" data-i18n="home_funnel_step4_desc">Construção turn-key da usina.</p>
+            </div>
+            <div class="step" data-reveal data-d="4"><span class="step__node"></span>
+              <div class="step__stage" data-i18n="home_funnel_step5_stage">Recorrência</div>
+              <div class="step__name">4WaTT O&amp;M</div>
+              <p class="step__desc" data-i18n="home_funnel_step5_desc">Operação e manutenção contínua.</p>
+            </div>
+            <div class="step" data-reveal data-d="5"><span class="step__node"></span>
+              <div class="step__stage" data-i18n="home_funnel_step6_stage">Expansão</div>
+              <div class="step__name">4WaTT Ventures</div>
+              <p class="step__desc" data-i18n="home_funnel_step6_desc">Novos projetos e participação.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ====================== 08 · AUTORIDADE ====================== -->
+      <section class="section" id="autoridade">
+        <div class="container">
+          <div class="authority__head">
+            <div>
+              <span class="kicker" data-reveal data-i18n="home_cases_kicker">Autoridade &amp; execução</span>
+              <h2 class="h2" data-reveal data-d="1" data-i18n="home_cases_title">Execução comprovada.<br>Resultados
+                reais.</h2>
+            </div>
+            <p class="lead" data-reveal data-d="2" style="max-width:30ch;" data-i18n="home_cases_lead">Projetos em
+              campo, transformando
+              resíduo em energia e valor mensurável. Conheça cada case.</p>
+          </div>
+
+          <div class="cases-marquee" data-marquee data-marquee-speed="0.6" data-reveal>
+            <div class="cases-marquee__track">
+              <article class="case-card" tabindex="0" role="button" data-case-title="UTB Franca — Terawatt Bioenergia"
+                data-case-location="Franca · SP" data-case-image="assets/img/cases/utb-franca/obra/sede-frente-dia.JPG"
+                data-case-description="Engenharia multidisciplinar completa para a usina de biometano da Terawatt Bioenergia (grupo NewSun Energy): mecânica, civil, processos, validação computacional e licenciamento ambiental, com ART 4WaTT."
+                data-case-stat="Engenharia multidisciplinar completa · biometano de resíduo de curtume" data-case-cta="case-utb-franca.html">
+                <div class="ph"><img src="assets/img/cases/utb-franca/obra/sede-frente-dia.JPG" alt="UTB Franca — Terawatt Bioenergia"></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case_utb_loc">Franca · SP</div>
+                  <div class="case-card__title" data-i18n="home_case_utb_title">UTB Franca — Terawatt Bioenergia</div>
+                  <div class="case-card__stat" data-i18n="home_case_utb_stat">Engenharia multidisciplinar completa · biometano de resíduo de curtume</div>
+                  <span class="case-card__more" data-i18n="home_case_utb_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                  <a class="case-card__cta" href="case-utb-franca.html" onclick="event.stopPropagation();" data-i18n="home_case_utb_cta">Ver case completo <i class="fas fa-arrow-up-right-from-square"></i></a>
+                </div>
+              </article>
+              <article class="case-card" tabindex="0" role="button" data-case-title="CEASA Goiás"
+                data-case-location="Goiânia · GO" data-case-image="assets/img_old/case-ceasa.png"
+                data-case-description="Estudo de viabilidade e projeto básico para os resíduos orgânicos da central de abastecimento. Transforma descarte em energia dentro da própria operação."
+                data-case-stat="1.200 Nm³/dia de biogás dimensionados · RSU orgânico" data-case-cta="case-ceasa-goias.html">
+                <div class="ph"><img src="assets/img_old/case-ceasa.png" alt="CEASA Goiás"></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case1_loc">Goiânia · GO</div>
+                  <div class="case-card__title" data-i18n="home_case1_title">CEASA Goiás</div>
+                  <div class="case-card__stat" data-i18n="home_case1_stat">1.200 Nm³/dia de biogás dimensionados · RSU orgânico</div>
+                  <span class="case-card__more" data-i18n="home_case1_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                  <a class="case-card__cta" href="case-ceasa-goias.html" onclick="event.stopPropagation();" data-i18n="home_case1_cta">Ver case completo <i class="fas fa-arrow-up-right-from-square"></i></a>
+                </div>
+              </article>
+              <article class="case-card" tabindex="0" role="button" data-case-title="Frigorífico Franca"
+                data-case-location="Franca · SP" data-case-image="assets/img_old/case-franca.jpg"
+                data-case-description="Projeto executivo completo para biodigestão de efluentes de frigorífico bovino, com cogeração elétrica e substituição de GLP na caldeira."
+                data-case-stat="2.800 Nm³/dia de biogás · em operação" data-case-cta="contato.html">
+                <div class="ph"><img src="assets/img_old/case-franca.jpg" alt="Frigorífico Franca"></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case2_loc">Franca · SP</div>
+                  <div class="case-card__title" data-i18n="home_case2_title">Frigorífico Franca</div>
+                  <div class="case-card__stat" data-i18n="home_case2_stat">2.800 Nm³/dia de biogás · em operação</div>
+                  <span class="case-card__more" data-i18n="home_case2_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                </div>
+              </article>
+              <article class="case-card" tabindex="0" role="button" data-case-title="Organo Buritis"
+                data-case-location="Buritis · MG" data-case-image="assets/img_old/case-organo.jpg"
+                data-case-description="Valorização de resíduos orgânicos em biofertilizante e energia, integrando o ciclo de nutrientes à geração de bioenergia."
+                data-case-stat="Resíduo orgânico → biofertilizante + energia" data-case-cta="contato.html">
+                <div class="ph"><img src="assets/img_old/case-organo.jpg" alt="Organo Buritis"></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case3_loc">Palmeiras de Goiás · GO</div>
+                  <div class="case-card__title" data-i18n="home_case3_title">Organo Buritis</div>
+                  <div class="case-card__stat" data-i18n="home_case3_stat">Resíduo em biofertilizante e energia.</div>
+                  <span class="case-card__more" data-i18n="home_case3_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                </div>
+              </article>
+              <article class="case-card" aria-hidden="true">
+                <div class="ph"><img src="assets/img/cases/utb-franca/obra/sede-frente-dia.JPG" alt=""></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case_utb_loc">Franca · SP</div>
+                  <div class="case-card__title" data-i18n="home_case_utb_title">UTB Franca — Terawatt Bioenergia</div>
+                  <div class="case-card__stat" data-i18n="home_case_utb_stat">Engenharia multidisciplinar completa · biometano de resíduo de curtume</div>
+                  <span class="case-card__more" data-i18n="home_case_utb_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                  <a class="case-card__cta" href="case-utb-franca.html" tabindex="-1" data-i18n="home_case_utb_cta">Ver case completo <i class="fas fa-arrow-up-right-from-square"></i></a>
+                </div>
+              </article>
+              <article class="case-card" aria-hidden="true">
+                <div class="ph"><img src="assets/img_old/case-ceasa.png" alt=""></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case1_loc">Goiânia · GO</div>
+                  <div class="case-card__title" data-i18n="home_case1_title">CEASA Goiás</div>
+                  <div class="case-card__stat" data-i18n="home_case1_stat">1.200 Nm³/dia de biogás dimensionados · RSU orgânico</div>
+                  <span class="case-card__more" data-i18n="home_case1_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                  <a class="case-card__cta" href="case-ceasa-goias.html" tabindex="-1" data-i18n="home_case1_cta">Ver case completo <i class="fas fa-arrow-up-right-from-square"></i></a>
+                </div>
+              </article>
+              <article class="case-card" aria-hidden="true">
+                <div class="ph"><img src="assets/img_old/case-franca.jpg" alt=""></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case2_loc">Franca · SP</div>
+                  <div class="case-card__title" data-i18n="home_case2_title">Frigorífico Franca</div>
+                  <div class="case-card__stat" data-i18n="home_case2_stat">2.800 Nm³/dia de biogás · em operação</div>
+                  <span class="case-card__more" data-i18n="home_case2_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                </div>
+              </article>
+              <article class="case-card" aria-hidden="true">
+                <div class="ph"><img src="assets/img_old/case-organo.jpg" alt=""></div>
+                <div class="case-card__body">
+                  <div class="case-card__loc" data-i18n="home_case3_loc">Palmeiras de Goiás · GO</div>
+                  <div class="case-card__title" data-i18n="home_case3_title">Organo Buritis</div>
+                  <div class="case-card__stat" data-i18n="home_case3_stat">Resíduo em biofertilizante e energia.</div>
+                  <span class="case-card__more" data-i18n="home_case3_more">Ver case <i
+                      class="fas fa-arrow-right"></i></span>
+                </div>
+              </article>
+            </div>
+          </div>
+
+          <div class="partners">
+            <div class="partners__label" data-i18n="home_partners_label">Confiam na engenharia 4WaTT</div>
+            <div class="marquee">
+              <div class="marquee__track">
+                <img src="assets/img/partners/ceasalogo.png" alt="CEASA">
+                <img src="assets/img/partners/EnerdinboLOGO.png" alt="Enerdinbo">
+                <img src="assets/img/partners/ConsultLOGO.png" alt="Consult">
+                <img src="assets/img/partners/OrganoburitisLOGO.png" alt="Organo Buritis">
+                <img src="assets/img/partners/AdecoagroLOGO.png" alt="Adecoagro">
+                <img src="assets/img/partners/SanimaxLOGO.png" alt="Sanimax">
+                <img src="assets/img/partners/ceasalogo.png" alt="" aria-hidden="true">
+                <img src="assets/img/partners/EnerdinboLOGO.png" alt="" aria-hidden="true">
+                <img src="assets/img/partners/ConsultLOGO.png" alt="" aria-hidden="true">
+                <img src="assets/img/partners/OrganoburitisLOGO.png" alt="" aria-hidden="true">
+                <img src="assets/img/partners/AdecoagroLOGO.png" alt="" aria-hidden="true">
+                <img src="assets/img/partners/SanimaxLOGO.png" alt="" aria-hidden="true">
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ====================== 09 · CTA FINAL ====================== -->
+      <section class="cta-final" id="contato-cta">
+        <div class="ph ph--px ph--roxo"><img src="assets/img_old/hero-biodigestor.jpg" alt="" data-parallax="0.07">
+        </div>
+        <div class="cta-final__inner container">
+          <span class="kicker" data-reveal data-i18n="home_cta_kicker">Vamos construir</span>
+          <h2 class="h2" data-reveal data-d="1" data-i18n="home_cta_title">Pronto para descobrir quanto o seu resíduo
+            vale em energia?</h2>
+          <p class="cta-final__lead" data-reveal data-d="2" data-i18n="home_cta_lead">Escolha por onde começar. Sem
+            fricção, sem marketing vazio.
+            Você fala direto com quem projeta, constrói e opera.</p>
+          <div class="doors">
+            <a class="door" href="contato.html" data-reveal>
+              <div class="door__ic"><i class="fas fa-clipboard-check"></i></div>
+              <h3 data-i18n="home_cta_door1_title">Diagnóstico técnico</h3>
+              <p data-i18n="home_cta_door1_text">Fale com os engenheiros sobre o seu resíduo.</p>
+              <span class="door__link" data-i18n="home_cta_door1_link">Agendar <i class="fas fa-arrow-right"></i></span>
+            </a>
+            <a class="door" href="https://calculadora-zeta-sooty.vercel.app/" data-reveal data-d="1">
+              <div class="door__ic"><i class="fas fa-calculator"></i></div>
+              <h3 data-i18n="home_cta_door2_title">Simulação de viabilidade</h3>
+              <p data-i18n="home_cta_door2_text">Estime o potencial do projeto agora.</p>
+              <span class="door__link" data-i18n="home_cta_door2_link">Simular <i class="fas fa-arrow-right"></i></span>
+            </a>
+            <a class="door" href="contato.html" data-reveal data-d="2">
+              <div class="door__ic"><i class="fas fa-comments"></i></div>
+              <h3 data-i18n="home_cta_door3_title">Contato comercial</h3>
+              <p data-i18n="home_cta_door3_text">Converse sobre o seu projeto de usina.</p>
+              <span class="door__link" data-i18n="home_cta_door3_link">Conversar <i
+                  class="fas fa-arrow-right"></i></span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- ============================== FOOTER ============================== -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__grid">
+          <div class="footer__brand footer__col">
+            <img class="footer__logo" src="assets/img/logo-4watt-light.png" alt="4WaTT" loading="lazy">
+            <p data-i18n="footer_brand_phrase">De todas as formas de energia, escolha a que se renova. Escolha 4WaTT.
+            </p>
+            <p data-i18n="footer_brand_company">4WaTT Bio Engenharia S/A.</p>
+            <div class="footer__seal"><i class="fas fa-circle-check"></i> <span data-i18n="footer_seal">Site oficial
+                verificado</span></div>
+          </div>
+          <div class="footer__col">
+            <h4 data-i18n="footer_address_title">Endereço</h4>
+            <ul>
+              <li>Edifício Metropolitan Business</li>
+              <li>Torre Tokyo, sala 601</li>
+              <li>Av. Dep. Jamel Cecílio</li>
+              <li>Jardim Goiás, Goiânia · GO</li>
+            </ul>
+          </div>
+          <div class="footer__col">
+            <h4 data-i18n="footer_contact_title">Contato</h4>
+            <ul>
+              <li><i class="fas fa-envelope"></i> <a href="mailto:contato@4watt.tech">contato@4watt.tech</a></li>
+              <li><i class="fas fa-phone"></i> <a href="https://wa.me/5545991378949">+55 45 99137-8949</a></li>
+              <li><i class="fas fa-book"></i> <a href="artigos/" data-i18n="footer_artigos">Artigos técnicos</a></li>
+              <li><i class="fas fa-shield-halved"></i> <a href="politica-privacidade.html" data-i18n="legal_privacy">Política de Privacidade</a></li>
+            </ul>
+          </div>
+          <div class="footer__col">
+            <h4 data-i18n="footer_social_title">Siga-nos</h4>
+            <div class="footer__social">
+              <a href="https://www.linkedin.com/in/4watt-tech-b798041b1" target="_blank" rel="noopener"
+                aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+              <a href="https://www.instagram.com/4watt.tech/" target="_blank" rel="noopener" aria-label="Instagram"><i
+                  class="fab fa-instagram"></i></a>
+              <a href="https://www.facebook.com/4wattbioeng" target="_blank" rel="noopener" aria-label="Facebook"><i
+                  class="fab fa-facebook-f"></i></a>
+              <a href="https://www.youtube.com/watch?v=Hldv59NfzVk" target="_blank" rel="noopener"
+                aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            </div>
+          </div>
+        </div>
+        <div class="footer__bottom">
+          <span data-i18n="footer_rights">© 2026 4WaTT Bio Engenharia S/A · Todos os direitos reservados.</span>
+          <span data-i18n="footer_tagline">Da simulação à operação. Patrimônio energético.</span>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <!-- ============================== CASES MODAL ============================== -->
+  <div class="cases-modal" id="cases-modal" aria-hidden="true" role="dialog" aria-modal="true"
+    aria-labelledby="cases-modal-title">
+    <div class="cases-modal__backdrop" data-close="true"></div>
+    <div class="cases-modal__dialog">
+      <button class="cases-modal__close" data-close="true" type="button" aria-label="Fechar"
+        data-i18n-title="cases_modal_close_aria"><i class="fas fa-xmark"></i></button>
+      <div class="cases-modal__media"><img id="cases-modal-image" src="" alt=""></div>
+      <div class="cases-modal__content">
+        <div class="loc" id="cases-modal-location"></div>
+        <h3 id="cases-modal-title"></h3>
+        <p class="desc" id="cases-modal-description"></p>
+        <div class="stat" id="cases-modal-stat"></div>
+        <a id="cases-modal-cta" class="btn btn--primary" href="contato.html" style="margin-top:22px;"
+          data-i18n="cases_modal_cta">Falar com um especialista <i class="fas fa-arrow-right"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/js/languages.js?v=2.8"></script>
+  <script src="/assets/js/languages-pages.js?v=1.3"></script>
+  <script src="assets/js/main.js?v=1.5"></script>
+  <script src="assets/js/site-premium.js?v=2.4"></script>
+  <script src="assets/js/cases-modal-home.js?v=2"></script>
+</body>
+
+</html>

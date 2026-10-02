@@ -1,0 +1,1386 @@
+                                                                      Publicado em 28/09/2026
+
+
+
+
+                                          Boletim Mensal de Acompanhamento
+                                          da Indústria de Biometano no Brasil
+                                          Agosto de 2026
+                                          Edição Nº 2
+
+
+
+
+IEPUC – Instituto de Energia da PUC-Rio
+                                          Panorama da Oferta de Biometano no
+                                          Brasil
+
+
+
+
+IEPUC – Instituto de Energia da PUC-Rio               2
+Capacidade autorizada de biometano
+
+                                                                                                     Em agosto de 2026, havia 21 usinas de produção de biometano autorizadas pela
+           Evolução histórica e projeção da capacidade instalada de produção de
+                                                                                                              ANP, totalizando uma capacidade instalada de 1.368 Mm³/d.
+                biometano no Brasil, segundo status de autorização na ANP
+                                                                                                       Além dessas, encontravam-se em tramitação 49 pedidos de autorização, que
+         4.000                                                                                                     somam uma capacidade adicional de 2.023 Mm³/d.
+                                                                                                     Dessa forma, caso toda essa capacidade adicional entre em operação conforme o
+         3.500
+                                                                                                      cronograma previsto, espera-se que a capacidade instalada total alcance 3.391
+         3.000                                                                                                               Mm³/d até dezembro de 2028.
+
+         2.500                                                                                          Capacidade Instalada
+                                                                                                                                     Ago/2026        Jul/2026       Jun/2025
+ Mm³/d
+
+
+
+
+                                                                                                              (Mm³/d)
+         2.000
+                                                                                                              Autorizada                1.368           1.368           697
+         1.500
+                                                                                                               Solicitada               2.023           2.009          1.510
+         1.000
+                                                                                                                  Total                 3.391           3.378          2.207
+          500
+                                                                                                              Número de
+            0                                                                                                                        Ago/2026        Jul/2026       Jun/2025
+                                                                                                             Autorizações
+                 set-20
+
+                 set-21
+
+                 set-22
+
+                 set-23
+
+                 set-24
+
+                 set-25
+
+                 set-26
+
+                 set-27
+
+                 set-28
+                 jan-26
+                 jan-20
+
+                 jan-21
+
+                 jan-22
+
+                 jan-23
+
+                 jan-24
+
+                 jan-25
+
+
+
+
+                 jan-27
+
+                 jan-28
+                 mai-20
+
+                 mai-21
+
+                 mai-22
+
+                 mai-23
+
+                 mai-24
+
+                 mai-25
+
+                 mai-26
+
+                 mai-27
+
+                 mai-28
+                                                                                                               Concedida                  21             21              12
+
+                 Autorizadas           Solicitadas            Previsão mês anterior                            Solicitada                 49             49              38
+
+                    Nota: A projeção considera os projetos de instalações com pedidos de                          Total                   70             70              50
+                    autorização em tramitação na ANP, conforme as datas previstas de conclusão
+                    das obras informadas à Agência.                                              3                                         IEPUC – Instituto de Energia da PUC-Rio
+                    Fonte: Elaboração própria com dados da ANP
+Produção de biometano
+
+        Em agosto de 2026, a produção de biometano no Brasil atingiu 529 Mm³/d,
+                                                                                                  Evolução da produção de biometano no Brasil
+                 registrando uma redução de 5,64% em relação a julho.
+                                                                                          600
+          Produção 2026     Crescimento vs     Média 2026       Crescimento vs
+             (Mm³/d)         mês anterior       (Mm³/d)          ano anterior             500
+  Jan           384             -0,57%              384             57,68%
+  Fev           410              6,90%              396             67,06%                400
+  Mar           404             -1,54%              399             62,11%
+
+
+
+
+                                                                                  Mm³/d
+  Abr           451             11,64%              412             61,27%                300
+  Mai           451              0,12%              420             56,97%
+  Jun           532             17,77%              439             58,02%                200
+  Jul           561              5,47%              456             56,99%
+  Ago           529             -5,64%              466             53,74%                100
+  Set            -                 -                 -                 -
+                                                                                            0
+  Out            -                 -                 -                 -
+
+
+
+
+                                                                                                 jul-20
+
+
+                                                                                                 jul-21
+
+
+                                                                                                 jul-22
+
+
+                                                                                                 jul-23
+
+
+                                                                                                 jul-24
+
+
+                                                                                                 jul-25
+
+
+                                                                                                 jul-26
+                                                                                                abr-23
+                                                                                                abr-20
+
+
+                                                                                                abr-21
+
+
+                                                                                                abr-22
+
+
+
+
+                                                                                                abr-24
+
+
+                                                                                                abr-25
+
+
+                                                                                                abr-26
+                                                                                                jan-20
+
+                                                                                                out-20
+                                                                                                jan-21
+
+                                                                                                out-21
+                                                                                                jan-22
+
+                                                                                                out-22
+                                                                                                jan-23
+
+                                                                                                out-23
+                                                                                                jan-24
+
+                                                                                                out-24
+                                                                                                jan-25
+
+                                                                                                out-25
+                                                                                                jan-26
+  Nov            -                 -                 -                 -
+  Dez            -                 -                 -                 -
+                                                                                                         Produção mensal            Média anual
+                                                                                      Fonte: Elaboração própria a partir dos dados da ANP
+
+                                                                             4                                         IEPUC – Instituto de Energia da PUC-Rio
+Desagregação da produção de biometano por matéria-prima
+
+          Estimativa da produção de biometano no Brasil segundo                            Em agosto de 2026, a produção de biometano permaneceu fortemente
+                              matéria-prima                                            concentrada em aterros sanitários, que respondeu por 80,3% da produção total
+         600                                                                            O setor sucroenergético representou 18,8% da produção, enquanto os 1,0%
+                                                                                        restantes tiveram origem em plantas que processam outros tipo de resíduos
+         500
+
+         400                                                                                Ago/2026                   Aterro            Sucro           Outros
+ Mm³/d
+
+
+
+
+         300
+                                                                                         Número de plantas             10               7                 4
+
+         200
+                                                                                          Produção (Mm³/d)            425               99                5
+         100
+                                                                                         Crescimento vs mês
+                                                                                                                     6,29%            -4,07%          -90,97%
+                                                                                               anterior
+           0
+                jul-20
+
+
+                jul-21
+
+
+                jul-22
+
+
+                jul-23
+
+
+                jul-24
+
+
+                jul-25
+
+
+                jul-26
+               jan-20
+
+
+
+
+               jan-22
+
+
+
+
+               abr-25
+               abr-20
+
+               jan-21
+               abr-21
+
+
+               abr-22
+
+               jan-23
+               abr-23
+
+               jan-24
+               abr-24
+
+               jan-25
+
+
+               jan-26
+               abr-26
+               out-25
+               out-20
+
+
+               out-21
+
+
+               out-22
+
+
+               out-23
+
+
+               out-24
+
+
+
+                                                                                         Produção média no
+                                                                                                                      357               62               47
+                                                                                            ano (Mm³/d)
+                     Aterro       Sucroenergético          Outros                        Crescimento vs ano
+                                                                                                                     41,4%            29,0%           1943,3%
+                Nota: A desagregação por corresponde a uma estimativa elaborada
+                                                                                               anterior
+                com base nos dados de processamento de biogás de cada usina e na
+                eficiência média de purificação do biogás de cada estado.
+                                                                                   5                                         IEPUC – Instituto de Energia da PUC-Rio
+                Fonte: Elaboração própria a partir dos dados da ANP
+Desagregação da produção de biometano por estado
+
+         Em agosto de 2026, a produção de biometano permaneceu concentrada nos
+         estados do São Paulo (33,%) e Rio de Janeiro (26,4%), com Rio Grande do Sul             Evolução da produção de biometano no Brasil por estado
+           (16,2%), Pernambuco (16,0%) e Ceará (6,9%) aparecendo na sequência.
+                                                                                               600
+
+                                                                                               500
+    Ago/2026                                                                  Outros
+                      Rio de                        Rio Grande
+                               São Paulo    Ceará                Pernambuco
+                     Janeiro                          do Sul
+                                                                                               400
+      Número de
+
+
+
+
+                                                                                       Mm³/d
+       plantas
+                       2          9          1          3            1            5
+                                                                                               300
+
+      Produção
+                      139        178         37        86           84            5            200
+      (Mm³/d)
+
+                                                                                               100
+    Crescimento vs
+     mês anterior
+                     2,4%       -4,2%      -37,9%     2,6%         8,4%       -72,3%
+                                                                                                 0
+
+
+
+
+                                                                                                      jul-20
+
+
+                                                                                                      jul-21
+
+
+                                                                                                      jul-22
+
+
+                                                                                                      jul-23
+
+
+                                                                                                      jul-24
+
+
+                                                                                                      jul-25
+
+
+                                                                                                      jul-26
+                                                                                                     abr-25
+                                                                                                     abr-20
+
+
+                                                                                                     abr-21
+
+
+                                                                                                     abr-22
+
+
+                                                                                                     abr-23
+
+
+                                                                                                     abr-24
+
+
+
+
+                                                                                                     abr-26
+                                                                                                     jan-26
+                                                                                                     jan-20
+
+
+                                                                                                     jan-21
+
+
+                                                                                                     jan-22
+
+
+                                                                                                     jan-23
+
+
+                                                                                                     jan-24
+
+
+
+
+                                                                                                     out-25
+                                                                                                     out-20
+
+
+                                                                                                     out-21
+
+
+                                                                                                     out-22
+
+
+                                                                                                     out-23
+
+
+                                                                                                     out-24
+                                                                                                     jan-25
+    Produção média
+    no ano (Mm³/d)
+                      128        138         65        71           50            14
+
+
+    Crescimento vs
+                                                                                                     Ceará               Rio de Janeiro         São Paulo
+     ano anterior
+                      0%        31%         8%          -            -            -
+                                                                                                     Rio Grande do Sul   Pernambuco             Outros
+                                                                                          Fonte: Elaboração própria a partir dos dados da ANP
+
+                                                                              6                                            IEPUC – Instituto de Energia da PUC-Rio
+Taxa de utilização da capacidade de produção de biometano
+
+ Taxa de utilização da capacidade de produção de biometano
+                                                                                           Em agosto de 2026, a taxa média de utilização da capacidade autorizada de
+             autorizada na ANP por matéria-prima                                         biometano no Brasil foi de 38,7%. Considerando apenas as plantas com mais de
+90%                                                                                             um ano de autorização, a taxa média de utilização foi de 51,5%.
+80%                                                                                   As unidades de produção em aterros sanitários registraram uma taxa média de
+                                                                                     utilização de 47,4%, enquanto as usinas do setor sucroenergético operaram com
+70%                                                                                  27,2% da capacidade autorizada, refletindo a sazonalidade da safra da cana-de-
+60%                                                                                                                      açúcar.
+
+50%
+                                                                                                                   Brasil
+40%                                                                                      Ago/2026
+                                                                                                           Total            1 ano +      Aterro       Sucro       Outros
+30%
+20%                                                                                  Taxa de utilização    38,7%            51,5%        47,4%        27,2%        4,9%
+10%
+ 0%                                                                                      Crescimento vs
+                                                                                          mês anterior     -5,6%            -14,1%        6,3%        -4,1%       -91,0%
+      abr-20
+
+
+
+      abr-21
+
+
+
+      abr-22
+
+
+
+
+      abr-26
+      out-22
+
+      abr-23
+
+
+
+      abr-24
+
+
+
+      abr-25
+      out-20
+
+
+
+      out-21
+
+
+
+
+      out-23
+
+
+
+      out-24
+
+
+
+      out-25
+      jan-22
+      jan-20
+
+       jul-20
+
+      jan-21
+
+       jul-21
+
+
+
+       jul-22
+
+      jan-23
+
+       jul-23
+
+      jan-24
+
+       jul-24
+
+      jan-25
+
+       jul-25
+
+      jan-26
+
+       jul-26
+                                                                                     Taxa de utilização
+                     Aterro                                                            média no ano        37,0%            49,3%        44,6%        17,1%       49,0%
+                     Sucroenergético
+                     Outros
+                     Brasil (plantas com mais de 1 ano de autorização)                   Crescimento vs
+                     Brasil (Total)                                                       ano anterior    -10,3%            -2,3%        -12,3%      -26,0%       540,7%
+           Nota: A desagregação por matéria-prima corresponde a uma estimativa
+           elaborada com base nos dados de processamento de biogás de cada usina e
+           na eficiência média de purificação do biogás de cada estado.              7                                                IEPUC – Instituto de Energia da PUC-Rio
+           Fonte: Elaboração própria a partir dos dados da ANP
+Desagregação da produção de biometano por usina
+
+                Estimativa da produção de biometano no Brasil por usina autorizada na ANP
+          600                                                                                                                                              Ago/2026
+                                                                                                                                                 Produção     Crescimento vs
+                                                                                                                                                 (Mm³/d)       mês anterior
+          500                                                                                        Outros                                        64,92          7,7%
+                                                                                                     Orizon Biometano Jaboatão dos Guararapes      84,44          8,4%
+          400                                                                                        SPE                                           0,08          -99,8%
+                                                                                                     Biometano Sul                                 51,82         107,9%
+  Mm³/d
+
+
+
+
+          300                                                                                        Metagás                                       20,43          -4,3%
+                                                                                                     Raízen-Geo                                    73,34          -4,5%
+          200                                                                                        Essencis Biometano                            44,26         -13,4%
+                                                                                                     Engep Ambiental                               13,55          18,5%
+
+          100                                                                                        GNR Dois Arcos                                0,01           1,4%
+                                                                                                     Gás Verde                                    139,48          2,4%
+                                                                                                     GNR Fortaleza                                 36,74         -37,9%
+            0
+                jan-20
+
+                  jul-20
+                 set-20
+                jan-21
+
+
+
+
+                jan-26
+                  jul-21
+                 set-21
+                jan-22
+
+
+
+
+                jan-24
+
+
+
+                jan-25
+                  jul-22
+                 set-22
+                jan-23
+
+                  jul-23
+                 set-23
+
+
+
+                  jul-24
+                 set-24
+
+
+
+                  jul-25
+                 set-25
+
+
+
+                  jul-26
+                mar-25
+                mar-20
+
+
+
+                mar-21
+
+
+
+                mar-22
+
+
+
+                mar-23
+
+
+
+                mar-24
+
+
+
+
+                mar-26
+                nov-20
+
+
+
+                nov-21
+
+
+
+                nov-22
+
+
+
+                nov-23
+
+
+
+                nov-24
+
+
+
+                nov-25
+                mai-20
+
+
+
+                mai-21
+
+
+
+                mai-22
+
+
+
+                mai-23
+
+
+
+                mai-24
+
+
+
+                mai-25
+
+
+
+                mai-26
+                Nota: A desagregação da produção de biometano por usina corresponde a uma estimativa elaborada com base nos dados de processamento de biogás de cada
+                usina e na eficiência média de purificação do biogás de cada estado.
+                Fonte: Elaboração própria a partir dos dados da ANP
+                                                                                    8                                            IEPUC – Instituto de Energia da PUC-Rio
+                                          Comercialização do Biometano no
+                                          Brasil
+
+
+
+
+IEPUC – Instituto de Energia da PUC-Rio               9
+Registro da ANP de contratos assinados
+
+                                                                                                                          Número de Contratos                              Número de Contratos
+   Entre janeiro de 2014 e julho de 2026, foram registrados na ANP 38 contratos de                                                                                      Assinados por tipo de prazo
+                                                                                                                          Assinados por status
+                            comercialização de biometano.
+                                                                                                                           Expirado                         Curto Prazo (< =1 ano)
+Em julho de 2026, 30 contratos permaneciam vigentes, enquanto 6 já haviam expirado.                                           6                                       4
+No período, os consumidores finais foram os principais compradores, com 19 contratos
+registrados,. Em seguida, destacam-se os distribuidores de GNC/GNL, com 12 contratos
+                                     registrados.
+                                                                                                                                                      Vigente
+              Número de Contratos Assinados por ano (até julho de 2026)
+                                                                                                                                                         32                                  Longo Prazo (> 1 ano)
+   12
+                                                                                                                                                                                                      34
+   10                                                                                                                      Número de Contratos Assinados por tipo de agente comprador
+    8                                                                                                                                           Comercializadora
+    6                                                                                                                                                  2
+                                                                                                                              Distribuidora de Gás
+    4                                                                                                                              Canalizado
+                                                                                                                                        3
+    2                                                                                                     1
+                                                                                                                                      Distribuidor de                                 Consumidor Final
+    0
+                                                                                                                                         GNC/GNL                                            21
+        2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026                                                                     12
+                                     Histórico          Julho de 2026
+              Nota: 1) Conforme o Parágrafo Único do Art. 1º da Resolução ANP nº 52/2011, o Registro de Contratos Assinados contempla apenas as transações em que o biometano atende às especificações
+              estabelecidas pela regulamentação da ANP. Dessa forma, os contratos de comercialização de biometano fora da especificação não estão incluídos nos dados apresentados. 2) Também não estão incluídos os
+              contratos de biometano em que a Edge figura como agente vendedor, uma vez que as informações disponíveis não permitem distinguir os contratos de biometano daqueles referentes ao gás natural.
+              Fonte: Elaboração própria a partir dos dados da ANP
+                                                                                                     10                                                       IEPUC – Instituto de Energia da PUC-Rio
+Acompanhamento das transações anunciadas de comercialização de
+biometano
+   Entre janeiro de 2014 e agosto de 2026, foram identificadas 55 transações               Número de transações anunciadas de comercialização de
+  anunciadas na base de dados do IEPUC-Rio, incluindo operações envolvendo                            biometano por perfil de clientes
+        biometano que não atende às especificações estabelecidas pela
+                            regulamentação da ANP.                                        12
+ Do total de transações anunciadas, 16utilizaram a infraestrutura de gasodutos            10
+ de distribuição como modal logístico para entrega do biometano, enquanto 39
+                                                                                            8
+                      foram realizadas por meio do GNC.
+  Entre os compradores, o setor industrial é o principal segmento consumidor,               6
+                concentrando 30 das transações identificadas.                               4
+                                                                                            2
+   Número de transações anunciadas por modal logístico de                                   0
+                  entrega do biometano
+
+         Gasoduto
+            16
+
+
+
+                                                                                 Nota: A base de dados do IEPUC-Rio reúne informações provenientes de notícias, relatórios empresariais e
+                                                                                 sites especializados para mapear as transações anunciadas de comercialização de biometano no Brasil.
+                                                                                 Ressalta-se que esse levantamento não é exaustivo e, portanto, não contempla a totalidade das
+                                                  GNC                            negociações de biometano anunciadas no país.
+                                                   39                            Fonte: Elaboração própria a partir dos dados do IEPUC-Rio
+                                                                            11                                                      IEPUC – Instituto de Energia da PUC-Rio
+Principais negociações identificadas no mês
+
+ ▪ A Unilever ampliou a sua parceria com a
+   comercializadora de biometano Edge.
+    – O gás gerado no aterro sanitário de Paulínia/SP
+      abastecerá a fábrica de desodorantes da Unilever em
+      Aguaí/SP.
+    – Está previsto o volume de 1.125 m3/dia de biometano
+      durante a vigência do contrato, a duração dele não foi
+      explicitada.
+    – Acesse aqui
+
+
+
+                                                                    ▪ A Regenera Rio (Aegea), empresa responsável pela
+                                                                      coleta de resíduos sólidos urbanos na cidade do Rio
+                                                                      de Janeiro inaugurou uma forta de 60 carretas
+                                                                      movidas a GNV
+                                                                    ▪ As carretas serão abastecidas no aterro sanitários de
+                                                                      Seropédica e fornecido pela gás verde
+                                                                    ▪ Acesse aqui
+                                                               12                                 IEPUC – Instituto de Energia da PUC-Rio
+                                          Políticas Públicas de Incentivo à
+                                          Produção de Biometano
+
+
+
+
+IEPUC – Instituto de Energia da PUC-Rio                 13
+Biometano no Renovabio
+
+ Em agosto de 2026, havia dez usinas de biometano certificadas no RenovaBio,                                                                                  Evolução da emissão de Cbios pelos produtores de Biometano
+  com intensidade de carbono média de 9,36 gCO₂eq./MJ, representando um                                                                              40
+               aumento de 20,1% em relação ao mês anterior
+                                                                                                                                                     30
+
+
+
+
+                                                                                                                                         Mil Cbios
+ No mês, os produtores de biometano emitiram 19,5 mil CBios, elevando o total
+                    emitido em 2026 para 128,3 mil CBios.                                                                                            20
+ O preço médio do CBio em agosto de 2026 foi de R$ 24,53, representando uma                                                                          10
+                redução de 2,1% em relação ao mês anterior.                                                                                           0
+
+
+
+
+                                                                                                                                                              mar-21
+
+
+
+                                                                                                                                                              mar-22
+
+
+
+                                                                                                                                                              mar-23
+
+
+
+                                                                                                                                                              mar-24
+
+
+
+                                                                                                                                                              mar-25
+
+
+
+                                                                                                                                                              mar-26
+                                                                                                                                                               set-20
+
+
+
+                                                                                                                                                               set-21
+
+
+
+                                                                                                                                                               set-22
+
+
+
+                                                                                                                                                               set-23
+
+
+
+                                                                                                                                                               set-24
+
+
+
+                                                                                                                                                               set-25
+                                                                                                                                                              dez-21
+                                                                                                                                                              dez-20
+
+
+
+
+                                                                                                                                                              dez-22
+
+
+
+                                                                                                                                                              dez-23
+
+
+
+                                                                                                                                                              dez-24
+
+
+
+                                                                                                                                                              dez-25
+                                                                                                                                                              jun-20
+
+
+
+                                                                                                                                                              jun-21
+
+
+
+                                                                                                                                                              jun-22
+
+
+
+                                                                                                                                                              jun-23
+
+
+
+                                                                                                                                                              jun-24
+
+
+
+                                                                                                                                                              jun-25
+
+
+
+                                                                                                                                                              jun-26
+ Intensidade de carbono das usinas de biometano certificadas no Renovabio
+               25
+                                                                                                                                                      Fonte: Elaboração própria a partir dos dados da ANP
+               20
+                                                                                                                                                                          Evolução da preço médio do Cbio
+  gCO2eq./MJ
+
+
+
+
+               15                                                                                                                                     200
+                                                                                                9,36
+                                                                                                                   7,79                               150
+               10
+
+
+
+
+                                                                                                                                            R$/Cbio
+                                                                                                                                                      100
+                5
+                                                                                                                                                      50
+                0
+                    Biometano    Cocal    Cri Geo    Essencis Gás Verde      Geo    GNR Dois   GNR       Metagás Raízen-Geo   SPE
+                       Sul      Energia             Biometano              Elétrica  Arcos   Fortaleza                                                    0
+
+
+
+
+                                                                                                                                                               jun-20
+
+
+
+                                                                                                                                                               jun-21
+
+
+
+                                                                                                                                                               jun-22
+
+
+
+                                                                                                                                                               jun-23
+
+
+
+                                                                                                                                                               jun-24
+
+
+
+                                                                                                                                                               jun-25
+
+
+
+                                                                                                                                                               jun-26
+                                                                                                                                                               dez-20
+
+
+
+                                                                                                                                                               dez-21
+
+
+
+                                                                                                                                                               dez-22
+
+
+
+                                                                                                                                                               dez-23
+
+
+
+                                                                                                                                                               dez-24
+
+
+
+                                                                                                                                                               dez-25
+                                                                                                                                                                set-24
+
+
+
+                                                                                                                                                                set-25
+                                                                                                                                                                set-20
+
+
+
+                                                                                                                                                                set-21
+
+
+
+                                                                                                                                                                set-22
+
+
+
+                                                                                                                                                                set-23
+
+
+
+
+                                                                                                                                                               mar-25
+
+
+
+                                                                                                                                                               mar-26
+                                                                                                                                                               mar-21
+
+
+
+                                                                                                                                                               mar-22
+
+
+
+                                                                                                                                                               mar-23
+
+
+
+                                                                                                                                                               mar-24
+                                                                          Tamboara
+
+
+                                     Mês Corrente                              Mês Anterior
+                                     Média (Mês Corrente)                      Média (Mês Anterior)                                                   Fonte: Elaboração própria a partir dos dados da B3
+                                                                                                                                    14                                                   IEPUC – Instituto de Energia da PUC-Rio
+                           Fonte: Elaboração própria a partir dos dados da ANP
+                                          Referências de Preços para o
+                                          Biometano no Brasil
+
+
+
+
+IEPUC – Instituto de Energia da PUC-Rio                15
+Preços dos combustíveis substitutos
+
+                                     Preços médios dos combustíveis substitutos ao biometano no Brasil, convertidos para reais por m³ de gás natural equivalente
+                                 8
+                                 7
+  R$ por m³ eq. de gás natural
+
+
+
+
+                                                                                                                                                                                                          6,31
+                                 6
+                                                                                                                                                                                                          4,79
+                                 5
+                                                                                                                                                                              3,79
+                                 4
+                                 3                                                                                                                                                                        2,27
+                                 2
+                                 1
+                                 0
+
+
+
+
+                                     abr-26
+                                     abr-21
+
+
+
+
+                                     abr-22
+
+
+
+
+                                     abr-23
+
+
+
+
+                                     abr-24
+
+
+
+
+                                     abr-25
+                                       jul-21
+                                      set-21
+
+
+
+
+                                       jul-22
+                                      set-22
+
+
+
+
+                                       jul-23
+                                      set-23
+
+
+
+
+                                       jul-24
+                                      set-24
+
+
+
+
+                                       jul-25
+                                      set-25
+
+
+
+
+                                       jul-26
+                                     fev-21
+
+
+
+
+                                     fev-22
+
+
+
+
+                                     fev-23
+                                     mar-23
+
+
+
+
+                                     fev-24
+
+
+
+
+                                     fev-25
+
+
+
+
+                                     fev-26
+                                     mar-21
+
+
+
+
+                                     mar-22
+
+
+
+
+                                     mar-24
+
+
+
+
+                                     mar-25
+
+
+
+
+                                     mar-26
+                                     jan-26
+                                     jan-21
+
+
+
+
+                                     out-21
+                                     nov-21
+                                     jan-22
+
+
+
+
+                                     nov-22
+                                     jan-23
+
+
+
+
+                                     out-25
+                                     out-22
+
+
+
+
+                                     out-23
+                                     nov-23
+                                     jan-24
+
+
+
+
+                                     out-24
+                                     nov-24
+                                     jan-25
+
+
+
+
+                                     nov-25
+                                     dez-22
+                                     dez-21
+
+
+
+
+                                     jun-23
+
+
+
+
+                                     dez-23
+
+
+
+
+                                     dez-24
+
+
+
+
+                                     dez-25
+                                     jun-21
+                                     ago-21
+
+
+
+
+                                     jun-22
+                                     ago-22
+
+
+
+
+                                     ago-23
+
+
+
+
+                                     jun-24
+                                     ago-24
+
+
+
+
+                                     jun-25
+                                     ago-25
+
+
+
+
+                                     jun-26
+                                     ago-26
+                                     mai-21
+
+
+
+
+                                     mai-22
+
+
+
+
+                                     mai-23
+
+
+
+
+                                     mai-24
+
+
+
+
+                                     mai-25
+
+
+
+
+                                     mai-26
+                                           Column4                                                                      Preço de distribuição do diesel
+                                           Preço de distribuição do GLP                                                 Preço da molécula do gás natural da Petrobras (média simples)
+                                           Preço do gás natural ao consumidor industrial (20 Mm³/d)
+                                         Nota: 1) Considera-se o metro cúbico equivalente (m³ eq.) de gás natural com poder calorífico superior (PCS) de 9.400 kcal/m³. 2) Os preços médios não consideram a
+                                         região Norte. 3) Os preços incluem tributos, exceto o preço da molécula de gás natural comercializada pela Petrobras, que é apresentado sem a incidência de tributos.
+                                         Fonte: Elaboração própria a partir dos dados da ANP e MME
+                                                                                                                  16                                               IEPUC – Instituto de Energia da PUC-Rio
+Preços de ativos ambientais de referência
+      Phase One Carbon Offset Unit Futures – CP1 (Month Ahead):
+      contrato futuro de EEU CORSIA para a Phase One (2024–2026),                                     Preços médios de ativos ambientais selecionados, convertidos para reais por m³ de gás
+      com vencimento no mês subsequente ao de negociação. Contrato                                                                    natural equivalente
+      negociado na Abaxx Exchange, em Singapura (US$/tCO₂eq)
+                                                                                                      9
+                                                                                                      8
+
+
+
+
+                                                                       R$ por m³ eq. de gás natural
+      Crédito de Descarbonização (CBIO): criado pelo RenovaBio para
+      contribuir para o cumprimento das metas de redução de emissões                                  7
+      do setor de combustíveis. Um CBIO corresponde a 1 ton de CO₂e
+      de emissões evitadas. Negociado na B3 com preço em R$/tCO₂eq.                                   6
+      Renewable Indentification Number (RIN) D3: criado pelo RFS,                                     5
+      programa federal dos EUA, para cumprir mandatos de mistura
+      volumétrica de combustível celulósico. É medido em dólares por                                  4
+      galões-equivalentes de etanol e negociado entre as partes com
+      registro no EMTS (EPA Moderated Transaction System).
+                                                                                                      3
+                                                                                                      2
+      Crédito Carbono Futuros EU ETS: contrato futuro de EUA
+      (European Union Allowance) do EU ETS, o mercado europeu de
+                                                                                                      1
+      comércio de emissões. O contrato é negociado na ICE em                                          0
+      €/tCO₂eq.
+
+
+
+
+                                                                                                          jan-22
+
+
+                                                                                                            jul-22
+                                                                                                           set-22
+
+                                                                                                          jan-23
+
+
+                                                                                                            jul-23
+                                                                                                           set-23
+
+                                                                                                          jan-24
+
+
+
+
+                                                                                                          jan-26
+                                                                                                            jul-24
+                                                                                                           set-24
+
+                                                                                                          jan-25
+
+
+                                                                                                            jul-25
+                                                                                                           set-25
+
+
+
+
+                                                                                                            jul-26
+                                                                                                          mar-25
+                                                                                                          mar-22
+
+
+
+
+                                                                                                          mar-23
+
+
+
+
+                                                                                                          mar-24
+
+
+
+
+                                                                                                          mar-26
+                                                                                                          nov-24
+                                                                                                          mai-22
+
+
+                                                                                                          nov-22
+
+
+                                                                                                          mai-23
+
+
+                                                                                                          nov-23
+
+
+                                                                                                          mai-24
+
+
+
+
+                                                                                                          mai-25
+
+
+                                                                                                          nov-25
+
+
+                                                                                                          mai-26
+      Crédito CARB LCFS: criado pelo regulamento LCFS e negociado
+      US$/tCO₂eq, é gerado por combustíveis com CI abaixo do
+      benchmark anual e administrado pelo LRT-CBTS. Entidades
+      regulamentadas usam os créditos para compensar déficits e                                           RFS-RIN D3    EUA (EU ETS)      CARB-LCFS          CBIO          CP1 (Month Ahead)
+      comprovar conformidade anual.
+                                                                                Nota: 1) Considera-se o metro cúbico equivalente (m³ eq.) de gás natural com poder calorífico superior (PCS) de 9.400 kcal/m³.
+                                                                                2) No caso do RIN D3 foi considerado PCS do etanol anidro de 5.608 kcal/litros. 3) Para valores originalmente medidos em
+                                                                                toneladas de CO2 equivalente (tCO₂eq) foi considerado uma IC do biometano de 7,79 gco2eq/MJ (média do Renovabio).
+                                                                                Fonte: Elaboração própria a partir dos dados da ANP, CARB, EPA, Bacen, Investing.com e Abaxx Exchange
+
+                                                                                                            17                                         IEPUC – Instituto de Energia da PUC-Rio
+Equipe
+▪   Edmar Luiz Fagundes de Almeida (Coordenador)
+▪   Gustavo Alves Soares (Pesquisador)
+▪   Felipe Freitas da Rocha (Pesquisador)
+▪   Beatriz de Almeida Alves de Brito (Assistente de pesquisa)
+
+
+Acesse as publicações do Boletim
+https://www.iepuc.puc-rio.br/publicacoes/boletim-biometano.html
+
+
+Siga o IEPUC nas redes sociais
+
+
+                                                                                iepuc.puc-rio.br
+Conheça nossos cursos
+▪   Economia e Regulação do Biometano no Brasil
+▪   Comercialização e Precificação do Gás Natural no Mercado Internacional e Nacional
+▪   MBE Energia
+
+
+
+                                                          IEPUC – Instituto de Energia da PUC-Rio
+

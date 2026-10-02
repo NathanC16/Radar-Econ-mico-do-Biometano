@@ -1,0 +1,262 @@
+periodo,regiao,uf,estado,producao_mm3d
+2020-01,Nordeste,CE,Ceará,69.72
+2020-02,Nordeste,CE,Ceará,71.89
+2020-03,Nordeste,CE,Ceará,78.03
+2020-04,Nordeste,CE,Ceará,74.55
+2020-05,Nordeste,CE,Ceará,76.26
+2020-06,Nordeste,CE,Ceará,70.39
+2020-07,Nordeste,CE,Ceará,71.57
+2020-07,Sudeste,RJ,Rio de Janeiro,68.33
+2020-08,Nordeste,CE,Ceará,63.11
+2020-08,Sudeste,RJ,Rio de Janeiro,40.16
+2020-09,Nordeste,CE,Ceará,62.67
+2020-09,Sudeste,RJ,Rio de Janeiro,61.21
+2020-10,Nordeste,CE,Ceará,61.82
+2020-10,Sudeste,RJ,Rio de Janeiro,70.57
+2020-11,Nordeste,CE,Ceará,57.43
+2020-11,Sudeste,RJ,Rio de Janeiro,70.09
+2020-12,Nordeste,CE,Ceará,55.48
+2020-12,Sudeste,RJ,Rio de Janeiro,60.05
+2021-01,Nordeste,CE,Ceará,59.1
+2021-01,Sudeste,RJ,Rio de Janeiro,45.98
+2021-02,Nordeste,CE,Ceará,64.38
+2021-02,Sudeste,RJ,Rio de Janeiro,67.7
+2021-03,Nordeste,CE,Ceará,67.28
+2021-03,Sudeste,RJ,Rio de Janeiro,60.81
+2021-04,Nordeste,CE,Ceará,72.9
+2021-04,Sudeste,RJ,Rio de Janeiro,64.21
+2021-05,Nordeste,CE,Ceará,76.16
+2021-05,Sudeste,RJ,Rio de Janeiro,80.66
+2021-06,Nordeste,CE,Ceará,74.89
+2021-06,Sudeste,RJ,Rio de Janeiro,83.03
+2021-07,Nordeste,CE,Ceará,70.79
+2021-07,Sudeste,RJ,Rio de Janeiro,81.37
+2021-08,Nordeste,CE,Ceará,75.66
+2021-08,Sudeste,RJ,Rio de Janeiro,73.58
+2021-09,Nordeste,CE,Ceará,74.13
+2021-09,Sudeste,RJ,Rio de Janeiro,73.42
+2021-10,Nordeste,CE,Ceará,76.38
+2021-10,Sudeste,RJ,Rio de Janeiro,98.38
+2021-11,Nordeste,CE,Ceará,73.91
+2021-11,Sudeste,RJ,Rio de Janeiro,103.1
+2021-12,Nordeste,CE,Ceará,23.46
+2021-12,Sudeste,RJ,Rio de Janeiro,102.55
+2022-01,Nordeste,CE,Ceará,68.19
+2022-01,Sudeste,RJ,Rio de Janeiro,101.98
+2022-02,Nordeste,CE,Ceará,81.83
+2022-02,Sudeste,RJ,Rio de Janeiro,100.19
+2022-03,Nordeste,CE,Ceará,79.06
+2022-03,Sudeste,RJ,Rio de Janeiro,96.02
+2022-04,Nordeste,CE,Ceará,91.58
+2022-04,Sudeste,RJ,Rio de Janeiro,105.49
+2022-05,Nordeste,CE,Ceará,87.53
+2022-05,Sudeste,RJ,Rio de Janeiro,100.61
+2022-06,Nordeste,CE,Ceará,85.25
+2022-06,Sudeste,RJ,Rio de Janeiro,86.54
+2022-07,Nordeste,CE,Ceará,82.52
+2022-07,Sudeste,RJ,Rio de Janeiro,85.26
+2022-07,Sudeste,SP,São Paulo,2.58
+2022-08,Nordeste,CE,Ceará,69.62
+2022-08,Sudeste,RJ,Rio de Janeiro,100.0
+2022-08,Sudeste,SP,São Paulo,2.61
+2022-09,Nordeste,CE,Ceará,70.84
+2022-09,Sudeste,RJ,Rio de Janeiro,107.09
+2022-09,Sudeste,SP,São Paulo,6.55
+2022-10,Nordeste,CE,Ceará,69.01
+2022-10,Sudeste,RJ,Rio de Janeiro,117.79
+2022-10,Sudeste,SP,São Paulo,6.62
+2022-11,Nordeste,CE,Ceará,79.07
+2022-11,Sudeste,RJ,Rio de Janeiro,103.17
+2022-11,Sudeste,SP,São Paulo,8.76
+2022-12,Nordeste,CE,Ceará,78.56
+2022-12,Sudeste,RJ,Rio de Janeiro,109.17
+2022-12,Sudeste,SP,São Paulo,9.18
+2023-01,Nordeste,CE,Ceará,81.42
+2023-01,Sudeste,RJ,Rio de Janeiro,97.96
+2023-01,Sudeste,SP,São Paulo,9.34
+2023-02,Nordeste,CE,Ceará,54.35
+2023-02,Sudeste,RJ,Rio de Janeiro,113.97
+2023-02,Sudeste,SP,São Paulo,12.08
+2023-03,Nordeste,CE,Ceará,88.79
+2023-03,Sudeste,RJ,Rio de Janeiro,111.01
+2023-03,Sudeste,SP,São Paulo,15.99
+2023-04,Nordeste,CE,Ceará,79.42
+2023-04,Sudeste,RJ,Rio de Janeiro,115.16
+2023-04,Sudeste,SP,São Paulo,4.58
+2023-05,Nordeste,CE,Ceará,78.68
+2023-05,Sudeste,RJ,Rio de Janeiro,104.06
+2023-05,Sudeste,SP,São Paulo,5.61
+2023-06,Nordeste,CE,Ceará,71.32
+2023-06,Sudeste,RJ,Rio de Janeiro,133.76
+2023-06,Sudeste,SP,São Paulo,27.19
+2023-07,Nordeste,CE,Ceará,72.01
+2023-07,Sudeste,RJ,Rio de Janeiro,129.94
+2023-07,Sudeste,SP,São Paulo,21.7
+2023-08,Nordeste,CE,Ceará,68.17
+2023-08,Sudeste,RJ,Rio de Janeiro,120.14
+2023-08,Sudeste,SP,São Paulo,22.18
+2023-09,Nordeste,CE,Ceará,65.43
+2023-09,Sudeste,RJ,Rio de Janeiro,112.7
+2023-09,Sudeste,SP,São Paulo,26.69
+2023-10,Nordeste,CE,Ceará,66.39
+2023-10,Sudeste,RJ,Rio de Janeiro,125.72
+2023-10,Sudeste,SP,São Paulo,29.31
+2023-11,Nordeste,CE,Ceará,57.56
+2023-11,Sudeste,RJ,Rio de Janeiro,118.16
+2023-11,Sudeste,SP,São Paulo,23.47
+2023-12,Nordeste,CE,Ceará,58.23
+2023-12,Sudeste,RJ,Rio de Janeiro,118.45
+2023-12,Sudeste,SP,São Paulo,20.17
+2024-01,Nordeste,CE,Ceará,58.26
+2024-01,Sudeste,RJ,Rio de Janeiro,133.41
+2024-01,Sudeste,SP,São Paulo,27.71
+2024-02,Nordeste,CE,Ceará,64.59
+2024-02,Sudeste,RJ,Rio de Janeiro,139.54
+2024-02,Sudeste,SP,São Paulo,21.12
+2024-03,Nordeste,CE,Ceará,74.9
+2024-03,Sudeste,RJ,Rio de Janeiro,132.94
+2024-03,Sudeste,SP,São Paulo,24.55
+2024-04,Nordeste,CE,Ceará,77.78
+2024-04,Sudeste,RJ,Rio de Janeiro,131.99
+2024-04,Sudeste,SP,São Paulo,20.59
+2024-05,Nordeste,CE,Ceará,80.15
+2024-05,Sudeste,RJ,Rio de Janeiro,97.02
+2024-05,Sudeste,SP,São Paulo,20.86
+2024-06,Nordeste,CE,Ceará,81.4
+2024-06,Sudeste,RJ,Rio de Janeiro,130.96
+2024-06,Sudeste,SP,São Paulo,12.03
+2024-07,Nordeste,CE,Ceará,81.73
+2024-07,Sudeste,RJ,Rio de Janeiro,118.53
+2024-07,Sudeste,SP,São Paulo,13.91
+2024-08,Nordeste,CE,Ceará,71.0
+2024-08,Sudeste,RJ,Rio de Janeiro,120.28
+2024-08,Sudeste,SP,São Paulo,18.67
+2024-09,Nordeste,CE,Ceará,68.85
+2024-09,Sudeste,RJ,Rio de Janeiro,103.63
+2024-09,Sudeste,SP,São Paulo,23.65
+2024-10,Nordeste,CE,Ceará,64.99
+2024-10,Sudeste,RJ,Rio de Janeiro,126.36
+2024-10,Sudeste,SP,São Paulo,51.37
+2024-11,Nordeste,CE,Ceará,57.24
+2024-11,Sudeste,RJ,Rio de Janeiro,134.99
+2024-11,Sudeste,SP,São Paulo,54.69
+2024-12,Nordeste,CE,Ceará,62.66
+2024-12,Sudeste,RJ,Rio de Janeiro,106.01
+2024-12,Sudeste,SP,São Paulo,65.03
+2025-01,Nordeste,CE,Ceará,55.17
+2025-01,Sudeste,RJ,Rio de Janeiro,126.05
+2025-01,Sudeste,SP,São Paulo,62.12
+2025-02,Nordeste,CE,Ceará,66.21
+2025-02,Sudeste,RJ,Rio de Janeiro,120.16
+2025-02,Sudeste,SP,São Paulo,44.02
+2025-03,Nordeste,CE,Ceará,64.88
+2025-03,Sudeste,RJ,Rio de Janeiro,115.27
+2025-03,Sudeste,SP,São Paulo,67.88
+2025-03,Sul,PR,Paraná,14.92
+2025-04,Nordeste,CE,Ceará,63.31
+2025-04,Sudeste,MG,Minas Gerais,0.0
+2025-04,Sudeste,RJ,Rio de Janeiro,127.14
+2025-04,Sudeste,SP,São Paulo,81.96
+2025-04,Sul,PR,Paraná,10.98
+2025-05,Nordeste,CE,Ceará,60.72
+2025-05,Sudeste,MG,Minas Gerais,0.0
+2025-05,Sudeste,RJ,Rio de Janeiro,122.8
+2025-05,Sudeste,SP,São Paulo,120.87
+2025-05,Sul,PR,Paraná,10.28
+2025-06,Nordeste,CE,Ceará,57.86
+2025-06,Sudeste,RJ,Rio de Janeiro,129.13
+2025-06,Sudeste,SP,São Paulo,137.89
+2025-06,Sul,PR,Paraná,2.58
+2025-07,Nordeste,CE,Ceará,56.95
+2025-07,Sudeste,MG,Minas Gerais,0.0
+2025-07,Sudeste,RJ,Rio de Janeiro,142.58
+2025-07,Sudeste,SP,São Paulo,159.53
+2025-07,Sul,PR,Paraná,8.79
+2025-08,Nordeste,CE,Ceará,53.97
+2025-08,Sudeste,MG,Minas Gerais,0.0
+2025-08,Sudeste,RJ,Rio de Janeiro,137.92
+2025-08,Sudeste,SP,São Paulo,157.88
+2025-08,Sul,PR,Paraná,9.41
+2025-08,Sul,RS,Rio Grande do Sul,26.89
+2025-09,Nordeste,CE,Ceará,51.64
+2025-09,Sudeste,MG,Minas Gerais,0.0
+2025-09,Sudeste,RJ,Rio de Janeiro,125.83
+2025-09,Sudeste,SP,São Paulo,112.47
+2025-09,Sul,PR,Paraná,8.43
+2025-09,Sul,RS,Rio Grande do Sul,53.95
+2025-10,Nordeste,CE,Ceará,62.27
+2025-10,Sudeste,MG,Minas Gerais,0.0
+2025-10,Sudeste,RJ,Rio de Janeiro,123.77
+2025-10,Sudeste,SP,São Paulo,149.98
+2025-10,Sul,PR,Paraná,10.3
+2025-10,Sul,RS,Rio Grande do Sul,47.52
+2025-11,Nordeste,CE,Ceará,60.92
+2025-11,Nordeste,PE,Pernambuco,0.47
+2025-11,Sudeste,MG,Minas Gerais,0.0
+2025-11,Sudeste,RJ,Rio de Janeiro,141.5
+2025-11,Sudeste,SP,São Paulo,144.2
+2025-11,Sul,PR,Paraná,9.7
+2025-11,Sul,RS,Rio Grande do Sul,59.19
+2025-12,Nordeste,CE,Ceará,64.62
+2025-12,Nordeste,PE,Pernambuco,14.49
+2025-12,Sudeste,RJ,Rio de Janeiro,121.65
+2025-12,Sudeste,SP,São Paulo,121.87
+2025-12,Sul,PR,Paraná,9.98
+2025-12,Sul,RS,Rio Grande do Sul,53.31
+2026-01,Nordeste,CE,Ceará,69.72
+2026-01,Nordeste,PE,Pernambuco,12.84
+2026-01,Sudeste,RJ,Rio de Janeiro,123.6
+2026-01,Sudeste,SP,São Paulo,99.96
+2026-01,Sul,PR,Paraná,9.83
+2026-01,Sul,RS,Rio Grande do Sul,67.76
+2026-02,Nordeste,CE,Ceará,70.9
+2026-02,Nordeste,PE,Pernambuco,12.92
+2026-02,Sudeste,RJ,Rio de Janeiro,128.87
+2026-02,Sudeste,SP,São Paulo,120.91
+2026-02,Sul,PR,Paraná,11.07
+2026-02,Sul,RS,Rio Grande do Sul,65.5
+2026-03,Nordeste,CE,Ceará,69.76
+2026-03,Nordeste,PE,Pernambuco,40.06
+2026-03,Sudeste,RJ,Rio de Janeiro,123.53
+2026-03,Sudeste,SP,São Paulo,94.5
+2026-03,Sul,PR,Paraná,14.07
+2026-03,Sul,RS,Rio Grande do Sul,61.95
+2026-04,Nordeste,CE,Ceará,67.77
+2026-04,Nordeste,PE,Pernambuco,64.15
+2026-04,Sudeste,MG,Minas Gerais,0.0
+2026-04,Sudeste,RJ,Rio de Janeiro,108.44
+2026-04,Sudeste,SP,São Paulo,124.37
+2026-04,Sul,PR,Paraná,13.03
+2026-04,Sul,RS,Rio Grande do Sul,68.91
+2026-04,Sul,SC,Santa Catarina,4.18
+2026-05,Nordeste,CE,Ceará,72.63
+2026-05,Nordeste,PE,Pernambuco,38.02
+2026-05,Sudeste,MG,Minas Gerais,0.0
+2026-05,Sudeste,RJ,Rio de Janeiro,117.08
+2026-05,Sudeste,SP,São Paulo,138.37
+2026-05,Sul,PR,Paraná,14.15
+2026-05,Sul,RS,Rio Grande do Sul,66.18
+2026-05,Sul,SC,Santa Catarina,4.98
+2026-06,Nordeste,CE,Ceará,70.56
+2026-06,Nordeste,PE,Pernambuco,68.91
+2026-06,Sudeste,MG,Minas Gerais,0.0
+2026-06,Sudeste,RJ,Rio de Janeiro,145.57
+2026-06,Sudeste,SP,São Paulo,157.79
+2026-06,Sul,PR,Paraná,14.7
+2026-06,Sul,RS,Rio Grande do Sul,69.58
+2026-06,Sul,SC,Santa Catarina,4.53
+2026-07,Nordeste,CE,Ceará,59.19
+2026-07,Nordeste,PE,Pernambuco,77.93
+2026-07,Sudeste,MG,Minas Gerais,0.0
+2026-07,Sudeste,RJ,Rio de Janeiro,136.25
+2026-07,Sudeste,SP,São Paulo,185.33
+2026-07,Sul,PR,Paraná,13.87
+2026-07,Sul,RS,Rio Grande do Sul,83.43
+2026-07,Sul,SC,Santa Catarina,4.71
+2026-08,Nordeste,CE,Ceará,36.74
+2026-08,Nordeste,PE,Pernambuco,84.44
+2026-08,Sudeste,MG,Minas Gerais,0.01
+2026-08,Sudeste,RJ,Rio de Janeiro,139.49
+2026-08,Sudeste,SP,São Paulo,177.6
+2026-08,Sul,RS,Rio Grande do Sul,85.64
+2026-08,Sul,SC,Santa Catarina,5.14

@@ -1,0 +1,823 @@
+IEPUC – Instituto de Energia da PUC-Rio
+Boletim Mensal de Acompanhamento
+da Indústria de Biometano no Brasil
+Agosto de 2026
+Edição Nº 2
+Publicado em 28/09/2026
+IEPUC – Instituto de Energia da PUC-Rio
+Panorama da Oferta de Biometano no
+Brasil
+2
+IEPUC – Instituto de Energia da PUC-Rio
+Capacidade autorizada de biometano
+3
+Nota: A projeção considera os projetos de instalações com pedidos de
+autorização em tramitação na ANP, conforme as datas previstas de conclusão
+das obras informadas à Agência.
+Fonte: Elaboração própria com dados da ANP
+Evolução histórica e projeção da capacidade instalada de produção de
+biometano no Brasil, segundo status de autorização na ANP
+Capacidade Instalada
+(Mm³/d)
+Ago/2026 Jul/2026 Jun/2025
+Autorizada 1.368 1.368 697
+Solicitada 2.023 2.009 1.510
+Total 3.391 3.378 2.207
+Número de
+Autorizações
+Ago/2026 Jul/2026 Jun/2025
+Concedida 21 21 12
+Solicitada 49 49 38
+Total 70 70 50
+Em agosto de 2026, havia 21 usinas de produção de biometano autorizadas pela
+ANP, totalizando uma capacidade instalada de 1.368 Mm³/d.
+Além dessas, encontravam-se em tramitação 49 pedidos de autorização, que
+somam uma capacidade adicional de 2.023 Mm³/d.
+Dessa forma, caso toda essa capacidade adicional entre em operação conforme o
+cronograma previsto, espera-se que a capacidade instalada total alcance 3.391
+Mm³/d até dezembro de 2028.
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+jan-20
+mai-20
+set-20
+jan-21
+mai-21
+set-21
+jan-22
+mai-22
+set-22
+jan-23
+mai-23
+set-23
+jan-24
+mai-24
+set-24
+jan-25
+mai-25
+set-25
+jan-26
+mai-26
+set-26
+jan-27
+mai-27
+set-27
+jan-28
+mai-28
+set-28
+Mm³/d
+Autorizadas Solicitadas Previsão mês anterior
+IEPUC – Instituto de Energia da PUC-Rio
+Produção de biometano
+4
+0
+100
+200
+300
+400
+500
+600
+jan-20
+abr-20
+jul-20
+out-20
+jan-21
+abr-21
+jul-21
+out-21
+jan-22
+abr-22
+jul-22
+out-22
+jan-23
+abr-23
+jul-23
+out-23
+jan-24
+abr-24
+jul-24
+out-24
+jan-25
+abr-25
+jul-25
+out-25
+jan-26
+abr-26
+jul-26
+Mm³/d
+Produção mensal Média anual
+Evolução da produção de biometano no Brasil
+Fonte: Elaboração própria a partir dos dados da ANP
+Produção 2026
+(Mm³/d)
+Crescimento vs
+mês anterior
+Média 2026
+(Mm³/d)
+Crescimento vs
+ano anterior
+Jan 384 -0,57% 384 57,68%
+Fev 410 6,90% 396 67,06%
+Mar 404 -1,54% 399 62,11%
+Abr 451 11,64% 412 61,27%
+Mai 451 0,12% 420 56,97%
+Jun 532 17,77% 439 58,02%
+Jul 561 5,47% 456 56,99%
+Ago 529 -5,64% 466 53,74%
+Set - - - -
+Out - - - -
+Nov - - - -
+Dez - - - -
+Em agosto de 2026, a produção de biometano no Brasil atingiu 529 Mm³/d,
+registrando uma redução de 5,64% em relação a julho.
+IEPUC – Instituto de Energia da PUC-Rio
+Desagregação da produção de biometano por matéria-prima
+5
+0
+100
+200
+300
+400
+500
+600
+jan-20
+abr-20
+jul-20
+out-20
+jan-21
+abr-21
+jul-21
+out-21
+jan-22
+abr-22
+jul-22
+out-22
+jan-23
+abr-23
+jul-23
+out-23
+jan-24
+abr-24
+jul-24
+out-24
+jan-25
+abr-25
+jul-25
+out-25
+jan-26
+abr-26
+jul-26
+Mm³/d
+Aterro Sucroenergético Outros
+Estimativa da produção de biometano no Brasil segundo
+matéria-prima
+Nota: A desagregação por corresponde a uma estimativa elaborada
+com base nos dados de processamento de biogás de cada usina e na
+eficiência média de purificação do biogás de cada estado.
+Fonte: Elaboração própria a partir dos dados da ANP
+Em agosto de 2026, a produção de biometano permaneceu fortemente
+concentrada em aterros sanitários, que respondeu por 80,3% da produção total
+O setor sucroenergético representou 18,8% da produção, enquanto os 1,0%
+restantes tiveram origem em plantas que processam outros tipo de resíduos
+Ago/2026 Aterro Sucro Outros
+Número de plantas 10 7 4
+Produção (Mm³/d) 425 99 5
+Crescimento vs mês
+anterior
+6,29% -4,07% -90,97%
+Produção média no
+ano (Mm³/d)
+357 62 47
+Crescimento vs ano
+anterior
+41,4% 29,0% 1943,3%
+IEPUC – Instituto de Energia da PUC-Rio
+Desagregação da produção de biometano por estado
+6
+0
+100
+200
+300
+400
+500
+600
+jan-20
+abr-20
+jul-20
+out-20
+jan-21
+abr-21
+jul-21
+out-21
+jan-22
+abr-22
+jul-22
+out-22
+jan-23
+abr-23
+jul-23
+out-23
+jan-24
+abr-24
+jul-24
+out-24
+jan-25
+abr-25
+jul-25
+out-25
+jan-26
+abr-26
+jul-26
+Mm³/d
+Ceará Rio de Janeiro São Paulo
+Rio Grande do Sul Pernambuco Outros
+Evolução da produção de biometano no Brasil por estado
+Fonte: Elaboração própria a partir dos dados da ANP
+Em agosto de 2026, a produção de biometano permaneceu concentrada nos
+estados do São Paulo (33,%) e Rio de Janeiro (26,4%), com Rio Grande do Sul
+(16,2%), Pernambuco (16,0%) e Ceará (6,9%) aparecendo na sequência.
+Ago/2026
+Rio de
+Janeiro
+São Paulo Ceará
+Rio Grande
+do Sul
+Pernambuco
+Outros
+Número de
+plantas
+2 9 1 3 1 5
+Produção
+(Mm³/d)
+139 178 37 86 84 5
+Crescimento vs
+mês anterior
+2,4% -4,2% -37,9% 2,6% 8,4% -72,3%
+Produção média
+no ano (Mm³/d)
+128 138 65 71 50 14
+Crescimento vs
+ano anterior
+0% 31% 8% - - -
+IEPUC – Instituto de Energia da PUC-Rio
+Taxa de utilização da capacidade de produção de biometano
+7
+Em agosto de 2026, a taxa média de utilização da capacidade autorizada de
+biometano no Brasil foi de 38,7%. Considerando apenas as plantas com mais de
+um ano de autorização, a taxa média de utilização foi de 51,5%.
+As unidades de produção em aterros sanitários registraram uma taxa média de
+utilização de 47,4%, enquanto as usinas do setor sucroenergético operaram com
+27,2% da capacidade autorizada, refletindo a sazonalidade da safra da cana-de-
+açúcar.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+jan-20
+abr-20
+jul-20
+out-20
+jan-21
+abr-21
+jul-21
+out-21
+jan-22
+abr-22
+jul-22
+out-22
+jan-23
+abr-23
+jul-23
+out-23
+jan-24
+abr-24
+jul-24
+out-24
+jan-25
+abr-25
+jul-25
+out-25
+jan-26
+abr-26
+jul-26
+Aterro
+Sucroenergético
+Outros
+Brasil (plantas com mais de 1 ano de autorização)
+Brasil (Total)
+Taxa de utilização da capacidade de produção de biometano
+autorizada na ANP por matéria-prima
+Nota: A desagregação por matéria-prima corresponde a uma estimativa
+elaborada com base nos dados de processamento de biogás de cada usina e
+na eficiência média de purificação do biogás de cada estado.
+Fonte: Elaboração própria a partir dos dados da ANP
+Ago/2026
+Brasil
+Aterro Sucro Outros
+Total 1 ano +
+Taxa de utilização 38,7% 51,5% 47,4% 27,2% 4,9%
+Crescimento vs
+mês anterior -5,6% -14,1% 6,3% -4,1% -91,0%
+Taxa de utilização
+média no ano 37,0% 49,3% 44,6% 17,1% 49,0%
+Crescimento vs
+ano anterior -10,3% -2,3% -12,3% -26,0% 540,7%
+IEPUC – Instituto de Energia da PUC-Rio
+Desagregação da produção de biometano por usina
+8
+Estimativa da produção de biometano no Brasil por usina autorizada na ANP
+Nota: A desagregação da produção de biometano por usina corresponde a uma estimativa elaborada com base nos dados de processamento de biogás de cada
+usina e na eficiência média de purificação do biogás de cada estado.
+Fonte: Elaboração própria a partir dos dados da ANP
+0
+100
+200
+300
+400
+500
+600
+jan-20
+mar-20
+mai-20
+jul-20
+set-20
+nov-20
+jan-21
+mar-21
+mai-21
+jul-21
+set-21
+nov-21
+jan-22
+mar-22
+mai-22
+jul-22
+set-22
+nov-22
+jan-23
+mar-23
+mai-23
+jul-23
+set-23
+nov-23
+jan-24
+mar-24
+mai-24
+jul-24
+set-24
+nov-24
+jan-25
+mar-25
+mai-25
+jul-25
+set-25
+nov-25
+jan-26
+mar-26
+mai-26
+jul-26
+Mm³/d
+Outros
+Orizon Biometano Jaboatão dos Guararapes
+SPE
+Biometano Sul
+Metagás
+Raízen-Geo
+Essencis Biometano
+Engep Ambiental
+GNR Dois Arcos
+Gás Verde
+GNR Fortaleza
+Ago/2026
+Produção
+(Mm³/d)
+Crescimento vs
+mês anterior
+64,92 7,7%
+84,44 8,4%
+0,08 -99,8%
+51,82 107,9%
+20,43 -4,3%
+73,34 -4,5%
+44,26 -13,4%
+13,55 18,5%
+0,01 1,4%
+139,48 2,4%
+36,74 -37,9%
+IEPUC – Instituto de Energia da PUC-Rio
+Comercialização do Biometano no
+Brasil
+9
+IEPUC – Instituto de Energia da PUC-Rio
+Registro da ANP de contratos assinados
+10
+1
+0
+2
+4
+6
+8
+10
+12
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+Histórico Julho de 2026
+Número de Contratos Assinados por tipo de agente comprador
+Número de Contratos Assinados por ano (até julho de 2026)
+Entre janeiro de 2014 e julho de 2026, foram registrados na ANP 38 contratos de
+comercialização de biometano.
+Em julho de 2026, 30 contratos permaneciam vigentes, enquanto 6 já haviam expirado.
+No período, os consumidores finais foram os principais compradores, com 19 contratos
+registrados,. Em seguida, destacam-se os distribuidores de GNC/GNL, com 12 contratos
+registrados.
+Consumidor Final
+21
+Distribuidor de
+GNC/GNL
+12
+Distribuidora de Gás
+Canalizado
+3
+Comercializadora
+2
+Número de Contratos
+Assinados por status
+Vigente
+32
+Expirado
+6
+Número de Contratos
+Assinados por tipo de prazo
+Longo Prazo (> 1 ano)
+34
+Curto Prazo (< =1 ano)
+4
+Nota: 1) Conforme o Parágrafo Único do Art. 1º da Resolução ANP nº 52/2011, o Registro de Contratos Assinados contempla apenas as transações em que o biometano atende às especificações
+estabelecidas pela regulamentação da ANP. Dessa forma, os contratos de comercialização de biometano fora da especificação não estão incluídos nos dados apresentados. 2) Também não estão incluídos os
+contratos de biometano em que a Edge figura como agente vendedor, uma vez que as informações disponíveis não permitem distinguir os contratos de biometano daqueles referentes ao gás natural.
+Fonte: Elaboração própria a partir dos dados da ANP
+IEPUC – Instituto de Energia da PUC-Rio
+Acompanhamento das transações anunciadas de comercialização de
+biometano
+11
+0
+2
+4
+6
+8
+10
+12
+Nota: A base de dados do IEPUC-Rio reúne informações provenientes de notícias, relatórios empresariais e
+sites especializados para mapear as transações anunciadas de comercialização de biometano no Brasil.
+Ressalta-se que esse levantamento não é exaustivo e, portanto, não contempla a totalidade das
+negociações de biometano anunciadas no país.
+Fonte: Elaboração própria a partir dos dados do IEPUC-Rio
+Número de transações anunciadas de comercialização de
+biometano por perfil de clientes
+GNC
+39
+Gasoduto
+16
+Número de transações anunciadas por modal logístico de
+entrega do biometano
+Entre janeiro de 2014 e agosto de 2026, foram identificadas 55 transações
+anunciadas na base de dados do IEPUC-Rio, incluindo operações envolvendo
+biometano que não atende às especificações estabelecidas pela
+regulamentação da ANP.
+Do total de transações anunciadas, 16utilizaram a infraestrutura de gasodutos
+de distribuição como modal logístico para entrega do biometano, enquanto 39
+foram realizadas por meio do GNC.
+Entre os compradores, o setor industrial é o principal segmento consumidor,
+concentrando 30 das transações identificadas.
+IEPUC – Instituto de Energia da PUC-Rio
+Principais negociações identificadas no mês
+12
+▪ A Unilever ampliou a sua parceria com a
+comercializadora de biometano Edge.
+– O gás gerado no aterro sanitário de Paulínia/SP
+abastecerá a fábrica de desodorantes da Unilever em
+Aguaí/SP.
+– Está previsto o volume de 1.125 m3/dia de biometano
+durante a vigência do contrato, a duração dele não foi
+explicitada.
+– Acesse aqui
+▪ A Regenera Rio (Aegea), empresa responsável pela
+coleta de resíduos sólidos urbanos na cidade do Rio
+de Janeiro inaugurou uma forta de 60 carretas
+movidas a GNV
+▪ As carretas serão abastecidas no aterro sanitários de
+Seropédica e fornecido pela gás verde
+▪ Acesse aqui
+IEPUC – Instituto de Energia da PUC-Rio
+Políticas Públicas de Incentivo à
+Produção de Biometano
+13
+IEPUC – Instituto de Energia da PUC-Rio
+Biometano no Renovabio
+14
+0
+10
+20
+30
+40
+jun-20
+set-20
+dez-20
+mar-21
+jun-21
+set-21
+dez-21
+mar-22
+jun-22
+set-22
+dez-22
+mar-23
+jun-23
+set-23
+dez-23
+mar-24
+jun-24
+set-24
+dez-24
+mar-25
+jun-25
+set-25
+dez-25
+mar-26
+jun-26
+Mil
+Cbios
+0
+50
+100
+150
+200
+jun-20
+set-20
+dez-20
+mar-21
+jun-21
+set-21
+dez-21
+mar-22
+jun-22
+set-22
+dez-22
+mar-23
+jun-23
+set-23
+dez-23
+mar-24
+jun-24
+set-24
+dez-24
+mar-25
+jun-25
+set-25
+dez-25
+mar-26
+jun-26
+R$/Cbio
+Fonte: Elaboração própria a partir dos dados da B3
+Evolução da preço médio do Cbio
+Evolução da emissão de Cbios pelos produtores de Biometano
+Fonte: Elaboração própria a partir dos dados da ANP
+9,36
+7,79
+0
+5
+10
+15
+20
+25
+Biometano
+Sul
+Cocal
+Energia
+Cri Geo Essencis
+Biometano
+Gás Verde Geo
+Elétrica
+Tamboara
+GNR Dois
+Arcos
+GNR
+Fortaleza
+Metagás Raízen-Geo SPE
+gCO2eq./MJ
+Mês Corrente Mês Anterior
+Média (Mês Corrente) Média (Mês Anterior)
+Fonte: Elaboração própria a partir dos dados da ANP
+Intensidade de carbono das usinas de biometano certificadas no Renovabio
+Em agosto de 2026, havia dez usinas de biometano certificadas no RenovaBio,
+com intensidade de carbono média de 9,36 gCO₂eq./MJ, representando um
+aumento de 20,1% em relação ao mês anterior
+No mês, os produtores de biometano emitiram 19,5 mil CBios, elevando o total
+emitido em 2026 para 128,3 mil CBios.
+O preço médio do CBio em agosto de 2026 foi de R$ 24,53, representando uma
+redução de 2,1% em relação ao mês anterior.
+IEPUC – Instituto de Energia da PUC-Rio
+Referências de Preços para o
+Biometano no Brasil
+15
+IEPUC – Instituto de Energia da PUC-Rio
+Preços dos combustíveis substitutos
+16
+Preços médios dos combustíveis substitutos ao biometano no Brasil, convertidos para reais por m³ de gás natural equivalente
+Nota: 1) Considera-se o metro cúbico equivalente (m³ eq.) de gás natural com poder calorífico superior (PCS) de 9.400 kcal/m³. 2) Os preços médios não consideram a
+região Norte. 3) Os preços incluem tributos, exceto o preço da molécula de gás natural comercializada pela Petrobras, que é apresentado sem a incidência de tributos.
+Fonte: Elaboração própria a partir dos dados da ANP e MME
+6,31
+4,79
+2,27
+3,79
+0
+1
+2
+3
+4
+5
+6
+7
+8
+jan-21
+fev-21
+mar-21
+abr-21
+mai-21
+jun-21
+jul-21
+ago-21
+set-21
+out-21
+nov-21
+dez-21
+jan-22
+fev-22
+mar-22
+abr-22
+mai-22
+jun-22
+jul-22
+ago-22
+set-22
+out-22
+nov-22
+dez-22
+jan-23
+fev-23
+mar-23
+abr-23
+mai-23
+jun-23
+jul-23
+ago-23
+set-23
+out-23
+nov-23
+dez-23
+jan-24
+fev-24
+mar-24
+abr-24
+mai-24
+jun-24
+jul-24
+ago-24
+set-24
+out-24
+nov-24
+dez-24
+jan-25
+fev-25
+mar-25
+abr-25
+mai-25
+jun-25
+jul-25
+ago-25
+set-25
+out-25
+nov-25
+dez-25
+jan-26
+fev-26
+mar-26
+abr-26
+mai-26
+jun-26
+jul-26
+ago-26
+R$
+por
+m³
+eq.
+de
+gás
+natural
+Column4 Preço de distribuição do diesel
+Preço de distribuição do GLP Preço da molécula do gás natural da Petrobras (média simples)
+Preço do gás natural ao consumidor industrial (20 Mm³/d)
+IEPUC – Instituto de Energia da PUC-Rio
+Preços de ativos ambientais de referência
+17
+Preços médios de ativos ambientais selecionados, convertidos para reais por m³ de gás
+natural equivalente
+Nota: 1) Considera-se o metro cúbico equivalente (m³ eq.) de gás natural com poder calorífico superior (PCS) de 9.400 kcal/m³.
+2) No caso do RIN D3 foi considerado PCS do etanol anidro de 5.608 kcal/litros. 3) Para valores originalmente medidos em
+toneladas de CO2 equivalente (tCO₂eq) foi considerado uma IC do biometano de 7,79 gco2eq/MJ (média do Renovabio).
+Fonte: Elaboração própria a partir dos dados da ANP, CARB, EPA, Bacen, Investing.com e Abaxx Exchange
+Phase One Carbon Offset Unit Futures – CP1 (Month Ahead):
+contrato futuro de EEU CORSIA para a Phase One (2024–2026),
+com vencimento no mês subsequente ao de negociação. Contrato
+negociado na Abaxx Exchange, em Singapura (US$/tCO₂eq)
+Crédito de Descarbonização (CBIO): criado pelo RenovaBio para
+contribuir para o cumprimento das metas de redução de emissões
+do setor de combustíveis. Um CBIO corresponde a 1 ton de CO₂e
+de emissões evitadas. Negociado na B3 com preço em R$/tCO₂eq.
+Renewable Indentification Number (RIN) D3: criado pelo RFS,
+programa federal dos EUA, para cumprir mandatos de mistura
+volumétrica de combustível celulósico. É medido em dólares por
+galões-equivalentes de etanol e negociado entre as partes com
+registro no EMTS (EPA Moderated Transaction System).
+Crédito Carbono Futuros EU ETS: contrato futuro de EUA
+(European Union Allowance) do EU ETS, o mercado europeu de
+comércio de emissões. O contrato é negociado na ICE em
+€/tCO₂eq.
+Crédito CARB LCFS: criado pelo regulamento LCFS e negociado
+US$/tCO₂eq, é gerado por combustíveis com CI abaixo do
+benchmark anual e administrado pelo LRT-CBTS. Entidades
+regulamentadas usam os créditos para compensar déficits e
+comprovar conformidade anual.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+jan-22
+mar-22
+mai-22
+jul-22
+set-22
+nov-22
+jan-23
+mar-23
+mai-23
+jul-23
+set-23
+nov-23
+jan-24
+mar-24
+mai-24
+jul-24
+set-24
+nov-24
+jan-25
+mar-25
+mai-25
+jul-25
+set-25
+nov-25
+jan-26
+mar-26
+mai-26
+jul-26
+R$
+por
+m³
+eq.
+de
+gás
+natural RFS-RIN D3 EUA (EU ETS) CARB-LCFS CBIO CP1 (Month Ahead)
+IEPUC – Instituto de Energia da PUC-Rio
+Siga o IEPUC nas redes sociais
+iepuc.puc-rio.br
+Equipe
+▪ Edmar Luiz Fagundes de Almeida (Coordenador)
+▪ Gustavo Alves Soares (Pesquisador)
+▪ Felipe Freitas da Rocha (Pesquisador)
+▪ Beatriz de Almeida Alves de Brito (Assistente de pesquisa)
+Conheça nossos cursos
+▪ Economia e Regulação do Biometano no Brasil
+▪ Comercialização e Precificação do Gás Natural no Mercado Internacional e Nacional
+▪ MBE Energia
+Acesse as publicações do Boletim
+https://www.iepuc.puc-rio.br/publicacoes/boletim-biometano.html
+

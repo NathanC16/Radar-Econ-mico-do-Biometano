@@ -1,0 +1,59 @@
+# ── Ambiente Python ─────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# ── Segredos e configuração local ───────────────
+.env
+.env.*
+.streamlit/secrets.toml
+
+# ── Artefatos derivados (regeneráveis: .md → docx → pdf) ──
+*.pdf
+*.docx
+
+# ── Revisão visual local (screenshots) ─────────
+_review/
+
+# ── Dados sensíveis/pessoais ficam FORA do VCS ──
+# Documentos da extensão: dados pessoais (nome, CPF, matrícula, RG, endereço),
+# termos/cartas para assinatura, rascunho de e-mail e evidências de interação.
+# Entregar só no zip para o professor.
+documentos/
+
+# "Panorama do Biometano em Goiás": o documento traz "Copyright© CBIE Advisory
+# 2025, nenhuma parte deste documento poderá ser reproduzida". Fica só a citação
+# e o link (dados/brutos/LEIA-ME_fontes.md); os números usados estão nas bases
+# limpas. Baixe o PDF pelo link para rodar as checagens literais da validação.
+dados/brutos/panorama_biometano_goias_sgg_2026.txt
+
+# ── Dados brutos binários e baixáveis (URL de origem nos scripts e na documentação) ──
+*.zip
+dados/brutos/**/*.xlsx
+dados/brutos/**/*.xls
+
+# ── Logs e temporários ──────────────────────────
+*.log
+nohup.out
+*.tmp
+*.bak
+*.swp
+*~
+
+# ── Arquivos de sistema/editor ──────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.~lock.*#
+.vscode/
+.idea/
