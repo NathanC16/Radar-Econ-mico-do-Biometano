@@ -49,10 +49,10 @@ Outros comandos (a partir da raiz do projeto):
 | `dados/preparar_anp.py` | Gera as bases da ANP (por UF, por usina e série nacional) a partir dos dados abertos brutos |
 | `dados/preparar_precos_anp.py` · `preparar_ibge.py` · `preparar_cibiogas.py` | Geram as bases de preços (ANP), rebanhos (IBGE) e plantas de biogás (CIBiogás) |
 | `.streamlit/config.toml` | Tema visual do painel |
-| `dados/brutos/` | Materiais brutos: boletim IEPUC (PDF + extração de texto), páginas do site 4WaTT (HTML + texto), GeoJSON de estados (Code for America). Origem e data de coleta em `dados/brutos/LEIA-ME_fontes.md` |
+| `dados/brutos/` | Materiais brutos: boletins IEPUC (texto extraído), dados abertos da ANP, respostas da API do IBGE, textos da CIBiogás/ABEGÁS, páginas do site 4WaTT (HTML + texto), GeoJSON de estados (Code for America). Origem e data de coleta em `dados/brutos/LEIA-ME_fontes.md` |
 | `dados/limpos/` | Bases estruturadas em CSV usadas pelo app + GeoJSON processado (`geojson_brasil_ufs.geojson`, com `id = sigla da UF`) |
 | `notebook/01_exploracao.ipynb` | Análise exploratória (EDA) documentada, salva com as saídas |
-| `notebook/validar_dados.py` | Validação programática das bases contra o boletim |
+| `notebook/validar_dados.py` | Validação programática das bases contra as fontes (91 verificações) |
 | `relatorio/` | Relatório técnico (item 3.1 da proposta) |
 | `apresentacao/` | Apresentação oral (item 3.4), gerada por `gerar_slides.py`; capturas do painel em `img/` |
 | `documentos/` | Documentos comprobatórios extensionistas (carta, registros) — **fora do Git** (dados pessoais); só no zip de entrega |
@@ -90,5 +90,6 @@ Outros comandos (a partir da raiz do projeto):
 - Potencial de Goiás: estimativa **teórica** do estudo estadual (m³/ano), não produção viável.
 - Base de transações do IEPUC-Rio não é exaustiva (compilada de notícias/relatórios públicos).
 - Registro ANP cobre apenas contratos dentro da especificação regulatória.
+- Plantas de biogás (CIBiogás): edição 2023 completa; das edições 2024 e 2025, só os números divulgados pela ABEGÁS (e-book exige cadastro).
 - Dados da 4WaTT: exclusivamente informação pública do site oficial.
 - Data de referência: **agosto/2026**.

@@ -381,7 +381,7 @@ with aba1:
             st.markdown(
                 """**🎯 Insight para a 4WaTT.** A produção nacional é extremamente concentrada:
 em ago/26, SP (33,6%) + RJ (26,3%) ≈ **60%** do total, e os 5 maiores estados respondem por **~99%**.
-**Goiás, estado-sede da 4WaTT, não produz biometano** — mas tem ~122 plantas de biogás e potencial
+**Goiás, estado-sede da 4WaTT, não produz biometano** — mas tem 131 plantas de biogás (CIBiogás, 2025) e potencial
 teórico estimado em 2,7 bi m³/ano (aba *📍 Oportunidades*). Se todos os pedidos em análise na ANP
 saírem do papel, a capacidade chega a 3.391 mil m³/d até dez/2028 — 2,5× a autorizada hoje. Os
 substratos fora de aterro (~20% da produção) e as regiões sem usinas são o espaço de crescimento
@@ -750,7 +750,8 @@ fica em {outros}. São dejetos que a matriz de resíduos da 4WaTT atende.""")
         cb = {(r.ano, r.indicador): r.valor for r in cib_br.itertuples()}
         go_cib = cib_uf[cib_uf.uf == "GO"].set_index("ano")["plantas_biogas"]
         ano_r = int(cib_uf.loc[cib_uf.plantas_biogas.notna(), "ano"].max())
-        rank_r = cib_uf[(cib_uf.ano == ano_r) & cib_uf.plantas_biogas.notna()].reset_index(drop=True)
+        rank_r = (cib_uf[(cib_uf.ano == ano_r) & cib_uf.plantas_biogas.notna()]
+                  .sort_values("plantas_biogas", ascending=False).reset_index(drop=True))
         go_pos_cib = int(rank_r.index[rank_r.uf == "GO"][0]) + 1
         n_biomet_uf = usinas.groupby("uf").size() if "anp" in fontes_sel else None
         k = st.columns(4)
@@ -1045,7 +1046,7 @@ logo abaixo do título, de quais fontes depende.
 | 3 | **ANP — Levantamento de Preços de Combustíveis** (série mensal por estado, 2020–2026) | Diesel S10 e GNV por estado; valor de 1 m³ de biometano como substituto |
 | 4 | **IBGE — Pesquisa da Pecuária Municipal** (rebanhos por estado, 2025) | Potencial de biogás da pecuária em todos os estados |
 | 5 | **CIBiogás — Panorama do Biogás no Brasil** (BiogásMap): edição 2023 (licença CC BY 4.0) e números das edições 2024 e 2025 divulgados pela ABEGÁS | Plantas de biogás por estado e no Brasil; parcela do biogás que vira biometano |
-| 6 | Governo de Goiás (SGG) / CBIE Advisory — *Panorama do Biometano em Goiás* (2026), estudo do PEEG 2030 | Potencial de biogás por fonte e município em Goiás; plantas de biogás (CIBiogás 2025) e de biometano em desenvolvimento no estado |
+| 6 | Governo de Goiás (SGG) / CBIE Advisory — *Panorama do Biometano em Goiás* (2026), estudo do PEEG 2030 | Potencial de biogás por fonte e município em Goiás; plantas de biogás (CIBiogás, fim de 2024) e de biometano em desenvolvimento no estado |
 | 7 | Site oficial da 4WaTT (4watt.tech) — página inicial, *Solução Biogás* e páginas de cases | Portfolio de projetos da organização |
 | 8 | Code for America — malha GeoJSON das UFs | Mapas |
 

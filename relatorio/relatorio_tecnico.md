@@ -137,7 +137,8 @@ consultados estão em `dados/brutos/`, com URL e data de coleta em `dados/brutos
 UF/usina/matéria-prima, participações %, crescimentos mensal e anual, consistência interna
 das tabelas ANP, cruzamentos usina↔estado e — para evitar que um erro de digitação se repita
 dos dois lados da comparação — **busca literal de cada valor no texto extraído dos PDFs**
-das fontes (boletim IEPUC e estudo do Governo de Goiás).
+das fontes (boletim IEPUC, estudo do Governo de Goiás, Panorama do Biogás da CIBiogás e notícias da
+ABEGÁS sobre as edições 2024 e 2025).
 
 **Validação cruzada com os dados abertos da ANP:** a série nacional reconstruída a partir dos
 dados abertos da ANP (soma das UFs) coincide com o boletim IEPUC nos 8 meses de 2026, com
@@ -340,7 +341,7 @@ O painel segue a estrutura **contexto → tensão → leitura → ação**:
 2. **Tensão** (abas Produção/Mercado): apesar do crescimento, o mercado é *concentrado* —
    5 estados dominam, aterros dominam o mix, e as usinas operam bem abaixo da capacidade;
 3. **Leitura** (abas Oportunidades e Portfolio 4WaTT): o estado-sede tem grande
-   potencial e quase nenhuma produção; cruzando isso com o portfolio, o espaço de crescimento
+   potencial e nenhuma produção de biometano; cruzando isso com o portfolio, o espaço de crescimento
    fica evidente — **Goiás e regiões fora do top 5 × substratos agrícolas, pecuários e urbanos**,
    perfil exato da capacidade EPC+O&M da 4WaTT;
 4. **Ação** (blocos de *insight* em cada aba): recomendações objetivas de onde focar
@@ -358,7 +359,8 @@ o padrão de comunicação esperado pela organização para decisores internos e
   EDA reproduzível; validação automatizada com 91 verificações, incluindo validação cruzada
   com os dados abertos da ANP;
 - KPIs que respondem às perguntas de decisão: ritmo do mercado, pipeline de oferta futura,
-  concentração geográfica e por substrato, demanda comercial efetiva e valor do carbono;
+  concentração geográfica e por substrato, demanda comercial efetiva, valor do carbono,
+  potencial por estado, plantas de biogás a converter e preço do combustível substituído;
 - Leitura estratégica consolidada: o cruzamento "estado fora do top 5 × substrato
   agrícola/industrial" é a fronteira de crescimento mais aderente ao modelo da 4WaTT.
 
@@ -400,63 +402,63 @@ sem depender de dados proprietários na fase inicial. Recomenda-se:
 
 ### Referências
 
-- IEPUC-PUC-RIO. *Boletim Mensal de Acompanhamento da Indústria de Biometano no Brasil* —
-  Agosto de 2026, Edição Nº 2. Rio de Janeiro: Instituto de Energia da PUC-Rio, 28/09/2026.
-  Disponível em: https://www.iepuc.puc-rio.br/arquivos/boletim-biometano/08_Boletim_Biometano_IEPUC_ago_2026.pdf.
-  Acesso em: 1 out. 2026.
 - 4WATT BIO ENGENHARIA S/A. *Página inicial — Cases*; *Solução Biogás*; *Case CEASA Goiás*;
   *Case UTB Franca*. Goiânia, 2026. Disponível em: https://www.4watt.tech/,
   https://www.4watt.tech/solucao-biogas.html, https://www.4watt.tech/case-ceasa-goias.html e
   https://www.4watt.tech/case-utb-franca.html. Acesso em: 1 e 2 out. 2026.
-- CIBIOGÁS. *Panorama do Biogás no Brasil 2023*. Relatório Técnico nº 001/2024. Foz do Iguaçu:
-  CIBiogás, 2024. Licença CC BY 4.0. Disponível em:
-  https://abiogas.com.br/wp-content/uploads/protectedfiles/Panorama%20do%20Biog%C3%A1s%202023%20-%20CIbiog%C3%A1s%20(2024).pdf.
-  Acesso em: 2 out. 2026.
-- ABEGÁS. *Brasil registrou 1633 plantas de biogás em 2024* (sobre o Panorama do Biogás no Brasil
-  2024, CIBiogás). Disponível em: https://www.abegas.org.br/arquivos/95755. Acesso em: 2 out. 2026.
 - ABEGÁS. *Brasil encerra 2025 com 1,8 mil usinas de biogás, aponta entidade* (sobre o Panorama do
   Biogás no Brasil 2025, CIBiogás). Disponível em: https://www.abegas.org.br/arquivos/99980.
   Acesso em: 2 out. 2026.
-- AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Série histórica do
-  levantamento de preços de combustíveis* (mensal, por estado, desde jan/2013). Brasília, 2026.
-  Disponível em: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos.
-  Acesso em: 2 out. 2026.
-- INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). *Pesquisa da Pecuária Municipal 2025*:
-  tabelas 3939 (efetivo dos rebanhos) e 94 (vacas ordenhadas). Rio de Janeiro: IBGE, 2026.
-  Disponível em: https://sidra.ibge.gov.br/tabela/3939 e https://sidra.ibge.gov.br/tabela/94. Acesso em: 2 out. 2026.
-- AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Biometano — dados
-  abertos* (produção por UF e capacidade por usina, jan/2020–ago/2026). Brasília, 2026.
-  Disponível em: https://www.gov.br/anp/pt-br/assuntos/producao-e-fornecimento-de-biocombustiveis/biometano/biometano-dados-abertos.zip.
-  Acesso em: 2 out. 2026.
-- IEPUC-PUC-RIO. *Boletim Mensal de Acompanhamento da Indústria de Biometano no Brasil* —
-  Julho de 2026, Edição Nº 1. Rio de Janeiro: Instituto de Energia da PUC-Rio, 2026.
-  Disponível em: https://www.iepuc.puc-rio.br/arquivos/boletim-biometano/07_Boletim_Biometano_IEPUC_jul_2026.pdf.
-  Acesso em: 2 out. 2026.
-- TEIXEIRA, Cássio Adriano Nunes. *A hora do biometano no Brasil*. Rio de Janeiro: BNDES, 2024
-  (Textos para Discussão, n. 159). Disponível em:
-  https://web.bndes.gov.br/bib/jspui/bitstream/1408/24146/1/PRFol_216049_TD%20n.%20159_A%20hora%20do%20biometano%20no%20Brasi.pdf.
+- ABEGÁS. *Brasil registrou 1633 plantas de biogás em 2024* (sobre o Panorama do Biogás no Brasil
+  2024, CIBiogás). Disponível em: https://www.abegas.org.br/arquivos/95755. Acesso em: 2 out. 2026.
+- AGÊNCIA BRASIL. Usina vai transformar em gás natural lixo produzido por oito municípios do Rio.
+  Rio de Janeiro, ago. 2014. Disponível em:
+  https://agenciabrasil.ebc.com.br/economia/noticia/2014-08/usina-vai-transformar-em-gas-natural-lixo-produzido-por-oito-municipios.
   Acesso em: 2 out. 2026.
 - AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Anuário Estatístico
   Brasileiro do Petróleo, Gás Natural e Biocombustíveis 2025*. Rio de Janeiro: ANP, 2025.
   Disponível em: https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/anuario-estatistico/anuario-estatistico-brasileiro-do-petroleo-gas-natural-e-biocombustiveis-2025.
   Acesso em: 2 out. 2026.
-- AGÊNCIA BRASIL. Usina vai transformar em gás natural lixo produzido por oito municípios do Rio.
-  Rio de Janeiro, ago. 2014. Disponível em:
-  https://agenciabrasil.ebc.com.br/economia/noticia/2014-08/usina-vai-transformar-em-gas-natural-lixo-produzido-por-oito-municipios.
+- AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Biometano — dados
+  abertos* (produção por UF e capacidade por usina, jan/2020–ago/2026). Brasília, 2026.
+  Disponível em: https://www.gov.br/anp/pt-br/assuntos/producao-e-fornecimento-de-biocombustiveis/biometano/biometano-dados-abertos.zip.
   Acesso em: 2 out. 2026.
+- AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Série histórica do
+  levantamento de preços de combustíveis* (mensal, por estado, desde jan/2013). Brasília, 2026.
+  Disponível em: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos.
+  Acesso em: 2 out. 2026.
+- CIBIOGÁS. *Panorama do Biogás no Brasil 2023*. Relatório Técnico nº 001/2024. Foz do Iguaçu:
+  CIBiogás, 2024. Licença CC BY 4.0. Disponível em:
+  https://abiogas.com.br/wp-content/uploads/protectedfiles/Panorama%20do%20Biog%C3%A1s%202023%20-%20CIbiog%C3%A1s%20(2024).pdf.
+  Acesso em: 2 out. 2026.
+- CODE FOR AMERICA. *click_that_hood — brazil-states.geojson*. GitHub, 2015. Disponível em:
+  https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson.
+  Acesso em: 1 out. 2026.
+- FEIGENBAUM, Anna; ALAMALHODAEI, Aria. *The data storytelling workbook*. London: Routledge, 2020.
 - GOIÁS (Estado). Secretaria-Geral de Governo; CBIE ADVISORY. *Panorama do Biometano em
   Goiás*. Estudo técnico do Plano Estadual de Energia de Goiás 2030 (PEEG 2030). Goiânia,
   2026. Disponível em:
   https://goias.gov.br/governo/wp-content/uploads/sites/11/2026/02/Panorama-do-Biometano-em-Goias.pdf.
   Acesso em: 2 out. 2026.
-- CODE FOR AMERICA. *click_that_hood — brazil-states.geojson*. GitHub, 2015. Disponível em:
-  https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson.
+- IEPUC-PUC-RIO. *Boletim Mensal de Acompanhamento da Indústria de Biometano no Brasil* —
+  Agosto de 2026, Edição Nº 2. Rio de Janeiro: Instituto de Energia da PUC-Rio, 28/09/2026.
+  Disponível em: https://www.iepuc.puc-rio.br/arquivos/boletim-biometano/08_Boletim_Biometano_IEPUC_ago_2026.pdf.
   Acesso em: 1 out. 2026.
+- IEPUC-PUC-RIO. *Boletim Mensal de Acompanhamento da Indústria de Biometano no Brasil* —
+  Julho de 2026, Edição Nº 1. Rio de Janeiro: Instituto de Energia da PUC-Rio, 2026.
+  Disponível em: https://www.iepuc.puc-rio.br/arquivos/boletim-biometano/07_Boletim_Biometano_IEPUC_jul_2026.pdf.
+  Acesso em: 2 out. 2026.
+- INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). *Pesquisa da Pecuária Municipal 2025*:
+  tabelas 3939 (efetivo dos rebanhos) e 94 (vacas ordenhadas). Rio de Janeiro: IBGE, 2026.
+  Disponível em: https://sidra.ibge.gov.br/tabela/3939 e https://sidra.ibge.gov.br/tabela/94. Acesso em: 2 out. 2026.
 - KNAFLIC, Cole Nussbaumer. *Storytelling com dados*: um guia sobre visualização de dados para profissionais de negócios. Rio de Janeiro: Alta Books, 2019.
-- FEIGENBAUM, Anna; ALAMALHODAEI, Aria. *The data storytelling workbook*. London: Routledge, 2020.
 - MALIK, Shadan. *Enterprise dashboards: design and best practices for IT*. Indianapolis: Wiley Publishing, 2005.
 - ROCHA, E. *Introdução à inteligência de negócios*. Porto Alegre: Bookman/Sagah, 2018.
 - SHARDA, R.; DELEN, D.; TURBAN, E. *Business intelligence e análise de dados para gestão do negócio*. 4. ed. Porto Alegre: Bookman, 2019.
+- TEIXEIRA, Cássio Adriano Nunes. *A hora do biometano no Brasil*. Rio de Janeiro: BNDES, 2024
+  (Textos para Discussão, n. 159). Disponível em:
+  https://web.bndes.gov.br/bib/jspui/bitstream/1408/24146/1/PRFol_216049_TD%20n.%20159_A%20hora%20do%20biometano%20no%20Brasi.pdf.
+  Acesso em: 2 out. 2026.
 
 **Artigos acadêmicos (busca em out/2026 — OpenAlex/Crossref):**
 

@@ -4,9 +4,10 @@ Uso: .venv/bin/python apresentacao/gerar_slides.py
 """
 from pathlib import Path
 from pptx import Presentation
-from pptx.util import Inches, Pt, Emu
+from datetime import datetime, timezone
+
+from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
-from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
 
 # paleta da marca 4WaTT (theme-4watt.css do site 4watt.tech)
 TEAL = RGBColor(0x05, 0x7A, 0x64)    # verde 4WaTT, tom de texto (#03A589 escurecido p/ contraste)
@@ -208,7 +209,7 @@ body(s, [
 # ---------------------------------------------------------------- interação
 s = novo("Interação com a organização", "como o problema e a solução foram construídos com a 4WaTT")
 body(s, [
-    ("1.  Alinhamento do escopo com a equipe da 4WaTT: identificação do problema de inteligência de mercado", {}),
+    ("1.  Alinhamento do escopo com Brunno Bachmann, CTO da 4WaTT: identificação do problema de inteligência de mercado", {}),
     ("2.  Definição conjunta dos KPIs e das fontes (boletim IEPUC/ANP, RenovaBio, site da empresa)", {}),
     ("3.  Validação intermediária do painel com a equipe", {}),
     ("4.  Apresentação interna dos resultados e coleta de feedback", {}),
@@ -276,7 +277,7 @@ body(s, [
 ], top=4.9)
 
 # ---------------------------------------------------------------- goiás
-s = novo("Goiás: muito potencial, quase nenhuma produção",
+s = novo("Goiás: muito potencial, zero biometano",
          "Panorama do Biometano em Goiás — Governo de Goiás/CBIE (2026), potencial teórico")
 card(s, 0.7, 2.2, 2.9, 1.6, "Potencial de biogás (bi m³/ano)", "2,7", "≈ 1,7 bi m³/ano de biometano")
 card(s, 3.8, 2.2, 2.9, 1.6, "Sucroenergético", "72%", "vinhaça, torta de filtro, palha")
@@ -345,7 +346,7 @@ s = novo("Narrativa (data storytelling)", "contexto → tensão → leitura → 
 body(s, [
     ("1. Contexto — Visão Geral: o mercado cresce rápido (produção, capacidade, contratos)", {}),
     ("2. Tensão — Produção / Mercado: crescimento concentrado em 5 estados e em aterros; usinas ociosas", {}),
-    ("3. Leitura — Goiás & Portfolio: o estado-sede tem potencial e quase nenhuma produção; "
+    ("3. Leitura — Goiás & Portfolio: o estado-sede tem potencial e nenhuma produção de biometano; "
      "o portfolio já atua nesse espaço", {}),
     ("4. Ação — blocos de insight: onde prospectar, como argumentar, o que monitorar", {}),
 ], size=19, gap=12)
@@ -355,9 +356,10 @@ s = novo("Insights e recomendações", "o que o painel diz para a 4WaTT fazer", 
 body(s, [
     ("1. Priorizar Goiás: RSU em Goiânia (vitrine CEASA), pecuária dispersa (Rio Verde, Jataí) e "
      "parcerias sucroenergéticas no sul e sudoeste goianos", {"bold": True}),
-    ("2. Oferecer O&M e otimização: o parque opera a 38,7% da capacidade autorizada", {}),
-    ("3. Usar os KPIs em EVTEs e com investidores: crescimento + CBio = tese de viabilidade robusta", {}),
-    ("4. Monitorar mensalmente o boletim IEPUC — o pipeline ANP é o termômetro da demanda por EPC/O&M", {}),
+    ("2. Converter em biometano as plantas de biogás que já existem: Goiás tem 131 (5º do país) e nenhuma usina ANP", {}),
+    ("3. Oferecer O&M e otimização: o parque opera a 38,7% da capacidade autorizada", {}),
+    ("4. Usar os KPIs em EVTEs e com investidores: crescimento + CBio = tese de viabilidade robusta", {}),
+    ("5. Monitorar mensalmente o boletim IEPUC — o pipeline ANP é o termômetro da demanda por EPC/O&M", {}),
     ("Evoluções: pipeline comercial interno, preços de GLP/gás industrial/energia e atualização automática", {"size": 15, "color": GRAY}),
 ], size=18, gap=10)
 
@@ -395,6 +397,7 @@ cp.author = cp.last_modified_by = "Nathan Crystiano França"
 cp.subject = "Big Data e Inteligência Artificial — PUC Goiás · 4WaTT Bio Engenharia S/A"
 cp.comments = cp.keywords = cp.category = ""
 cp.revision = 1
+cp.created = cp.modified = datetime.now(timezone.utc).replace(microsecond=0, tzinfo=None)
 
 out = Path(__file__).resolve().parent / "apresentacao_oral.pptx"
 prs.save(out)
