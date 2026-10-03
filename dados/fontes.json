@@ -41,6 +41,15 @@
       "potencial_pecuaria_uf_ibge.csv"
     ]
   },
+  "cibiogas": {
+    "nome": "CIBiogás — Panorama do Biogás no Brasil (BiogásMap): edição 2023 (CC BY 4.0) e números das edições 2024 e 2025",
+    "curto": "CIBiogás — plantas de biogás",
+    "url": "https://abiogas.com.br/wp-content/uploads/protectedfiles/Panorama%20do%20Biog%C3%A1s%202023%20-%20CIbiog%C3%A1s%20(2024).pdf",
+    "arquivos": [
+      "plantas_biogas_uf_cibiogas.csv",
+      "biogas_brasil_cibiogas.csv"
+    ]
+  },
   "goias": {
     "nome": "Governo de Goiás (SGG) / CBIE Advisory — Panorama do Biometano em Goiás (2026)",
     "curto": "Panorama de Goiás",

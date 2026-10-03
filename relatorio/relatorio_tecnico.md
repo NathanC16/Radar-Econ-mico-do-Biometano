@@ -67,8 +67,8 @@ consolide dados públicos de mercado do biometano e posicione os projetos públi
 nessa leitura**, servindo como insumo recorrente para decisões comerciais e técnicas.
 
 > Nota de transparência: nesta versão o projeto utiliza exclusivamente **dados públicos**
-> (boletim IEPUC com dados ANP/MME/B3, dados abertos e preços da ANP, IBGE, estudo do Governo
-> de Goiás e site oficial da empresa), conforme permitido pela proposta
+> (boletim IEPUC com dados ANP/MME/B3, dados abertos e preços da ANP, IBGE, Panorama do Biogás
+> da CIBiogás, estudo do Governo de Goiás e site oficial da empresa), conforme permitido pela proposta
 > ("a base poderá ser obtida a partir de fontes públicas, desde que os dados possuam relação
 > direta com o problema identificado junto à organização"). A evolução natural do painel —
 > incluir o pipeline comercial interno em planilhas — está descrita nas recomendações.
@@ -121,6 +121,8 @@ estruturadas para apoio à tomada de decisão da 4WaTT.
 | `usinas_anp_2026_08.csv` | As 21 usinas autorizadas em ago/26: UF, município, região, capacidade autorizada e uso da capacidade de processamento de biogás | ANP — Dados Abertos de Biometano (capacidade por usina) | Gerada por `dados/preparar_anp.py`; nomes e municípios com grafia corrigida |
 | `potencial_pecuaria_uf_ibge.csv` | Rebanhos (aves, suínos, vacas ordenhadas) e potencial de biogás da pecuária nas 27 UFs (2025) | IBGE — Pesquisa da Pecuária Municipal (API SIDRA) | Gerada por `dados/preparar_ibge.py`, com os coeficientes por animal do estudo de Goiás |
 | `precos_combustiveis_uf_mensal.csv` | Preço médio de revenda do diesel S10 e do GNV por UF, jan/2020–set/2026, e valor em R$ por m³ de biometano equivalente | ANP — Levantamento de Preços de Combustíveis | Gerada por `dados/preparar_precos_anp.py`; diesel × 0,87 l/m³ (CIBiogás) |
+| `plantas_biogas_uf_cibiogas.csv` | Plantas de biogás por estado: os 10 maiores em 2022 e 2023 e os 5 maiores em 2025; produção de biogás em 2025 dos 4 maiores produtores | CIBiogás — *Panorama do Biogás no Brasil* 2023 (CC BY 4.0) e 2025 (números divulgados pela ABEGÁS) | Gerada por `dados/preparar_cibiogas.py` a partir do texto do PDF e dos trechos das notícias |
+| `biogas_brasil_cibiogas.csv` | Totais nacionais por edição: plantas de biogás e de biometano, produção e destino do biogás (2023–2025) | CIBiogás — *Panorama do Biogás no Brasil* 2023, 2024 e 2025 | idem; cada valor fica com a sua edição, porque cada levantamento revisa os anos anteriores |
 | `cases_4watt.csv` | Projetos públicos da 4WaTT: substrato, produtos, estágio, destaques, coordenadas e URL de origem | Site oficial 4watt.tech (página inicial, *Solução Biogás* e páginas de cases) | Consolidação das informações públicas; coordenadas aproximadas da sede de cada município |
 
 **Tratamentos realizados:** transcrição e estruturação dos valores publicados (o boletim é
@@ -131,7 +133,7 @@ bases já saem da fonte em formato consolidado. Cópias de todas as páginas e d
 consultados estão em `dados/brutos/`, com URL e data de coleta em `dados/brutos/LEIA-ME_fontes.md`.
 
 **Validação:** todos os valores transcritos foram conferidos programaticamente em
-`notebook/validar_dados.py` (83 verificações): total nacional = 529 Mm³/d, somas por
+`notebook/validar_dados.py` (91 verificações): total nacional = 529 Mm³/d, somas por
 UF/usina/matéria-prima, participações %, crescimentos mensal e anual, consistência interna
 das tabelas ANP, cruzamentos usina↔estado e — para evitar que um erro de digitação se repita
 dos dois lados da comparação — **busca literal de cada valor no texto extraído dos PDFs**
@@ -156,8 +158,9 @@ opera desde 2018. Em jan/2020 só a GNR Fortaleza constava como autorizada; Gás
 foram autorizadas em julho de 2020 — exatamente quando passam a aparecer na série. Além disso, a
 ANP só registra usinas **autorizadas**: segundo o BNDES (Teixeira, 2024), em 2022 havia 20 plantas
 com purificação produzindo cerca de 400 mil m³/d, enquanto a série da ANP registra média de
-~183 mil m³/d naquele ano. O painel, portanto, mede o **biometano regulado**, não todo o biometano
-produzido no país.
+~183 mil m³/d naquele ano. A CIBiogás, que cadastra também plantas não autorizadas, aponta
+1,06 milhão de m³/d de biometano em 2025. O painel, portanto, mede o **biometano regulado**, não
+todo o biometano produzido no país; a seção de plantas de biogás (CIBiogás) mostra a base mais ampla.
 
 **Nota de escopo e regulação (biogás × biometano):** o painel acompanha o *biometano* —
 gás resultante da purificação do *biogás* (remoção de CO₂, H₂S e umidade), com ~95–99% de
@@ -192,6 +195,7 @@ estudo de Goiás usa m³/ano.
 | CBio: emissões, usinas certificadas, preço médio | Valor do componente carbono | Segundo fluxo de receita por m³ vendido; argumento recorrente em business plans e na captação de financiamento |
 | Taxa de utilização da capacidade autorizada (%) | Produção efetiva ÷ capacidade autorizada (ANP) | Usinas operando bem abaixo da capacidade (38,7% no conjunto do parque em ago/26) indicam demanda por O&M e otimização — serviço recorrente da 4WaTT |
 | Potencial de biogás da pecuária por estado (IBGE) | Rebanhos × coeficientes por animal | Compara Goiás com o resto do país e mostra onde estão os dejetos que a 4WaTT trata |
+| Plantas de biogás por estado e parcela que já produz biometano (CIBiogás) | Plantas cadastradas no BiogásMap; plantas de biometano ÷ plantas de biogás | Mostra a base instalada que pode ser convertida em biometano — mercado de purificação e O&M para a 4WaTT |
 | Valor de 1 m³ de biometano frente ao diesel e ao GNV, por estado | Preço de revenda (ANP) em R$ por m³ equivalente | Base da narrativa de viabilidade: quanto o cliente economiza ao substituir o combustível atual |
 | Potencial teórico de biogás em Goiás (por fonte e município) | Estimativa do estudo estadual (m³/ano) | Localiza a oportunidade no estado-sede: quais substratos e municípios priorizar na prospecção |
 
@@ -215,6 +219,7 @@ ligado a uma decisão concreta da organização (seção 2), e não pela disponi
 | Capacidade × produção por região | Barras agrupadas | Evidencia capacidade ociosa e regiões sem nenhuma usina (valor zero explícito) |
 | Usinas autorizadas | Tabela com barra de progresso | Lista as 21 usinas com município e uso da capacidade; filtrável por região |
 | Potencial de biogás da pecuária por estado (IBGE) | Mapa coroplético + ranking dos 10 maiores em barras, com Goiás em destaque | O mapa mostra a distribuição no país e o ranking dá a posição exata; filtro por rebanho (total, suínos, aves, vacas ordenhadas) |
+| Plantas de biogás por estado (CIBiogás) | Barras horizontais agrupadas por ano (2022, 2023, 2025), Goiás em destaque, com o nº de usinas de biometano da ANP ao lado da sigla | Compara a base de biogás de cada estado com o que já virou biometano; os anos lado a lado mostram o crescimento |
 | Diesel × GNV por estado (ANP) | Linhas por estado e combustível, em R$ por m³ de biometano equivalente | Coloca os dois combustíveis na mesma base de comparação; séries esparsas (como o GNV de Goiás) aparecem como pontos, sem linhas ligando meses distantes; escolha de até 4 estados |
 | Portfolio da 4WaTT | Mapa de pontos numerados + tabela | Marcadores numerados (projetos na mesma cidade agrupados) evitam rótulos sobrepostos; a tabela traz os atributos qualitativos |
 
@@ -310,13 +315,19 @@ em cor sólida.
    atrás de PR, SC, MG e RS. Nos preços, **Goiás praticamente não tem GNV** — só 4 registros
    esporádicos de um único posto desde 2020 e nenhum no último mês (como outros 9 estados): lá o biometano substitui o diesel, e cada m³ vale cerca de R$ 6,12 em diesel evitado
    (set/26) — mais do que o GNV mais caro do país no mês (Ceará, R$ 5,55/m³).
-9. **Goiás — potencial sem produção:** o estado não aparece entre os produtores de biometano
-   do boletim, mas tem ~122 plantas de biogás (CIBiogás, citado no estudo estadual) e potencial
+9. **Biogás que ainda não virou biometano (CIBiogás):** o Brasil tem **1.803 plantas de biogás**
+   (2025), mas no levantamento de 2024 só 79 de 1.633 (5%) eram de biometano; 62% do biogás ainda
+   vai para energia elétrica e 34% para biometano. **Goiás é o 5º estado em plantas de biogás
+   (131 em 2025)** e cresceu 44% em 2023 (de 77 para 111), a 2ª maior alta entre os 10 estados com
+   mais plantas — sem nenhuma usina de biometano autorizada pela ANP. Além das usinas novas, há um
+   mercado de **conversão das plantas existentes** (purificação e compressão).
+10. **Goiás — potencial sem produção:** o estado não aparece entre os produtores de biometano
+   do boletim, mas tem ~122 plantas de biogás (CIBiogás, fim de 2024, citado no estudo estadual) e potencial
    teórico estimado em **2,7 bilhões de m³/ano de biogás** (≈ 1,7 bi m³/ano de biometano). O
    sucroenergético responde por 72% desse potencial; a pecuária (402 milhões m³/ano no estudo, com
    rebanhos de 2023; 370 milhões com os rebanhos do IBGE de 2025) é dispersa pelo território; e **Goiânia é o município com maior potencial de RSU** (124 milhões m³/ano,
    34% do estado) — justamente onde a 4WaTT já opera o CEASA.
-10. **Posicionamento da 4WaTT:** o portfolio público cobre os três estágios do ciclo
+11. **Posicionamento da 4WaTT:** o portfolio público cobre os três estágios do ciclo
    (operação — CEASA/Organo; construção — UTB Franca; projeto industrial em operação —
    Frigorífico Franca), com substratos concentrados exatamente no segmento sub-representado do mercado.
 
@@ -343,8 +354,8 @@ o padrão de comunicação esperado pela organização para decisores internos e
 
 - Dashboard interativo com 7 abas, filtros (inclusive por fonte de dados) e tema claro/escuro (Streamlit + Plotly + Pandas, 100% open source),
   rodável com um único comando (`streamlit run streamlit_app.py`) e publicável no Streamlit Community Cloud;
-- 16 bases estruturadas em CSV com fonte documentada e cópia das fontes brutas; notebook de
-  EDA reproduzível; validação automatizada com 83 verificações, incluindo validação cruzada
+- 18 bases estruturadas em CSV com fonte documentada e cópia das fontes brutas; notebook de
+  EDA reproduzível; validação automatizada com 91 verificações, incluindo validação cruzada
   com os dados abertos da ANP;
 - KPIs que respondem às perguntas de decisão: ritmo do mercado, pipeline de oferta futura,
   concentração geográfica e por substrato, demanda comercial efetiva e valor do carbono;
@@ -376,7 +387,8 @@ sem depender de dados proprietários na fase inicial. Recomenda-se:
    oportunidades por substrato/estado/estágio), transformando-o em ferramenta ativa de
    priorização de prospecção — começando pelos municípios goianos de maior potencial
    (Goiânia em RSU; Goiatuba, Edéia, Mineiros e Caçu no sucroenergético; Rio Verde e Jataí
-   na pecuária);
+   na pecuária) e pelas plantas de biogás goianas que ainda não produzem biometano (candidatas
+   a conversão);
 2. **Automatizar a atualização**: script que baixe os novos boletins IEPUC e extraia as
    tabelas automaticamente, atualizando o painel sem transcrição manual;
 3. **Aprofundar a dimensão de preço** (já incluídos diesel e GNV por estado; faltam GLP, gás
@@ -396,6 +408,15 @@ sem depender de dados proprietários na fase inicial. Recomenda-se:
   *Case UTB Franca*. Goiânia, 2026. Disponível em: https://www.4watt.tech/,
   https://www.4watt.tech/solucao-biogas.html, https://www.4watt.tech/case-ceasa-goias.html e
   https://www.4watt.tech/case-utb-franca.html. Acesso em: 1 e 2 out. 2026.
+- CIBIOGÁS. *Panorama do Biogás no Brasil 2023*. Relatório Técnico nº 001/2024. Foz do Iguaçu:
+  CIBiogás, 2024. Licença CC BY 4.0. Disponível em:
+  https://abiogas.com.br/wp-content/uploads/protectedfiles/Panorama%20do%20Biog%C3%A1s%202023%20-%20CIbiog%C3%A1s%20(2024).pdf.
+  Acesso em: 2 out. 2026.
+- ABEGÁS. *Brasil registrou 1633 plantas de biogás em 2024* (sobre o Panorama do Biogás no Brasil
+  2024, CIBiogás). Disponível em: https://www.abegas.org.br/arquivos/95755. Acesso em: 2 out. 2026.
+- ABEGÁS. *Brasil encerra 2025 com 1,8 mil usinas de biogás, aponta entidade* (sobre o Panorama do
+  Biogás no Brasil 2025, CIBiogás). Disponível em: https://www.abegas.org.br/arquivos/99980.
+  Acesso em: 2 out. 2026.
 - AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS (ANP). *Série histórica do
   levantamento de preços de combustíveis* (mensal, por estado, desde jan/2013). Brasília, 2026.
   Disponível em: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos.

@@ -1,0 +1,720 @@
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+              01
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+                                                                          Equipe Técnica
+       Essa publicação está sob a licença Creative Commons
+       Atribuição 4.0 Internacional (CC BY 4.0).                          Marco Aurélio Kasmin Corrêa
+                                                                          CIBiogás
+       Todos os dados e as informações que constam neste relatório
+       foram compilados e cuidadosamente revisados pelos autores.         Nicolas Berhorst
+       Nem o CIBiogás ou os autores podem ser responsabilizados           CIBiogás
+       por qualquer reivindicação, perda ou prejuízo direto ou indireto
+       resultante do uso ou confiança depositada sobre as informações
+       contidas neste relatório, ou direta ou indiretamente resultante    Revisores
+       de eventuais erros, imprecisões ou omissões de informações
+       nele presentes.                                                    Felipe Souza Marques
+                                                                          CIBiogás/UNIDO
+       É permitida a reprodução, divulgação total ou parcial e a
+       distribuição para fins não comerciais deste documento              Yelva Cristina de Amorim Cubas
+       (incluindo estudo e pesquisa e a transferência de dados            CIBiogás
+       para sistemas de armazenamento de mídia), desde que o
+       CIBiogás seja citado como fonte da informação. Para outros
+       usos comerciais, incluindo duplicação, reprodução ou
+       distribuição de todo ou partes deste documento, é necessário
+                                                                          Arte e diagramação
+       o consentimento escrito do CIBiogás.                               Código BR Marketing
+                                                                          codigobr.com.br
+       Ficha catalográfica
+       Centro Internacional de Energias Renováveis – Biogás
+       Panorama do Biogás no Brasil 2023. CIBiogás (Brasil)
+       Relatório Técnico nº 001/2024 – Foz do Iguaçu, CIBiogás, 2024.
+       22p. il. color.
+       1. Panorama. 2. Energia. 3. Biogás. 4. Biometano.
+       5. Desenvolvimento sustentável.
+       I. CIBiogás. II Título.
+       v3.8
+
+
+                                                                                                           02
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+     Mensagem da Diretoria
+
+      Caro leitor,                                                   Nessa nova edição podemos identificar o fortalecimento do
+                                                                     biometano como estratégia de aproveitamento energético
+      Mais uma publicação do Panorama chegando para você, com
+                                                                     do biogás, e demonstra todo o potencial que ainda pode ser
+      os dados mais recentes do setor de biogás e biometano do ano
+                                                                     explorado nessa área.
+      de 2023 no Brasil, cuidadosamente compilados e trabalhados
+      pela equipe técnica do CIBiogás nesta nova edição.             As condições climáticas exigem mudanças de hábitos e de
+                                                                     novos investimentos para impulsionar empreendimentos
+      O Panorama do Biogás no Brasil surgiu como meio de
+                                                                     mais sustentáveis e o CIBiogás segue na frente para minimizar
+      apresentarmos ao grande público o quanto o setor vem
+                                                                     impactos e prover a todos um mundo mais justo, com biogás.
+      crescendo, além de compartilhar sobre a distribuição em
+                                                                     Vêm conosco conhecer a força e impacto dessa importante
+      todo o território nacional e o quanto a fonte contribui para
+                                                                     fonte de energia.
+      impulsionar uma matriz energética mais limpa no Brasil. São
+      dez anos de publicação que demonstram de maneira clara         Boa leitura.
+      o desenvolvimento dessa importante fonte sustentável de
+      energia.
+
+
+
+
+                                                                     Rafael Hernando de      Felipe Souza Marques          Michelli Fregnani
+                                                                      Aguiar González        Diretor de Desenvolvimento           Diretora
+                                                                        Diretor Presidente           Tecnológico          Administrativo-Financeira
+
+
+
+
+                                                                                                                                                      03
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+   Sumário
+   Metodologia                             05   Distribuição Espacial da Capacidade
+                                                Instalada para Produção de Biogás        13
+   Visão Geral                             06
+                                                Origem por Substrato e Destino
+   Evolução do Setor em 10 anos            07
+                                                por Principal Aplicação                  14
+   Por Substrato: Volume de produção
+                                                Número Plantas pelo Brasil               15
+   e número de plantas                     08
+                                                Volume por Estado (Milhões de Nm³/ano)   15
+   Por Principal Uso: Volume de produção
+   e número de plantas                     08   Visão Geral do Biometano                 16
+   Plantas por Status Operacional          08   Case: UBE                                17
+   Número de plantas nos 10 estados             Equipe CIBiogás                          19
+   mais representativos                    09
+                                                Agradecimentos                           20
+   Aproveitamento Energético do Biogás     10
+   Case: Aggreko                           11
+
+
+
+
+                                                                                              04
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+   Metodologia
+   O Panorama do Biogás no Brasil 2023 compila as informações         panorama atual, pois alguns dados que haviam sido estimados
+   obtidas sobre as plantas de biogás e biometano brasileiras no      de plantas que estavam em implantação, passaram a ser dados
+   ano de 2023. Realizado pelo CIBiogás com o apoio de empresas       primários após as plantas entrarem em operação. Ocorreu
+   e instituições ligadas ao setor, este documento tem o objetivo     também a entrada de novas plantas no levantamento deste ano
+   de apresentar o cenário atual da produção e do uso energético      que tiveram sua operação iniciada antes de 2023 e não haviam
+   do biogás no país, visando avaliar o seu impacto no cenário        sido contabilizadas anteriormente.
+   energético do Brasil.
+
+   O levantamento de dados ocorreu entre os meses de
+   setembro/2023 e abril/2024, abrangendo os 26 Estados brasileiros                  Você também pode contribuir
+   e o Distrito Federal. Os dados apresentados neste documento                        com o Panorama do Biogás.
+   compreendem apenas unidades produtoras de biogás que                           Clique aqui e cadastre sua planta!
+   tiveram sua construção, operação e aplicação energética iniciada
+   até o ano de 2023. Plantas de biogás sem aplicação energética
+   não estão consideradas neste levantamento.
+
+   Também foram consultados pesquisadores e instituições de
+   pesquisa, licenças ambientais e as respostas ao formulário de
+   Captação de Plantas de Biogás, disponível no site do BiogásMap.
+
+   Embora a base de dados seja composta em grande parte por
+   números oficiais e dados primários, em casos específicos, se faz
+   necessário estimar ou calcular a produção de biogás, e isso é
+   feito de acordo com a expertise do CIBiogás, levando em conta
+   uma abordagem conservadora.
+
+   As informações apresentadas nos panoramas dos anos
+   anteriores, podem ter sofrido variação se comparados com o
+
+
+
+
+                                                                                                                                     05
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+     Visão Geral do Biogás
+
+   Total de plantas cadastradas no Biogásmap em 2023
+
+
+
+
+              1. 365             338                     4,15 bi                  +728 mi
+               plantas de
+                               novas plantas               Nm3/ano
+                                                            capacidade               Nm3/ano
+                                  em 2023                  instalada em               em 2023
+               cadastradas                                   operação
+                                                            em 2022
+
+
+
+
+                                +32%                Capacidade instalada supera
+                                                     4 Bilhões de Nm³/ano pela       +21%
+                               NOVAS PLANTAS                primeira vez          VOLUME DE BIOGÁS
+                                Em relação a 2022                                    Em relação a 2022
+
+
+
+
+                                                                                                         06
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+     Evolução do Setor em 10 Anos
+
+   Número de plantas e capacidade instalada                                                                                                                          4.339
+
+
+                                                                                                                                                                          44       4500
+                                                                                                                                                      3.748
+                                                                                                                                                                                   4000
+                                                                                                                                                                          338
+                                                                                                                                                                                    3500
+
+
+
+
+                                                                                                                                                                                              Milhões de Nm3/ano
+                                                                                                                                        2.935
+
+                                                                                                                                                              140
+                                                                                                                                                                                    3000
+                                  1600
+                                                                                                                          2.341                                                     2500
+                                  1400                                                                                                          135
+                                                                                                            1.968
+                                                                                                                                                                                    2000
+                                  1200                                                                                            124
+              Número de Plantas
+
+
+
+
+                                                                                              1.564                                                                                  1500
+                                  1000                                                                                                                                    983
+                                                                                1.292                               149                                                             1000
+                                                                                                                                                              843
+                                  800                             1.134
+                                                                                                                                                708
+                                                     1.028                                            142                                                                             500
+                                                                                                                                  584
+                                  600 736                                               56                          435                                                                   0
+                                                                          53                      293
+                                  400                                                   237
+                                                             54
+                                                                          184
+                                              27
+                                  200                       130
+                                             103                                                                                                                    983
+                                                                                                             435            584          708           843
+                                    0                                                                                                           CAGR em        A capacidade instalada para a produção
+                                                                                                                                                  5 anos:      de biogás cresceu em média 21% ao ano
+                                                                                                                                                21% a.a        acumulado dos últimos 5 anos.
+                                            Novas Plantas                       Em Implantação
+                                                                                                                                                                     *Nota: CAGR é a taxa de crescimento anual
+                                         Plantas Cadastradas                    Capacidade de produção a acumulada Nm3/ano                                           composta (compound annual growth rate).
+
+
+
+
+                                                                                                                                                                                                                   07
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+               Por substrato                                    Por principal uso                          Por operacional
+
+              Volume de produção                                 Volume de produção                         Status das unidades
+
+                                        2.658mi Nm3   2.359mi Nm3
+                                             63%
+                                                         57%                                               1.324
+                                                                                                           95%
+
+
+
+
+                                                      7,5mi Nm3
+                                                         0,1%
+                                                                                           1.712mi Nm3
+      809mi Nm3                         777mi Nm3        166mi Nm      3
+                                                                                                37%
+         20%                                17%
+                                                                4%
+
+
+
+
+                Número de Plantas                                 Número de Plantas
+
+                                                                                                                          48
+                                                                                                                           4%
+                                                                                                                                        46
+                                                                                                                                         1%
+
+
+
+
+          1.096                143          126           1.184            128     47            6
+              80%              10%          9%             86%              9%     3%           0,4%
+                                                                                                            Em operação             Em implantação
+
+                                                                                                                   Em reformulação ou reforma
+                Agropecuária            Indústria               Energia elétrica        Energia térmica
+
+                        RSU ou Esgoto                           GNR/Biometano           Energia mecânica
+
+
+
+
+                                                                                                                                                     08
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+   Número de plantas nos 10 estados mais representativos
+
+
+                                                             262                                                                    142                     54%
+
+
+                                                                       280                                                    68                24%
+
+
+                                     105                    17      16%
+
+
+                                87                    30           34%
+
+
+                           77                    34              44%
+
+
+                      59               24      41%
+
+
+                      57               22      39%
+
+
+                      57                   5    9%
+
+
+             15   4        27%
+
+
+          12 2        17%
+
+
+         0                      50                    100                    150          200              250         300                350         400         450
+
+
+                                                       Até 2022                    Novas plantas em 2023         % de crescimento de 2022 para 2023
+
+
+
+
+                                                                                                                                                                        09
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+   Aproveitamento energético do biogás,
+   projeção de produção e potencial teórico:
+
+
+                                                                                         ncial Teórico
+                                                                                     Pote
+                                                                                      84,6bi Nm³ *
+
+                                                                                         encial teór
+                                                                                      Pot curto prazico
+                                                                                       de            o
+                                                                                            bi Nm 3
+                                                                                        10,8
+
+                                                                                            ade ins
+                                                                                      p acid instala talad
+                                                                                    Ca + em         ção a
+                                                                                               i
+                                                                                             b m N
+                                                                                         4,6            3
+
+
+
+
+                                                                                         Capacidade
+                                                                                          instalada
+                                                                                     4,1bi Nm³/ano
+
+
+
+
+      *Fonte: ABIOGÁS, Associação Brasileira de Biogás e Biometano. ABiogás divulga novo potencial do biogás para o mercado brasileiro. São Paulo: ABiogás, 2021.
+      **Instituto 17 Biogás no Brasil: Potencial Oferta a Curto Prazo. Programa de Energia para o Brasil – BEP (Brasil). Relatório técnico 02-2021. São Paulo/SP: Instituto 17, 2021.
+
+
+
+
+                                                                                                                                                                                        10
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+     Case: Aggreko
+
+   2,4 MW de capacidade instalada para geração de energia a partir de biogás,
+   com um sistema de recuperação de calor para cogeração (CHP) total
+
+   A planta de cogeração da Aggreko utiliza a matéria orgânica
+   produzida pela granja de nosso parceiro para gerar o biogás
+   que alimenta nossos geradores, que fornecem energia para as          Dados da Planta
+   instalações do cliente e ainda há energia disponível para vender
+   o restante para o sistema elétrico. Ao mesmo tempo, os geradores
+                                                                          Córdoba, Argentina
+   produzem calor que é reutilizado para manter os biodigestores
+                                                                          Setembro, 2022
+   na temperatura adequada, a fim de evitar custos adicionais para
+   o consumo de diesel na caldeira.                                       Resíduos de granjas agrícolas
+   Após o processo de decomposição, que gera o biogás, os
+   biodigestores produzem um efluente líquido que é reutilizado           2,4 MW com biogás
+   para irrigar o terreno da planta e o campo vizinho, onde também
+                                                                          2.488MWth
+   plantam milho, que depois é convertido em alimento para o
+   feedlot.
+
+   E o círculo continua: o guano produzido é continuamente
+   coletado e transferido para os biodigestores para produzir biogás.
+   Outro substrato sólido também é obtido dos biodigestores,
+   que serão usados para produzir um biofertilizante sólido para
+   ser comercializado. Desta forma, a fábrica não gera nenhum
+   desperdício: tudo é transformado em recurso.
+
+
+
+
+                                                                                                          11
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+       Diferenciais do projeto
+       • O sistema de cogeração da Aggreko utiliza o calor da água do
+       motor (água da jaqueta) e o calor dos gases de escape dos geradores
+       instalados para aquecer a água no circuito do biodigestor do cliente.
+
+       • A Aggreko fornece água quente para o processo de pasteurização
+       do substrato orgânico antes de entrar nos biodigestores e para a
+       manutenção dos substratos utilizados para a produção de biogás.
+
+       • Sob as condições do local, está disponível uma eficiência total
+       (geração de eletricidade + geração térmica) de mais de 80%.
+
+
+
+
+                                                                               12
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+     Mapa de Calor
+
+   Distribuição Espacial da
+   Capacidade Instalada para
+   Produção de Biogás
+
+
+
+
+                                       Plantas de Biogás
+
+                                  Baixa              Alta
+                               concentração      concentração
+
+
+
+
+                                                                13
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+   Origem por substrato e destino
+   por principal aplicação
+
+
+                                    Energia Térmica
+      Agropecuária                   4%
+                  17%
+
+
+
+
+              Indústria             GNR / Biometano
+                                     38%
+                  20%
+
+
+
+
+     RSU ou Esgoto
+                  63%
+                                    Energia Elétrica
+                                    57%
+
+
+
+
+                                                       14
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+                 Número de plantas                                                                               Volume por Estado
+                    pelo Brasil                                                                                             (Milhões de Nm³/ano)
+
+
+
+
+                       1                                                    12                                        26                                                   153
+                                           1               1                                                                                  5              14
+                                                                                    1                                                                                            26
+                                                                                    13                                                                                           73
+                           9                         4                            4                                         6                          4                         44
+                                                                 6                                                                                                 124
+                                     57                                                                                                 153
+
+                                               108                                                                                                86
+            Plantas de Biogás                              341                                              Volume por Estado                                425
+                                     80                               13                                                                202                              45
+        1                      391                                                                      1                       1.581
+
+                                                                     19                                                                                              565
+                                           391           108                                                                                  461          1.581
+
+                                                     119                                                                                               152
+                                          71                                                                                              249
+                                                                            Maiores médias de
+                                                                            produção de biogás
+
+
+                                                                     Rio de Janeiro      Pernambuco           São Paulo
+                                                                          29mi Nm3/ano    19mi Nm3ano        14mi Nm3/ano
+                                                                           por unidade    por unidade         por unidade
+
+
+
+
+                                                                                                                                                                                      15
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+     Visão Geral do Biometano
+
+   Total de plantas cadastradas no Biogásmap em 2023
+
+
+
+
+                   50                                                                                         4
+                 plantas de                  7                     580 mi                                   plantas
+                                        novas plantas                 Nm3 de                               em instalação
+               BIOMETANO                                                                                    que somam
+                                           em 2023                  BIOMETANO                           114 mi Nm3
+                 cadastradas
+                                                                         em 2022
+
+
+
+
+                                         +16%                      CAGR* do volume
+                                                                  foi 27,8% em 5 anos.
+                                                                                                            +19%
+                                        NOVAS PLANTAS                                                 VOLUME DE BIOMETANO
+                                         Em relação a 2022     *CAGR é a taxa de crescimento anual          Em relação a 2022
+                                                             composta (compound annual growth rate)
+
+
+
+
+                                    6
+
+
+                                                                             Em operação (não comercial)
+                                                                            Autorizada pela ANP
+                                                                            Em autorização pela ANP
+
+
+                                                             21
+                               23
+
+
+                                                                                                                                16
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+     Case: UBE
+
+   Impulsionando a Sustentabilidade:
+   Ube e sua colaboração com 3DI Biogás e JBS para produção de biometano
+
+   Há cerca de um ano, a 3DI Biogás viu-se diante de um novo marco   uma variedade de aplicações, incluindo a geração de nitrogênio,
+   em sua jornada quando uma de suas instalações, integrada à        separação de hidrogênio, desidratação etanol, além da separação
+   unidade de processamento de carnes da Friboi/JBS, começou sua     de CO2 para refino do biogás.
+   produção de biometano. Com capacidade para refinar 500Nm³/h
+                                                                     O mercado de membranas para separação de CO2 tem
+   de biogás, a planta se destaca com uma produção mensal atual
+                                                                     testemunhado um crescimento substancial, especialmente na
+   de aproximadamente 250.000 Nm³ de biometano. A colaboração
+                                                                     Europa e América do Norte, impulsionado pela crescente demanda
+   da UBE foi essencial nesse processo, fornecendo membranas que
+                                                                     por energia renovável. No Brasil, o mercado de biometano
+   desempenharam um papel fundamental no upgrade do biogás
+                                                                     também está em ascensão, impulsionando investimentos em
+   para biometano.
+                                                                     projetos como o da Friboi/JBS.
+   Os resultados excederam as expectativas. Com o biogás composto
+                                                                     No último ano, somando a produtividade da JBS com as operações
+   por 75,5% de CH4 e 23,3% de CO2, após o refino usando as
+                                                                     na AmBev, a 3DI Biogás disponibilizou, para estas indústrias, um
+   membranas da UBE, o biometano resultante apresenta uma
+                                                                     total de 9,3 milhões de Nm³ de biometano, usando a tecnologia
+   concentração média de 96,6% de CH4. Além disso, as membranas
+                                                                     de membranas da UBE. Este volume representa 210 mil toneladas
+   apresentam uma notável resistência ao gás sulfídrico (H2S),
+                                                                     de CO2 que tiveram seu ciclo de carbono estendido na cadeia
+   suportando concentrações de até 3% do volume (30.000 ppm), o
+                                                                     produtiva de alimentos e bebidas.
+   que contribuiu para uma significativa redução da concentração
+   de H2S no biometano final, de 1.100 ppm para 3 ppm.               A UBE desempenhou um papel importante não apenas como
+                                                                     fornecedora de tecnologia de membranas, mas também com
+   A visão de futuro da UBE é ambiciosa, com planos de quase
+                                                                     o suporte técnico essencial para dimensionamento e operação
+   dobrar a capacidade de produção de filamentos de poliimida,
+                                                                     dos sistemas em todos esses projetos. Isso reflete o compromisso
+   usados na fabricação das membranas, em suas instalações na
+                                                                     contínuo da UBE em promover uma transição positiva na matriz
+   Ube Chemical Factory, no Japão, até 2025. As membranas UBE
+                                                                     energética do país e impulsionar a produção de biometano.
+   são reconhecidas por sua durabilidade excepcional e possuem
+
+
+
+                                                                                                                                        17
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+       A valorização do potencial do biometano como uma fonte de energia renovável obtida através
+       do tratamento de resíduos orgânicos, motiva o compromisso da empresa com o avanço da
+       sustentabilidade ambiental. A UBE reconhece a importância fundamental de sua tecnologia
+       na produção de biometano, assegurando eficiência, segurança e conformidade com os
+       padrões estabelecidos pela ANP (Agência Nacional do Petróleo). O biometano gerado através
+       das membranas UBE oferece uma alternativa versátil e complementar ao gás natural e ao
+       diesel, impulsionando a transição para um futuro energético mais limpo e sustentável.
+
+
+
+
+                                                                                                    18
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+   Equipe CIBiogás
+
+
+
+
+                     19
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+   Agradecimentos
+   O presente relatório é resultado do esforço empreendido pelo Centro Internacional de Energias Renováveis – CIBiogás em parceria com
+   diversas empresas e instituições. Reconhecemos o apoio de diversas organizações do setor e fica o nosso agradecimento a dezenas de
+   produtores rurais, pesquisadores, operadores de plantas, consultores e membros de associações, de empresas, de órgãos de governo
+   e centros de pesquisa. Sem sua disponibilidade e apoio não seria possível obtermos os resultados deste levantamento.
+
+
+
+
+                                                                                                  BIO
+
+
+
+
+                                                                                                                                         20
+PANORAMA DO
+BIOGÁS 2023
+
+
+
+
+              21
+

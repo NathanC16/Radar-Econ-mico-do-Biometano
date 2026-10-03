@@ -12,6 +12,7 @@ Fontes:
 - ANP — Dados Abertos de Biometano (produção por UF, jan/2020–ago/2026);
 - ANP — Levantamento de Preços de Combustíveis (diesel S10 e GNV por estado);
 - IBGE — Pesquisa da Pecuária Municipal (rebanhos por estado);
+- CIBiogás — Panorama do Biogás no Brasil (plantas de biogás por estado, BiogásMap);
 - site oficial da 4WaTT (4watt.tech).
 O cadastro completo (links e arquivos de cada fonte) está em dados/fontes.json.
 
@@ -167,6 +168,8 @@ uf_mes = carregar("producao_por_uf_anp_mensal.csv")      # ANP: produção por U
 usinas = carregar("usinas_anp_2026_08.csv")               # ANP: 21 usinas autorizadas (ago/26)
 pecuaria = carregar("potencial_pecuaria_uf_ibge.csv")     # IBGE PPM: rebanhos e potencial por UF
 precos = carregar("precos_combustiveis_uf_mensal.csv")    # ANP: diesel S10 e GNV por UF
+cib_uf = carregar("plantas_biogas_uf_cibiogas.csv")       # CIBiogás: plantas de biogás por UF
+cib_br = carregar("biogas_brasil_cibiogas.csv")           # CIBiogás: totais nacionais por edição
 REGIOES = ["Norte", "Nordeste", "Centro-Oeste", "Sudeste", "Sul"]
 go_fonte = carregar("potencial_biogas_goias.csv")
 go_mun = carregar("potencial_biogas_goias_municipios.csv")
@@ -681,7 +684,7 @@ certificada no RenovaBio."""
 # ======================================================================= 4
 with aba4:
     st.subheader("Onde está a oportunidade: potencial, preço e Goiás")
-    fontes_da_aba("ibge", "anp_precos", "goias")
+    fontes_da_aba("ibge", "cibiogas", "anp_precos", "goias")
 
     # ---------------------------------------------------------- potencial pecuário (IBGE)
     st.markdown("#### Potencial de biogás da pecuária por estado")
@@ -740,6 +743,70 @@ with aba4:
 os líderes são {lideres}; **Goiás é o {go_pos}º do Brasil** e não tem nenhuma usina de biometano
 autorizada. O destaque goiano são as **vacas ordenhadas ({pos_go['vacas ordenhadas']}º do país)**; o estado
 fica em {outros}. São dejetos que a matriz de resíduos da 4WaTT atende.""")
+
+    # ---------------------------------------------------------- plantas de biogás (CIBiogás)
+    st.markdown("#### O biogás já existe: plantas de biogás × usinas de biometano")
+    if fonte_ativa("cibiogas"):
+        cb = {(r.ano, r.indicador): r.valor for r in cib_br.itertuples()}
+        go_cib = cib_uf[cib_uf.uf == "GO"].set_index("ano")["plantas_biogas"]
+        ano_r = int(cib_uf.loc[cib_uf.plantas_biogas.notna(), "ano"].max())
+        rank_r = cib_uf[(cib_uf.ano == ano_r) & cib_uf.plantas_biogas.notna()].reset_index(drop=True)
+        go_pos_cib = int(rank_r.index[rank_r.uf == "GO"][0]) + 1
+        n_biomet_uf = usinas.groupby("uf").size() if "anp" in fontes_sel else None
+        k = st.columns(4)
+        k[0].metric(f"Plantas de biogás ({ano_r})", br(cb[(ano_r, "plantas_biogas")]))
+        k[0].caption("no Brasil, com aproveitamento energético (em operação ou implantação)")
+        k[1].metric(f"Plantas de biometano ({ano_r - 1})", br(cb[(ano_r - 1, "plantas_biometano")]),
+                    help="Cadastradas no BiogásMap, em operação ou implantação (inclui as não autorizadas pela ANP).")
+        k[1].caption(f"{br(cb[(ano_r - 1, 'plantas_biometano')] / cb[(ano_r - 1, 'plantas_biogas')] * 100, 1)}% "
+                     f"das {br(cb[(ano_r - 1, 'plantas_biogas')])} plantas de biogás de {ano_r - 1}")
+        k[2].metric(f"Biogás → biometano ({ano_r})", f"{br(cb[(ano_r, 'pct_biogas_biometano')])}%")
+        k[2].caption(f"do volume de biogás; {br(cb[(ano_r, 'pct_biogas_energia_eletrica')])}% vai para energia elétrica")
+        k[3].metric(f"Plantas em Goiás ({ano_r})", br(go_cib[ano_r]))
+        k[3].caption(f"de biogás; {go_pos_cib}º estado do país em número de plantas")
+
+        anos = sorted(cib_uf.loc[cib_uf.plantas_biogas.notna(), "ano"].unique())
+        ufs = (cib_uf[cib_uf.ano == anos[-2]].dropna(subset=["plantas_biogas"])
+               .sort_values("plantas_biogas")["uf"].tolist())
+        rot = {u: (f"{u} · {int(n_biomet_uf.get(u, 0))} biometano" if n_biomet_uf is not None else u)
+               for u in ufs}
+        fig = go.Figure()
+        for ano, cor in zip(anos, [CINZA, VERDE_CLARO, VERDE]):
+            q = cib_uf[(cib_uf.ano == ano)].set_index("uf").reindex(ufs)
+            fig.add_trace(go.Bar(
+                y=[rot[u] for u in ufs], x=q["plantas_biogas"], name=str(ano), orientation="h",
+                marker_color=[ROXO if (u == "GO" and ano == anos[-1]) else cor for u in ufs],
+                text=[br(v) if pd.notna(v) else "" for v in q["plantas_biogas"]], textposition="outside",
+                textfont=dict(size=11), cliponaxis=False, customdata=q["estado"],
+                hovertemplate="%{customdata} · " + str(ano) + ": %{x} plantas de biogás<extra></extra>",
+            ))
+        estilo(fig, 520, legenda=True)
+        fig.update_layout(barmode="group", bargap=0.25, uniformtext=dict(minsize=11, mode="show"),
+                          legend=dict(orientation="h", y=1.02, yanchor="bottom", x=0, traceorder="normal"))
+        fig.update_xaxes(title="plantas de biogás com aproveitamento energético", gridcolor=GRADE,
+                         range=[0, cib_uf["plantas_biogas"].max() * 1.12])
+        mostrar(fig)
+        st.caption(
+            f"Os 10 estados com mais plantas no Panorama 2023 ({anos[0]} e {anos[1]}); para {anos[-1]}, a "
+            "CIBiogás divulgou só os 5 primeiros. Cada edição revisa os anos anteriores. "
+            + "Goiás em destaque. "
+            + ("Ao lado da sigla: usinas de biometano autorizadas pela ANP em "
+               f"{rotulo_periodo(ult['periodo'])}. " if n_biomet_uf is not None else "")
+            + "Fonte: CIBiogás — Panorama do Biogás no Brasil 2023 (CC BY 4.0) e 2025 (números divulgados "
+              "pela ABEGÁS).")
+        c23 = (cib_uf[cib_uf.ano == 2023].set_index("uf")["plantas_biogas"]
+               / cib_uf[cib_uf.ano == 2022].set_index("uf")["plantas_biogas"] - 1).dropna().sort_values(ascending=False)
+        pos_c = list(c23.index).index("GO") + 1
+        with st.container(border=True, key="insight_cib"):
+            st.markdown(
+                f"""**🎯 Insight para a 4WaTT.** O Brasil tem **{br(cb[(ano_r, 'plantas_biogas')])} plantas de
+biogás** ({ano_r}); no levantamento de {ano_r - 1}, só {br(cb[(ano_r - 1, 'plantas_biometano')])} de
+{br(cb[(ano_r - 1, 'plantas_biogas')])} (**{br(cb[(ano_r - 1, 'plantas_biometano')] / cb[(ano_r - 1, 'plantas_biogas')] * 100, 0)}%**)
+eram de biometano, e a maior parte do biogás ainda vira energia elétrica. **Goiás é o {go_pos_cib}º estado em plantas de biogás ({br(go_cib[ano_r])})**, com alta de
+{pct(c23["GO"] * 100, 0, sinal=False)} em 2023 — {"a maior" if pos_c == 1 else f"a {pos_c}ª maior"} entre os
+10 estados com mais plantas —, e nenhuma usina de biometano autorizada pela ANP. O mercado mais próximo não é só a usina nova: é **converter
+plantas de biogás existentes em biometano** (purificação e compressão), com a matéria-prima e o
+biodigestor já em operação.""")
 
     # ---------------------------------------------------------- preço dos concorrentes (ANP)
     st.markdown("#### Quanto vale 1 m³ de biometano: diesel × GNV")
@@ -817,7 +884,7 @@ argumento de viabilidade é a troca de diesel, com o biometano levado por caminh
         k[1].metric(f"Potencial de biometano ({UN})", br(1.7e9 / 365 / 1000))
         k[1].caption(f"≈ {br(1.7e9 / 365 / 1000 / total_nac, 1)}× a produção nacional de {ult['rotulo']}")
         k[2].metric("Plantas de biogás em Goiás", "~122")
-        k[2].caption("112 agropecuárias · 7 industriais · 3 RSU/esgoto (CIBiogás 2025, citado no estudo)")
+        k[2].caption("112 agropecuárias · 7 industriais · 3 RSU/esgoto (CIBiogás, fim de 2024, citado no estudo)")
         k[3].metric("Biometano em projeto (Nm³/d)", "21.620")
         k[3].caption("Plantas em Edéia e Rio Verde (dados ANP citados no estudo)")
 
@@ -977,9 +1044,10 @@ logo abaixo do título, de quais fontes depende.
 | 2 | **ANP — Dados Abertos de Biometano** (produção por UF e capacidade por usina, jan/2020–ago/2026) | Série histórica nacional; linha de 2025; validação cruzada dos números do boletim |
 | 3 | **ANP — Levantamento de Preços de Combustíveis** (série mensal por estado, 2020–2026) | Diesel S10 e GNV por estado; valor de 1 m³ de biometano como substituto |
 | 4 | **IBGE — Pesquisa da Pecuária Municipal** (rebanhos por estado, 2025) | Potencial de biogás da pecuária em todos os estados |
-| 5 | Governo de Goiás (SGG) / CBIE Advisory — *Panorama do Biometano em Goiás* (2026), estudo do PEEG 2030 | Potencial de biogás por fonte e município em Goiás; plantas de biogás (CIBiogás 2025) e de biometano em desenvolvimento no estado |
-| 6 | Site oficial da 4WaTT (4watt.tech) — página inicial, *Solução Biogás* e páginas de cases | Portfolio de projetos da organização |
-| 7 | Code for America — malha GeoJSON das UFs | Mapas |
+| 5 | **CIBiogás — Panorama do Biogás no Brasil** (BiogásMap): edição 2023 (licença CC BY 4.0) e números das edições 2024 e 2025 divulgados pela ABEGÁS | Plantas de biogás por estado e no Brasil; parcela do biogás que vira biometano |
+| 6 | Governo de Goiás (SGG) / CBIE Advisory — *Panorama do Biometano em Goiás* (2026), estudo do PEEG 2030 | Potencial de biogás por fonte e município em Goiás; plantas de biogás (CIBiogás 2025) e de biometano em desenvolvimento no estado |
+| 7 | Site oficial da 4WaTT (4watt.tech) — página inicial, *Solução Biogás* e páginas de cases | Portfolio de projetos da organização |
+| 8 | Code for America — malha GeoJSON das UFs | Mapas |
 
 ### Premissas e convenções
 - **Unidade:** o boletim usa **Mm³/d = mil m³ por dia** (notação ANP/MME); o painel exibe "mil m³/d".
@@ -1018,6 +1086,10 @@ logo abaixo do título, de quais fontes depende.
 - **Cobertura:** a ANP registra só as usinas **autorizadas** por ela. Estudo do BNDES (2024) estima
   ~400 mil m³/d produzidos em 2022 por 20 plantas com purificação, contra média de ~183 mil m³/d
   das 4–5 usinas autorizadas na série da ANP — o volume fora da regulação não aparece aqui.
+- **Plantas de biogás (CIBiogás):** o e-book das edições 2024 e 2025 só é entregue após cadastro;
+  os números usados dessas edições são os divulgados pela ABEGÁS. Para 2025 há só os 5 estados com
+  mais plantas. O cadastro da CIBiogás inclui plantas que não são autorizadas pela ANP (por isso
+  a produção de biometano de 2025 que ela informa, 1,06 milhão de m³/d, é maior que a da ANP).
 - O mapa do portfolio usa coordenadas aproximadas (sede do município).
 - Dados de referência: **agosto/2026** (boletim publicado em 28/09/2026).
 

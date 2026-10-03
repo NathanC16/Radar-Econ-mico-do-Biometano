@@ -24,7 +24,8 @@ Outros comandos (a partir da raiz do projeto):
 .venv/bin/python dados/preparar_anp.py            # (re)gera as bases da ANP a partir dos CSVs brutos
 .venv/bin/python dados/preparar_precos_anp.py     # preços de combustíveis por estado (ANP)
 .venv/bin/python dados/preparar_ibge.py 2025      # rebanhos por estado (IBGE) e potencial da pecuária
-.venv/bin/python notebook/validar_dados.py        # 83 verificações dos dados contra as fontes (7 exigem o PDF do estudo de Goiás, que fica fora do Git)
+.venv/bin/python dados/preparar_cibiogas.py       # plantas de biogás por estado e no Brasil (CIBiogás)
+.venv/bin/python notebook/validar_dados.py        # 91 verificações dos dados contra as fontes (7 exigem o PDF do estudo de Goiás, que fica fora do Git)
 .venv/bin/python apresentacao/gerar_slides.py     # regera apresentacao/apresentacao_oral.pptx
 .venv/bin/python -m ipykernel install --user --name pi5a   # kernel para abrir o notebook de EDA
 ```
@@ -46,6 +47,7 @@ Outros comandos (a partir da raiz do projeto):
 | `app/app.py` | Aplicação Streamlit (7 abas + filtros; tema claro e escuro) |
 | `dados/fontes.json` | Cadastro das fontes de dados (nome, link e CSVs de cada uma) — alimenta o filtro *Fontes de dados* do painel; para incluir uma fonte nova, basta cadastrá-la aqui |
 | `dados/preparar_anp.py` | Gera as bases da ANP (por UF, por usina e série nacional) a partir dos dados abertos brutos |
+| `dados/preparar_precos_anp.py` · `preparar_ibge.py` · `preparar_cibiogas.py` | Geram as bases de preços (ANP), rebanhos (IBGE) e plantas de biogás (CIBiogás) |
 | `.streamlit/config.toml` | Tema visual do painel |
 | `dados/brutos/` | Materiais brutos: boletim IEPUC (PDF + extração de texto), páginas do site 4WaTT (HTML + texto), GeoJSON de estados (Code for America). Origem e data de coleta em `dados/brutos/LEIA-ME_fontes.md` |
 | `dados/limpos/` | Bases estruturadas em CSV usadas pelo app + GeoJSON processado (`geojson_brasil_ufs.geojson`, com `id = sigla da UF`) |
@@ -67,6 +69,11 @@ Outros comandos (a partir da raiz do projeto):
   https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos
 - **IBGE — Pesquisa da Pecuária Municipal** (rebanhos por estado, via API SIDRA, tabelas 3939 e 94):
   https://sidra.ibge.gov.br/tabela/3939 e https://sidra.ibge.gov.br/tabela/94
+- **CIBiogás — Panorama do Biogás no Brasil** (levantamento BiogásMap): edição 2023 (Relatório
+  Técnico nº 001/2024, licença CC BY 4.0):
+  https://abiogas.com.br/wp-content/uploads/protectedfiles/Panorama%20do%20Biog%C3%A1s%202023%20-%20CIbiog%C3%A1s%20(2024).pdf ·
+  edições 2024 e 2025 (e-book liberado só com cadastro; números divulgados pela ABEGÁS):
+  https://www.abegas.org.br/arquivos/95755 · https://www.abegas.org.br/arquivos/99980
 - **Governo de Goiás (SGG) / CBIE Advisory**, *Panorama do Biometano em Goiás* (2026), estudo do
   Plano Estadual de Energia de Goiás 2030:
   https://goias.gov.br/governo/wp-content/uploads/sites/11/2026/02/Panorama-do-Biometano-em-Goias.pdf

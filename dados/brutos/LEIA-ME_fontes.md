@@ -12,6 +12,8 @@
 | `anp_abertos/` | ANP — Dados Abertos de Biometano (zip com 2 CSVs) — ver `anp_abertos/PROVENIENCIA.md` | 02/10/2026 |
 | `anp_precos/mensal-estados-desde-jan2013.xlsx` (não versionado; baixado por `dados/preparar_precos_anp.py`) | https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/mensal/mensal-estados-desde-jan2013.xlsx | 02/10/2026 |
 | `ibge/ppm_2025.json`, `ibge/ppm_2023.json` | IBGE — API SIDRA, tabelas 3939 (rebanhos) e 94 (vacas ordenhadas), gerados por `dados/preparar_ibge.py` | 02/10/2026 |
+| `cibiogas/panorama_biogas_brasil_2023.pdf` (+ `.txt` extraído com `pdftotext -layout`) | CIBiogás — *Panorama do Biogás no Brasil 2023* (Relatório Técnico nº 001/2024), licença CC BY 4.0: https://abiogas.com.br/wp-content/uploads/protectedfiles/Panorama%20do%20Biog%C3%A1s%202023%20-%20CIbiog%C3%A1s%20(2024).pdf (pág. 9: plantas nos 10 maiores estados; págs. 6 e 16: totais) | 02/10/2026 |
+| `cibiogas/abegas_panorama_biogas_2024.txt`, `cibiogas/abegas_panorama_biogas_2025.txt` | Trechos das notícias da ABEGÁS sobre o *Panorama do Biogás no Brasil* 2024 e 2025 (o e-book só é liberado com cadastro no site da CIBiogás): https://www.abegas.org.br/arquivos/95755 · https://www.abegas.org.br/arquivos/99980 | 02/10/2026 |
 | `brazil-states.geojson` | https://github.com/codeforamerica/click_that_hood/blob/master/public/data/brazil-states.geojson | 01/10/2026 |
 | `links_4watt.txt` | Links internos do site 4watt.tech (mapa das páginas consultadas) | 01/10/2026 |
 

@@ -222,11 +222,12 @@ body(s, [
 s = novo("Método e stack (100% open source)")
 body(s, [
     ("Fontes: Boletim IEPUC-PUC-Rio ago/2026 (ANP · MME · B3) · dados abertos da ANP (produção, usinas e "
-     "preços de combustíveis) · IBGE (rebanhos) · Panorama do Biometano em Goiás · site da 4WaTT", {}),
+     "preços de combustíveis) · IBGE (rebanhos) · CIBiogás (plantas de biogás) · Panorama do Biometano em "
+     "Goiás · site da 4WaTT", {}),
     ("", {}),
-    ("Pandas → 16 bases (CSV)   |   Plotly → gráficos interativos   |   Streamlit → painel com 7 abas, filtros e tema escuro",
+    ("Pandas → 18 bases (CSV)   |   Plotly → gráficos interativos   |   Streamlit → painel com 7 abas, filtros e tema escuro",
      {"bold": True}),
-    ("Qualidade: 83 verificações automatizadas — busca de cada valor no texto dos PDFs e validação "
+    ("Qualidade: 91 verificações automatizadas — busca de cada valor no texto dos PDFs e validação "
      "cruzada IEPUC × dados abertos da ANP (diferença < 0,5 mil m³/d em 2026)", {}),
     ("Reprodutível: requirements.txt + README + notebook de EDA + cópia das fontes em dados/brutos/", {}),
     ("Unidade do boletim: Mm³/d = mil m³ por dia (no painel: \"mil m³/d\").", {"size": 14, "color": GRAY}),
@@ -243,6 +244,7 @@ tabela(s, [
     ["Contratos e transações anunciadas", "Prova de demanda para EVTE e investidores"],
     ["CBio: preço e intensidade de carbono", "Segunda receita por m³ na tese de viabilidade"],
     ["Potencial da pecuária por estado (IBGE)", "Goiás frente ao país: onde estão os dejetos"],
+    ["Plantas de biogás por estado (CIBiogás)", "Base instalada que pode virar biometano"],
     ["Diesel × GNV por estado (ANP, R$/m³ eq.)", "Quanto o cliente economiza ao trocar de combustível"],
     ["Potencial de biogás em Goiás (fonte × município)", "Priorização da prospecção no estado-sede"],
 ], top=1.7, larguras=[6.0, 6.0], size=14)
@@ -284,7 +286,8 @@ body(s, [
     ("•  Goiânia (sede e CEASA) é o maior potencial de RSU do estado → vitrine para replicar o modelo", {}),
     ("•  Pecuária dispersa → plantas descentralizadas de médio porte: formato EPC + O&M", {}),
     ("•  Sucroenergético (Goiatuba, Edéia, Mineiros, Caçu) → frente de maior escala, via parcerias", {}),
-    ("•  Brasil (IBGE): GO é o 5º estado em potencial pecuário e o 2º em vacas ordenhadas", {}),
+    ("•  Brasil: GO é o 5º em plantas de biogás (131, CIBiogás 2025) e em potencial pecuário (IBGE) — "
+     "e não produz biometano: conversão de plantas existentes", {}),
     ("•  Sem mercado de GNV em GO: 1 m³ de biometano substitui ≈ R$ 6,12 em diesel — acima do GNV de qualquer estado (set/26)", {}),
 ], top=4.2, size=17)
 
@@ -382,7 +385,7 @@ run.font.size = Pt(44); run.font.bold = True; run.font.color.rgb = RGBColor(0xFF
 p2 = tb.text_frame.add_paragraph()
 run2 = p2.add_run()
 run2.text = ("Código: github.com/NathanC16/Radar-Econ-mico-do-Biometano · Dados públicos: IEPUC-PUC-Rio, "
-             "ANP, IBGE, Governo de Goiás e site da 4WaTT")
+             "ANP, IBGE, CIBiogás, Governo de Goiás e site da 4WaTT")
 run2.font.size = Pt(15); run2.font.color.rgb = RGBColor(0xC9, 0xB8, 0xC6)
 
 # metadados do arquivo (o modelo padrão da biblioteca traz valores genéricos)

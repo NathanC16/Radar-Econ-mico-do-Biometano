@@ -322,6 +322,43 @@ else:
     for trecho in ["122 plantas", "21.620 Nm³/dia", "124 milhões de m³/ano (34,0% do total)"]:
         check(f"bruto: goiás — '{trecho}' aparece no estudo", trecho in panorama.replace("\n", " "))
 
+# ---------------------------------------------------------------- CIBiogás (plantas de biogás)
+cu = pd.read_csv(BASE / "plantas_biogas_uf_cibiogas.csv")
+cb = pd.read_csv(BASE / "biogas_brasil_cibiogas.csv")
+cbd = {(r.ano, r.indicador): r.valor for r in cb.itertuples()}
+cib23 = (BRUTOS / "cibiogas" / "panorama_biogas_brasil_2023.txt").read_text(encoding="utf-8")
+cib25 = " ".join((BRUTOS / "cibiogas" / "abegas_panorama_biogas_2025.txt").read_text(encoding="utf-8").split())
+cib24 = " ".join((BRUTOS / "cibiogas" / "abegas_panorama_biogas_2024.txt").read_text(encoding="utf-8").split())
+_p = {(r.ano, r.uf): r.plantas_biogas for r in cu.itertuples()}
+# gráfico da pág. 9 (Panorama 2023): "até 2022 · novas em 2023 · crescimento %" na mesma linha do texto
+_lin = [l.split() for l in cib23.split("Número de plantas nos 10 estados mais representativos")[1]
+        .split("Até 2022")[0].splitlines() if l.strip().endswith("%")]
+_ok = all([str(int(_p[(2022, uf)])), str(int(_p[(2023, uf)] - _p[(2022, uf)])),
+           f"{round((_p[(2023, uf)] / _p[(2022, uf)] - 1) * 100)}%"] == l
+          for uf, l in zip(["PR", "MG", "SC", "SP", "GO", "MS", "RS", "MT", "RJ", "PE"], _lin))
+check("bruto: CIBiogás 2023 — 10 estados: plantas até 2022, novas e crescimento na mesma linha do PDF",
+      _ok and len(_lin) == 10)
+check("CIBiogás: Goiás com 77 plantas em 2022, 111 em 2023 e 131 em 2025 (texto do painel)",
+      (_p[(2022, "GO")], _p[(2023, "GO")], _p[(2025, "GO")]) == (77, 111, 131))
+check("bruto: CIBiogás 2025 — ranking de plantas (PR 525 · MG 387 · SC 161 · SP 134 · GO 131) na notícia",
+      f"com {int(_p[(2025, 'PR')])} usinas, seguido de Minas Gerais, com {int(_p[(2025, 'MG')])}, Santa Catarina "
+      f"({int(_p[(2025, 'SC')])}), São Paulo ({int(_p[(2025, 'SP')])}) e Goiás ({int(_p[(2025, 'GO')])})" in cib25)
+_r25 = cu[(cu.ano == 2025) & cu.plantas_biogas.notna()]
+check("CIBiogás: Goiás é o 5º estado em plantas de biogás em 2025",
+      list(_r25.sort_values("plantas_biogas", ascending=False).uf).index("GO") == 4)
+check("bruto: CIBiogás 2023 — 1.365 plantas de biogás, 338 novas e 50 de biometano no PDF",
+      "1. 365" in cib23 and " 338 " in cib23 and cbd[(2023, "plantas_biogas")] == 1365
+      and cbd[(2023, "plantas_biometano")] == 50)
+check("bruto: CIBiogás 2024 — 1633 plantas de biogás e 79 de biometano na notícia",
+      f"totalizou {int(cbd[(2024, 'plantas_biogas')])} plantas" in cib24
+      and f"registrou {int(cbd[(2024, 'plantas_biometano')])} plantas de biometano" in cib24)
+check("bruto: CIBiogás 2025 — 1.803 plantas, 62% eletricidade e 34% biometano na notícia",
+      "totalizou 1.803 usinas" in cib25 and cbd[(2025, "plantas_biogas")] == 1803
+      and f"{int(cbd[(2025, 'pct_biogas_energia_eletrica')])}% do biogás é destinado para a geração de "
+          f"energia elétrica, enquanto {int(cbd[(2025, 'pct_biogas_biometano')])}% vão" in cib25)
+check("CIBiogás: biometano = 5% das plantas de biogás em 2024 (79/1633, texto do painel)",
+      round(cbd[(2024, "plantas_biometano")] / cbd[(2024, "plantas_biogas")] * 100) == 5)
+
 # --------------------------------------------------------------------------
 fails = [r for r in results if not r[1]]
 for nome, ok, detalhe in results:
