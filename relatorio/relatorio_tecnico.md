@@ -75,8 +75,8 @@ nessa leitura**, servindo como insumo recorrente para decisões comerciais e té
 
 ## 3. Descrição da interação realizada com a organização
 
-- O tema e o escopo foram alinhados com **[NOME DO SUPERVISOR DE ESTÁGIO]**,
-  **[cargo/setor]** na 4WaTT, que validou a necessidade de inteligência de mercado
+- O tema e o escopo foram alinhados com **Brunno Bachmann**,
+  **CTO** da 4WaTT, que validou a necessidade de inteligência de mercado
   suportada por dados públicos para as frentes comercial e de investidores;
 - As informações sobre os projetos da empresa (cases CEASA Goiás, Frigorífico Franca, UTB
   Franca e Organo Buritis) foram obtidas dos canais oficiais de comunicação da organização;
